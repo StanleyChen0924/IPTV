@@ -1,0 +1,3 @@
+tw: https://raw.githubusercontent.com/iptv-org/iptv/master/channels/tw.m3u
+
+My: https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/tw.m3u
