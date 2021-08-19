@@ -1,8 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SanLiXingWen.tw" tvg-name="三立都會台" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="General",三立都會台
-http://kb1.ottclub.info:443/water/c659.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",Celestial Movies (480p)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 ,tvg-name="東森電影" tvg-language="Chinese" group-title="Movies"
+http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 ,龍祥時代電影
+http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
+#EXTINF:-1 ,好萊圬電影
+http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 ,華納電影
+http://192.154.103.75:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1 tvg-id="CTITVAsia.tw" tvg-name="CTI TV Asia" tvg-country="TW" tvg-language="Chinese" tvg-logo="" group-title="",CTI TV Asia
