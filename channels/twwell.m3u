@@ -1,1 +1,120 @@
+#EXTM3U
+#EXTINF:-1 ,Arirang TV
+http://125.227.210.37:8933/VideoInput/play.ts
+#EXTINF:-1 ,BEIN SPORTS 2
+http://125.227.210.37:8886/VideoInput/play.ts
+#EXTINF:-1 ,Channel NewsAsia
+http://125.227.210.37:8936/VideoInput/play.ts
+#EXTINF:-1 ,CN卡通
+http://125.227.210.37:12466/VideoInput/play.ts
+#EXTINF:-1 ,Discovery Asia
+http://125.227.210.37:20617/VideoInput/play.ts
+#EXTINF:-1 ,DISNEY 迪士尼
+http://125.227.210.37:52807/VideoInput/play.ts
+#EXTINF:-1 ,DW德國之聲
+http://125.227.210.37:8934/VideoInput/play.ts
+#EXTINF:-1 ,FOX SPORTS 2 HD
+http://125.227.210.37:31000/VideoInput/play.ts
+#EXTINF:-1 ,FOX SPORTS3 HD
+http://125.227.210.37:62391/VideoInput/play.ts
+#EXTINF:-1 ,FX HD
+http://125.227.210.37:30834/VideoInput/play.ts
+#EXTINF:-1 ,HBO HD
+http://125.227.210.37:12801/VideoInput/play.ts
+#EXTINF:-1 ,KBS World
+http://125.227.210.37:8935/VideoInput/play.ts
+#EXTINF:-1 ,NHK BS Premium
+http://125.227.210.37:8940/VideoInput/play.ts
+#EXTINF:-1 ,NHK BS1
+http://125.227.210.37:8939/VideoInput/play.ts
+#EXTINF:-1 ,NHK-World
+http://125.227.210.37:8931/VideoInput/play.ts
+#EXTINF:-1 ,RTHK31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 ,RTHK32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 ,Star Movies HD
+http://125.227.210.37:61495/VideoInput/play.ts
+#EXTINF:-1 ,TLC 旅遊生活
+http://125.227.210.37:43868/VideoInput/play.ts
+#EXTINF:-1 ,TV5 Monde
+http://125.227.210.37:8937/VideoInput/play.ts
+#EXTINF:-1 ,TVBS新闻 FHD
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 ,TVBS新聞HD
+http://125.227.210.37:33551/VideoInput/play.ts
+#EXTINF:-1 ,YTN
+http://125.227.210.37:8932/VideoInput/play.ts
+#EXTINF:-1 ,东森财经新闻 FHD
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 ,东森新闻 FHD
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 ,東森電影HD
+http://125.227.210.37:27889/VideoInput/play.ts
+#EXTINF:-1 ,東森戲劇HD
+http://125.227.210.37:14863/VideoInput/play.ts
+#EXTINF:-1 ,東森新聞HD
+http://125.227.210.37:19592/VideoInput/play.ts
+#EXTINF:-1 ,東森洋片HD
+http://125.227.210.37:41320/VideoInput/play.ts
+#EXTINF:-1 ,非凡新聞HD
+http://125.227.210.37:61738/VideoInput/play.ts
+#EXTINF:-1 ,國家地理國際頻道
+http://125.227.210.37:15778/VideoInput/play.ts
+#EXTINF:-1 ,好萊塢電影
+http://125.227.210.37:47862/VideoInput/play.ts
+#EXTINF:-1 ,华视新闻 FHD
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 ,莲花卫视 FHD
+http://220.158.149.28:8180/TV00000000000000000069@HHZT;LIVE
+#EXTINF:-1 ,民视
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 ,民视第一
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 ,民视旅游
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 ,民视台湾
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 ,民视新闻 FHD
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 ,民视影剧
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 ,民视综艺
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 ,年代新聞HD
+http://125.227.210.37:20434/VideoInput/play.ts
+#EXTINF:-1 ,三立iNews FHD
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 ,三立Live FHD
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 ,三立臺灣HD
+http://125.227.210.37:47328/VideoInput/play.ts
+#EXTINF:-1 ,三立新聞HD
+http://125.227.210.37:48478/VideoInput/play.ts
+#EXTINF:-1 ,台视新闻 FHD
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 ,纬来精采
+https://usb.bozztv.com/ttvbHD/index.m3u8
+#EXTINF:-1 ,緯來日本HD
+http://125.227.210.37:54164/VideoInput/play.ts
+#EXTINF:-1 ,緯來體育HD
+http://125.227.210.37:46326/VideoInput/play.ts
+#EXTINF:-1 ,壹新闻 FHD
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 ,有线财经资讯
+https://ottproxy2.mott.tv/livehls/MOB-NGW/02.m3u8
+#EXTINF:-1 ,有线新闻
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+#EXTINF:-1 ,有线综合娱乐
+https://ottproxy2.mott.tv/livehls/MOB-CN/02.m3u8
+#EXTINF:-1 ,中视新闻 FHD
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 ,中天新闻 FHD
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 ,中天新聞HD
+http://125.227.210.37:64954/VideoInput/play.ts
+#EXTINF:-1 ,中天娛樂HD
+http://125.227.210.37:36251/VideoInput/play.ts
+#EXTINF:-1 ,中天綜合HD
+http://125.227.210.37:53142/VideoInput/play.ts
 
