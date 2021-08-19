@@ -6,10 +6,6 @@ Internet Protocol television (IPTV) is the delivery of television content over I
 
 ## Usage
 
-https://github.com/StanleyChen0924/IPTV
-
-Usage:
-
 https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/channels/tw.m3u
 
 https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/channels/twwell.m3u
