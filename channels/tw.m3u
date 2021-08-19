@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SanLiXingWen.tw" tvg-name="三立都會台" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="General",三立都會台
+http://kb1.ottclub.info:443/water/c659.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",Celestial Movies (480p)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel V
