@@ -6,7 +6,6 @@ Internet Protocol television (IPTV) is the delivery of television content over I
 
 ## Usage
 
-StanleyChen0924:
 https://github.com/StanleyChen0924/IPTV
 
 Usage:
