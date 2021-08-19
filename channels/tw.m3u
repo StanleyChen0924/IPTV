@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,三立台灣台[HD]
+http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.m3u8
+#EXTINF:-1 ,三立都會台[HD]
+http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.m3u8
 #EXTINF:-1 ,三立都會台_HD（CH29）
 http://www.yhlfs.xyz/iptvs/oofmTV.php?id=29
 #EXTINF:-1 ,公共電視（CH13）
