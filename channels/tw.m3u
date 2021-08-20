@@ -73,3 +73,8 @@ http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 rtmp://118.163.221.79/channel/60c2f6ca961593122ebaf8dc?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 #EXTINF:-1,FOX家庭電影
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+#EXTINF:-1,優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1,優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
