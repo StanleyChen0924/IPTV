@@ -1,4 +1,51 @@
 #EXTM3U
+
+#EXTINF:-1,台視
+rtmp://161.202.204.248/sat/tv071
+#EXTINF:-1,台視-1
+rtmp://161.202.204.248:1935/sat/tv071
+#EXTINF:-1,台視-2
+rtmp://59.124.75.153/sat/tv071
+
+#EXTINF:-1,中視
+rtmp://161.202.204.248/sat/tv091
+#EXTINF:-1,中視-1
+rtmp://161.202.204.248:1935/sat/tv091
+#EXTINF:-1,中視-2
+rtmp://59.124.75.153/sat/tv091
+
+#EXTINF:-1,華視
+rtmp://161.202.204.248:1935/sat/tv111
+#EXTINF:-1,華視-1
+rtmp://161.202.204.248/sat/tv112
+#EXTINF:-1,華視-2
+rtmp://59.124.75.153/sat/tv111
+
+#EXTINF:-1,緯來日本
+rtmp://161.202.204.248:1935/sat/tv521
+#EXTINF:-1,緯來日本-1
+rtmp://161.202.204.248/sat/tv522
+#EXTINF:-1,緯來日本-2
+rtmp://59.124.75.153:1935/sat/tv521
+
+#EXTINF:-1,緯來育樂
+rtmp://161.202.204.248/sat/tv701
+#EXTINF:-1,緯來育樂-1
+rtmp://161.202.204.248:1935/sat/tv701
+#EXTINF:-1,緯來育樂-2
+rtmp://59.124.75.153/sat/tv701
+#EXTINF:-1,緯來育樂-3
+rtmp://59.124.75.153:1935/sat/tv701
+
+#EXTINF:-1,緯來體育
+rtmp://161.202.204.248/sat/tv721
+#EXTINF:-1,緯來體育-1
+rtmp://161.202.204.248:1935/sat/tv721
+#EXTINF:-1,緯來體育-2
+rtmp://59.124.75.153/sat/tv721
+#EXTINF:-1,緯來體育-3
+rtmp://59.124.75.153:1935/sat/tv721
+
 #EXTINF:-1,三立台灣（CH29）
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1,三立都會（CH30）
@@ -7,6 +54,27 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&a
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 #EXTINF:-1,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1,ELEVEN1體育
+rtmp://161.202.204.248/sat/tv731
+#EXTINF:-1,ELEVEN2體育
+rtmp://161.202.204.248/sat/tv741
+#EXTINF:-1,ELTA綜合台
+http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+#EXTINF:-1,ELTA影劇台
+http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+
+
+#EXTINF:-1,TVBS歡樂台
+rtmp://161.202.204.248/sat/tv421
+rtmp://59.124.75.153/sat/tv421
+rtmp://59.124.75.153:1935/sat/tv421
+#EXTINF:-1,TVBS新聞台
+rtmp://161.202.204.248:1935/sat/tv551
+#EXTINF:-1,TVBS新聞台-1
+rtmp://59.124.75.153/sat/tv551
+#EXTINF:-1,TVBS新聞台-2
+rtmp://59.124.75.153:1935/sat/tv551
+
 #EXTINF:-1 tvg-id="DongLingXingWen.tw" tvg-name="東森新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="News",東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="SanLiXingWen.tw" tvg-name="三立新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="News",三立新聞
@@ -39,6 +107,53 @@ http://seb.sason.top/ptv/ftv.php?id=tw
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="MinShiDiYi.tw" tvg-name="民視第一" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="General",民視第一 (720p)
 http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1,民視影劇
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1,民視旅遊
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1,民視綜藝
+http://seb.sason.top/ptv/ftv.php?id=zy
+
+
+#EXTINF:-1,衛視中文
+rtmp://220.130.33.19/channel/60b4e50239e1b02e8b910cc4?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+
+#EXTINF:-1,MoMo綜合台
+rtmp://59.124.75.153/sat/tv761#rtmp://59.124.75.153:1935/sat/tv761
+#EXTINF:-1,MoMo綜合台-1
+rtmp://161.202.204.248/sat/tv761
+
+#EXTINF:-1,東森超視
+rtmp://59.124.75.153/sat/tv771#rtmp://59.124.75.153:1935/sat/tv771
+#EXTINF:-1,東森超視-1
+rtmp://161.202.204.248:1935/sat/tv771#rtmp://161.202.204.248/sat/tv771
+
+#EXTINF:-1,美食星球
+http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+#EXTINF:-1,龍華偶像
+rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d48?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+#EXTINF:-1,MTV Live
+http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+#EXTINF:-1,靖天資訊
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1,靖洋戲劇
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1,靖天天育樂
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1,靖天國際
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1,居家頻道
+http://61.58.60.230:9319/live/125.m3u8
+#EXTINF:-1,Z頻道
+rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+#EXTINF:-1,紅牛REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1,靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+
+
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道電影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",天映頻道電影 (480p)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="Movies",星衛電影
@@ -64,7 +179,9 @@ http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 #EXTINF:-1 group-title="Movies" ,FOX犯罪電影
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 #EXTINF:-1 group-title="Movies" ,FOX動作電影
-rtmp://118.163.221.79/channel/60c2f6ca961593122ebaf8dc?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+rtmp://118.163.221.79/channel/60c2f6ca961593122ebaf8dc?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+#EXTINF:-1 group-title="Movies" ,FOX動作電影-1
+http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 #EXTINF:-1 group-title="Movies" ,FOX家庭電影
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 
