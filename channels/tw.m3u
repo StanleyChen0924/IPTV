@@ -43,7 +43,7 @@ http://seb.sason.top/ptv/ftv.php?id=tw
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="MinShiDiYi.tw" tvg-name="民視第一" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="General",民視第一 (720p)
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道電影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",Celestial Movies (480p)
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道電影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",天映頻道電影 (480p)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="Movies",星衛電影
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d36?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
