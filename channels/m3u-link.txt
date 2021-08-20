@@ -1,6 +1,8 @@
 tw: https://raw.githubusercontent.com/iptv-org/iptv/master/channels/tw.m3u
 
-https://iptv-org.github.io/iptv/index.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3u
 
-My: https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/channels/tw.m3u
+## My: 
+
+https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/channels/tw.m3u
 
