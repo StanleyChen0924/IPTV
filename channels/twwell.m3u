@@ -131,46 +131,7 @@ http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 http://61.58.60.230:9319/live/206.m3u8
 #EXTINF:-1,靖天卡通
 http://61.58.60.230:9319/live/207.m3u8
-#EXTINF:-1,彩虹e台
-mitv://ns2.hellotvvod.com:9906/e953ee1fe74c4995acd52ba72c02b0a1.ts
-#EXTINF:-1,彩虹電影台
-mitv://ns2.hellotvvod.com:9906/856e64d88baf467297993d2cc4ca1be9.ts
-#EXTINF:-1,LOOK TV
-mitv://ns2.hellotvvod.com:9906/778ec35a672f4c898c3ac116d6681b54.ts
-#EXTINF:-1,潘朵啦玩美台
-mitv://ns2.hellotvvod.com:9906/35d7b8f086c74266892d24a59100bc6e.ts
-#EXTINF:-1,驚艷成人電影台
-mitv://ns2.hellotvvod.com:9906/077e6baec1774b88a259f68816b22981.ts
-#EXTINF:-1,松視1台
-mitv://ns2.hellotvvod.com:9906/ba975abd88b441c6b915a94479500e2d.ts
-#EXTINF:-1,松視2台
-mitv://ns2.hellotvvod.com:9906/506a6b29b91045f1950034e6e6a6c70f.ts
-#EXTINF:-1,潘朵啦粉紅台
-mitv://ns2.hellotvvod.com:9906/9e40670a97404564aea1e6e57ef7794b.ts
-#EXTINF:-1,PLAYBOY
-mitv://ns2.hellotvvod.com:9906/e06909c2b1d6474db95240afbfd5c5e7.ts
-#EXTINF:-1,香蕉台
-mitv://ns2.hellotvvod.com:9906/9cb194c4bb4f4e2ea7d0e2ade5b50939.ts
-#EXTINF:-1,HOT
-mitv://ns2.hellotvvod.com:9906/9ae26414b8384065b0245dccb10fca68.ts
-#EXTINF:-1,HOTH
-p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
-#EXTINF:-1,潘多拉完美
-p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
-#EXTINF:-1,極限電影
-p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
-#EXTINF:-1,驚艷台
-p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
-#EXTINF:-1,香蕉台
-p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
-#EXTINF:-1,松視2台
-p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-#EXTINF:-1,松視1台
-p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
-#EXTINF:-1,彩虹E台
-p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
-#EXTINF:-1,彩虹電影
-p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+#EXTINF:-1,18xxxxx
 #EXTINF:-1,RUsskayanoch
 http://93.189.224.117:9030/russkayanoch
 #EXTINF:-1,hustler hd
@@ -403,9 +364,3 @@ http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
 #EXTINF:-1,Web stream
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1,TVBS新聞1
-tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB
-#EXTINF:-1,愛爾達體育1台1
-tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
-#EXTINF:-1,星衛電影台1
-tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
