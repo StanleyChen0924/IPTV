@@ -99,6 +99,12 @@ http://61.58.60.230:9319/live/203.m3u8
 http://61.58.60.230:9319/live/204.m3u8
 #EXTINF:-1,靖天國際
 http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1,靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1,靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1,靖天歡樂
+http://61.58.60.230:9319/live/208.m3u8
 #EXTINF:-1,居家頻道
 http://61.58.60.230:9319/live/125.m3u8
 #EXTINF:-1,大愛台
@@ -127,10 +133,6 @@ http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1,Disney Junior
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1,靖洋卡通
-http://61.58.60.230:9319/live/206.m3u8
-#EXTINF:-1,靖天卡通
-http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1,18xxxxx
 #EXTINF:-1,RUsskayanoch
 http://93.189.224.117:9030/russkayanoch
