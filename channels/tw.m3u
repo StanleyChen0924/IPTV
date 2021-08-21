@@ -1,16 +1,45 @@
 #EXTM3U
 #EXTINF:-1,台視
 rtmp://161.202.204.248/sat/tv071
+#EXTINF:-1,台視-1
+rtmp://161.202.204.248:1935/sat/tv071
+#EXTINF:-1,台視-2
+rtmp://59.124.75.153/sat/tv071
 #EXTINF:-1,中視
 rtmp://161.202.204.248/sat/tv091
+#EXTINF:-1,中視-1
+rtmp://161.202.204.248:1935/sat/tv091
+#EXTINF:-1,中視-2
+rtmp://59.124.75.153/sat/tv091
 #EXTINF:-1,華視
 rtmp://161.202.204.248:1935/sat/tv111
+#EXTINF:-1,華視-1
+rtmp://161.202.204.248/sat/tv112
+#EXTINF:-1,華視-2
+rtmp://59.124.75.153/sat/tv111
 #EXTINF:-1,緯來日本
 rtmp://161.202.204.248:1935/sat/tv521
+rtmp://161.202.204.248:1935/sat/tv522
+#EXTINF:-1,緯來日本-1
+rtmp://161.202.204.248/sat/tv522
+#EXTINF:-1,緯來日本-2
+rtmp://59.124.75.153:1935/sat/tv521
 #EXTINF:-1,緯來育樂
 rtmp://161.202.204.248/sat/tv701
+#EXTINF:-1,緯來育樂-1
+rtmp://161.202.204.248:1935/sat/tv701
+#EXTINF:-1,緯來育樂-2
+rtmp://59.124.75.153/sat/tv701
+#EXTINF:-1,緯來育樂-3
+rtmp://59.124.75.153:1935/sat/tv701
 #EXTINF:-1,緯來體育
 rtmp://161.202.204.248/sat/tv721
+#EXTINF:-1,緯來體育-1
+rtmp://161.202.204.248:1935/sat/tv721
+#EXTINF:-1,緯來體育-2
+rtmp://59.124.75.153/sat/tv721
+#EXTINF:-1,緯來體育-3
+rtmp://59.124.75.153:1935/sat/tv721
 #EXTINF:-1,三立台灣
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1,三立都會
@@ -28,8 +57,16 @@ http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 #EXTINF:-1,ELTA影劇台
 http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 #EXTINF:-1,TVBS歡樂台
+rtmp://161.202.204.248/sat/tv421
+#EXTINF:-1,TVBS歡樂台-1
+rtmp://59.124.75.153/sat/tv421
+#EXTINF:-1,TVBS歡樂台-2
 rtmp://59.124.75.153:1935/sat/tv421
-#EXTINF:-1group-title="News",TVBS新聞台
+#EXTINF:-1,TVBS新聞台
+rtmp://161.202.204.248:1935/sat/tv551
+#EXTINF:-1,TVBS新聞台-1
+rtmp://59.124.75.153/sat/tv551
+#EXTINF:-1,TVBS新聞台-2
 rtmp://59.124.75.153:1935/sat/tv551
 #EXTINF:-1 tvg-id="DongLingXingWen.tw" tvg-name="東森新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="News",東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
@@ -70,9 +107,13 @@ http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1,民視綜藝
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1,MoMo綜合台
-rtmp://59.124.75.153/sat/tv761
+rtmp://59.124.75.153/sat/tv761#rtmp://59.124.75.153:1935/sat/tv761
+#EXTINF:-1,MoMo綜合台-1
+rtmp://161.202.204.248/sat/tv761
 #EXTINF:-1,東森超視
-rtmp://59.124.75.153/sat/tv771
+rtmp://59.124.75.153/sat/tv771#rtmp://59.124.75.153:1935/sat/tv771
+#EXTINF:-1,東森超視-1
+rtmp://161.202.204.248:1935/sat/tv771#rtmp://161.202.204.248/sat/tv771
 #EXTINF:-1,美食星球
 http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 #EXTINF:-1,龍華偶像
@@ -105,6 +146,8 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d36?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 group-title="Movies",東森電影
 rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d8a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+#EXTINF:-1 group-title="Movies",東森電影-1
+rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c8a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 group-title="Movies",緯來電影
 rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 group-title="Movies" ,衛視電影
