@@ -21,8 +21,6 @@ rtmp://59.124.75.153/sat/tv111
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 #EXTINF:-1,台視綜合
 rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c4a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1,台視財經
-rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c48?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1,緯來日本
 rtmp://161.202.204.248:1935/sat/tv521
 #EXTINF:-1,緯來日本-1
