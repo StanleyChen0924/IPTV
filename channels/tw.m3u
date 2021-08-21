@@ -53,6 +53,8 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1,ELTA愛爾達綜合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+#EXTINF:-1,ELTA愛爾影劇台
+http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 #EXTINF:-1,ELTA愛爾體育合3台
 rtmp://59.124.75.153:1935/sat/md051
 #EXTINF:-1,ELEVEN1體育
@@ -77,27 +79,33 @@ rtmp://59.124.75.153/sat/tv421
 rtmp://59.124.75.153:1935/sat/tv421
 #EXTINF:-1,中天娛樂台
 http://125.227.210.55:15796/VideoInput/play.ts
-#EXTINF:-1,TVBS新聞台
+#EXTINF:-1 group-title="News",TVBS新聞台
 rtmp://161.202.204.248:1935/sat/tv551
-#EXTINF:-1,TVBS新聞台-1
+#EXTINF:-1 group-title="News",TVBS新聞台-1
 rtmp://59.124.75.153/sat/tv551
-#EXTINF:-1,TVBS新聞台-2
+#EXTINF:-1 group-title="News",TVBS新聞台-2
 rtmp://59.124.75.153:1935/sat/tv551
 #EXTINF:-1 tvg-id="DongLingXingWen.tw" tvg-name="東森新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="News",東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1,東森財經新聞
+#EXTINF:-1 group-title="News",東森財經新聞
 rtmp://161.202.204.248:1935/sat/tv571
-#EXTINF:-1,東森財經新聞-1
+#EXTINF:-1 group-title="News",東森財經新聞-1
 rtmp://59.124.75.153:1935/sat/tv571
+#EXTINF:-1 tvg-id="ERATV.tw" tvg-name="年代新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" group-title="News",年代新聞
+http://125.227.210.55:11055/VideoInput/play.ts
+#EXTINF:-1 group-title="News",非凡新聞
+http://125.227.210.55:15078/VideoInput/play.ts
 #EXTINF:-1 tvg-id="SanLiXingWen.tw" tvg-name="三立新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="News",三立新聞
 http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="SanLiXingWen.tw" tvg-name="三立inews新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png" group-title="News",三立inews新聞
+http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="ZhongTianXingWen.tw" tvg-name="中天新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="News",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="YiDianShiXinWenTai.tw" tvg-name="壹電視新聞台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://store-images.s-microsoft.com/image/apps.14454.9007199266706361.be7aa2de-7429-4e34-b9a4-eca9a55157c1.3eb6a511-ff23-46aa-bf3a-b8b7e7e5c808?mode=scale&q=90&h=270&w=270&background=%23FFFFFF" group-title="News",壹電視新聞台
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1,壹新聞台
+#EXTINF:-1 group-title="News",壹新聞台
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1,壹新聞台-1
+#EXTINF:-1 group-title="News",壹新聞台-1
 http://stream.nexttv.com.tw/n001/playlist.m3u8
 #EXTINF:-1 tvg-id="TaiShiXingWen.tw" tvg-name="台視新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="News",台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
@@ -145,10 +153,15 @@ rtmp://59.124.75.153:1935/sat/tv771
 rtmp://161.202.204.248:1935/sat/tv771
 #EXTINF:-1,東森超視-3
 rtmp://161.202.204.248/sat/tv771
+#EXTINF:-1,東森戲劇
+http://125.227.210.55:17524/VideoInput/play.ts
+#EXTINF:-1,東森幼幼
+http://60.251.59.179:8506/xoxo.m3u8
 #EXTINF:-1,美食星球
 http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 #EXTINF:-1,龍華偶像
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d48?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+
 #EXTINF:-1,MTV Live
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 #EXTINF:-1,靖天資訊
@@ -179,6 +192,8 @@ rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d36?sign=mcnHvuVPiT02cz%2F3BKS
 rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d8a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 group-title="Movies",東森電影-1
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c8a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+#EXTINF:-1 group-title="Movies",東森洋片
+http://125.227.210.55:18685/VideoInput/play.ts
 #EXTINF:-1 group-title="Movies",緯來電影
 rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 group-title="Movies" ,衛視電影
