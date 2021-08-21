@@ -17,6 +17,12 @@ rtmp://161.202.204.248:1935/sat/tv111
 rtmp://161.202.204.248/sat/tv112
 #EXTINF:-1,華視-2
 rtmp://59.124.75.153/sat/tv111
+#EXTINF:-1,公視
+https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+#EXTINF:-1,台視綜合
+rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c4a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+#EXTINF:-1,台視財經
+rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c48?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1,緯來日本
 rtmp://161.202.204.248:1935/sat/tv521
 #EXTINF:-1,緯來日本-1
@@ -45,16 +51,20 @@ rtmp://59.124.75.153:1935/sat/tv721
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1,三立都會
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,ELTA綜合台
+#EXTINF:-1,ELTA愛爾達綜合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-#EXTINF:-1,優視頻道
-http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1,ELTA愛爾體育合3台
+rtmp://59.124.75.153:1935/sat/tv051
 #EXTINF:-1,ELEVEN1體育
 rtmp://161.202.204.248/sat/tv731
 #EXTINF:-1,ELEVEN2體育
 rtmp://161.202.204.248/sat/tv741
 #EXTINF:-1,ELEVEN+
 rtmp://161.202.204.248/sat/md011
+#EXTINF:-1,人間衛視
+rtmp://161.202.204.248/sat/md041
+#EXTINF:-1,優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1,ELTA綜合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 #EXTINF:-1,ELTA影劇台
@@ -65,6 +75,8 @@ rtmp://161.202.204.248/sat/tv421
 rtmp://59.124.75.153/sat/tv421
 #EXTINF:-1,TVBS歡樂台-2
 rtmp://59.124.75.153:1935/sat/tv421
+#EXTINF:-1,中天娛樂台
+http://125.227.210.55:15796/VideoInput/play.ts
 #EXTINF:-1,TVBS新聞台
 rtmp://161.202.204.248:1935/sat/tv551
 #EXTINF:-1,TVBS新聞台-1
@@ -105,6 +117,8 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="MinShi.tw" tvg-name="民視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="General",民視 (720p)
 http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1,民視-1
+rtmp://59.124.75.153:1935/sat/tv051
 #EXTINF:-1 tvg-id="MinShiTaiWan.tw" tvg-name="民視台灣" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="News",民視台灣 (720p)
 http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="MinShiXinWenTai.tw" tvg-name="民視新聞台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News",民視新聞台
@@ -118,13 +132,19 @@ http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1,民視綜藝
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1,MoMo綜合台
-rtmp://59.124.75.153/sat/tv761#rtmp://59.124.75.153:1935/sat/tv761
+rtmp://59.124.75.153/sat/tv761
 #EXTINF:-1,MoMo綜合台-1
+rtmp://59.124.75.153:1935/sat/tv761
+#EXTINF:-1,MoMo綜合台-2
 rtmp://161.202.204.248/sat/tv761
 #EXTINF:-1,東森超視
-rtmp://59.124.75.153/sat/tv771#rtmp://59.124.75.153:1935/sat/tv771
+rtmp://59.124.75.153/sat/tv771
 #EXTINF:-1,東森超視-1
-rtmp://161.202.204.248:1935/sat/tv771#rtmp://161.202.204.248/sat/tv771
+rtmp://59.124.75.153:1935/sat/tv771
+#EXTINF:-1,東森超視-2
+rtmp://161.202.204.248:1935/sat/tv771
+#EXTINF:-1,東森超視-3
+rtmp://161.202.204.248/sat/tv771
 #EXTINF:-1,美食星球
 http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 #EXTINF:-1,龍華偶像
@@ -145,6 +165,8 @@ http://61.58.60.230:9319/live/206.m3u8
 http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1,居家頻道
 http://61.58.60.230:9319/live/125.m3u8
+#EXTINF:-1,韓國阿里郎
+http://61.58.60.230:9319/live/130.m3u8
 #EXTINF:-1,Z頻道
 rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1,紅牛REDBULL TV
@@ -181,3 +203,17 @@ rtmp://118.163.221.79/channel/60c2f6ca961593122ebaf8dc?sign=mcnHvuVPiT02cz%2F3BK
 http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 #EXTINF:-1 group-title="Movies" ,FOX家庭電影
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1,Nick Jr
+http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+#EXTINF:-1,Baby TV Eng
+http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+#EXTINF:-1,Kids TV
+http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+#EXTINF:-1,CBeebies
+http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+#EXTINF:-1,Disney Channel
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1,Disney Junior
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
