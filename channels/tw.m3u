@@ -85,8 +85,6 @@ rtmp://161.202.204.248:1935/sat/tv551
 rtmp://59.124.75.153/sat/tv551
 #EXTINF:-1 group-title="News",TVBS新聞台-2
 rtmp://59.124.75.153:1935/sat/tv551
-#EXTINF:-1 group-title="News",中天新聞台
-http://125.227.210.37:13498/VideoInput/play.ts
 #EXTINF:-1 tvg-id="DongLingXingWen.tw" tvg-name="東森新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="News",東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 group-title="News",東森財經新聞
