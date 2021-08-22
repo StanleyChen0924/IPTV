@@ -61,6 +61,8 @@ rtmp://59.124.75.153:1935/sat/md051
 rtmp://161.202.204.248/sat/tv731
 #EXTINF:-1,ELEVEN2體育
 rtmp://161.202.204.248/sat/tv741
+#EXTINF:-1,ELEVEN+
+rtmp://59.124.75.153:1935/sat/md031
 #EXTINF:-1,人間衛視
 rtmp://161.202.204.248/sat/md041
 #EXTINF:-1,優視頻道
