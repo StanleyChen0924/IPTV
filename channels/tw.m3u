@@ -53,14 +53,14 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&a
 http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 #EXTINF:-1,ELTA愛爾達綜合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+#EXTINF:-1,ELTA愛爾體育合1台
+rtmp://59.124.75.153:1935/sat/md011
 #EXTINF:-1,ELTA愛爾體育合3台
 rtmp://59.124.75.153:1935/sat/md051
 #EXTINF:-1,ELEVEN1體育
 rtmp://161.202.204.248/sat/tv731
 #EXTINF:-1,ELEVEN2體育
 rtmp://161.202.204.248/sat/tv741
-#EXTINF:-1,ELEVEN+
-rtmp://161.202.204.248/sat/md011
 #EXTINF:-1,人間衛視
 rtmp://161.202.204.248/sat/md041
 #EXTINF:-1,優視頻道
@@ -201,6 +201,8 @@ http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 http://125.227.210.55:16027/VideoInput/play.ts
 #EXTINF:-1 group-title="Movies" ,HBO原創電影
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+#EXTINF:-1 group-title="Movies" ,HBO原創電影-1
+rtmp://161.202.204.248/sat/md031
 #EXTINF:-1 group-title="Movies" ,HBO family
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
 #EXTINF:-1 group-title="Movies" ,AXN
