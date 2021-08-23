@@ -1,9 +1,9 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="./scripts/png/台視.png",台視
+#EXTINF:-1 tvg-logo="/scripts/png/TTVHD.png",台視HD
 rtmp://161.202.204.248/sat/tv071
-#EXTINF:-1 tvg-logo="./scripts/png/台視.png",台視-1
+#EXTINF:-1 tvg-logo="/scripts/png/TTVHD.png",台視HD-1
 rtmp://161.202.204.248:1935/sat/tv071
-#EXTINF:-1 tvg-logo="./scripts/png/台視.png",台視-2
+#EXTINF:-1 tvg-logo="/scripts/png/TTVHD.png",台視HD-2
 rtmp://59.124.75.153/sat/tv071
 #EXTINF:-1 tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",中視
 rtmp://161.202.204.248/sat/tv091
