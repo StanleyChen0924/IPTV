@@ -5,11 +5,11 @@ rtmp://161.202.204.248/sat/tv071
 rtmp://161.202.204.248:1935/sat/tv071
 #EXTINF:-1,台視-2
 rtmp://59.124.75.153/sat/tv071
-#EXTINF:-1,中視
+#EXTINF:-1 tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",中視
 rtmp://161.202.204.248/sat/tv091
-#EXTINF:-1,中視-1
+#EXTINF:-1 tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",中視-1
 rtmp://161.202.204.248:1935/sat/tv091
-#EXTINF:-1,中視-2
+#EXTINF:-1 tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",中視-2
 rtmp://59.124.75.153/sat/tv091
 #EXTINF:-1,華視
 rtmp://161.202.204.248:1935/sat/tv111
