@@ -143,27 +143,27 @@ https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1 tvg-logo="http://liveq.tv/liveq.tv/img/tw-%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87%E5%8F%B0.jpg"tvg-language="Chinese" group-title="影劇",民視影劇
 http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1,民視旅遊
+#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv07_mobile.png",民視旅遊
 http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1,民視綜藝
+#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png",民視綜藝
 http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1,MoMo綜合台
+#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台
 rtmp://59.124.75.153/sat/tv761
-#EXTINF:-1,MoMo綜合台-1
+#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台-1
 rtmp://59.124.75.153:1935/sat/tv761
-#EXTINF:-1,MoMo綜合台-2
+#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台-2
 rtmp://161.202.204.248/sat/tv761
-#EXTINF:-1,MoMo綜合台-3
+#EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台-3
 https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv107/4gtv-live-mid/index.m3u8?token=28a2lhr_130ptgiIOvu_JA&expires=1629752761&token1=Leh5nK4piM4futxgmh17uQ&expires1=1629752761
-#EXTINF:-1,東森超視
+#EXTINF:-1 tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png",東森超視
 rtmp://59.124.75.153/sat/tv771
-#EXTINF:-1,東森超視-1
+#EXTINF:-1 tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png",東森超視,東森超視-1
 rtmp://59.124.75.153:1935/sat/tv771
-#EXTINF:-1,東森超視-2
+#EXTINF:-1 tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png",東森超視-2
 rtmp://161.202.204.248:1935/sat/tv771
-#EXTINF:-1,東森超視-3
+#EXTINF:-1 tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png",東森超視-3
 rtmp://161.202.204.248/sat/tv771
-#EXTINF:-1 tvg-language="Chinese" group-title="影劇",東森戲劇
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-drama-live.jpg" tvg-language="Chinese" group-title="影劇",東森戲劇
 http://125.227.210.55:17524/VideoInput/play.ts
 #EXTINF:-1,東森幼幼
 http://60.251.59.179:8506/xoxo.m3u8
