@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1  tvg-logo="./scripts/png/台視.png",台視
 rtmp://161.202.204.248/sat/tv071
 #EXTINF:-1 tvg-logo="./scripts/png/台視.png",台視-1
