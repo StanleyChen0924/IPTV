@@ -37,15 +37,15 @@ rtmp://161.202.204.248:1935/sat/tv701
 rtmp://59.124.75.153/sat/tv701
 #EXTINF:-1,緯來育樂-3
 rtmp://59.124.75.153:1935/sat/tv701
-#EXTINF:-1,緯來體育
+#EXTINF:-1 group-title="體育,緯來體育
 rtmp://161.202.204.248/sat/tv721
-#EXTINF:-1,緯來體育-1
+#EXTINF:-1 group-title="體育,緯來體育-1
 rtmp://161.202.204.248:1935/sat/tv721
-#EXTINF:-1,緯來體育-2
+#EXTINF:-1 group-title="體育,緯來體育-2
 rtmp://59.124.75.153/sat/tv721
-#EXTINF:-1,緯來體育-3
+#EXTINF:-1 group-title="體育,緯來體育-3
 rtmp://59.124.75.153:1935/sat/tv721
-#EXTINF:-1,緯來體育-4
+#EXTINF:-1 group-title="體育,緯來體育-4
 http://125.227.210.37:18358/VideoInput/play.ts
 #EXTINF:-1,三立台灣
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
@@ -57,17 +57,17 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&a
 http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 #EXTINF:-1,ELTA愛爾達綜合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-#EXTINF:-1,ELTA愛爾體育合1台
+#EXTINF:-1 group-title="體育,ELTA愛爾體育合1台
 rtmp://59.124.75.153:1935/sat/md011
-#EXTINF:-1,ELTA愛爾體育合3台
+#EXTINF:-1 group-title="體育,ELTA愛爾體育合3台
 rtmp://59.124.75.153:1935/sat/md051
-#EXTINF:-1,ELEVEN1體育
+#EXTINF:-1 group-title="體育,ELEVEN1體育
 rtmp://161.202.204.248/sat/tv731
-#EXTINF:-1,ELEVEN2體育
+#EXTINF:-1 group-title="體育,ELEVEN2體育
 rtmp://161.202.204.248/sat/tv741
-#EXTINF:-1,ELEVEN+
+#EXTINF:-1 group-title="體育,ELEVEN+
 rtmp://59.124.75.153:1935/sat/md031
-#EXTINF:-1 group-title="體育,#genre#",魅力足球
+#EXTINF:-1 group-title="體育,魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1,人間衛視
 rtmp://161.202.204.248/sat/md041
