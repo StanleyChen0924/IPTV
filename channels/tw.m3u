@@ -37,7 +37,7 @@ rtmp://161.202.204.248:1935/sat/tv701
 rtmp://59.124.75.153/sat/tv701
 #EXTINF:-1,緯來育樂-3
 rtmp://59.124.75.153:1935/sat/tv701
-#EXTINF:-1 group-title="Sport",緯來體育
+#EXTINF:-1  tvg-language="Chinese"  group-title="體育",緯來體育
 rtmp://161.202.204.248/sat/tv721
 #EXTINF:-1 group-title="Sport",緯來體育-1
 rtmp://161.202.204.248:1935/sat/tv721
