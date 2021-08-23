@@ -233,7 +233,7 @@ rtmp://118.163.221.79/channel/60c2f6ca961593122ebaf8dc?sign=mcnHvuVPiT02cz%2F3BK
 http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 #EXTINF:-1 group-title="Movies" ,FOX家庭電影
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://banner2.cleanpng.com/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg",FX HD 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://banner2.cleanpng.com/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" ,FX HD 
 http://125.227.210.37:13498/VideoInput/play.ts
 #EXTINF:-1,CN卡通
 http://125.227.210.37:16671/VideoInput/play.ts
