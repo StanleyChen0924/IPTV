@@ -11,41 +11,41 @@ rtmp://161.202.204.248/sat/tv091
 rtmp://161.202.204.248:1935/sat/tv091
 #EXTINF:-1 tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",中視-2
 rtmp://59.124.75.153/sat/tv091
-#EXTINF:-1,華視
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華視
 rtmp://161.202.204.248:1935/sat/tv111
-#EXTINF:-1,華視-1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華視-1
 rtmp://161.202.204.248/sat/tv112
-#EXTINF:-1,華視-2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華視-2
 rtmp://59.124.75.153/sat/tv111
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/pts-hd-live.jpg",公視
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
-#EXTINF:-1,台視綜合
+#EXTINF:-1 tvg-logo="https://img.meituan.net/csc/8d97d0aa63b7f2da51213e534907e37d27685.jpg",台視綜合
 rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c4a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1,緯來日本
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg",緯來日本
 rtmp://161.202.204.248:1935/sat/tv521
-#EXTINF:-1,緯來日本-1
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg",緯來日本-1
 rtmp://161.202.204.248:1935/sat/tv522
-#EXTINF:-1,緯來日本-2
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg",緯來日本-2
 rtmp://161.202.204.248/sat/tv522
-#EXTINF:-1,緯來日本-3
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg",緯來日本-3
 rtmp://59.124.75.153:1935/sat/tv521
-#EXTINF:-1,緯來育樂
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/VL-Sports-Logo.jpg",緯來育樂
 rtmp://161.202.204.248/sat/tv701
-#EXTINF:-1,緯來育樂-1
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/VL-Sports-Logo.jpg",緯來育樂-1
 rtmp://161.202.204.248:1935/sat/tv701
-#EXTINF:-1,緯來育樂-2
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/VL-Sports-Logo.jpg",緯來育樂-2
 rtmp://59.124.75.153/sat/tv701
-#EXTINF:-1,緯來育樂-3
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/VL-Sports-Logo.jpg",緯來育樂-3
 rtmp://59.124.75.153:1935/sat/tv701
-#EXTINF:-1 tvg-language="Chinese" group-title="體育",緯來體育
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" tvg-language="Chinese" group-title="體育",緯來體育
 rtmp://161.202.204.248/sat/tv721
-#EXTINF:-1 tvg-language="Chinese" group-title="體育",緯來體育-1
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg"  tvg-language="Chinese" group-title="體育",緯來體育-1
 rtmp://161.202.204.248:1935/sat/tv721
-#EXTINF:-1 tvg-language="Chinese" group-title="體育",緯來體育-2
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg"  tvg-language="Chinese" group-title="體育",緯來體育-2
 rtmp://59.124.75.153/sat/tv721
-#EXTINF:-1 tvg-language="Chinese" group-title="體育",緯來體育-3
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg"  tvg-language="Chinese" group-title="體育",緯來體育-3
 rtmp://59.124.75.153:1935/sat/tv721
-#EXTINF:-1 tvg-language="Chinese" group-title="體育",緯來體育-4
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg"  tvg-language="Chinese" group-title="體育",緯來體育-4
 http://125.227.210.37:18358/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/settaiwan.jpg",三立台灣
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
@@ -53,13 +53,13 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&
 http://125.227.210.55:15714/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/SETTV_Metro_Chinnel.png",三立都會
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-language="Chinese" group-title="影劇",ELTA愛爾達影劇台
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png" tvg-language="Chinese" group-title="影劇",ELTA愛爾達影劇台
 http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
-#EXTINF:-1,ELTA愛爾達綜合台
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達綜合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-#EXTINF:-1 tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
 rtmp://59.124.75.153:1935/sat/md011
-#EXTINF:-1 tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台
 rtmp://59.124.75.153:1935/sat/md051
 #EXTINF:-1 tvg-language="Chinese" group-title="體育",ELEVEN1體育
 rtmp://161.202.204.248/sat/tv731
@@ -69,7 +69,7 @@ rtmp://161.202.204.248/sat/tv741
 rtmp://59.124.75.153:1935/sat/md031
 #EXTINF:-1 tvg-language="Chinese" group-title="體育",魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1,人間衛視
+#EXTINF:-1  tvg-logo=""https://img.isuper.tv/live-tv/channel/bltv-live.jpg",人間衛視
 rtmp://161.202.204.248/sat/md041
 #EXTINF:-1,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
