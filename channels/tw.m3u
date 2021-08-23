@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png",台視HD
-rtmp://161.202.204.248/sat/tv071$台視#https://www.tbc.net.tw/Epg/Channel?channelId=007$iptv
+rtmp://161.202.204.248/sat/tv071$台視#rtsp://www.tbc.net.tw/Epg/Channel?channelId=007$iptv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png",台視HD-1
 rtmp://161.202.204.248:1935/sat/tv071
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png",台視HD-2
