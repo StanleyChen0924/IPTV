@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/scripts/png/TTVHD.png",台視HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台視HD
 rtmp://161.202.204.248/sat/tv071
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/scripts/png/TTVHD.png",台視HD-1
 rtmp://161.202.204.248:1935/sat/tv071
