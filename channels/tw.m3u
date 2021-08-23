@@ -165,8 +165,6 @@ http://125.227.210.55:17524/VideoInput/play.ts
 http://60.251.59.179:8506/xoxo.m3u8
 #EXTINF:-1,美食星球
 http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
-#EXTINF:-1,龍華偶像
-rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d48?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1,MTV Live
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 #EXTINF:-1,靖天資訊
