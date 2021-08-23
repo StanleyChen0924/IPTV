@@ -153,8 +153,6 @@ rtmp://59.124.75.153/sat/tv761
 rtmp://59.124.75.153:1935/sat/tv761
 #EXTINF:-1,MoMo綜合台-2
 rtmp://161.202.204.248/sat/tv761
-#EXTINF:-1,MOMO親子
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv107/4gtv-live-mid/4gtv-4gtv107-avc1_2000000=1-mp4a_124000_zho=6.m3u8?token=sBcrSXwxgm77L6OWNRNh0w&expires=1629751391&token1=NGG2FPZ5qUhw6h_HhoCAPg&expires1=1629751391
 #EXTINF:-1,東森超視
 rtmp://59.124.75.153/sat/tv771
 #EXTINF:-1,東森超視-1
@@ -208,8 +206,6 @@ rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKS
 #EXTINF:-1 tvg-language="Chinese" group-title="電影" ,衛視電影
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c88?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 tvg-language="Chinese" group-title="電影" ,龍華電影
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn03/4gtv-live-mid/litv-longturn03-audio_20000=64000-video=2936000.m3u8?token=-zYlN_O0_NOJ3rQ6aID_Qg&expires=1629751877&token1=fCZ2OegMf1udHfZKsg1nGw&expires1=1629751877
-#EXTINF:-1 tvg-language="Chinese" group-title="電影" ,龍華電影-1
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d4c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 tvg-language="Chinese" group-title="電影" ,龍祥時代電影
 rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
