@@ -17,7 +17,7 @@ rtmp://161.202.204.248:1935/sat/tv111
 rtmp://161.202.204.248/sat/tv112
 #EXTINF:-1,華視-2
 rtmp://59.124.75.153/sat/tv111
-#EXTINF:-1,公視
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/pts-hd-live.jpg",公視
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 #EXTINF:-1,台視綜合
 rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c4a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
@@ -131,17 +131,17 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 ,彭博財經台  
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視 (720p)
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視-1
 rtmp://59.124.75.153:1935/sat/tv051
-#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" tvg-language="Chinese" group-title="一般",民視台灣 (720p)
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" tvg-language="Chinese" group-title="一般",民視台灣
 http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jbjVNy.png" tvg-language="Chinese" group-title="新聞",民視新聞台
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" tvg-language="Chinese" group-title="一般",民視第一 (720p)
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" tvg-language="Chinese" group-title="一般",民視第一
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-language="Chinese" group-title="影劇",民視影劇
+#EXTINF:-1 tvg-logo="http://liveq.tv/liveq.tv/img/tw-%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87%E5%8F%B0.jpg"tvg-language="Chinese" group-title="影劇",民視影劇
 http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1,民視旅遊
 http://seb.sason.top/ptv/ftv.php?id=ly
