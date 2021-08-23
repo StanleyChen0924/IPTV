@@ -69,7 +69,7 @@ rtmp://161.202.204.248/sat/tv741
 rtmp://59.124.75.153:1935/sat/md031
 #EXTINF:-1 tvg-language="Chinese" group-title="體育",魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1  tvg-logo=""https://img.isuper.tv/live-tv/channel/bltv-live.jpg",人間衛視
+#EXTINF:-1  tvg-logo="https://img.isuper.tv/live-tv/channel/bltv-live.jpg",人間衛視
 rtmp://161.202.204.248/sat/md041
 #EXTINF:-1,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
