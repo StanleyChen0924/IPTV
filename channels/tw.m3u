@@ -53,31 +53,31 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&
 http://125.227.210.55:15714/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6048" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/SETTV_Metro_Chinnel.png",三立都會
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png" tvg-language="Chinese" group-title="影劇",ELTA愛爾達影劇台
+#EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png" tvg-language="Chinese" group-title="影劇",ELTA愛爾達影劇台
 http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達綜合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
+#EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
 rtmp://59.124.75.153:1935/sat/md011
-#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台
+#EXTINF:-1 tvg-id="7213" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台
 rtmp://59.124.75.153:1935/sat/md051
-#EXTINF:-1 tvg-language="Chinese" group-title="體育",ELEVEN1體育
+#EXTINF:-1 tvg-id="6093" tvg-language="Chinese" group-title="體育",ELEVEN1體育
 rtmp://161.202.204.248/sat/tv731
-#EXTINF:-1 tvg-language="Chinese" group-title="體育",ELEVEN2體育
+#EXTINF:-1 tvg-id="7149" tvg-language="Chinese" group-title="體育",ELEVEN2體育
 rtmp://161.202.204.248/sat/tv741
 #EXTINF:-1 tvg-language="Chinese" group-title="體育",ELEVEN+
 rtmp://59.124.75.153:1935/sat/md031
 #EXTINF:-1 tvg-language="Chinese" group-title="體育",魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/channel/bltv-live.jpg",人間衛視
+#EXTINF:-1 tvg-id="6029" tvg-logo="https://img.isuper.tv/live-tv/channel/bltv-live.jpg",人間衛視
 rtmp://161.202.204.248/sat/md041
 #EXTINF:-1,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1,TVBS歡樂台
+#EXTINF:-1 tvg-id="6060" ,TVBS歡樂台
 rtmp://161.202.204.248/sat/tv421
-#EXTINF:-1,TVBS歡樂台-1
+#EXTINF:-1 tvg-id="6060" ,TVBS歡樂台-1
 rtmp://59.124.75.153/sat/tv421
-#EXTINF:-1,TVBS歡樂台-2
+#EXTINF:-1 tvg-id="6060" ,TVBS歡樂台-2
 rtmp://59.124.75.153:1935/sat/tv421
 #EXTINF:-1 tvg-id="6057" ,中天娛樂台
 http://125.227.210.55:15796/VideoInput/play.ts
@@ -87,17 +87,17 @@ rtmp://161.202.204.248:1935/sat/tv551
 rtmp://59.124.75.153/sat/tv551
 #EXTINF:-1 tvg-id="6073" tvg-language="Chinese" group-title="新聞",TVBS新聞台-2
 rtmp://59.124.75.153:1935/sat/tv551
-#EXTINF:-1 tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森新聞
+#EXTINF:-1 tvg-id="6069" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
+#EXTINF:-1 tvg-id="6075" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
 rtmp://161.202.204.248:1935/sat/tv571
-#EXTINF:-1 tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞-1
+#EXTINF:-1 tvg-id="6075" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞-1
 rtmp://59.124.75.153:1935/sat/tv571
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞
+#EXTINF:-1 tvg-id="6068" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞
 http://125.227.210.55:11055/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞-1
+#EXTINF:-1  tvg-id="6068" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞-1
 http://125.227.210.37:11055/VideoInput/play.ts
-#EXTINF:-1 tvg-language="Chinese" group-title="新聞",非凡新聞
+#EXTINF:-1  tvg-id="6076" tvg-language="Chinese" group-title="新聞",非凡新聞
 http://125.227.210.55:15078/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6072" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-language="Chinese" group-title="新聞",三立新聞
 http://seb.sason.top/sc/sllive_fhd.m3u8
@@ -107,19 +107,23 @@ http://125.227.210.55:15589/VideoInput/play.ts
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" tvg-language="Chinese" group-title="新聞",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-logo="https://ppt.cc/fYmRdx" tvg-language="Chinese" group-title="新聞",壹電視新聞台
+#EXTINF:-1 tvg-id="6067" tvg-logo="https://ppt.cc/fYmRdx" tvg-language="Chinese" group-title="新聞",壹電視新聞台
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 tvg-logo="https://ppt.cc/fYmRdx" tvg-language="Chinese" group-title="新聞",壹新聞台
+#EXTINF:-1 tvg-id="6067" tvg-logo="https://ppt.cc/fYmRdx" tvg-language="Chinese" group-title="新聞",壹新聞台
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 tvg-logo="https://ppt.cc/fYmRdx" tvg-language="Chinese" group-title="新聞",壹新聞台-1
+#EXTINF:-1 tvg-id="6067" tvg-logo="https://ppt.cc/fYmRdx" tvg-language="Chinese" group-title="新聞",壹新聞台-1
 http://stream.nexttv.com.tw/n001/playlist.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" tvg-language="Chinese" group-title="新聞",台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" tvg-language="Chinese" group-title="新聞",中視新聞
+#EXTINF:-1 tvg-id="7176" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" tvg-language="Chinese" group-title="新聞",中視新聞
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 tvg-logo="http://titv.ipcf.org.tw/images/logo.png" tvg-language="Chinese" group-title="一般",原住民電視 (720p)
+#EXTINF:-1 tvg-id="6075" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 ,彭博財經台  
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="6034" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" tvg-language="Chinese" group-title="一般",原住民電視 (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-language="Chinese" group-title="宗教",唯心電視
+#EXTINF:-1 tvg-id="7229" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-language="Chinese" group-title="宗教",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="6027" tvg-logo="http://www.daai.tv/images/logo.png" tvg-language="Chinese" group-title="一般",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -127,17 +131,13 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="6134" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" tvg-language="Chinese" group-title="一般",大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 ,彭博財經台  
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視-1
 rtmp://59.124.75.153:1935/sat/tv051
 #EXTINF:-1 tvg-id="7134" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" tvg-language="Chinese" group-title="一般",民視台灣
 http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 tvg-id="7134" tvg-logo="https://i.imgur.com/6jbjVNy.png" tvg-language="Chinese" group-title="新聞",民視新聞台
+#EXTINF:-1 tvg-id="6071" tvg-logo="https://i.imgur.com/6jbjVNy.png" tvg-language="Chinese" group-title="新聞",民視新聞台
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="7133" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" tvg-language="Chinese" group-title="一般",民視第一
 http://seb.sason.top/ptv/ftv.php?id=dy
@@ -145,7 +145,7 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv07_mobile.png",民視旅遊
 http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png",民視綜藝
+#EXTINF:-1 tvg-id="7145" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png",民視綜藝
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台
 rtmp://59.124.75.153/sat/tv761
@@ -225,7 +225,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
 rtmp://59.125.103.61/channel/60b4e50239e1b02e8b910c9c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 tvg-id="6086" tvg-language="Chinese" group-title="電影" ,好萊塢電影
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c92?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1 tvg-language="Chinese" group-title="電影" ,FOX
+#EXTINF:-1 tvg-id="6097" tvg-language="Chinese" group-title="電影" ,FOX
 http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 #EXTINF:-1 tvg-language="Chinese" group-title="電影" ,FOX犯罪電影
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
@@ -235,7 +235,7 @@ rtmp://118.163.221.79/channel/60c2f6ca961593122ebaf8dc?sign=mcnHvuVPiT02cz%2F3BK
 http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 #EXTINF:-1 tvg-language="Chinese" group-title="電影" ,FOX家庭電影
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" group-title="電影" ,FX HD 
+#EXTINF:-1 tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" group-title="電影" ,FX HD 
 http://125.227.210.37:13498/VideoInput/play.ts
 #EXTINF:-1,CN卡通
 http://125.227.210.37:16671/VideoInput/play.ts
