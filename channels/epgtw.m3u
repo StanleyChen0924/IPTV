@@ -1,6 +1,9 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/gat.xmlz"
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/gat.xml
+
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png" group-title="港澳台",台视HD
 rtmp://161.202.204.248/sat/tv071
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png" group-title="港澳台",台视HD-1
