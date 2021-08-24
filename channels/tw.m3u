@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="6062" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png",台視HD
 rtmp://161.202.204.248/sat/tv071
 #EXTINF:-1 tvg-id="6062" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png",台視HD-1
@@ -16,6 +17,25 @@ rtmp://161.202.204.248:1935/sat/tv111
 #EXTINF:-1 tvg-id="6030" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華視-1
 rtmp://161.202.204.248/sat/tv112
 #EXTINF:-1 tvg-id="6030" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華視-2
+=======
+#EXTINF:-1 tvg-id="146" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png",台視HD
+rtmp://161.202.204.248/sat/tv071
+#EXTINF:-1 tvg-id="146" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png",台視HD-1
+rtmp://161.202.204.248:1935/sat/tv071
+#EXTINF:-1 tvg-id="146" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png",台視HD-2
+rtmp://59.124.75.153/sat/tv071
+#EXTINF:-1 tvg-id="148" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",中視
+rtmp://161.202.204.248/sat/tv091
+#EXTINF:-1 tvg-id="148" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",中視-1
+rtmp://161.202.204.248:1935/sat/tv091
+#EXTINF:-1 tvg-id="148" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",中視-2
+rtmp://59.124.75.153/sat/tv091
+#EXTINF:-1 tvg-id="150" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華視
+rtmp://161.202.204.248:1935/sat/tv111
+#EXTINF:-1 tvg-id="150" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華視-1
+rtmp://161.202.204.248/sat/tv112
+#EXTINF:-1 tvg-id="150" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",華視-2
+>>>>>>> f80fe8c49f3c581f35a0335f01306e78c384f839
 rtmp://59.124.75.153/sat/tv111
 #EXTINF:-1 tvg-id="6031" tvg-logo="https://img.isuper.tv/live-tv/pts-hd-live.jpg",公視
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
