@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXT-X-VERSION:4
-
 #EXTINF:-1 tvg-id="6026" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png",台視HD
 rtmp://161.202.204.248/sat/tv071
 #EXTINF:-1 tvg-id="6026" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png",台視HD-1
@@ -48,7 +46,7 @@ rtmp://59.124.75.153/sat/tv721
 #EXTINF:-1 tvg-id="6090" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg"  tvg-language="Chinese" group-title="體育",緯來體育-3
 rtmp://59.124.75.153:1935/sat/tv721
 #EXTINF:-1 tvg-id="6090" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg"  tvg-language="Chinese" group-title="體育",緯來體育-4
-http://125.227.210.37:18358/VideoInput/play.ts
+http://125.227.210.55:18358/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://www.tvyan.com/uploads/dianshi/settaiwan.jpg",三立台灣
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://www.tvyan.com/uploads/dianshi/settaiwan.jpg",三立台灣-1
@@ -89,6 +87,8 @@ rtmp://161.202.204.248:1935/sat/tv551
 rtmp://59.124.75.153/sat/tv551
 #EXTINF:-1 tvg-id="6073" tvg-language="Chinese" group-title="新聞",TVBS新聞台-2
 rtmp://59.124.75.153:1935/sat/tv551
+#EXTINF:-1 tvg-id="6073" tvg-language="Chinese" group-title="新聞",TVBS新聞台-3
+http://125.227.210.55:16329/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6069" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
@@ -98,7 +98,7 @@ rtmp://59.124.75.153:1935/sat/tv571
 #EXTINF:-1 tvg-id="6068" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞
 http://125.227.210.55:11055/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6068" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞-1
-http://125.227.210.37:11055/VideoInput/play.ts
+http://125.227.210.55:11055/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6076" tvg-language="Chinese" group-title="新聞",非凡新聞
 http://125.227.210.55:15078/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6072" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-language="Chinese" group-title="新聞",三立新聞
@@ -221,8 +221,6 @@ http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 http://125.227.210.55:16027/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6154" tvg-language="Chinese" group-title="電影" ,HBO原創電影
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="6154" tvg-language="Chinese" group-title="電影" ,HBO原創電影-1
-rtmp://161.202.204.248/sat/md031
 #EXTINF:-1 tvg-id="6155" tvg-language="Chinese" group-title="電影" ,HBO family
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
 #EXTINF:-1 tvg-id="6085" tvg-language="Chinese" group-title="電影" ,AXN
@@ -231,6 +229,8 @@ rtmp://59.125.103.61/channel/60b4e50239e1b02e8b910c9c?sign=mcnHvuVPiT02cz%2F3BKS
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c92?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/01/0109ea8e9ed2d475844741e1cbeb1dde.png" tvg-language="Chinese" group-title="電影" ,FOX電影
 http://60.251.59.179:8506/xoxo.m3u8
+#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/01/0109ea8e9ed2d475844741e1cbeb1dde.png" tvg-language="Chinese" group-title="電影" ,FOX電影-1
+http://60.251.59.179:8506/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 #EXTINF:-1 tvg-id="354" tvg-language="Chinese" group-title="電影" ,FOX犯罪電影
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="870" tvg-logo="https://www.logolynx.com/images/logolynx/0b/0b69336262aa9aa5c32a3a82b45b6685.png" tvg-language="Chinese" group-title="電影" ,FOX動作電影
@@ -240,8 +240,10 @@ http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="710" tvg-language="Chinese" group-title="電影" ,FOX家庭電影
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" group-title="電影" ,FX HD 
-http://125.227.210.37:13498/VideoInput/play.ts
+http://125.227.210.55:13498/VideoInput/play.ts
 #EXTINF:-1 tvg-id="673" ,CN卡通
+http://125.227.210.55:16671/VideoInput/play.ts
+#EXTINF:-1 tvg-id="673" ,CN卡通-1
 http://125.227.210.37:16671/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6184" ,Nickelodeon
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
