@@ -50,10 +50,6 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="6093" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台
 rtmp://59.124.75.153/sat/tv761
 #EXTINF:-1 tvg-id="6093" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台-1
-rtmp://59.124.75.153:1935/sat/tv761
-#EXTINF:-1 tvg-id="6093" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台-2
-rtmp://161.202.204.248/sat/tv761
-#EXTINF:-1 tvg-id="6093" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台-3
 https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv107/4gtv-live-mid/index.m3u8?token=28a2lhr_130ptgiIOvu_JA&expires=1629752761&token1=Leh5nK4piM4futxgmh17uQ&expires1=1629752761
 #EXTINF:-1 tvg-id="6051" tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png" ,東森超視
 rtmp://59.124.75.153/sat/tv771
@@ -77,6 +73,8 @@ http://125.227.210.55:18358/VideoInput/play.ts
 http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="7219" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達綜合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
+rtmp://161.202.204.248/sat/md041
 #EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合2台
 rtmp://59.124.75.153:1935/sat/md011
 #EXTINF:-1 tvg-id="7213" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台
@@ -206,5 +204,3 @@ http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="7229" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-language="Chinese" group-title="宗教",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="6029" tvg-logo="https://img.isuper.tv/live-tv/channel/bltv-live.jpg",人間衛視
-rtmp://161.202.204.248/sat/md041
