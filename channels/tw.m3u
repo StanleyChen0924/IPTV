@@ -221,8 +221,6 @@ http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 http://125.227.210.55:16027/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6154" tvg-language="Chinese" group-title="電影" ,HBO原創電影
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="6154" tvg-language="Chinese" group-title="電影" ,HBO原創電影-1
-rtmp://161.202.204.248/sat/md031
 #EXTINF:-1 tvg-id="6155" tvg-language="Chinese" group-title="電影" ,HBO family
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
 #EXTINF:-1 tvg-id="6085" tvg-language="Chinese" group-title="電影" ,AXN
@@ -231,6 +229,8 @@ rtmp://59.125.103.61/channel/60b4e50239e1b02e8b910c9c?sign=mcnHvuVPiT02cz%2F3BKS
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c92?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/01/0109ea8e9ed2d475844741e1cbeb1dde.png" tvg-language="Chinese" group-title="電影" ,FOX電影
 http://60.251.59.179:8506/xoxo.m3u8
+#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/01/0109ea8e9ed2d475844741e1cbeb1dde.png" tvg-language="Chinese" group-title="電影" ,FOX電影-1
+http://60.251.59.179:8506/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 #EXTINF:-1 tvg-id="354" tvg-language="Chinese" group-title="電影" ,FOX犯罪電影
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="870" tvg-logo="https://www.logolynx.com/images/logolynx/0b/0b69336262aa9aa5c32a3a82b45b6685.png" tvg-language="Chinese" group-title="電影" ,FOX動作電影
