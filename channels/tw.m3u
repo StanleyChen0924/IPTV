@@ -55,9 +55,9 @@ http://125.227.210.55:15714/VideoInput/play.ts
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png" tvg-language="Chinese" group-title="影劇",ELTA愛爾達影劇台
 http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達綜合台
+#EXTINF:-1 tvg-id="7219" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達綜合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="7292" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合2台
+#EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合2台
 rtmp://59.124.75.153:1935/sat/md011
 #EXTINF:-1 tvg-id="7213" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台
 rtmp://59.124.75.153:1935/sat/md051
@@ -67,7 +67,7 @@ rtmp://161.202.204.248/sat/tv731
 rtmp://161.202.204.248/sat/tv741
 #EXTINF:-1 tvg-id="" tvg-language="Chinese" group-title="體育",ELEVEN+
 rtmp://59.124.75.153:1935/sat/md031
-#EXTINF:-1 tvg-id="" tvg-language="Chinese" group-title="體育",魅力足球
+#EXTINF:-1 tvg-id="7242" tvg-language="Chinese" group-title="體育",魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6029" tvg-logo="https://img.isuper.tv/live-tv/channel/bltv-live.jpg",人間衛視
 rtmp://161.202.204.248/sat/md041
