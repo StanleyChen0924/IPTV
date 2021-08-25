@@ -48,7 +48,7 @@ rtmp://59.124.75.153/sat/tv721
 #EXTINF:-1 tvg-id="6090" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg"  tvg-language="Chinese" group-title="體育",緯來體育-3
 rtmp://59.124.75.153:1935/sat/tv721
 #EXTINF:-1 tvg-id="6090" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg"  tvg-language="Chinese" group-title="體育",緯來體育-4
-http://125.227.210.37:18358/VideoInput/play.ts
+http://125.227.210.55:18358/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://www.tvyan.com/uploads/dianshi/settaiwan.jpg",三立台灣
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://www.tvyan.com/uploads/dianshi/settaiwan.jpg",三立台灣-1
@@ -98,7 +98,7 @@ rtmp://59.124.75.153:1935/sat/tv571
 #EXTINF:-1 tvg-id="6068" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞
 http://125.227.210.55:11055/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6068" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞-1
-http://125.227.210.37:11055/VideoInput/play.ts
+http://125.227.210.55:11055/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6076" tvg-language="Chinese" group-title="新聞",非凡新聞
 http://125.227.210.55:15078/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6072" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-language="Chinese" group-title="新聞",三立新聞
@@ -240,9 +240,9 @@ http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="710" tvg-language="Chinese" group-title="電影" ,FOX家庭電影
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" group-title="電影" ,FX HD 
-http://125.227.210.37:13498/VideoInput/play.ts
+http://125.227.210.55:13498/VideoInput/play.ts
 #EXTINF:-1 tvg-id="673" ,CN卡通
-http://125.227.210.37:16671/VideoInput/play.ts
+http://125.227.210.55:16671/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6184" ,Nickelodeon
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="6185" ,Nick Jr
