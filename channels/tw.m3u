@@ -67,13 +67,13 @@ rtmp://59.124.75.153:1935/sat/md051
 rtmp://161.202.204.248/sat/tv731
 #EXTINF:-1 tvg-id="7149" tvg-language="Chinese" group-title="體育",ELEVEN2體育
 rtmp://161.202.204.248/sat/tv741
-#EXTINF:-1 tvg-language="Chinese" group-title="體育",ELEVEN+
+#EXTINF:-1 tvg-id="" tvg-language="Chinese" group-title="體育",ELEVEN+
 rtmp://59.124.75.153:1935/sat/md031
-#EXTINF:-1 tvg-language="Chinese" group-title="體育",魅力足球
+#EXTINF:-1 tvg-id="" tvg-language="Chinese" group-title="體育",魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6029" tvg-logo="https://img.isuper.tv/live-tv/channel/bltv-live.jpg",人間衛視
 rtmp://161.202.204.248/sat/md041
-#EXTINF:-1,優視頻道
+#EXTINF:-1 tvg-id="" ,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 tvg-id="6060" ,TVBS歡樂台
 rtmp://161.202.204.248/sat/tv421
@@ -97,15 +97,15 @@ rtmp://161.202.204.248:1935/sat/tv571
 rtmp://59.124.75.153:1935/sat/tv571
 #EXTINF:-1 tvg-id="6068" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞
 http://125.227.210.55:11055/VideoInput/play.ts
-#EXTINF:-1  tvg-id="6068" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞-1
+#EXTINF:-1 tvg-id="6068" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞-1
 http://125.227.210.37:11055/VideoInput/play.ts
-#EXTINF:-1  tvg-id="6076" tvg-language="Chinese" group-title="新聞",非凡新聞
+#EXTINF:-1 tvg-id="6076" tvg-language="Chinese" group-title="新聞",非凡新聞
 http://125.227.210.55:15078/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6072" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-language="Chinese" group-title="新聞",三立新聞
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-id="SanLiXingWen.tw" tvg-name="三立新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-language="Chinese" group-title="新聞",三立新聞-1
 http://125.227.210.55:15589/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png" tvg-language="Chinese" group-title="新聞",三立inews新聞
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png" tvg-language="Chinese" group-title="新聞",三立inews新聞
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="6070" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" tvg-language="Chinese" group-title="新聞",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
@@ -121,7 +121,7 @@ http://seb.sason.top/sc/tsxw_fhd.m3u8
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 ,彭博財經台  
+#EXTINF:-1 tvg-id="" ,彭博財經台  
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="6034" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" tvg-language="Chinese" group-title="一般",原住民電視 (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
@@ -133,11 +133,8 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="6134" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" tvg-language="Chinese" group-title="一般",大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視
-#EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=9516000,RESOLUTION=1280x720,CODECS="avc1.420028,mp4a.40.2"
 http://seb.sason.top/ptv/ftv.php?id=ms
-
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視-1
 rtmp://59.124.75.153:1935/sat/tv051
 #EXTINF:-1 tvg-id="7134" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" tvg-language="Chinese" group-title="一般",民視台灣
