@@ -1,8 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視-1
-rtmp://59.124.75.153:1935/sat/tv051
 #EXTINF:-1 tvg-id="7134" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" tvg-language="Chinese" group-title="一般",民視台灣
 http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="6071" tvg-logo="https://i.imgur.com/6jbjVNy.png" tvg-language="Chinese" group-title="新聞",民視新聞台
@@ -31,8 +29,6 @@ rtmp://161.202.204.248:1935/sat/tv111
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://www.tvyan.com/uploads/dianshi/settaiwan.jpg",三立台灣
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-id="6047" tvg-logo="http://www.tvyan.com/uploads/dianshi/settaiwan.jpg",三立台灣-1
-http://125.227.210.55:15714/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6048" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/SETTV_Metro_Chinnel.png",三立都會
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-id="6072" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-language="Chinese" group-title="新聞",三立新聞
@@ -45,21 +41,15 @@ http://seb.sason.top/sc/slinews_fhd.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="6142" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" tvg-language="Chinese" group-title="一般",大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="6134" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" tvg-language="Chinese" group-title="一般",大立電視
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="6093" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台
 rtmp://59.124.75.153/sat/tv761
-#EXTINF:-1 tvg-id="6093" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台-1
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv107/4gtv-live-mid/index.m3u8?token=28a2lhr_130ptgiIOvu_JA&expires=1629752761&token1=Leh5nK4piM4futxgmh17uQ&expires1=1629752761
 #EXTINF:-1 tvg-id="6051" tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png" ,東森超視
 rtmp://59.124.75.153/sat/tv771
 #EXTINF:-1 tvg-id="6058" tvg-logo="https://img.isuper.tv/live-tv/ebc-drama-live.jpg" tvg-language="Chinese" group-title="影劇",東森戲劇
 http://125.227.210.55:17524/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6069" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6075" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
-rtmp://161.202.204.248:1935/sat/tv571
-#EXTINF:-1 tvg-id="6075" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞-1
+#EXTINF:-1 tvg-id="6075" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6095" tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg",緯來日本
 rtmp://161.202.204.248:1935/sat/tv521
@@ -67,12 +57,6 @@ rtmp://161.202.204.248:1935/sat/tv521
 rtmp://161.202.204.248/sat/tv701
 #EXTINF:-1 tvg-id="6090" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" tvg-language="Chinese" group-title="體育",緯來體育
 rtmp://161.202.204.248/sat/tv721
-#EXTINF:-1 tvg-id="6090" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg"  tvg-language="Chinese" group-title="體育",緯來體育-1
-http://125.227.210.55:18358/VideoInput/play.ts
-#EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png" tvg-language="Chinese" group-title="影劇",ELTA愛爾達影劇台
-http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="7219" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達綜合台
-http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
 rtmp://161.202.204.248/sat/md041
 #EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合2台
@@ -83,8 +67,6 @@ rtmp://59.124.75.153:1935/sat/md051
 rtmp://161.202.204.248/sat/tv731
 #EXTINF:-1 tvg-id="7149" tvg-language="Chinese" group-title="體育",ELEVEN2體育
 rtmp://161.202.204.248/sat/tv741
-#EXTINF:-1 tvg-id="" tvg-language="Chinese" group-title="體育",ELEVEN+
-rtmp://59.124.75.153:1935/sat/md031
 #EXTINF:-1 tvg-id="7242" tvg-language="Chinese" group-title="體育",魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6060" ,TVBS歡樂台
@@ -110,8 +92,6 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-id="" ,彭博財經台  
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-id="6097" tvg-language="Chinese" ,FOX
-http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道電影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映頻道電影 (480p)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-language="Chinese" group-title="電影",天映經典
@@ -149,9 +129,6 @@ http://61.58.60.230:9319/live/206.m3u8
 http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="6138" ,居家頻道
 http://61.58.60.230:9319/live/125.m3u8
-#EXTINF:-1 tvg-id="6116" ,靖天映畫
-http://61.58.60.230:9319/live/244.m3u8
-
 #EXTINF:-1 tvg-id="6161" ,韓國阿里郎
 http://61.58.60.230:9319/live/130.m3u8
 #EXTINF:-1 tvg-id="6122" ,Z頻道
@@ -176,6 +153,8 @@ http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-id="679" ,Disney Junior
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6134" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" tvg-language="Chinese" group-title="一般",大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="6034" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" tvg-language="Chinese" group-title="一般",原住民電視 (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="7229" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-language="Chinese" group-title="宗教",唯心電視
