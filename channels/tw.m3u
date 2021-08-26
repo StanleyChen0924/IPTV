@@ -86,6 +86,8 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-id="" ,彭博財經台  
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" , BBC lifestyle
+http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道電影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映頻道電影 (480p)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-language="Chinese" group-title="電影",天映經典
