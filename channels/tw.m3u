@@ -150,7 +150,7 @@ http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="6138" ,居家頻道
 http://61.58.60.230:9319/live/125.m3u8
 #EXTINF:-1 tvg-id="6116" ,靖天映畫
-http://61.58.60.230:9319/live/243.m3u8
+http://61.58.60.230:9319/live/244.m3u8
 
 #EXTINF:-1 tvg-id="6161" ,韓國阿里郎
 http://61.58.60.230:9319/live/130.m3u8
@@ -163,8 +163,6 @@ http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3
 http://125.227.210.55:16671/VideoInput/play.ts
 #EXTINF:-1 tvg-id="673" ,CN卡通-1
 http://125.227.210.37:16671/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6184" ,Nickelodeon
-http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="6185" ,Nick Jr
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-id="708" ,Baby TV Eng
