@@ -69,15 +69,9 @@ rtmp://161.202.204.248/sat/tv731
 rtmp://161.202.204.248/sat/tv741
 #EXTINF:-1 tvg-id="7242" tvg-language="Chinese" group-title="體育",魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="6060" ,TVBS歡樂台
+#EXTINF:-1 tvg-id="6060"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png",TVBS歡樂台
 rtmp://161.202.204.248/sat/tv421
-#EXTINF:-1 tvg-id="6060" ,TVBS歡樂台-1
-rtmp://59.124.75.153/sat/tv421
-#EXTINF:-1 tvg-id="6060" ,TVBS歡樂台-2
-rtmp://59.124.75.153:1935/sat/tv421
-#EXTINF:-1 tvg-id="6073" tvg-language="Chinese" group-title="新聞",TVBS新聞台
-rtmp://161.202.204.248:1935/sat/tv551
-#EXTINF:-1 tvg-id="6073" tvg-language="Chinese" group-title="新聞",TVBS新聞台-1
+#EXTINF:-1 tvg-id="6073" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1c/Tvbsnews.png/220px-Tvbsnews.png" tvg-language="Chinese" group-title="新聞",TVBS新聞台
 http://125.227.210.55:16329/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6057" ,中天娛樂台
 http://125.227.210.55:15796/VideoInput/play.ts
