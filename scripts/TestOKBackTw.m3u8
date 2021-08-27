@@ -261,5 +261,3 @@ http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-id="679" ,Disney Junior
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-
-javascript:prompt(PLAYER._DownloadMonitor.context.dataset.title,PLAYER._DownloadMonitor.context.dataset.currentVideoUrl.replace(/:.*qq.com/g,"://defaultts.tc.qq.com/defaultts.tc.qq.com"));  
