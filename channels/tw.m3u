@@ -65,9 +65,9 @@ rtmp://161.202.204.248/sat/md041
 rtmp://59.124.75.153:1935/sat/md011
 #EXTINF:-1 tvg-id="7213" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台
 rtmp://59.124.75.153:1935/sat/md051
-#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-language="Chinese" group-title="體育",ELEVEN1體育
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports1.png" tvg-language="Chinese" group-title="體育",ELEVEN1體育
 rtmp://161.202.204.248/sat/tv731
-#EXTINF:-1 tvg-id="7149" tvg-language="Chinese" group-title="體育",ELEVEN2體育
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" tvg-language="Chinese" group-title="體育",ELEVEN2體育
 rtmp://161.202.204.248/sat/tv741
 #EXTINF:-1 tvg-id="7242" tvg-language="Chinese" group-title="體育",魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
