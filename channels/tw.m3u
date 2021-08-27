@@ -93,7 +93,7 @@ http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" , BBC lifestyle
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",tvN
+#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" group-title="Entertainment",tvN
 http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道電影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映頻道電影 (480p)
