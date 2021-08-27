@@ -69,7 +69,7 @@ rtmp://59.124.75.153:1935/sat/md051
 rtmp://161.202.204.248/sat/tv731
 #EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" tvg-language="Chinese" group-title="體育",ELEVEN2體育
 rtmp://161.202.204.248/sat/tv741
-#EXTINF:-1 tvg-id="7242" tvg-language="Chinese" group-title="體育",魅力足球
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-language="Chinese" group-title="體育",魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6060"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png",TVBS歡樂台
 rtmp://161.202.204.248/sat/tv421
