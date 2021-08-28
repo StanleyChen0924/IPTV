@@ -33,7 +33,7 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-id="6072" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-language="Chinese" group-title="新聞",三立新聞
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="6072" tvg-id="SanLiXingWen.tw" tvg-name="三立新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-language="Chinese" group-title="新聞",三立新聞-1
+#EXTINF:-1 tvg-id="6072" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-language="Chinese" group-title="新聞",三立新聞-1
 http://125.227.210.55:15589/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png" tvg-language="Chinese" group-title="新聞",三立inews新聞
 http://seb.sason.top/sc/slinews_fhd.m3u8
