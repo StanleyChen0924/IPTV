@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="AdultIPTV.net POV" tvg-logo="https://assets.streamtest.in/logo/2731/179_adultiptv-net-pov.jpg?v=1573512543", AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
 #EXTINF:-1 tvg-name="Adult Hardcore IPTV .ts format" tvg-logo="https://assets.streamtest.in/logo/950/82_adult-hardcore-iptv-ts-format.jpg?v=1554335870", Adult Hardcore IPTV .ts format
 http://streams.redtraffic.xyz/hardcore.ts
 #EXTINF:-1 tvg-name="Adult Bigass IPTV .ts format	" tvg-logo="https://assets.streamtest.in/logo/951/82_adult-bigass-iptv-ts-format.jpg?v=1554336116", Adult Bigass IPTV .ts format	
