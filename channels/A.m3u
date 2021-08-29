@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,test
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 
 #EXTINF:-1 tvg-name="AdultIPTV.net POV" tvg-logo="https://assets.streamtest.in/logo/2731/179_adultiptv-net-pov.jpg?v=1573512543", AdultIPTV.net POV
 http://cdn.adultiptv.net/pov.m3u8
