@@ -29,6 +29,8 @@ http://125.227.210.55:15589/VideoInput/play.ts
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 group-title="新聞" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png",中天新聞-1
+http://62.171.184.67:8080/live/9d11ccffa86d49d7ce72f79b1cb30a7bbb.flv
 #EXTINF:-1 group-title="新聞" tvg-logo="https://ppt.cc/fYmRdx",壹電視新聞台
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 group-title="新聞",壹新聞台-1
