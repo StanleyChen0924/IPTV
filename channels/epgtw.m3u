@@ -86,6 +86,10 @@ rtmp://59.124.75.153/sat/tv421
 rtmp://59.124.75.153:1935/sat/tv421
 #EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="港澳台",中天娱乐台
 http://125.227.210.55:15796/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="新闻",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="新闻",中天新闻-1
+http://62.171.184.67:8080/live/9d11ccffa86d49d7ce72f79b1cb30a7bbb.flv
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="新闻",TVBS新闻台
 rtmp://161.202.204.248:1935/sat/tv551
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="新闻",TVBS新闻台-1
@@ -110,8 +114,6 @@ http://seb.sason.top/sc/sllive_fhd.m3u8
 http://125.227.210.55:15589/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png" group-title="新闻",三立inews新闻
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="新闻",中天新闻
-http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="https://ppt.cc/fYmRdx" group-title="新闻",壹电视新闻台
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="https://ppt.cc/fYmRdx" group-title="新闻",壹新闻台
