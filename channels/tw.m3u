@@ -129,8 +129,7 @@ http://61.58.60.230:9319/live/130.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="One" tvg-logo="" ,One
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tvN Asia" ,tvN Asia 無字幕 [Offline]  
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" ,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
