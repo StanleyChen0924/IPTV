@@ -55,6 +55,8 @@ http://125.227.210.37:18358/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://www.tvyan.com/uploads/dianshi/settaiwan.jpg" group-title="港澳台",三立台湾
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://www.tvyan.com/uploads/dianshi/settaiwan.jpg" group-title="港澳台",三立台湾-1
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://www.tvyan.com/uploads/dianshi/settaiwan.jpg" group-title="港澳台",三立台湾-2
 http://125.227.210.55:15714/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6048" tvg-name="三立都会台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/SETTV_Metro_Chinnel.png" group-title="港澳台",三立都会
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
