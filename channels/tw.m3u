@@ -107,6 +107,8 @@ http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 http://125.227.210.55:16027/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/01/0109ea8e9ed2d475844741e1cbeb1dde.png" tvg-language="Chinese" group-title="電影" ,FOX電影
 http://60.251.59.179:8506/xoxo.m3u8
+#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/01/0109ea8e9ed2d475844741e1cbeb1dde.png" tvg-language="Chinese" group-title="電影" ,FOX電影-1
+http://60.251.59.179:8543/xoxo.m3u8
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" group-title="電影" ,FX HD 
 http://125.227.210.37:13498/VideoInput/play.ts
 
@@ -133,6 +135,9 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" ,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="兒童",HBOHits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="兒童",CN卡通
 http://125.227.210.55:16671/VideoInput/play.ts
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="兒童" ,CN卡通-1
