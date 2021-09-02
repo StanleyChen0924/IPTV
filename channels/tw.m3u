@@ -166,3 +166,5 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="7229" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-language="Chinese" group-title="宗教",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 ,东森幼幼台TEST
+http://cloud-play.hhalloy.com/live/0c0a03db510687f73c455afcc220386b.flv
