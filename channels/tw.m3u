@@ -122,13 +122,6 @@ http://61.58.60.230:9319/live/206.m3u8
 http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="6138" ,居家頻道
 http://61.58.60.230:9319/live/125.m3u8
-#EXTINF:-1 tvg-id="6161" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" ,韓國阿里郎
-http://61.58.60.230:9319/live/130.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="One" tvg-logo="" ,One
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tVN" tvg-logo="" ,tVN 無字幕
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" ,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
@@ -157,3 +150,61 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="7229" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-language="Chinese" group-title="宗教",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+
+
+#EXTINF:-1 tvg-id="6161" group-title="韓國" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" ,韓國阿里郎
+http://61.58.60.230:9319/live/130.m3u8
+#EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="One" tvg-logo="" ,One
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="tVN" tvg-logo="" ,tVN 無字幕
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·TBS  
+http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·TBS  
+http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·SBS TJB  
+http://1.245.74.5:1935/live/tv/.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·SBS CJB  
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·SBS Star  
+https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·SBS Plus  
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·KBC SBS  
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·SBS综合频道  
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·MBC综合频道  
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·NBS农业广播  
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·EBS第一频道  
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·EBS第二频道  
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·EBS加一频道  
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·EBS加二频道  
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·EBS_E频道  
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·日常电视  
+http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国·国防电视  
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国韩国中央  
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国EBS第一频道  
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国EBS少儿频道  
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国 Ⅰ KCTV  
+http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国 Ⅰ KOREA YTN  
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国 Ⅰ BBS佛教广播  
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国lKTV 韩国电视  
+http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8  
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韩国lEBS 儿童频道  
