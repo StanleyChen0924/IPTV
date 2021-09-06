@@ -157,11 +157,11 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 
 
 
-#EXTINF:-1 tvg-id="6161" group-title="韓國" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" ,韓國阿里郎
+#EXTINF:-1 tvg-id="6141" group-title="韓國" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" ,韓國阿里郎
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="One" tvg-logo="" ,One
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="tVN" tvg-logo="" ,韓國·tVN 無字幕
+#EXTINF:-1 tvg-id="6159" group-title="韓國" tvg-name="tVN" tvg-logo="" ,韓國·tVN 無字幕
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國·TBS
 http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
