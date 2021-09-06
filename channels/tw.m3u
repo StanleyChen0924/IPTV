@@ -161,7 +161,7 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="One" tvg-logo="" ,One
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="tVN" tvg-logo="" ,tVN 無字幕
+#EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="tVN" tvg-logo="" ,韓國·tVN 無字幕
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國·TBS
 http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
@@ -185,15 +185,15 @@ http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 #EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國·日常電視
 http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國韓國中央
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國·韓國中央
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國EBS第一頻道
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國·EBS第一頻道
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國 Ⅰ KCTV
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國·KCTV
 http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
-#EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國 Ⅰ KOREA YTN
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國·KOREA YTN
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國lKTV 韓國電視
+#EXTINF:-1 tvg-id="" group-title="韓國"  ,韓國·lKTV·韓國電視
 http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="韓國" ,CGNTV韓國
+#EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·CGNTV韓國
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
