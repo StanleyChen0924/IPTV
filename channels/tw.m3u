@@ -140,7 +140,7 @@ http://61.58.60.230:9319/live/207.m3u8
 http://61.58.60.230:9319/live/125.m3u8
 
 #EXTINF:-1 tvg-id="" ,NHK World Japan
-https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index.m3u8
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 #EXTINF:-1 tvg-id="" ,ANIMAX
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-id="" ,Discovery HD
