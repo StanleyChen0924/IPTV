@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1,3ATV3ATV官網
+https://play3166.com/20201210/CVkX0cuV/index.m3u8
+#EXTINF:-1,HOT
+http://185.236.229.21:9981/play/a03p
+
+
+
+
+
 #EXTINF:-1 tvg-name="Kaloopy" tvg-logo="https://assets.streamtest.in/logo/2731/179_adultiptv-net-pov.jpg?v=1573512543", Kaloopy (18+)
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 #EXTINF:-1,XXX 2
