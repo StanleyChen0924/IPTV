@@ -113,13 +113,17 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://125.227.210.55:18685/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="電影",緯來電影
 rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1 tvg-id="6083" tvg-logo="https://img.isuper.tv/live-tv/channel/hbo-live.jpg" tvg-language="Chinese" group-title="電影" ,HBO
+#EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO
 http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-logo="https://img.isuper.tv/live-tv/channel/hbo-live.jpg" tvg-language="Chinese" group-title="電影" ,HBO HD
+#EXTINF:-1 tvg-id="6152" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-language="Chinese" group-title="電影" ,HBO HD
 http://125.227.210.55:16027/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/01/0109ea8e9ed2d475844741e1cbeb1dde.png" tvg-language="Chinese" group-title="電影" ,FOX電影
+#EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="6089" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-language="Chinese" group-title="電影" ,CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="電影" ,FOX電影
 http://60.251.59.179:8506/xoxo.m3u8
-#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/01/0109ea8e9ed2d475844741e1cbeb1dde.png" tvg-language="Chinese" group-title="電影" ,FOX電影-1
+#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="電影" ,FOX電影-1
 http://60.251.59.179:8543/xoxo.m3u8
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" group-title="電影" ,FX HD 
 http://125.227.210.37:13498/VideoInput/play.ts
@@ -174,8 +178,9 @@ http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="7229" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-language="Chinese" group-title="宗教",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="511" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="一般", 星空衛視
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
-
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,亞美衛視  
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 tvg-id="GOODTVCH21HuaYuJiangYuan.tw" tvg-name="GOOD TV CH21 華語講員" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/21_file.jpg" group-title="GOOD TV",GOOD TV CH21 華語講員 (720p)
 https://live.streamingfast.net/osmflivech21.m3u8
 #EXTINF:-1 tvg-id="GOODTVCH22ZhiChangXinShiYe.tw" tvg-name="GOOD TV CH22 職場新視野" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/22_file.jpg" group-title="GOOD TV",GOOD TV CH22 職場新視野 (720p)
