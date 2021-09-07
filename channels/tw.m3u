@@ -138,7 +138,8 @@ http://61.58.60.230:9319/live/206.m3u8
 http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="6138" ,居家頻道
 http://61.58.60.230:9319/live/125.m3u8
-
+#EXTINF:-1 tvg-id="126"  ,翡翠台高清
+https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" ,NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 #EXTINF:-1 tvg-id="" ,ANIMAX
