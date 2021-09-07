@@ -49,10 +49,14 @@ http://125.227.210.55:15589/VideoInput/play.ts
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PF21500270-L.jpg" group-title="新聞", 寰宇新聞台
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+#EXTINF:-1 tvg-id="6067" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="新聞", 壹新聞 HD
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-id="6027" tvg-logo="http://www.daai.tv/images/logo.png" tvg-language="Chinese" group-title="一般",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="6142" tvg-logo="http://www.daai.tv/images/logo.png" tvg-language="Chinese" group-title="一般",DaAi2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.daai.tv/images/logo.png" group-title="台灣", DaAi
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1 tvg-id="6093" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台
 rtmp://59.124.75.153/sat/tv761
 #EXTINF:-1 tvg-id="6051" tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png" ,東森超視
