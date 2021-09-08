@@ -65,7 +65,7 @@ rtmp://59.124.75.153/sat/tv761
 rtmp://59.124.75.153/sat/tv771
 #EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",東森戲劇
 http://125.227.210.55:17524/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="影劇",東森戲劇
+#EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="影劇",東森戲劇-1
 http://125.227.210.37:17524/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6069" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
