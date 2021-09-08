@@ -121,6 +121,8 @@ http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-language="Chinese" group-title="電影",天映經典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視電影HD
+http://107.167.5.66:80/mylive/102/2061/index.m3u8
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="https://img.isuper.tv/live-tv/channel/ebc-emovie-live.jpg" tvg-language="Chinese" group-title="電影",東森洋片
 http://125.227.210.55:18685/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="電影",緯來電影
