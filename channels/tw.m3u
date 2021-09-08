@@ -157,9 +157,6 @@ http://60.251.59.179:8543/xoxo.m3u8
 http://60.251.59.179:8504/xoxo.m3u8
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" group-title="電影" ,FX HD 
 http://125.227.210.37:13498/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",成龍
-http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="一般",Astro 歡喜
 http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="一般",Astro AEC
