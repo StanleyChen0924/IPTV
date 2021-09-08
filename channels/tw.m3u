@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 ,https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/channels/tw.m3u
+#EXTINF:-1 ,MyLink
 https://raw.githubusercontent.com/StanleyChen0924/IPTV/main/channels/tw.m3u
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
