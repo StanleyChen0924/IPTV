@@ -49,6 +49,8 @@ http://125.227.210.55:15589/VideoInput/play.ts
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PF21500270-L.jpg" group-title="新聞", 寰宇新聞台
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+#EXTINF:-1 tvg-id="6171" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1PF21500270-L.jpg" group-title="新聞", 寰宇新聞台1
+http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6027" tvg-logo="http://www.daai.tv/images/logo.png" tvg-language="Chinese" group-title="一般",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="6142" tvg-logo="http://www.daai.tv/images/logo.png" tvg-language="Chinese" group-title="一般",DaAi2
@@ -150,20 +152,6 @@ http://60.251.59.179:8543/xoxo.m3u8
 http://125.227.210.37:13498/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",成龍
 http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
-#EXTINF:-1 tvg-id="6099" ,靖天資訊
-http://61.58.60.230:9319/live/202.m3u8
-#EXTINF:-1 tvg-id="6101" tvg-language="Chinese" group-title="影劇",靖洋戲劇
-http://61.58.60.230:9319/live/203.m3u8
-#EXTINF:-1 tvg-id="6151" ,靖天育樂
-http://61.58.60.230:9319/live/204.m3u8
-#EXTINF:-1 tvg-id="7187" ,靖天國際
-http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1 tvg-id="6191" ,靖洋卡通
-http://61.58.60.230:9319/live/206.m3u8
-#EXTINF:-1 tvg-id="6192" ,靖天卡通
-http://61.58.60.230:9319/live/207.m3u8
-#EXTINF:-1 tvg-id="6138" ,居家頻道
-http://61.58.60.230:9319/live/125.m3u8
 
 #EXTINF:-1 tvg-id="126"  ,翡翠台高清
 https://cdn.hkdtmb.com/hls/81/index.m3u8
@@ -173,7 +161,8 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-id="" ,Discovery HD
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="一般",Discovery
+http://125.227.210.37:10388/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" ,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="兒童",CN卡通
@@ -190,7 +179,9 @@ http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 #EXTINF:-1 tvg-id="6187" tvg-name="CBeebies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png"  group-title="兒童",CBeebies
 http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png"  group-title="兒童",Disney Channel
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="兒童",Disney
+http://125.227.210.37:14250/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png"  group-title="兒童",Disney1
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-id="679" tvg-name="DisneyJunior" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png"  group-title="兒童",Disney Junior
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
