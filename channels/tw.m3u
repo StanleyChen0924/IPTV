@@ -171,7 +171,8 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="兒童",Astro 小太陽
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="一般",HGTV居家樂活
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="一般",国家地理
 http://125.227.210.37:16408/VideoInput/play.ts
 #EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" ,翡翠台高清
