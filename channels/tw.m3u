@@ -293,7 +293,7 @@ http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓電影 4M1080[1920*1080]
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
 
-#EXTINF:-1 tvg-id="6141" group-title="韓國" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" ,韓國阿里郎
+#EXTINF:-1 tvg-id="6159" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韓國" ,韓國阿里郎
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="One" tvg-logo="" ,One
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
