@@ -162,7 +162,7 @@ MoMo綜合台,rtmp://59.124.75.153/sat/tv761
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來體育,rtmp://161.202.204.248/sat/tv721
 ELTA愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-ELTA愛爾體育合1台,rtmp://161.202.204.248/sat/md041#rtmp://59.124.75.153:1935/sat/md041
+ELTA愛爾體育合1台,rtmp://161.202.204.248/sat/md041#rtmp://59.124.75.153:1935/sat/md041#rtmp://161.202.204.248/sat/md011#rtmp://59.124.75.153:1935/sat/md011
 ELTA愛爾體育合2台,rtmp://161.202.204.248/sat/md031#rtmp://59.124.75.153:1935/sat/md031
 ELTA愛爾體育合3台,rtmp://59.124.75.153:1935/sat/md051#rtmp://161.202.204.248/sat/md051
 ELEVEN1體育,rtmp://161.202.204.248/sat/tv731
