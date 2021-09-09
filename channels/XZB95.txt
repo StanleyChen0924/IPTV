@@ -152,7 +152,7 @@ MoMo综合,rtmp://161.202.204.248/sat/tv761
 eleven2,rtmp://161.202.204.248/sat/md021
 博斯网球,rtmp://161.202.204.248/sat/md031
 博斯魅力,rtmp://161.202.204.248/sat/md041
-爱尔达体育1,rtmp://161.202.204.248/sat/md051
+爱尔达体育1,rtmp://161.202.204.248/sat/md051#tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
 CBS2 720,rtmp://161.202.204.248:1935/sat/us011
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
