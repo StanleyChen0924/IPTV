@@ -1,4 +1,4 @@
-X直播电视台 youtube油管频道
+﻿X直播电视台 youtube油管频道
 
 
 新闻@频道,#genre#
@@ -129,10 +129,10 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 星空卫视,rtmp://118.163.221.79/channel/6100349af0618408855f372f?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 
 台湾☒頻道,#genre#
-寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
+寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
+三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
+民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
 台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
 中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
 华视,rtmp://161.202.204.248:1935/sat/tv111
@@ -174,7 +174,7 @@ Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 东森财经新闻 HD,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 TVBS新闻台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
-三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立Live新闻 6072,http://seb.sason.top/sc/sllive_fhd.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
 
 eleven1,http://125.227.210.37:10677/VideoInput/play.ts
 Discovery,http://125.227.210.37:10388/VideoInput/play.ts
