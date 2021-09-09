@@ -199,6 +199,7 @@ NEWS,http://125.227.210.37:18184/VideoInput/play.ts
 东森洋片,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
 TLC,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
 FOXMOVIES,http://60.251.59.179:8504/xoxo.m3u8#http://60.251.59.179:8543/xoxo.m3u8#http://60.251.59.179:8506/xoxo.m3u8
+FX HD,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
 
 马来@50,#genre#
 Astro 欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
