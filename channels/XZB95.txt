@@ -192,7 +192,7 @@ TVBS新闻台,http://125.227.210.37:16329/VideoInput/play.ts
 CNBC,http://125.227.210.37:16415/VideoInput/play.ts
 国家地理,http://125.227.210.37:16408/VideoInput/play.ts
 CN卡通  ,http://125.227.210.37:16671/VideoInput/play.ts
-东森戏剧,http://125.227.210.37:17524/VideoInput/play.ts
+东森戏剧,http://125.227.210.55:17524/VideoInput/play.ts#http://125.227.210.37:17524/VideoInput/play.ts
 NEWS,http://125.227.210.37:18184/VideoInput/play.ts
 卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
 纬来体育,http://125.227.210.37:18358/VideoInput/play.ts
@@ -201,7 +201,6 @@ TLC,http://125.227.210.37:19020/VideoInput/play.ts
 FOXMOVIES,http://60.251.59.179:8504/xoxo.m3u8
 FOXMOVIES,http://60.251.59.179:8543/xoxo.m3u8
 FOXMOVIES,http://60.251.59.179:8506/xoxo.m3u8
-彩虹e台,mitv://ns2.hellotvvod.com:9906/e953ee1fe74c4995acd52ba72c02b0a1.ts
 
 马来@50,#genre#
 Astro 欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
