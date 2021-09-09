@@ -268,7 +268,7 @@ https://live.streamingfast.net/osmflivech50.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SiTV",SiTV動漫秀場 4M1080[1920*1080
 http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SiTV",SiTV都是劇場 4M1080[1920*1080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SiTV",SiTV都市劇場 4M1080[1920*1080
 http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV潮婆辣媽 4M1080[1920*108
 http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
