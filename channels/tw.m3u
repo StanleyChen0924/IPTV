@@ -69,12 +69,16 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6095" tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg",緯來日本
 rtmp://161.202.204.248:1935/sat/tv521
+#EXTINF:-1 tvg-id="6044" tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg",緯來綜合
+http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="6088" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/VL-Sports-Logo.jpg",緯來育樂
 rtmp://161.202.204.248/sat/tv701
 #EXTINF:-1 tvg-id="6090" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" tvg-language="Chinese" group-title="體育",緯來體育
 rtmp://161.202.204.248/sat/tv721
-#EXTINF:-1 tvg-id="7219" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達綜合台
+#EXTINF:-1 tvg-id="7219" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png",ELTA愛爾達綜合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達戲劇台
+http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 #EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
 rtmp://161.202.204.248/sat/md041
 #EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台(備1)
