@@ -168,8 +168,8 @@ MoMo綜合台,rtmp://59.124.75.153/sat/tv761
 愛爾體育1,rtmp://161.202.204.248/sat/md041#rtmp://59.124.75.153:1935/sat/md041#rtmp://161.202.204.248/sat/md011#rtmp://59.124.75.153:1935/sat/md011
 愛爾體育2,rtmp://161.202.204.248/sat/md031#rtmp://59.124.75.153:1935/sat/md031
 愛爾體育3,rtmp://59.124.75.153:1935/sat/md051#rtmp://161.202.204.248/sat/md051
-ELEVEN1,rtmp://161.202.204.248/sat/tv731
-ELEVEN2,rtmp://161.202.204.248/sat/tv741
+ELEVEN體育一台,rtmp://161.202.204.248/sat/tv731
+ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 博斯運動I,rtmp://59.124.75.153:1935/sat/md011
 博斯網球,rtmp://59.124.75.153:1935/sat/md021
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
