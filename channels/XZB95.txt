@@ -186,7 +186,7 @@ BBC lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u
 衛視電影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
-緯來電影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+緯來電影,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8#http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
