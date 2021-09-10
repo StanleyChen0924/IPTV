@@ -3,7 +3,7 @@
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 
 -<tv generator-info-url="QQ 31849627" generator-info-name="http://epg.51zmt.top:8000">
-
+http://epg.112114.xyz
 
 -<channel id="126">
 
