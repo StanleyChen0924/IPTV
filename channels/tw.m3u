@@ -71,6 +71,9 @@ http://seb.sason.top/sc/dscjxw_fhd.m3u8
 rtmp://161.202.204.248:1935/sat/tv521
 #EXTINF:-1 tvg-id="6044" tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg",緯來綜合
 http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="6061" tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg",緯來戲劇
+http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6088" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/VL-Sports-Logo.jpg",緯來育樂
 rtmp://161.202.204.248/sat/tv701
 #EXTINF:-1 tvg-id="6090" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" tvg-language="Chinese" group-title="體育",緯來體育
