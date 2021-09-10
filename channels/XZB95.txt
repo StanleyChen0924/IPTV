@@ -151,8 +151,8 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts#http://seb.sason.top/sc/sllive_fhd.m3u8
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8#http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-DaAi2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 MoMo綜合台,rtmp://59.124.75.153/sat/tv761
 東森超視,rtmp://59.124.75.153/sat/tv771
@@ -198,7 +198,7 @@ FOX電影,http://60.251.59.179:8506/xoxo.m3u8#http://60.251.59.179:8543/xoxo.m3u
 FX HD ,http://125.227.210.55:13498/VideoInput/play.ts
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel [V],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-國家地理,http://125.227.210.55:16408/VideoInput/play.ts
+國家地理(台灣),http://125.227.210.55:16408/VideoInput/play.ts
 NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
@@ -220,9 +220,8 @@ Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 CNBC,http://125.227.210.55:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
 TVN HD,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 CBS2 720,rtmp://161.202.204.248:1935/sat/us011
-亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 NEWS,http://125.227.210.55:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
