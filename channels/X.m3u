@@ -285,6 +285,8 @@ http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="7219" tvg-name="爱尔达综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png" group-title="台灣",ELTA综合
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png" group-title="台灣",ELTA愛爾達戲劇台
+http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",Astor AOD
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",Astro欢喜
@@ -351,6 +353,8 @@ http://125.227.210.55:16408/VideoInput/play.ts
 http://125.227.210.55:16671/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="台灣",东森戏剧
 http://125.227.210.55:17524/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6044" tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg" group-title="台灣",緯來綜合
+http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",NEWS
 http://125.227.210.55:18184/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",卫视洋片
