@@ -285,7 +285,7 @@ http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="7219" tvg-name="爱尔达综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png" group-title="台灣",ELTA综合
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png" group-title="台灣",ELTA愛爾達戲劇台
+#EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png" group-title="台灣",ELTA愛爾達影劇台
 http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",Astor AOD
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
