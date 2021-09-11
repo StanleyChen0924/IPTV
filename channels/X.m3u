@@ -370,6 +370,8 @@ http://125.227.210.55:18789/VideoInput/play.ts
 http://125.227.210.55:18358/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台灣",东森洋片
 http://125.227.210.55:18685/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN,
+http://50.7.61.148:30080/Entry/axn
 #EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="台灣",TLC
 http://125.227.210.55:19020/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="台灣",FOXMOVIES
