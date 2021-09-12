@@ -130,19 +130,17 @@ http://125.227.210.55:19020/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="一般",FOX
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="台灣",Food亞洲美食
+#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",Food亞洲美食
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="台灣",Food亞洲美食(備1)
+#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",Food亞洲美食(備1)
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="7216" tvg-logo="noimage.png" group-title="一般", 美食星球
 http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 #EXTINF:-1 tvg-id="6147" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" , BBC lifestyle
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8      
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台灣",ANIMAL PLANET
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="一般",ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="台灣",NAT GEO wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道电影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映頻道電影 (480p)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
