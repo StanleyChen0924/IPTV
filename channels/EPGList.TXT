@@ -4,7 +4,7 @@
 
 -<tv generator-info-url="QQ 31849627" generator-info-name="http://epg.51zmt.top:8000">
 https://epg.112114.xyz
-
+http://epg.51zmt.top:8000/e.xml
 -<channel id="126">
 
 <display-name lang="zh">翡翠台</display-name>
