@@ -222,7 +222,8 @@ Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 CNBC,http://125.227.210.55:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
 TVN HD,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 CBS2 720,rtmp://161.202.204.248:1935/sat/us011
-亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
