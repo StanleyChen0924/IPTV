@@ -127,7 +127,12 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="一般",TLC旅遊生活頻道
 http://125.227.210.55:19020/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6169" tvg-logo="noimage.png" group-title="一般", Food亞洲美食
+
+
+#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="台灣",Food亞洲美食
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="台灣",Food亞洲美食(備1)
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="7216" tvg-logo="noimage.png" group-title="一般", 美食星球
 http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
