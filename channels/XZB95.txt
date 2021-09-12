@@ -171,7 +171,7 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 華視教育體育文化 HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視新聞資訊 HD,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
-三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立台灣,http://125.227.210.55:15714/VideoInput/play.ts#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts#http://seb.sason.top/sc/sllive_fhd.m3u8
@@ -182,7 +182,7 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 MoMo綜合台,rtmp://59.124.75.153/sat/tv761
 東森超視,rtmp://59.124.75.153/sat/tv771
-東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
+東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts#http://125.227.210.37:17524/VideoInput/play.ts
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://seb.sason.top/sc/dscjxw_fhd.m3u8
 緯來日本,rtmp://161.202.204.248:1935/sat/tv521
 緯來綜合,http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
@@ -208,9 +208,11 @@ TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
-Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-BBC lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-天映頻道電影,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
+ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+天映頻道,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 衛視電影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
