@@ -127,9 +127,11 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="一般",TLC旅遊生活頻道
 http://125.227.210.55:19020/VideoInput/play.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="一般", Food亞洲美食
+#EXTINF:-1 tvg-id="6169" tvg-logo="noimage.png" group-title="一般", Food亞洲美食
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" , BBC lifestyle
+#EXTINF:-1 tvg-id="7216" tvg-logo="noimage.png" group-title="一般", 美食星球
+http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
+#EXTINF:-1 tvg-id="6147" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" , BBC lifestyle
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道电影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映頻道電影 (480p)
@@ -256,7 +258,7 @@ http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓電影 4M1080[1920*1080]
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
 
-#EXTINF:-1 tvg-id="6159" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韓國" ,韓國阿里郎
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韓國" ,韓國阿里郎
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="One" ,One
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
