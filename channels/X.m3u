@@ -19,24 +19,6 @@ http://seb.sason.top/sc/ztxw_fhd.m3u8
 http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京IPTV+4K
 http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="台灣",卫视电影HD
-http://107.167.5.66:80/mylive/102/2061/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天映电影
-http://45.126.83.51/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天映经典HD
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天映电影HD
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台灣",HBO
-http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台灣",HBO
-http://107.167.5.66:80/mylive/102/2065/index.m3u8
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台灣",HBO HD
-http://125.227.210.55:16027/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",卫视洋片
-http://125.227.210.55:18789/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台灣",东森洋片
-http://125.227.210.55:18685/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",成龙
 http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电影5_斗鱼
@@ -286,6 +268,25 @@ http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png" group-title="台灣",ELTA愛爾達影劇台
 http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="台灣",卫视电影HD
+http://107.167.5.66:80/mylive/102/2061/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天映电影
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天映经典HD
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天映电影HD
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台灣",HBO
+http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台灣",HBO
+http://107.167.5.66:80/mylive/102/2065/index.m3u8
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台灣",HBO HD
+http://125.227.210.55:16027/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",卫视洋片
+http://125.227.210.55:18789/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台灣",东森洋片
+http://125.227.210.55:18685/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",Astor AOD
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",Astro欢喜
@@ -362,6 +363,8 @@ http://125.227.210.55:16408/VideoInput/play.ts
 http://125.227.210.55:16671/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="台灣",东森戏剧
 http://125.227.210.55:17524/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="台灣",東森戲劇(備1)
+http://125.227.210.37:17524/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6044" tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg" group-title="台灣",緯來綜合
 http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣",NEWS
