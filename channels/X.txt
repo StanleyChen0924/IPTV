@@ -18,10 +18,9 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 寰宇新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8#http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://seb.sason.top/sc/dscjxw_fhd.m3u8   
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
-中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
-年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
-非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts     
+年代新聞,http://125.227.210.55:11055/VideoInput/play.ts#http://107.167.5.66:80/mylive/102/2026/index.m3u8
+非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts#http://107.167.5.66:80/mylive/102/2058/index.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
@@ -193,7 +192,7 @@ MoMo綜合台,rtmp://59.124.75.153/sat/tv761#http://58.99.33.16:1935/liveedge17/
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來體育,rtmp://161.202.204.248/sat/tv721
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
+愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8     
 愛爾體育1,rtmp://161.202.204.248/sat/md041#rtmp://59.124.75.153:1935/sat/md041#rtmp://161.202.204.248/sat/md011#rtmp://59.124.75.153:1935/sat/md011
 愛爾體育2,rtmp://161.202.204.248/sat/md031#rtmp://59.124.75.153:1935/sat/md031
 愛爾體育3,rtmp://59.124.75.153:1935/sat/md051#rtmp://161.202.204.248/sat/md051
@@ -204,13 +203,13 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 TVBS歡樂台,rtmp://161.202.204.248/sat/tv421#rtmp://59.124.75.153:1935/sat/tv421
 TVBS新聞台,rtmp://161.202.204.248/sat/tv551#http://125.227.210.55:16329/VideoInput/play.ts
-中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
+中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
+TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
 亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
@@ -232,7 +231,7 @@ FOX電影,http://60.251.59.179:8506/xoxo.m3u8#http://60.251.59.179:8543/xoxo.m3u
 FX HD,http://125.227.210.55:13498/VideoInput/play.ts
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel [V],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-國家地理(台灣),http://125.227.210.55:16408/VideoInput/play.ts
+國家地理,http://125.227.210.55:16408/VideoInput/play.ts
 NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
