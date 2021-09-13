@@ -1,4 +1,120 @@
-﻿新闻@频道,#genre#
+﻿台灣☒頻道,#genre#
+民視,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
+民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
+民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
+民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
+民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
+台視HD,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中視,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+華視,rtmp://161.202.204.248:1935/sat/tv111
+華視教育體育文化 HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+華視新聞資訊 HD,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+三立台灣,http://125.227.210.55:15714/VideoInput/play.ts#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+衛視中文台,http://50.7.61.148:30080/Entry/starchinese
+三立新聞,http://125.227.210.55:15589/VideoInput/play.ts#http://seb.sason.top/sc/sllive_fhd.m3u8
+三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
+寰宇新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+MAVlife,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+MoMo綜合台,rtmp://59.124.75.153/sat/tv761#http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+東森超視,rtmp://59.124.75.153/sat/tv771
+東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts#http://125.227.210.37:17524/VideoInput/play.ts
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8
+緯來日本,rtmp://161.202.204.248:1935/sat/tv521
+緯來綜合,http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
+緯來戲劇,http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
+緯來育樂,rtmp://161.202.204.248/sat/tv701
+緯來體育,rtmp://161.202.204.248/sat/tv721#http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
+愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8     
+愛爾體育1,rtmp://161.202.204.248/sat/md041#rtmp://59.124.75.153:1935/sat/md041#rtmp://161.202.204.248/sat/md011#rtmp://59.124.75.153:1935/sat/md011
+愛爾體育2,rtmp://161.202.204.248/sat/md031#rtmp://59.124.75.153:1935/sat/md031
+愛爾體育3,rtmp://59.124.75.153:1935/sat/md051#rtmp://161.202.204.248/sat/md051
+ELEVEN體育一台,rtmp://161.202.204.248/sat/tv731#http://125.227.210.37:10677/VideoInput/play.ts
+ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
+博斯運動I,rtmp://59.124.75.153:1935/sat/md011
+博斯網球,rtmp://59.124.75.153:1935/sat/md021
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+TVBS歡樂台,rtmp://161.202.204.248/sat/tv421#rtmp://59.124.75.153:1935/sat/tv421
+TVBS新聞台,rtmp://161.202.204.248/sat/tv551#http://125.227.210.55:16329/VideoInput/play.ts
+中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
+非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
+壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
+亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
+ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+天映頻道,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+衛視電影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+東森電影HD,http://107.167.5.66:80/mylive/102/2062/index.m3u8
+緯來電影HD,http://107.167.5.66:80/mylive/102/2063/index.m3u8#http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
+LSTime電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
+HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8#http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8#http://50.7.61.148:30080/Entry/hbo
+HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
+東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
+緯來電影,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
+AXN,http://50.7.61.148:30080/Entry/axn
+
+CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+FOX電影,http://60.251.59.179:8527/xoxo.m3u8#http://60.251.59.179:8504/xoxo.m3u8
+FX HD,http://125.227.210.55:13498/VideoInput/play.ts
+HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+Channel [V],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+國家地理,http://125.227.210.55:16408/VideoInput/play.ts#http://125.227.210.37:16408/VideoInput/play.ts
+NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+Discovery,http://125.227.210.55:10388/VideoInput/play.ts#http://125.227.210.37:10388/VideoInput/play.ts
+FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
+優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
+Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+Disney,http://125.227.210.55:14250/VideoInput/play.ts#http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+星空衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+CNBC,http://125.227.210.55:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
+TVN HD,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
+CBS2 720,rtmp://161.202.204.248:1935/sat/us011
+亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
+BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+NEWS,http://125.227.210.55:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
+
+
+新闻@频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
@@ -148,121 +264,6 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 星空卫视,rtmp://118.163.221.79/channel/6100349af0618408855f372f?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 
-
-台灣☒頻道,#genre#
-民視,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
-民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
-民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
-民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
-民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
-民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
-民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
-台視HD,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
-台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
-中視,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
-中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
-中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
-中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-華視,rtmp://161.202.204.248:1935/sat/tv111
-華視教育體育文化 HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-華視新聞資訊 HD,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
-公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
-三立台灣,http://125.227.210.55:15714/VideoInput/play.ts#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-衛視中文台,http://50.7.61.148:30080/Entry/starchinese
-三立新聞,http://125.227.210.55:15589/VideoInput/play.ts#http://seb.sason.top/sc/sllive_fhd.m3u8
-三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
-寰宇新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-MAVlife,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-MoMo綜合台,rtmp://59.124.75.153/sat/tv761#http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-東森超視,rtmp://59.124.75.153/sat/tv771
-東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts#http://125.227.210.37:17524/VideoInput/play.ts
-東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
-東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8
-緯來日本,rtmp://161.202.204.248:1935/sat/tv521
-緯來綜合,http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
-緯來戲劇,http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
-緯來育樂,rtmp://161.202.204.248/sat/tv701
-緯來體育,rtmp://161.202.204.248/sat/tv721#http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
-愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8     
-愛爾體育1,rtmp://161.202.204.248/sat/md041#rtmp://59.124.75.153:1935/sat/md041#rtmp://161.202.204.248/sat/md011#rtmp://59.124.75.153:1935/sat/md011
-愛爾體育2,rtmp://161.202.204.248/sat/md031#rtmp://59.124.75.153:1935/sat/md031
-愛爾體育3,rtmp://59.124.75.153:1935/sat/md051#rtmp://161.202.204.248/sat/md051
-ELEVEN體育一台,rtmp://161.202.204.248/sat/tv731#http://125.227.210.37:10677/VideoInput/play.ts
-ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
-博斯運動I,rtmp://59.124.75.153:1935/sat/md011
-博斯網球,rtmp://59.124.75.153:1935/sat/md021
-魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-TVBS歡樂台,rtmp://161.202.204.248/sat/tv421#rtmp://59.124.75.153:1935/sat/tv421
-TVBS新聞台,rtmp://161.202.204.248/sat/tv551#http://125.227.210.55:16329/VideoInput/play.ts
-中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
-中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
-非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
-壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
-亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
-ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-天映頻道,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-衛視電影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
-東森電影HD,http://107.167.5.66:80/mylive/102/2062/index.m3u8
-緯來電影HD,http://107.167.5.66:80/mylive/102/2063/index.m3u8#http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
-LSTime電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
-HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8#http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8#http://50.7.61.148:30080/Entry/hbo
-HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
-東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
-緯來電影,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
-AXN,http://50.7.61.148:30080/Entry/axn
-
-CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-FOX電影,http://60.251.59.179:8527/xoxo.m3u8#http://60.251.59.179:8504/xoxo.m3u8
-FX HD,http://125.227.210.55:13498/VideoInput/play.ts
-HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-Channel [V],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-國家地理,http://125.227.210.55:16408/VideoInput/play.ts#http://125.227.210.37:16408/VideoInput/play.ts
-NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-Discovery,http://125.227.210.55:10388/VideoInput/play.ts#http://125.227.210.37:10388/VideoInput/play.ts
-FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
-優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-Disney,http://125.227.210.55:14250/VideoInput/play.ts#http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-星空衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-CNBC,http://125.227.210.55:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
-TVN HD,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
-CBS2 720,rtmp://161.202.204.248:1935/sat/us011
-亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
-BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
-Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
-NEWS,http://125.227.210.55:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
 
 
 马来@50,#genre#
