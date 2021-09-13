@@ -170,20 +170,13 @@ http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-language="Chinese" group-title="電影" ,HBO HD
 http://125.227.210.55:16027/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits                                                                                                                                    
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-
-
-
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8    
 #EXTINF:-1 tvg-id="" tvg-name="卫视洋片" tvg-logo="" group-title="電影",卫视洋片
-http://125.227.210.55:18789/VideoInput/play.ts
-
+http://125.227.210.55:18789/VideoInput/play.ts            
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="https://img.isuper.tv/live-tv/channel/ebc-emovie-live.jpg" tvg-language="Chinese" group-title="電影",東森洋片
-http://125.227.210.55:18685/VideoInput/play.ts
-
+http://125.227.210.55:18685/VideoInput/play.ts    
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN
 http://50.7.61.148:30080/Entry/axn
-#EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits(備1)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="6089" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-language="Chinese" group-title="電影" ,CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="電影" ,FOX電影
