@@ -187,7 +187,7 @@ MoMo綜合台,rtmp://59.124.75.153/sat/tv761#http://58.99.33.16:1935/liveedge17/
 緯來綜合,http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 緯來戲劇,http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
 緯來育樂,rtmp://161.202.204.248/sat/tv701
-緯來體育,rtmp://161.202.204.248/sat/tv721
+緯來體育,rtmp://161.202.204.248/sat/tv721#http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8     
 愛爾體育1,rtmp://161.202.204.248/sat/md041#rtmp://59.124.75.153:1935/sat/md041#rtmp://161.202.204.248/sat/md011#rtmp://59.124.75.153:1935/sat/md011
@@ -228,7 +228,7 @@ HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u
 AXN,http://50.7.61.148:30080/Entry/axn
 
 CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-FOX電影,http://60.251.59.179:8506/xoxo.m3u8#http://60.251.59.179:8543/xoxo.m3u8#http://60.251.59.179:8504/xoxo.m3u8
+FOX電影,http://60.251.59.179:8527/xoxo.m3u8#http://60.251.59.179:8504/xoxo.m3u8
 FX HD,http://125.227.210.55:13498/VideoInput/play.ts
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel [V],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
@@ -255,6 +255,7 @@ Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 CNBC,http://125.227.210.55:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
 TVN HD,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
 CBS2 720,rtmp://161.202.204.248:1935/sat/us011
 亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
