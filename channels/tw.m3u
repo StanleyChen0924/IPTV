@@ -157,11 +157,11 @@ http://125.227.210.55:18685/VideoInput/play.ts
 http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN
 http://50.7.61.148:30080/Entry/axn
-#EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO
-http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO(備1)
-http://107.167.5.66:80/mylive/102/2065/index.m3u8
+http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO(備2)
+http://107.167.5.66:80/mylive/102/2065/index.m3u8
+#EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO(備3)
 http://50.7.61.148:30080/Entry/hbo
 #EXTINF:-1 tvg-id="6152" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-language="Chinese" group-title="電影" ,HBO HD
 http://125.227.210.55:16027/VideoInput/play.ts
