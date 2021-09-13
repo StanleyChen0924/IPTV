@@ -216,6 +216,10 @@ BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 天映頻道,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 衛視電影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+東森電影HD,http://107.167.5.66:80/mylive/102/2062/index.m3u8
+緯來電影,http://107.167.5.66:80/mylive/102/2063/index.m3u8#http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
+東森電影HD,http://107.167.5.66:80/mylive/102/2064/index.m3u8
+
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
 緯來電影,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
