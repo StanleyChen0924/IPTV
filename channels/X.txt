@@ -219,14 +219,14 @@ BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 東森電影HD,http://107.167.5.66:80/mylive/102/2062/index.m3u8
 緯來電影HD,http://107.167.5.66:80/mylive/102/2063/index.m3u8#http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 LSTime電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
-
+HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8#http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8#http://50.7.61.148:30080/Entry/hbo
+HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
 緯來電影,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 AXN,http://50.7.61.148:30080/Entry/axn
-HBO,http://50.7.61.148:30080/Entry/hbo#http://107.167.5.66:80/mylive/102/2065/index.m3u8#http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
 CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 FOX電影,http://60.251.59.179:8506/xoxo.m3u8#http://60.251.59.179:8543/xoxo.m3u8#http://60.251.59.179:8504/xoxo.m3u8
 FX HD,http://125.227.210.55:13498/VideoInput/play.ts
