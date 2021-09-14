@@ -141,7 +141,7 @@ http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 #EXTINF:-1 tvg-id="6172" tvg-name="亞洲旅遊台" tvg-logo="" group-title="一般",亞洲旅遊台
 http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="智林體育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",智林體育台
+#EXTINF:-1 tvg-id="智林体育" tvg-name="智林體育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="一般",智林體育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6147" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" , BBC lifestyle
