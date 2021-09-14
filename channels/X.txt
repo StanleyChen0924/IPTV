@@ -75,7 +75,6 @@ HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8#htt
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
 緯來電影,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 AXN,http://50.7.61.148:30080/Entry/axn
-
 CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 FOX電影,http://60.251.59.179:8527/xoxo.m3u8#http://60.251.59.179:8504/xoxo.m3u8
 FX HD,http://125.227.210.55:13498/VideoInput/play.ts
@@ -102,6 +101,7 @@ Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 星空衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 CNBC,http://125.227.210.55:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
+ONE,http://210.210.155.35/uq2663/h/h143/01.m3u8
 TVN HD,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
