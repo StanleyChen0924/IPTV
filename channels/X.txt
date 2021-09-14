@@ -608,8 +608,8 @@ CCTV17 5.5M1080HEVC[1920*1080],http://223.110.245.151/ott.js.chinamobile.com/PLT
 黑龙江卫视 3M1080[1920*1080],http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8
 黑龙江卫视 5.5M1080HEVC[1920*1080],http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
 黑龙江卫视 8M1080[1920*1080],http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227638/index.m3u8
-SiTV动漫秀场 4M1080[1920*1080],http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
-SiTV都市剧场 4M1080[1920*1080],http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
+SITV动漫秀场 4M1080[1920*1080],http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
+SITV都市剧场 4M1080[1920*1080],http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
 NewTV潮妈辣婆 4M1080[1920*1080],http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
 NewTV中国功夫 4M1080[1920*1080],http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
 NewTV怡伴健康 4M1080[1920*1080],http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227612/index.m3u8
