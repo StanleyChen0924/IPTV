@@ -131,7 +131,6 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="一般",TLC旅遊生活頻道
 http://125.227.210.55:19020/VideoInput/play.ts
-
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="一般",FOX
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",Food亞洲美食
@@ -149,7 +148,7 @@ http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6147" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" , BBC lifestyle
-http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8      
+http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="一般",ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
@@ -177,11 +176,11 @@ http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-language="Chinese" group-title="電影" ,HBO HD
 http://125.227.210.55:16027/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits                                                                                                                                    
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8    
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卫视洋片" tvg-logo="" group-title="電影",卫视洋片
-http://125.227.210.55:18789/VideoInput/play.ts            
+http://125.227.210.55:18789/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-language="Chinese" group-title="電影",東森洋片
-http://125.227.210.55:18685/VideoInput/play.ts    
+http://125.227.210.55:18685/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN
 http://50.7.61.148:30080/Entry/axn
 #EXTINF:-1 tvg-id="6089" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-language="Chinese" group-title="電影" ,CINEMAX
@@ -192,7 +191,7 @@ http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 http://60.251.59.179:8527/xoxo.m3u8
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="電影" ,FOX電影(備2)
 http://60.251.59.179:8504/xoxo.m3u8
-#EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" group-title="電影" ,FX HD 
+#EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" group-title="電影" ,FX HD
 http://125.227.210.55:13498/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="一般",Astro 歡喜
@@ -256,7 +255,7 @@ http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="511" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="一般", 星空衛視
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,亞美衛視  
+#EXTINF:-1 ,亞美衛視
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SiTV",SiTV動漫秀場 4M1080[1920*1080
