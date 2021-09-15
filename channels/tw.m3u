@@ -14,8 +14,8 @@ http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv07_mobile.png",民視旅遊
 http://seb.sason.top/ptv/ftv.php?id=ly
 
-#EXTINF:-1 tvg-id="7145" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" ,RESOLUTION=1280x720,民視綜藝
-#EXT-X-STREAM-INF:PROGRAM-ID=3,BANDWIDTH=2481984
+#EXTINF:-1 tvg-id="7145" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" ,民視綜藝
+#EXT-X-STREAM-INF:PROGRAM-ID=3,BANDWIDTH=2481984,RESOLUTION=1280x720
 http://seb.sason.top/ptv/ftv.php?id=zy
 
 #EXTINF:-1 tvg-id="6026" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台視HD
