@@ -919,6 +919,11 @@ kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
 
 
 p5p@Test_710924,#genre#
+
+SWAG,https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
+东京热,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0436/index.m3u8
+一本道,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
+HEYZO,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
 彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
 彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
 (无)Look TV,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
@@ -938,7 +943,6 @@ HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 松视2台,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
 彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
 极限电影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-
 #__#
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
