@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+#EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="7134" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" tvg-language="Chinese" group-title="一般",民視台灣
@@ -12,6 +13,7 @@ http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv07_mobile.png",民視旅遊
 http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1 tvg-id="7145" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png",民視綜藝
+#EXT-X-STREAM-INF:BANDWIDTH=2481984,AVERAGE-BANDWIDTH=2256350,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-id="6026" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台視HD
 rtmp://161.202.204.248/sat/tv071
