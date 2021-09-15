@@ -1,18 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="",RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
 
-
-#EXTINF:-1,L901995
-http://10gbps.tech:80/jun040/L901513zz/179995
-
-#EXTINF:-1,Young Hollywood (720p)
-https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
-#EXTINF:-1,3ATV3ATV官網
-https://play3166.com/20201210/CVkX0cuV/index.m3u8
-#EXTINF:-1,HOT
-http://185.236.229.21:9981/play/a03p
-
-
-
+#EXTINF:-1,30xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82772.mp4
+#EXTINF:-1,29xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82771.mp4
 #EXTINF:-1,28xxxalyazi.agustos
 http://satlok.xyz:8000/movie/ggtt11/1802gg/82770.mp4
 #EXTINF:-1,27xxxalyazi.agustos
@@ -27,7 +20,66 @@ http://satlok.xyz:8000/movie/ggtt11/1802gg/82766.mp4
 http://satlok.xyz:8000/movie/ggtt11/1802gg/82765.mp4
 #EXTINF:-1,22xxxalyazi.agustos
 http://satlok.xyz:8000/movie/ggtt11/1802gg/82764.mp4
+#EXTINF:-1,21xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82763.mp4
+#EXTINF:-1,21xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82762.mp4
+#EXTINF:-1,20xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82761.mp4
+#EXTINF:-1,19xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82760.mp4
+#EXTINF:-1,18xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82750.mp4
+#EXTINF:-1,21xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82749.mp4
+#EXTINF:-1,20xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82748.mp4
+#EXTINF:-1,19xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82747.mp4
+#EXTINF:-1,18xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82746.mp4
+#EXTINF:-1,17xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82745.mp4
+#EXTINF:-1,16xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82744.mp4
+#EXTINF:-1,15xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82743.mp4
+#EXTINF:-1,14xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82742.mp4
+#EXTINF:-1,13xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82741.mp4
+#EXTINF:-1,12xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82740.mp4
+#EXTINF:-1,11xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82739.mp4
+#EXTINF:-1,10xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82738.mp4
+#EXTINF:-1,09xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82737.mp4
+#EXTINF:-1,08xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82736.mp4
+#EXTINF:-1,07xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82735.mp4
+#EXTINF:-1,06xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82734.mp4
+#EXTINF:-1,05xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82733.mp4
+#EXTINF:-1,04xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82732.mp4
+#EXTINF:-1,03xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82731.mp4
+#EXTINF:-1,02xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82730.mp4
+#EXTINF:-1,01xxxalyazi.agustos
+http://satlok.xyz:8000/movie/ggtt11/1802gg/82729.mp4
 
+
+#EXTINF:-1,Young Hollywood (720p)
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
+#EXTINF:-1,3ATV3ATV官網
+https://play3166.com/20201210/CVkX0cuV/index.m3u8
+#EXTINF:-1,HOT
+http://185.236.229.21:9981/play/a03p
 #EXTINF:-1 tvg-name="Kaloopy" tvg-logo="https://assets.streamtest.in/logo/2731/179_adultiptv-net-pov.jpg?v=1573512543", Kaloopy (18+)
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 #EXTINF:-1,XXX 2
