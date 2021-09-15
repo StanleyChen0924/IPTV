@@ -157,6 +157,9 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-language="Chinese" group-title="電影",天映經典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="526" tvg-name="卫视卡式台" group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQwup.png",衛視卡式台
+http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視電影HD
 http://107.167.5.66:80/mylive/102/2061/index.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="" group-title="電影",東森電影HD
