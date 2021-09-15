@@ -66,6 +66,7 @@ ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 天映頻道,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+衛視卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u
 衛視電影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 東森電影HD,http://107.167.5.66:80/mylive/102/2062/index.m3u8
 緯來電影HD,http://107.167.5.66:80/mylive/102/2063/index.m3u8#http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
