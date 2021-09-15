@@ -1,5 +1,7 @@
 ﻿台灣☒頻道,#genre#
-民視,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
+民視,rtmp://161.202.204.248/sat/tv051
+rtmp://161.202.204.248:1935/sat/tv051
+http://seb.sason.top/ptv/ftv.php?id=ms
 民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
 民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
