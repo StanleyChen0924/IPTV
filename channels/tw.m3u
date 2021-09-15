@@ -12,6 +12,10 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv07_mobile.png",民視旅遊
 http://seb.sason.top/ptv/ftv.php?id=ly
+
+#EXTINF:-1 BANDWIDTH=2481984,AVERAGE-BANDWIDTH=2256350,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000 tvg-id="7145" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" ,RESOLUTION=1280x720,FRAME-RATE=30.000,民視綜藝
+http://seb.sason.top/ptv/ftv.php?id=zy
+
 #EXTINF:-1 tvg-id="7145" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" ,RESOLUTION=1280x720,FRAME-RATE=30.000,民視綜藝
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXT-X-STREAM-INF:BANDWIDTH=2481984,AVERAGE-BANDWIDTH=2256350,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000
