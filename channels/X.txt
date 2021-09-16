@@ -115,7 +115,6 @@ Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 NEWS,http://125.227.210.55:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
 
-
 新闻@频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
@@ -176,13 +175,48 @@ FX HD,http://125.227.210.55:13498/VideoInput/play.ts
 电影21_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 电影44_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 
+央視@高清,#genre#
+CCTV1 8M1080HEVC[1920*1080],http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
+CCTV1 8M1080[1920*1080],http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
+CCTV2 5.5M1080HEVC[1920*1080],http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
+CCTV2 8M1080[1920*1080],http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+CCTV3 5.5M1080HEVC[1920*1080],http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
+CCTV4 5.5M1080HEVC[1920*1080],http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
+CCTV5 4M1080[1920*1080],http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227640/index.m3u8
+CCTV5 4M1080[1920*1080],http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+CCTV5 5.5M1080HEVC[1920*1080],http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
+CCTV5+ 5M1080HEVC[1920*1080],http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227685/index.m3u8
+CCTV5+ 5.5M1080HEVC[1920*1080],http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
+CCTV5+ 8M1080[1920*1080],http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
+CCTV6 5.5M1080HEVC[1920*1080],http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
+CCTV7 8M1080[1920*1080],http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
+CCTV8 4M1080[1920*1080],http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+CCTV8 5.5M1080HEVC[1920*1080],http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
+CCTV8 8M1080[1920*1080],http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8
+CCTV9 5M1080HEVC[1920*1080],http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227704/index.m3u8
+CCTV9 5.5M1080HEVC[1920*1080],http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
+CCTV9 8M1080[1920*1080],http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
+CCTV10 3M1080[1920*1080],http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8
+CCTV10 5.5M1080HEVC[1920*1080],http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
+CCTV10 8M1080[1920*1080],http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
+CCTV11 2.5M1080[1920*1080],http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
+CCTV11 5.5M1080HEVC[1920*1080],http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
+CCTV12 5.5M1080HEVC[1920*1080],http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
+CCTV12 8M1080[1920*1080],http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+CCTV13 4M1080[768*576],http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+CCTV14 5.5M1080HEVC[1920*1080],http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+CCTV14 8M1080[1920*1080],http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
+CCTV15 3.5M1080[1920*1080],http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
+CCTV15 5.5M1080HEVC[1920*1080],http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+CCTV17 4M1080[1920*1080],http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
+CCTV17 5.5M1080HEVC[1920*1080],http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
+
 4K©高清,#genre#
 凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文 10M1080,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰资讯 10M1080,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯 10M1080,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-
 凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港 10M1080,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
 湖南卫视,http://39.134.155.163/PLTV/88888888/224/3221225667/index.m3u8
@@ -192,7 +226,6 @@ FX HD,http://125.227.210.55:13498/VideoInput/play.ts
 浙江卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
 东方卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
 北京卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
-
 淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 淘萌宠,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
@@ -271,8 +304,6 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 星空卫视,rtmp://118.163.221.79/channel/6100349af0618408855f372f?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 
-
-
 马来@50,#genre#
 Astro 欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
@@ -311,7 +342,6 @@ Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
-
 日本©頻道,#genre#
 NHK WORLD TV[1920*1080],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK Chinese Vision[1280*720],https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -330,7 +360,6 @@ Tokyo MX 2[1280*720][1280*720],http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 テレビ東京[1280*720][1280*720],http://203.162.235.41:16908
 フジテレビ[1280*720][1280*720],http://203.162.235.41:16904
 
-
 韩国©頻道,#genre#
 TVN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
@@ -348,7 +377,6 @@ YTN[1920*1080],http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist
 가요TV[1920*1080][1920*1080],http://gayotv.net:1935/live/gayotv/playlist.m3u8
 KBC 광주방송(SBS 光州)[1920*1080][1920*1080],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 KBS World[1920*1080][1920*1080],http://125.227.210.55:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
-
 TJB 대전방송(SBS 大田)[1280*720][1280*720],http://1.245.74.5:1935/live/tv/.m3u8
 arirang[1280*720],http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 Arirang[1280*720],http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
@@ -369,8 +397,6 @@ Animax HD[1280*720],https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunkli
 AnimaxHD[1280*720],https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 KBS World[1024*576][1024*576],https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
-
-
 海外©頻道,#genre#
 HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel V[1280*720],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
@@ -386,11 +412,9 @@ FOXLife,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 Outdoor,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
 CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-
 WarnerTV HD,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 HISTORY HD,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 H2 HD,https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
@@ -400,16 +424,13 @@ Fox Sport2,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-
 Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
-
 
 體育©頻道,#genre#
 CCTV5[1280*720],http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
@@ -425,7 +446,6 @@ CCTV5+[1920*1080],http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&
 CCTV5+[1920*1080],http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+[1920*1080],http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-
 ELEVEN+[1280*720],rtmp://59.124.75.153/sat/md021
 爱尔达体育1[1280*720],rtmp://59.124.75.153/sat/md011
 博斯运动2[1280*720],rtmp://59.124.75.153/sat/md051
@@ -443,7 +463,6 @@ NBA HD[1280*720],https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 山东体育[1920*1080][1920*1080],http://livealone302.iqilu.com/iqilu/typd.m3u8
 弈坛春秋[1047*576][1047*576],http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
 吉林篮球[1047*576][1047*576],http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
-
 BeIN3 Premium,http://1.yaciaptk.xyz/live/6151278887/index.m3u8
 BEIN1,http://7.yaciaptk.xyz/live/33523510/index.m3u8
 BeIN3,http://55.abdakaroukhai.xyz/live/6151278887/index.m3u8
@@ -457,12 +476,9 @@ TNTSPORTS 3[1280*720],https://glxlmn026c.singularcdn.net.br/playout_03/playlist-
 TNTSPORTS 4[1280*720],https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 Canal+ Sport HD[1280*720],http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-
 NBA HD[1280*720],https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 UFC 3[1280*720][1280*720],https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 Sports[1280*720][1280*720],https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-
-
 
 TVB轮播@埋堆,#genre#
 埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8 
@@ -527,7 +543,6 @@ TVB轮播@埋堆,#genre#
 埋堆堆66,http://121.12.115.162/txdirect.hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8 
 埋堆堆67,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8 
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
-
 
 回看@江苏PLTV移动CDN修改版,#genre#
 4K花园娱乐 24M2160[3840*2160],http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
@@ -659,6 +674,7 @@ NewTV明星大片 4M1080[1920*1080],http://223.110.243.152/ott.js.chinamobile.co
 江西风尚购物 4M1080[1920*1080],http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227539/index.m3u8
 江苏好享购物 4M1080[1920*1080],http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
 5G购 2M1080[3840*2144],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
+
 回看@卫视超清PLTV,#genre#
 CCTV1 8M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 CCTV2 8M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
@@ -737,9 +753,9 @@ SiTV都市剧场 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226192/index.m3u8
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
+
 回看@福建PLTV移动CDN修改版,#genre#
 北京影视[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
-http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 北京文艺[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
 北京青年[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
 北京生活[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
@@ -879,6 +895,7 @@ CGTN纪录 576[785*576],http://39.134.155.141/PLTV/88888888/224/3221225507/index
 湖南金鹰卡通 4M576[1047*576],http://39.134.155.145/PLTV/88888888/224/3221225618/index.m3u8
 湖南金鹰纪实 4M576[768*576],http://39.134.155.135/PLTV/88888888/224/3221225623/index.m3u8
 果洛 4M576[1280*720],http://39.134.155.149/PLTV/88888888/224/3221225662/index.m3u8
+
 爱上@卫视,#genre#
 CCTV1 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
 CCTV2 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
@@ -915,8 +932,6 @@ CHC高清电影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00
 
 Music@Test,#genre#
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
-
 
 p5p@Test_710924,#genre#
 彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
@@ -938,12 +953,10 @@ HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 松视2台,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
 彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
 极限电影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-
 SWAG,https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
 东京热,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0436/index.m3u8
 一本道,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
 HEYZO,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
-
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
