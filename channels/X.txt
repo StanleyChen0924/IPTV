@@ -70,7 +70,7 @@ BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 衛視電影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 東森電影HD,http://107.167.5.66:80/mylive/102/2062/index.m3u8
 緯來電影HD,http://107.167.5.66:80/mylive/102/2063/index.m3u8#http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
-LSTime電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
+龍祥電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8#http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8#http://50.7.61.148:30080/Entry/hbo
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts#http://125.227.210.37:16027/VideoInput/play.ts
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
@@ -104,7 +104,7 @@ Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 CNBC,http://125.227.210.55:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
 ONE,http://210.210.155.35/uq2663/h/h143/01.m3u8#http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8#http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-TVN HD,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
 CBS2 720,rtmp://161.202.204.248:1935/sat/us011
