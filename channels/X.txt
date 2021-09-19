@@ -1,24 +1,15 @@
 ﻿台灣☒頻道,#genre#
 民視,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
-民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
-民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
 民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5
 民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts
-民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5
-民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts
-民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts
 
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 民視台灣台,p5p://fccs.123178.top:9906/6044825e000bd32801b024b2f4ff7f01.ts
-民視台灣台,p5p://fccs.123178.top:9906/6044825e000bd32801b024b2f4ff7f01.ts
-民視台灣台,p5p://fccs.123178.top:9906/6044825e000bd32801b024b2f4ff7f01.ts
 
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
-民視第一台,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
-民視第一台,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
 民視第一台,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
 
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
@@ -27,24 +18,13 @@
 
 台視 HD,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
 台視 HD,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
-台視 HD,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
-台視 HD,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
 
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
-台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
-台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
 
 台視財經,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
-台視財經,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
-台視財經,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
-
-台視綜合,p5p://fccs.123178.top:9906/6044936700021fe101f2ad5ea50e836e.ts
-台視綜合,p5p://fccs.123178.top:9906/6044936700021fe101f2ad5ea50e836e.ts
 
 中視,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
-中視,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
-中視,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
 中視,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
 
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
@@ -55,7 +35,6 @@
 中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
 
 華視,rtmp://161.202.204.248:1935/sat/tv111
-華視,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
 
 華視教育體育文化 HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視教育體育文化,p5p://fccs.123178.top:9906/60448b33000df9b601d2a54784a00d4b.ts
@@ -77,42 +56,31 @@
 
 DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 
-三立台灣,http://125.227.210.55:15714/VideoInput/play.ts#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
 三立台灣,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts#http://seb.sason.top/sc/sllive_fhd.m3u8
 三立新聞,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8.ts
 三立新聞,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8
-三立新聞,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8
-三立新聞,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8.ts
 
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 
 三立財經,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
-三立財經,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
-三立財經,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 
-衛視中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 衛視中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 
 寰宇新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 寰宇新聞台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
-寰宇新聞台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
-寰宇新聞台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
-寰宇新聞台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
-寰宇新聞台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
 
 寰宇新聞二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
-寰宇新聞二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
-寰宇新聞二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
-寰宇新聞二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
-寰宇新聞二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
 
-寰宇財經新聞新聞,p5p://fccs.123178.top:9906/60434e97000581d106ddccac446ea89d
 寰宇財經新聞新聞,p5p://fccs.123178.top:9906/60434e97000581d106ddccac446ea89d
 寰宇財經新聞新聞,p5p://fccs.123178.top:9906/60434e97000581d106ddccac446ea89d.ts
 
