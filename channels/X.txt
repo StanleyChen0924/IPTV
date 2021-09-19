@@ -104,49 +104,39 @@ MoMo綜合台,rtmp://59.124.75.153/sat/tv761#http://58.99.33.16:1935/liveedge17/
 東森財經,p5p://fccs.123178.top:9906/60435ba7000123740710d20d0fa4a082.ts
 東森財經,p5p://fccs.123178.top:9906/60435ba7000123740710d20d0fa4a082
 
-東森綜合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
 
 緯來日本,rtmp://59.124.75.153/sat/tv771
 緯來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
-緯來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
-緯來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
 
 緯來綜合,http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
-緯來綜合,p5p://fccs.123178.top:9906/6045be33000be06a0681dcbdb39f2973.ts
 緯來綜合,p5p://fccs.123178.top:9906/6045be33000be06a0681dcbdb39f2973.ts
 
 緯來戲劇,http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
 緯來戲劇,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-緯來戲劇,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
 
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
 
-緯來精彩,p5p://fccs.123178.top:9906/6044a30800006812022fb9d6202c684d.ts
 緯來精彩,p5p://fccs.123178.top:9906/6044a30800006812022fb9d6202c684d.ts
 
 緯來體育,rtmp://161.202.204.248/sat/tv721#http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
 緯來體育,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
-緯來體育,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
-緯來體育,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
 
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
-國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
-國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 
-JET综合,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
 JET综合,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
 
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8     
 愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
 
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-愛爾達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 
-愛爾體育1,rtmp://161.202.204.248/sat/md041#rtmp://59.124.75.153:1935/sat/md041#rtmp://161.202.204.248/sat/md011#rtmp://59.124.75.153:1935/sat/md011
+愛爾體育1,rtmp://161.202.204.248/sat/md011
+愛爾體育1,rtmp://59.124.75.153:1935/sat/md011
+愛爾體育1,rtmp://161.202.204.248/sat/md041
+愛爾體育1,rtmp://59.124.75.153:1935/sat/md041
+愛爾體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 愛爾體育1,p5p://fccs.123178.top:9906/6044229300000d0a0039f0b6a59d1511.ts
 愛爾體育1,p5p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts
 
