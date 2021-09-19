@@ -261,6 +261,9 @@ FOXCRIME,p5p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
 FX HD,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel [V],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+Channel V,p5p://fccs.123178.top:9906/6068a12900029e3a13556dc2ad58c3d5.ts
+Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
+Channel V,p5p://fccs.123178.top:9906/60494a1e0001d684145c682429cd1a38.ts
 國家地理,http://125.227.210.55:16408/VideoInput/play.ts#http://125.227.210.37:16408/VideoInput/play.ts
 NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 
@@ -306,9 +309,6 @@ Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 
 BOOMERANG,p5p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
-Channel V,p5p://fccs.123178.top:9906/6068a12900029e3a13556dc2ad58c3d5.ts
-Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
-Channel V,p5p://fccs.123178.top:9906/60494a1e0001d684145c682429cd1a38.ts
 
 thrill電影台,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
 KIX,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
