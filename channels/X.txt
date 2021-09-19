@@ -226,8 +226,8 @@ BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 緯來電影,http://107.167.5.66:80/mylive/102/2063/index.m3u8#http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 緯來電影,p5p://fccs.123178.top:9906/611ee70200084d5b03377d42bd45bfec
 
-龍祥電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
+龍祥時代電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8#http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8#http://50.7.61.148:30080/Entry/hbo
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts#http://125.227.210.37:16027/VideoInput/play.ts
@@ -235,6 +235,7 @@ HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8#htt
 
 好萊塢電影,p5p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
+衛視洋片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
 
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
 東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
@@ -302,7 +303,7 @@ KIX,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
 罪案偵緝頻道,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
 
 CinemaWorld,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
-衛視西片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
+
 BLUE ANT EXTREME,p5p://fccs.123178.top:9906/60441771000d4807000e774ad2f62e16.ts
 Comedy Central Asia,p5p://fccs.123178.top:9906/6044183b000d06f700118c4956df7f03.ts
 CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
