@@ -146,33 +146,30 @@ JET综合,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
 愛爾體育3,p5p://fccs.123178.top:9906/610cc7a400025e110a1a334e80dad40f
 愛爾體育3,rtmp://59.124.75.153:1935/sat/md051
 愛爾體育3,rtmp://161.202.204.248/sat/md051
-愛爾體育3,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
 愛爾體育3,p5p://fccs.123178.top:9906/60443bfe00066777009d3c4f69ab187b.ts
 
-ELEVEN體育一台,rtmp://161.202.204.248/sat/tv731#http://125.227.210.37:10677/VideoInput/play.ts
+ELEVEN體育一台,rtmp://161.202.204.248/sat/tv731
+ELEVEN體育一台,http://125.227.210.37:10677/VideoInput/play.ts
 ELEVEN體育一台,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 
 ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 ELEVEN體育二台,p5p://fccs.123178.top:9906/60447228000e0e420170d2547df9954a.ts
 
-博斯運動I,rtmp://59.124.75.153:1935/sat/md011
 博斯網球,rtmp://59.124.75.153:1935/sat/md021
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda
-TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
 
-TVBS新聞台,rtmp://161.202.204.248/sat/tv551#http://125.227.210.55:16329/VideoInput/play.ts
+TVBS新聞台,rtmp://161.202.204.248/sat/tv551
+TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,p5p://fccs.123178.top:9906/6075902e00016792114a73588fb745ba
 TVBS新聞台,p5p://fccs.123178.top:9906/60435300000abe3e06ef082bf48727a4.ts
-TVBS精彩台,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 
-TVBS歡樂台,rtmp://161.202.204.248/sat/tv421#rtmp://59.124.75.153:1935/sat/tv421
-TVBS歡樂台,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1.ts
+TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
+TVBS歡樂台,rtmp://59.124.75.153:1935/sat/tv421
 TVBS歡樂台,p5p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts
 
-八大第一,p5p://fccs.123178.top:9906/6044d526000cfe3b02f3823f7bc7c9f8.ts
 八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
 
 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
@@ -181,14 +178,11 @@ TVBS歡樂台,p5p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts
 
 八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
 
-中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
-中天娛樂台,p5p://fccs.123178.top:9906/6044982d0007f3370205544c4cfdaaad.ts
+中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
+中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
 中天娛樂台,p5p://fccs.123178.top:9906/611b007f000176330de407af7d789687
 
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-中天新聞,p5p://fccs.123178.top:9906/60e5b23b00079f880cad9e8953b1922a
-中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
-中天新聞,p5p://174.128.239.254:16871/5f2f9178000c4ec022496d33f280ef95
 中天新聞,p5p://fccs.123178.top:9906/6108751d000ce82f133327c1075ab46a
 
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
@@ -350,6 +344,8 @@ Fox福斯家庭,p5p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
 Fox福斯家庭,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 FOX CRIME福斯警匪,p5p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
 FOX CRIME福斯警匪,p5p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
+FOX CRIME福斯警匪,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
+
 Outdoor,p5p://fccs.123178.top:9906/60434713000a12a206c07237b306369a
 Outdoor,p5p://fccs.123178.top:9906/60434713000a12a206c07237b306369a
 Outdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3.ts
