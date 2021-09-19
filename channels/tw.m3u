@@ -68,7 +68,7 @@ https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1 tvg-id="6093" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台
 rtmp://59.124.75.153/sat/tv761
 #EXTINF:-1 tvg-id="6051" tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png" ,東森超視
-rtmp://59.124.75.153/sat/tv771
+rtmp://59.124.75.153/sat/tv521
 #EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",東森戲劇
 http://125.227.210.55:17524/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",東森戲劇(備1)
@@ -78,7 +78,7 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6095" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png",緯來日本
-rtmp://161.202.204.248:1935/sat/tv521
+rtmp://161.202.204.248:1935/sat/tv771
 #EXTINF:-1 tvg-id="6044" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png",緯來綜合
 http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="6061" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png",緯來戲劇
