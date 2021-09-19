@@ -80,10 +80,7 @@ DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 寰宇新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 寰宇新聞台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
 
-寰宇新聞二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
-
-寰宇財經新聞新聞,p5p://fccs.123178.top:9906/60434e97000581d106ddccac446ea89d
-寰宇財經新聞新聞,p5p://fccs.123178.top:9906/60434e97000581d106ddccac446ea89d.ts
+寰宇新聞台灣台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
 
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 
