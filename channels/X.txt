@@ -252,11 +252,11 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 華納Warner TV,p5p://fccs.123178.top:9906/604414f400055b780004bcfa6ee82d22.ts
 
-FOX電影,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
-FOX電影,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
+FOXMOVIES,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
+FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 Fox福斯家庭,p5p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
 Fox福斯家庭,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
-FOX CRIME福斯警匪,p5p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
+FOXCRIME,p5p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
 
 FX HD,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
