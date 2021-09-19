@@ -39,7 +39,7 @@
 華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視教育體育文化,p5p://fccs.123178.top:9906/60448b33000df9b601d2a54784a00d4b.ts
 
-華視新聞資訊 HD,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 華視新聞資訊,p5p://fccs.123178.top:9906/60448d730005f21d01db6d390ab97993.ts
 
 公視,p5p://fccs.123178.top:9906/60448f540003197f01e2c366b8927af8.ts
