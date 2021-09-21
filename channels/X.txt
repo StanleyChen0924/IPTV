@@ -1,16 +1,22 @@
 ﻿台灣頻道,#genre#
 民視,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
+民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 
-民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
+民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
+民視新聞台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
+民視新聞台,http://luyutv.com/hdtv.m3u8
 民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5
 民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts
 
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 民視台灣台,p5p://fccs.123178.top:9906/6044825e000bd32801b024b2f4ff7f01.ts
+民視台灣台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
 
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視第一台,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
+民視第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
 
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
@@ -26,17 +32,23 @@
 
 中視,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
 中視,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
+中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
+中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 
 中視菁采台,p5p://fccs.123178.top:9906/6044887d000496a501c80bf0a54afd29
+中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 
 中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
+中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 
 華視,rtmp://161.202.204.248:1935/sat/tv111
 華視,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
+華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 
+華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視教育體育文化,p5p://fccs.123178.top:9906/60448b33000df9b601d2a54784a00d4b.ts
 
