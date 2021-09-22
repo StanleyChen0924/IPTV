@@ -181,6 +181,7 @@ TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,p5p://fccs.123178.top:9906/6075902e00016792114a73588fb745ba
 TVBS新聞台,p5p://fccs.123178.top:9906/60435300000abe3e06ef082bf48727a4.ts
 
+TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 TVBS歡樂台,p5p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts
 
 八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
