@@ -103,6 +103,7 @@
 
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+MOMO親子,tvbus://3CsobrbeJVBFbfnmMz8doKnM7fTAB6y9gUaDGgt6gwpQwytgFX
 
 東森超視,rtmp://161.202.204.248:1935/sat/tv521
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
