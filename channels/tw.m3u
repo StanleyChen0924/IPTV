@@ -67,9 +67,9 @@ http://seb.sason.top/sc/slinews_fhd.m3u8
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="新聞", 寰宇新聞台(備1)
 http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="6027" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" tvg-language="Chinese" group-title="一般",大愛1
+#EXTINF:-1 tvg-id="6027" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" tvg-language="Chinese" group-title="一般",大愛一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="6142" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" tvg-language="Chinese" group-title="一般",DaAi2
+#EXTINF:-1 tvg-id="6142" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" tvg-language="Chinese" group-title="一般",大愛二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="6027" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="一般", DaAi
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
