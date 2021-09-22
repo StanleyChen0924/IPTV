@@ -169,6 +169,7 @@ EYE戲劇,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
 愛爾體育3,p5p://fccs.123178.top:9906/60443bfe00066777009d3c4f69ab187b.ts
 
 ELEVEN體育一台,http://125.227.210.37:10677/VideoInput/play.ts
+ELEVEN體育一台,http://125.227.210.55:10677/VideoInput/play.ts
 ELEVEN體育一台,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 ELEVEN體育一台,rtmp://161.202.204.248/sat/tv731
 
