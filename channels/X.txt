@@ -22,9 +22,13 @@
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
+<<<<<<< Updated upstream
 
 台視,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
 
+=======
+台視HD,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071#http://60.251.59.180:8543/xoxo.m3u8
+>>>>>>> Stashed changes
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
 
@@ -289,6 +293,7 @@ CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Disney,http://125.227.210.55:14250/VideoInput/play.ts#http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 迪士尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+Cartoonito,http://212.102.60.76:80/o1/mono.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 霹靂台灣台,p5p://fccs.123178.top:9906/60443eff000b560c00a8f97ad079a022.ts
