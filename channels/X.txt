@@ -98,6 +98,9 @@
 寰宇新聞台灣台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
 
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
@@ -174,6 +177,7 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 
 博斯魅力,rtmp://161.202.204.248/sat/md021
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+博斯運動IIhttp://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda
@@ -290,8 +294,8 @@ ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
 星衛娛樂台,p5p://fccs.123178.top:9906/6044229300000d0a0039f0b6a59d1511.ts
 
-Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 Discovery,http://125.227.210.55:10388/VideoInput/play.ts#http://125.227.210.37:10388/VideoInput/play.ts
+Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
