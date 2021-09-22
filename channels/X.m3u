@@ -223,7 +223,7 @@ rtmp://161.202.204.248:1935/sat/tv111
 #EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台灣",TVBS欢乐台
 rtmp://161.202.204.248/sat/tv421
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台灣",纬来日本
-rtmp://161.202.204.248:1935/sat/tv521
+rtmp://161.202.204.248:1935/sat/tv771
 #EXTINF:-1 tvg-id="6044" tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg",緯來綜合
 http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="6061" tvg-logo="https://img.isuper.tv/live-tv/vl-japan-live.jpg",緯來戲劇
