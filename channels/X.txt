@@ -69,7 +69,7 @@
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛二台,p5p://fccs.123178.top:9906/60c5a836000cdeac10d361e80c6f7078
 
-DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+大愛,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
