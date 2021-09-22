@@ -5,7 +5,7 @@ rtmp://161.202.204.248/sat/tv051
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視(備1)
 http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視(備2)
-http://seb.sason.top/ptv/ftv.php?id=ms
+http://seb.sason.top/ptv/ftv.php?id=ms$JS1080P
 #EXTINF:-1 tvg-id="7134" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" tvg-language="Chinese" group-title="一般",民視台灣
 http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="6071" tvg-logo="https://i.imgur.com/6jbjVNy.png" tvg-language="Chinese" group-title="新聞",民視新聞台
