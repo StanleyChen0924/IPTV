@@ -362,7 +362,7 @@ BBC Lifestyle,p5p://fccs.123178.top:9906/604403fd0002ca1a09a262690b80ac95.ts
 BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 
 
-新聞频道,#genre#
+新聞頻道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
@@ -388,7 +388,7 @@ TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 
 
-电影频道,#genre#
+電影頻道,#genre#
 衛視電影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 東森電影HD,http://107.167.5.66:80/mylive/102/2062/index.m3u8
 緯來電影HD,http://107.167.5.66:80/mylive/102/2063/index.m3u8#http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
@@ -792,7 +792,7 @@ TVB輪播埋堆,#genre#
 埋堆堆67,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8 
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
-回看江蘇PLTV移動CDN修改版,#genre#
+回看江蘇PLTV,#genre#
 4K花园娱乐 24M2160[3840*2160],http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 凤凰中文 10M1080[1920*1080],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯 10M1080[1920*1080],http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
@@ -1002,7 +1002,7 @@ SiTV都市剧场 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
 
-回看福建PLTV移動CDN修改版,#genre#
+回看福建PLTV,#genre#
 北京影视[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
 北京文艺[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
 北京青年[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
@@ -1014,7 +1014,7 @@ SiTV都市剧场 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226
 卡酷少儿[1047*576],http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 北京通州[1280*720],http://pull.dayuntongzhou.com/live/tztv.m3u8
 
-回看青海PLTV西寧移動ip版,#genre#
+回看青海PLTV,#genre#
 纯享4K 20M2160[3840*2160],http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 CCTV1 4M1080[1920*1080],http://39.134.155.133/PLTV/88888888/224/3221225591/index.m3u8
 CCTV1 8M1080[1920*1080],http://39.134.155.133/PLTV/88888888/224/3221225658/index.m3u8
@@ -1182,6 +1182,77 @@ CHC高清电影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00
 Music,#genre#
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
+台灣備用,#genre#
+民視 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
+台視 HD,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
+台視財經,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
+台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
+中視 HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
+中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
+中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
+華視 HD,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
+好消息,p5p://fccs.123178.top:9906/60b575c30003189a05772bc6fbb8fc4f
+BOOMERANG,p5p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
+愛放動漫,p5p://fccs.123178.top:9906/60447b1e000e9a430193d36877b2a95b.ts
+凤凰中文,p5p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
+Animax HD,p5p://fccs.123178.top:9906/60447df7000cbc13019ef29677465e40.ts
+Animax HD,p5p://fccs.123178.top:9906/611a8d5a000710970c22409682924b74
+ANIMAX,p5p://fccs.123178.top:9906/606b4e4f0004a33a03ddafe180ec2c65.ts
+CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
+衛視電影台,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
+寰宇新聞台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
+寰宇新聞二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
+東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
+東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
+東森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
+三立財經,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
+三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
+TVBS精彩台,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
+八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
+年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
+緯來日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
+緯來戲劇,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
+緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
+好萊塢電影,p5p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
+龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
+天映電影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
+星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
+星衛HD電影,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
+thrill電影台,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
+KIX電影台,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
+罪案偵緝頻道,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
+華納Warner TV,p5p://fccs.123178.top:9906/604414f400055b780004bcfa6ee82d22.ts
+衛視西片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
+BLUE ANT EXTREME,p5p://fccs.123178.top:9906/60441771000d4807000e774ad2f62e16.ts
+FOX HD,p5p://fccs.123178.top:9906/6130442d0000201d133dff92bc0fef39
+FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
+FOX優質電影台,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
+Fox福斯家庭,p5p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
+Fox福斯家庭,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
+民视,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
+HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
+探索亞洲频道,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55
+探索亞洲频道,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55.ts
+探索科學,p5p://fccs.123178.top:9906/6043456f00065dec06ba08a499663c96
+探索動力 DMAX,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731
+國家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
+日本旅游频道,p5p://fccs.123178.top:9906/61304d2b000a9536136122700ecd28a5
+EYETV旅遊台,p5p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
+EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
+法國時裝,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950
+時尚瘋高清頻道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e
+Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
+Channel V,p5p://fccs.123178.top:9906/60494a1e0001d684145c682429cd1a38.ts
+愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+愛爾達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
+Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
+爱尔达体育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+
 p5p_710924,#genre#
 彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
 彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
@@ -1212,3 +1283,134 @@ hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/mpegts
+
+測試_710924,#genre#
+RUsskayanoch,http://93.189.224.117:9030/russkayanoch
+hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
+redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
+Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
+Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
+Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
+Adult Pinko 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87441
+Adult Pinko 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87442
+Adult Paradise 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91592
+Adult Paradise 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91593
+Adult Paradise 3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91594
+Adult Paradise 4,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91595
+Adult Paradise,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91596
+Adult Paradise 6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91597
+Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
+Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
+Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
+Bikini TV,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+Visit-X ,http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+Jasmin ,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Nieuwe sinds ,http://93.189.224.117:9030/russkayanoch
+BARELY,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
+--,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
+Rusland ,http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
+PLAYBOY ,http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
+Nieuwe sinds ,http://80.24.75.92:5555/udp/239.111.4.1:1234
+Penthouse ,http://80.24.75.92:5555/udp/239.111.4.1:1234
+Penthouse,http://80.24.75.92:5555/udp/239.111.4.1:1234
+XXX 2,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+XXX 2,http://51.15.0.141:88/redlightHD/mpegts
+--,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+XXX 1,http://51.15.0.141:88/hustlerhd/mpegts
+Nieuwe sinds ,http://5.255.90.184:2000/play/a03e
+SEXPRVE,http://200.194.238.229:8000/udp/227.0.0.64:1234
+--,http://200.194.238.229:8000/udp/227.0.0.64:1234
+brazze2,http://ott3.gearhostpreview.com/xxav.php?id=191
+sloppy,http://ott3.gearhostpreview.com/xxav.php?id=190
+hot,http://ott3.gearhostpreview.com/xxav.php?id=189
+ana,http://ott3.gearhostpreview.com/xxav.php?id=188
+brazze1,http://ott3.gearhostpreview.com/xxav.php?id=187
+candy,http://ott3.gearhostpreview.com/xxav.php?id=186
+brazze,http://ott3.gearhostpreview.com/xxav.php?id=185
+w,http://ott3.gearhostpreview.com/xxav.php?id=184
+bang1,http://ott3.gearhostpreview.com/xxav.php?id=183
+bang,http://ott3.gearhostpreview.com/xxav.php?id=182
+心,http://ott3.gearhostpreview.com/xxav.php?id=180
+菊花,http://ott3.gearhostpreview.com/xxav.php?id=177
+dp,http://ott3.gearhostpreview.com/xxav.php?id=176
+jasmin,http://ott3.gearhostpreview.com/xxav.php?id=175
+Redlight ,http://ott3.gearhostpreview.com/xxav.php?id=174
+Redlight,http://ott3.gearhostpreview.com/xxav.php?id=174
+penth,http://ott3.gearhostpreview.com/xxav.php?id=173
+brack,http://ott3.gearhostpreview.com/xxav.php?id=172
+Erox,http://ott3.gearhostpreview.com/xxav.php?id=171
+Erox ,http://ott3.gearhostpreview.com/xxav.php?id=171
+花花,http://ott3.gearhostpreview.com/xxav.php?id=170
+Hustler ,http://ott3.gearhostpreview.com/xxav.php?id=169
+Hustler,http://ott3.gearhostpreview.com/xxav.php?id=169
+Vivid Red,http://ott3.gearhostpreview.com/xxav.php?id=168
+Vivid Red ,http://ott3.gearhostpreview.com/xxav.php?id=168
+EXTSY,http://ott3.gearhostpreview.com/xxav.php?id=315
+VLXEN,http://ott3.gearhostpreview.com/xxav.php?id=266
+EMAN,http://ott3.gearhostpreview.com/xxav.php?id=257
+LES,http://ott3.gearhostpreview.com/xxav.php?id=256
+MR,http://ott3.gearhostpreview.com/xxav.php?id=252
+HOT3,http://ott3.gearhostpreview.com/xxav.php?id=251
+BANE,http://ott3.gearhostpreview.com/xxav.php?id=250
+NELXX,http://ott3.gearhostpreview.com/xxav.php?id=249
+LEO,http://ott3.gearhostpreview.com/xxav.php?id=248
+PUR1,http://ott3.gearhostpreview.com/xxav.php?id=246
+PUR,http://ott3.gearhostpreview.com/xxav.php?id=245
+ERO8,http://ott3.gearhostpreview.com/xxav.php?id=244
+ERO7,http://ott3.gearhostpreview.com/xxav.php?id=243
+ERO6,http://ott3.gearhostpreview.com/xxav.php?id=242
+ERO5,http://ott3.gearhostpreview.com/xxav.php?id=241
+ERO4,http://ott3.gearhostpreview.com/xxav.php?id=240
+ERO3,http://ott3.gearhostpreview.com/xxav.php?id=239
+ERO2,http://ott3.gearhostpreview.com/xxav.php?id=238
+ERO,http://ott3.gearhostpreview.com/xxav.php?id=237
+VIVID1,http://ott3.gearhostpreview.com/xxav.php?id=236
+XXL5,http://ott3.gearhostpreview.com/xxav.php?id=235
+VEO HD,http://ott3.gearhostpreview.com/xxav.php?id=233
+VEO ,http://ott3.gearhostpreview.com/xxav.php?id=233
+VEO,http://ott3.gearhostpreview.com/xxav.php?id=233
+HOT2,http://ott3.gearhostpreview.com/xxav.php?id=231
+VENUS,http://ott3.gearhostpreview.com/xxav.php?id=229
+HOT1,http://ott3.gearhostpreview.com/xxav.php?id=228
+RKTV,http://ott3.gearhostpreview.com/xxav.php?id=226
+HUSTLER,http://ott3.gearhostpreview.com/xxav.php?id=223
+USK,http://ott3.gearhostpreview.com/xxav.php?id=222
+XY,http://ott3.gearhostpreview.com/xxav.php?id=218
+XXL4,http://ott3.gearhostpreview.com/xxav.php?id=217
+BRAZZE5,http://ott3.gearhostpreview.com/xxav.php?id=215
+XXL3,http://ott3.gearhostpreview.com/xxav.php?id=213
+HOT ,http://ott3.gearhostpreview.com/xxav.php?id=211
+HOT,http://ott3.gearhostpreview.com/xxav.php?id=211
+男,http://ott3.gearhostpreview.com/xxav.php?id=208
+brazze4,http://ott3.gearhostpreview.com/xxav.php?id=206
+xxl2,http://ott3.gearhostpreview.com/xxav.php?id=205
+xxl1,http://ott3.gearhostpreview.com/xxav.php?id=204
+mrtv,http://ott3.gearhostpreview.com/xxav.php?id=203
+bang2,http://ott3.gearhostpreview.com/xxav.php?id=198
+xxl,http://ott3.gearhostpreview.com/xxav.php?id=197
+girsdopp,http://ott3.gearhostpreview.com/xxav.php?id=196
+brazze3,http://ott3.gearhostpreview.com/xxav.php?id=195
+blackd,http://ott3.gearhostpreview.com/xxav.php?id=194
+ultrafil,http://ott3.gearhostpreview.com/xxav.php?id=193
+brrtv,http://ott3.gearhostpreview.com/xxav.php?id=192
+Miami,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+Miami  Jenny,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+Miami,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+Man2Man,http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
+Nieuwe sinds,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+苹果片,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
+Web stream,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+XXL,http://185.97.150.19:8082/360
+blue hustler,http://185.97.150.19:8082/363
+redlight,http://185.97.150.19:8082/365
+色情广告,http://185.97.150.19:8082/427
+hustler,http://185.97.150.19:8082/578
+菊花台,http://185.97.150.19:8082/159
+erox,http://185.97.150.19:8082/158
+色情,http://185.97.150.19:8082/157
+户外,http://185.97.150.19:8082/156
+色情,http://185.97.150.19:8082/155
+3D,http://185.97.150.19:8082/154
+法国情人,http://185.97.150.19:8082/361
