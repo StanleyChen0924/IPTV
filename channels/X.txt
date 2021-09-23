@@ -1,8 +1,8 @@
 ﻿台灣頻道,#genre#
 
+民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 民視,rtmp://161.202.204.248/sat/tv051
 民視,rtmp://161.202.204.248:1935/sat/tv051
-民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 民視,p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
@@ -26,7 +26,7 @@
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 
-台視,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071#http://60.251.59.180:8543/xoxo.m3u8
+台視,http://60.251.59.180:8543/xoxo.m3u8#rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
 台視,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
 
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
@@ -34,33 +34,33 @@
 
 台視財經,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
 
-中視,rtmp://161.202.204.248/sat/tv091
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+中視,rtmp://161.202.204.248/sat/tv091
 中視,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
 
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 
-中視菁采台,p5p://fccs.123178.top:9906/6044887d000496a501c80bf0a54afd29
 中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+中視菁采台,p5p://fccs.123178.top:9906/6044887d000496a501c80bf0a54afd29
 
-中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
 中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
 
-華視,rtmp://161.202.204.248/sat/tv111#rtmp://161.202.204.248:1935/sat/tv111
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+華視,rtmp://161.202.204.248/sat/tv111#rtmp://161.202.204.248:1935/sat/tv111
 華視,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
 
 華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-華視教育體育文化,p5p://fccs.123178.top:9906/60448b33000df9b601d2a54784a00d4b.ts
+華視教育文化,p5p://fccs.123178.top:9906/60448b33000df9b601d2a54784a00d4b.ts
 
 華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 華視新聞資訊,p5p://fccs.123178.top:9906/60448d730005f21d01db6d390ab97993.ts
 
-公視,p5p://fccs.123178.top:9906/60448f540003197f01e2c366b8927af8.ts
+
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+公視,p5p://fccs.123178.top:9906/60448f540003197f01e2c366b8927af8.ts
 
 公視3,p5p://fccs.123178.top:9906/6044903d0009037901e653127d757c7b.ts
 
@@ -218,6 +218,7 @@ TVBS歡樂台,p5p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts
 非凡新聞,p5p://fccs.123178.top:9906/6044966b0006d57a01fe7633c96a5506.ts
 
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
 壹電視新聞台,p5p://fccs.123178.top:9906/6069902f0003db1b16fb1d83c7d47b04.ts
 
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -1489,24 +1490,33 @@ Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 
 p5p_710924,#genre#
 彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
+彩虹E台,mitv://ns2.hellotvvod.com:9906/e953ee1fe74c4995acd52ba72c02b0a1.ts
 彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
-(无)Look TV,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
+彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
+彩虹电影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
+彩虹电影,mitv://ns2.hellotvvod.com:9906/856e64d88baf467297993d2cc4ca1be9.ts
+Look TV,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
+LOOK TVmitv://ns2.hellotvvod.com:9906/778ec35a672f4c898c3ac116d6681b54.ts
 香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
 惊艳台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
 潘朵拉玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+潘朵啦玩美,mitv://ns2.hellotvvod.com:9906/35d7b8f086c74266892d24a59100bc6e.ts
 极限电影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
-松视1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
-松视2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
-彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
-彩虹电影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
-惊艳台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
-潘朵拉玩美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
 极限电影,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
-松视1台,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
-松视2台,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
-彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
 极限电影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+松视1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
+松视1台,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
+松視1台,mitv://ns2.hellotvvod.com:9906/ba975abd88b441c6b915a94479500e2d.ts
+松视2台,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
+松视2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+松视2台,mitv://ns2.hellotvvod.com:9906/506a6b29b91045f1950034e6e6a6c70f.ts
+HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
+驚艷成人電影台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
+驚艷成人電影台,mitv://ns2.hellotvvod.com:9906/077e6baec1774b88a259f68816b22981.ts
+潘朵拉玩美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
+
+測試_710924,#genre#
 SWAG,https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
 东京热,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0436/index.m3u8
 一本道,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
@@ -1517,8 +1527,6 @@ hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/mpegts
-
-測試_710924,#genre#
 RUsskayanoch,http://93.189.224.117:9030/russkayanoch
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
