@@ -181,7 +181,7 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 
 博斯魅力,rtmp://161.202.204.248/sat/md021
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-博斯運動IIhttp://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+博斯運動II,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda
