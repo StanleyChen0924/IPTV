@@ -127,6 +127,7 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
 
+緯來日本,http://198.16.106.62:8278/streams/d/videolandjapan/playlist.m3u8
 緯來日本,rtmp://161.202.204.248:1935/sat/tv771
 緯來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
 
@@ -183,7 +184,7 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 
 博斯魅力,rtmp://161.202.204.248/sat/md021
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-博斯運動IIhttp://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+博斯運動II,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda
