@@ -1,263 +1,183 @@
-﻿台灣頻道,#genre#
-
+台灣頻道,#genre#
 民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 民視,rtmp://161.202.204.248/sat/tv051
 民視,rtmp://161.202.204.248:1935/sat/tv051
+民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 民視,p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
-
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
 民視新聞台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
 民視新聞台,http://luyutv.com/hdtv.m3u8
-民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5
 民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5.ts
-
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 民視台灣台,p5p://fccs.123178.top:9906/6044825e000bd32801b024b2f4ff7f01.ts
 民視台灣台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
-
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視第一台,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
 民視第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
-
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
-
 台視,http://60.251.59.180:8543/xoxo.m3u8
 台視,rtmp://161.202.204.248/sat/tv071
 台視,rtmp://161.202.204.248:1935/sat/tv071
 台視,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
-
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
-
 台視財經,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
-
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 中視,rtmp://161.202.204.248/sat/tv091
 中視,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
-
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
-
 中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 中視菁采台,p5p://fccs.123178.top:9906/6044887d000496a501c80bf0a54afd29
-
 中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
-
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 華視,rtmp://161.202.204.248/sat/tv111#rtmp://161.202.204.248:1935/sat/tv111
 華視,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
-
 華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視教育文化,p5p://fccs.123178.top:9906/60448b33000df9b601d2a54784a00d4b.ts
-
 華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 華視新聞資訊,p5p://fccs.123178.top:9906/60448d730005f21d01db6d390ab97993.ts
-
-
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視,p5p://fccs.123178.top:9906/60448f540003197f01e2c366b8927af8.ts
-
 公視3,p5p://fccs.123178.top:9906/6044903d0009037901e653127d757c7b.ts
-
 公視台語台,p5p://fccs.123178.top:9906/60448ebb000b822801e06fe5cbe82807.ts
-
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛一台,p5p://fccs.123178.top:9906/6044917a0000fce101eb274c2044b550.ts
-
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛二台,p5p://fccs.123178.top:9906/60c5a836000cdeac10d361e80c6f7078
-
 大愛,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
 三立台灣,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts#http://seb.sason.top/sc/sllive_fhd.m3u8
 三立新聞,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8.ts
 三立新聞,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8
-
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
-
 三立財經,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
-
 衛視中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
-
 寰宇新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 寰宇新聞台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
-
 寰宇新聞台灣台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
-
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-
 東森超視,rtmp://161.202.204.248:1935/sat/tv521
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
-
 東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
 東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
-
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
-
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森新聞,p5p://fccs.123178.top:9906/60e382fe000d9e21042519ca9bf23e95
-
 東森財經,rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8
 東森財經,p5p://fccs.123178.top:9906/60435ba7000123740710d20d0fa4a082.ts
 東森財經,p5p://fccs.123178.top:9906/60435ba7000123740710d20d0fa4a082
-
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
-
 緯來日本,http://198.16.106.62:8278/streams/d/videolandjapan/playlist.m3u8
 緯來日本,rtmp://161.202.204.248:1935/sat/tv771
 緯來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
-
 緯來綜合,http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 緯來綜合,p5p://fccs.123178.top:9906/6045be33000be06a0681dcbdb39f2973.ts
-
 緯來戲劇,http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
 緯來戲劇,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-
 緯來精彩,p5p://fccs.123178.top:9906/6044a30800006812022fb9d6202c684d.ts
-
 緯來體育,rtmp://161.202.204.248/sat/tv721
 緯來體育,http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
 緯來體育,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
-
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
-
 JET综合,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
-
 龍華電影,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
 龍華洋片,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
 龍華戲劇,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts
 龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
-
 EYE旅遊,p5p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
 EYE戲劇,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
-
-愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8     
+愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 愛爾達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
-
 愛爾體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 愛爾體育1,p5p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts
 愛爾體育1,rtmp://161.202.204.248/sat/md011
-
 愛爾體育2,p5p://fccs.123178.top:9906/60443b320005c061009a1f44d1793932.ts
 愛爾體育2,rtmp://161.202.204.248:1935/sat/md051
-
 愛爾體育3,p5p://fccs.123178.top:9906/610cc7a400025e110a1a334e80dad40f
 愛爾體育3,p5p://fccs.123178.top:9906/60443bfe00066777009d3c4f69ab187b.ts
-
 ELEVEN體育一台,http://125.227.210.37:10677/VideoInput/play.ts
 ELEVEN體育一台,http://125.227.210.55:10677/VideoInput/play.ts
 ELEVEN體育一台,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 ELEVEN體育一台,rtmp://161.202.204.248/sat/tv731
-
 ELEVEN體育二台,p5p://fccs.123178.top:9906/60447228000e0e420170d2547df9954a.ts
 ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
-
 博斯魅力,rtmp://161.202.204.248/sat/md021
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 博斯運動II,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda
-
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,p5p://fccs.123178.top:9906/6075902e00016792114a73588fb745ba
 TVBS新聞台,p5p://fccs.123178.top:9906/60435300000abe3e06ef082bf48727a4.ts
-
 TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 TVBS歡樂台,p5p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts
-
 八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
-
 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
-
 八大綜合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
-
 八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
-
 中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
 中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
 中天娛樂台,p5p://fccs.123178.top:9906/611b007f000176330de407af7d789687
-
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 中天新聞,p5p://fccs.123178.top:9906/6108751d000ce82f133327c1075ab46a
-
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
 年代新聞,p5p://fccs.123178.top:9906/60434d73000091e406d956c8607013df.ts
 年代新聞,p5p://fccs.123178.top:9906/60434d73000091e406d956c8607013df
-
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
-
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,p5p://fccs.123178.top:9906/6044966b0006d57a01fe7633c96a5506.ts
-
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
 壹電視新聞台,p5p://fccs.123178.top:9906/6069902f0003db1b16fb1d83c7d47b04.ts
-
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
-
 亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 亞洲美食頻道,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 亞洲美食頻道,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
-
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台,p5p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
-
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 美食星球,p5p://fccs.123178.top:9906/604945ed00053a5b144c099a65029d36.ts
-
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-
 衛視電影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
-
 星衛電影台,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 星衛電影台,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
-
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
 東森電影台,p5p://fccs.123178.top:9906/60449ece0009c6ea021f39ac30bce072.ts
-
 緯來電影,http://107.167.5.66:80/mylive/102/2063/index.m3u8
 緯來電影,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 緯來電影,p5p://fccs.123178.top:9906/611ee70200084d5b03377d42bd45bfec
-
 龍祥時代電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
 龍祥時代電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO,http://50.7.61.148:30080/Entry/hbo
@@ -265,28 +185,21 @@ HBO HD,http://125.227.210.55:16027/VideoInput/play.ts#http://125.227.210.37:1602
 HBO HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
 好萊塢電影,p5p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
 衛視洋片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
-
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
 東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
-
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 AXN,http://50.7.61.148:30080/Entry/axn
-
 CINEMAX,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts
 CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
 華納Warner TV,p5p://fccs.123178.top:9906/604414f400055b780004bcfa6ee82d22.ts
-
 FOXMOVIES,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
 FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 Fox福斯家庭,p5p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
 Fox福斯家庭,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 FOXCRIME,p5p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
-
 FX HD,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel [V],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
@@ -295,21 +208,15 @@ Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
 Channel V,p5p://fccs.123178.top:9906/60494a1e0001d684145c682429cd1a38.ts
 國家地理,http://125.227.210.55:16408/VideoInput/play.ts#http://125.227.210.37:16408/VideoInput/play.ts
 NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-
 ANIMAX,p5p://fccs.123178.top:9906/60447df7000cbc13019ef29677465e40.ts
 ANIMAX,p5p://fccs.123178.top:9906/611a8d5a000710970c22409682924b74
 ANIMAX,p5p://fccs.123178.top:9906/606b4e4f0004a33a03ddafe180ec2c65.ts
 ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
-
 天映電影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
-
 星衛娛樂台,p5p://fccs.123178.top:9906/6044229300000d0a0039f0b6a59d1511.ts
-
 Discovery,http://125.227.210.55:10388/VideoInput/play.ts#http://125.227.210.37:10388/VideoInput/play.ts
 Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
@@ -341,18 +248,13 @@ CBS2 720,rtmp://161.202.204.248:1935/sat/us011
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
-
 BOOMERANG,p5p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
-
 thrill電影台,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
 KIX,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
 罪案偵緝頻道,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
-
 BLUE ANT EXTREME,p5p://fccs.123178.top:9906/60441771000d4807000e774ad2f62e16.ts
-
 Outdoor,p5p://fccs.123178.top:9906/60434713000a12a206c07237b306369a
 Outdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3.ts
-
 探索频道,p5p://fccs.123178.top:9906/60433c22000c069b0695b54fa99695c8
 探索频道,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a
 探索亞洲频道,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55
@@ -363,15 +265,12 @@ Outdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3.ts
 國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
 國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
 國家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
-
 歷史頻道,p5p://fccs.123178.top:9906/6049468f0008dae6144e835756f6d068.ts
 歷史頻道H2,p5p://fccs.123178.top:9906/6049473c0005320614512630bb45841f.ts
 日本旅遊频道,p5p://fccs.123178.top:9906/61304d2b000a9536136122700ecd28a5
-
 Classica HD古典音樂,p5p://fccs.123178.top:9906/60689dd9000cb8ae13487fd8feab0590.ts
 法國時裝,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950
 時尚瘋高清頻道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e
-
 Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 生命電視台,p5p://fccs.123178.top:9906/60463d9a0001f1630873848a76accc36.ts
 華藏衛視,p5p://fccs.123178.top:9906/60463e4f0004c7480876484c7d16a8e0.ts
@@ -392,7 +291,6 @@ ESPN,p5p://0198.02686.cc:16871/5f37ecd5000cc93142ee509a1520c75e.ts
 BBC News,p5p://0198.02686.cc:16871/5f3a000a000983a84b0956cc3de14973.ts
 NBA,p5p://0198.02686.cc:16871/5f39facc0006e0f04af4dbef79c0756f.ts
 cp24,p5p://0198.02686.cc:16871/5f39f90b0005c8064aee01bf8be4cbde.ts
-
 新聞頻道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
@@ -404,22 +302,19 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 寰宇新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://seb.sason.top/sc/dscjxw_fhd.m3u8   
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://seb.sason.top/sc/dscjxw_fhd.m3u8
 東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts     
+TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts#http://107.167.5.66:80/mylive/102/2026/index.m3u8
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts#http://107.167.5.66:80/mylive/102/2058/index.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
 凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-
-
 電影頻道,#genre#
 HK03_电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
@@ -456,7 +351,6 @@ HBO FAMILY,https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 HBO HITS,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 HBO SIG,https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 武林外传,http://121.51.249.53/tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
-
 央視高清,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
@@ -493,7 +387,6 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 CCTV14,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
 CCTV11 2.5M1080,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
 CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-
 4K高清,#genre#
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
@@ -536,8 +429,6 @@ CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index
 天津卫视,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227756/index.m3u8
 东南卫视,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 安徽卫视,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
-
-
 韓國頻道,#genre#
 ONE,http://210.210.155.35/uq2663/h/h143/01.m3u8#http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8#http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
@@ -556,7 +447,6 @@ YTN[1920*1080],http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist
 가요TV[1920*1080][1920*1080],http://gayotv.net:1935/live/gayotv/playlist.m3u8
 KBC 광주방송(SBS 光州)[1920*1080][1920*1080],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 KBS World[1920*1080][1920*1080],http://125.227.210.37:8935/VideoInput/play.ts
-
 TJB 대전방송(SBS 大田)[1280*720][1280*720],http://1.245.74.5:1935/live/tv/.m3u8
 arirang[1280*720],http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 Arirang[1280*720],http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
@@ -576,7 +466,6 @@ KCTV 광주 CH05[1280*720][1280*720],http://119.77.96.184:1935/chn05/chn05/chunk
 Animax HD[1280*720],https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 AnimaxHD[1280*720],https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 KBS World[1024*576][1024*576],https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-
 香港頻道,#genre#
 翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
@@ -588,7 +477,6 @@ J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 明珠台粤语,ttps://cdn.hkdtmb.com/hls/84b/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 明珠台,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-
 TVB剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=1#http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=2
 HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
 HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
@@ -611,7 +499,7 @@ ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
 RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
+RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
@@ -637,7 +525,6 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 天映频道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-
 馬來,#genre#
 Astro 欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
@@ -685,8 +572,6 @@ TRUE LLIV,http://194.233.73.66:2082/freehitv/freehitv/39
 WWE摔角,http://194.233.73.66:2082/freehitv/freehitv/38
 IQIYI,http://194.233.73.66:2082/freehitv/freehitv/44
 Oh!K,http://194.233.73.66:2082/freehitv/freehitv/45
-
-
 日本頻道,#genre#
 GEM,http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 NHK WORLD TV[1920*1080],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -805,11 +690,10 @@ FIGHTING TV サムライ,p5p://fccs.123178.top:9906/61302321000a162312bceb3f5534
 フジテレビＮＥＸＴ,p5p://fccs.123178.top:9906/613056720008f74d13855f5e8d806907
 フジテレビＯＮＥ,p5p://fccs.123178.top:9906/613057db000b71fa138ae22888301964
 フジテレビＴＷＯ,p5p://fccs.123178.top:9906/613058a5000034b0138df45883905c5e
-
 海外頻道,#genre#
 HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel V[1280*720],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-Outdoor ,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+Outdoor,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 AFC,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 FOX,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 索尼动画,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
@@ -821,11 +705,9 @@ FOXLife,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 Outdoor,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
 CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-
 WarnerTV HD,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 HISTORY HD,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 H2 HD,https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
@@ -835,18 +717,13 @@ Fox Sport2,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-
 Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
-
-
-
 體育頻道,#genre#
 CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
@@ -861,7 +738,6 @@ CCTV5+HD,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=
 CCTV5+HD,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+HD,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-
 精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 超级体育,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
@@ -889,7 +765,6 @@ TNTSPORTS 3[1280*720],https://glxlmn026c.singularcdn.net.br/playout_03/playlist-
 TNTSPORTS 4[1280*720],https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 Canal+ Sport HD[1280*720],http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-
 4K頻道,#genre#
 淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
@@ -908,71 +783,69 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-
 TVB輪播埋堆,#genre#
-埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8 
-埋堆堆02,http://121.12.115.162/txdirect.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8 
-埋堆堆03,http://121.12.115.162/txdirect.hls.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.m3u8 
-埋堆堆04,http://121.12.115.162/txdirect.hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8 
-埋堆堆05,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.m3u8 
-埋堆堆06,http://121.12.115.162/txdirect.hls.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.m3u8 
-埋堆堆07,http://121.12.115.162/txdirect.hls.huya.com/src/1199564000752-1199564000752-5446556123794505728-2399128124960-10057-A-0-1.m3u8 
-埋堆堆08,http://121.12.115.162/txdirect.hls.huya.com/src/1199563995848-1199563995848-5446535061274886144-2399128115152-10057-A-0-1.m3u8 
-埋堆堆09,http://121.12.115.162/txdirect.hls.huya.com/src/1199563493628-1199563493628-5444378042799489024-2399127110712-10057-A-0-1.m3u8 
-埋堆堆10,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478721-1199563478721-5444314017722007552-2399127080898-10057-A-0-1.m3u8 
-埋堆堆11,http://121.12.115.162/txdirect.hls.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.m3u8 
-埋堆堆12,http://121.12.115.162/txdirect.hls.huya.com/src/1199561245453-1199561245453-5434722204698804224-2399122614362-10057-A-0-1.m3u8 
-埋堆堆13,http://121.12.115.162/txdirect.hls.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.m3u8 
-埋堆堆14,http://121.12.115.162/txdirect.hls.huya.com/src/1199561153241-1199561153241-5434326157174505472-2399122429938-10057-A-0-1.m3u8 
-埋堆堆17,http://121.12.115.162/txdirect.hls.huya.com/src/1199561179116-1199561179116-5434437289453289472-2399122481688-10057-A-0-1.m3u8 
-埋堆堆18,http://121.12.115.162/txdirect.hls.huya.com/src/1199561185543-1199561185543-5434464893208100864-2399122494542-10057-A-0-1.m3u8 
-埋堆堆19,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.m3u8 
-埋堆堆20,http://121.12.115.162/txdirect.hls.huya.com/src/1199564060588-1199564060588-5446813117457629184-2399128244632-10057-A-0-1.m3u8 
-埋堆堆21,http://121.12.115.162/txdirect.hls.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.m3u8 
-埋堆堆22,http://121.12.115.162/txdirect.hls.huya.com/src/1199561185548-1199561185548-5434464914682937344-2399122494552-10057-A-0-1.m3u8 
-埋堆堆23,http://121.12.115.162/txdirect.hls.huya.com/src/1199563492830-1199563492830-5444374615415586816-2399127109116-10057-A-0-1.m3u8 
-埋堆堆24,http://121.12.115.162/txdirect.hls.huya.com/src/1199563484986-1199563484986-5444340925692116992-2399127093428-10057-A-0-1.m3u8 
-埋堆堆25,http://121.12.115.162/txdirect.hls.huya.com/src/1199561217760-1199561217760-5434603264169476096-2399122558976-10057-A-0-1.m3u8 
-埋堆堆26,http://121.12.115.162/txdirect.hls.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.m3u8 
-埋堆堆27,http://121.12.115.162/txdirect.hls.huya.com/src/1199563491091-1199563491091-5444367146467459072-2399127105638-10057-A-0-1.m3u8 
-埋堆堆28,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478540-1199563478540-5444313240332926976-2399127080536-10057-A-0-1.m3u8 
-埋堆堆29,http://121.12.115.162/txdirect.hls.huya.com/src/1199561235975-1199561235975-5434681496998772736-2399122595406-10057-A-0-1.m3u8 
-埋堆堆30,http://121.12.115.162/txdirect.hls.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.m3u8 
-埋堆堆31,http://121.12.115.162/txdirect.hls.huya.com/src/1199563461114-1199563461114-5444238396232826880-2399127045684-10057-A-0-1.m3u8 
-埋堆堆32,http://121.12.115.162/txdirect.hls.huya.com/src/1199563489752-1199563489752-5444361395506249728-2399127102960-10057-A-0-1.m3u8 
-埋堆堆33,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181108-1199561181108-5434445845028143104-2399122485672-10057-A-0-1.m3u8 
-埋堆堆34,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.m3u8 
-埋堆堆35,http://121.12.115.162/txdirect.hls.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.m3u8 
-埋堆堆37,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277694-1199561277694-5434860678739394560-2399122678844-10057-A-0-1.m3u8 
-埋堆堆38,http://121.12.115.162/txdirect.hls.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.m3u8 
-埋堆堆39,http://121.12.115.162/txdirect.hls.huya.com/src/1199563483195-1199563483195-5444333233405689856-2399127089846-10057-A-0-1.m3u8 
-埋堆堆40,http://121.12.115.162/txdirect.hls.huya.com/src/1199563452505-1199563452505-5444201420859375616-2399127028466-10057-A-0-1.m3u8 
-埋堆堆41,http://121.12.115.162/txdirect.hls.huya.com/src/1199563479483-1199563479483-5444317290487087104-2399127082422-10057-A-0-1.m3u8 
-埋堆堆42,http://121.12.115.162/txdirect.hls.huya.com/src/1199561278783-1199561278783-5434865355958779904-2399122681022-10057-A-0-1.m3u8 
-埋堆堆43,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.m3u8 
-埋堆堆44,http://121.12.115.162/txdirect.hls.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.m3u8 
-埋堆堆45,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8 
-埋堆堆46,http://121.12.115.162/txdirect.hls.huya.com/src/1199561223732-1199561223732-5434628913714167808-2399122570920-10057-A-0-1.m3u8 
-埋堆堆47,http://121.12.115.162/txdirect.hls.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.m3u8 
-埋堆堆48,http://121.12.115.162/txdirect.hls.huya.com/src/1199563489431-1199563489431-5444360016821747712-2399127102318-10057-A-0-1.m3u8 
-埋堆堆49,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277677-1199561277677-5434860605724950528-2399122678810-10057-A-0-1.m3u8 
-埋堆堆50,http://121.12.115.162/txdirect.hls.huya.com/src/1199561240090-1199561240090-5434699170789195776-2399122603636-10057-A-0-1.m3u8 
-埋堆堆51,http://121.12.115.162/txdirect.hls.huya.com/src/1199561178473-1199561178473-5434434527789318144-2399122480402-10057-A-0-1.m3u8 
-埋堆堆53,http://121.12.115.162/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8 
-埋堆堆54,http://121.12.115.162/txdirect.hls.huya.com/src/1199563551865-1199563551865-5444628168809906176-2399127227186-10057-A-0-1.m3u8 
-埋堆堆56,http://121.12.115.162/txdirect.hls.huya.com/src/1199561152145-1199561152145-5434321449890349056-2399122427746-10057-A-0-1.m3u8 
-埋堆堆57,http://121.12.115.162/txdirect.hls.huya.com/src/1199563452337-1199563452337-5444200699304869888-2399127028130-10057-A-0-1.m3u8 
-埋堆堆58,http://121.12.115.162/txdirect.hls.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.m3u8 
-埋堆堆59,http://121.12.115.162/txdirect.hls.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.m3u8 
-埋堆堆60,http://121.12.115.162/txdirect.hls.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.m3u8 
-埋堆堆61,http://121.12.115.162/txdirect.hls.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.m3u8 
-埋堆堆63,http://121.12.115.162/txdirect.hls.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.m3u8 
-埋堆堆64,http://121.12.115.162/txdirect.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8 
-埋堆堆65,http://121.12.115.162/txdirect.hls.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.m3u8 
-埋堆堆66,http://121.12.115.162/txdirect.hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8 
-埋堆堆67,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8 
+埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8
+埋堆堆02,http://121.12.115.162/txdirect.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8
+埋堆堆03,http://121.12.115.162/txdirect.hls.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.m3u8
+埋堆堆04,http://121.12.115.162/txdirect.hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8
+埋堆堆05,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.m3u8
+埋堆堆06,http://121.12.115.162/txdirect.hls.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.m3u8
+埋堆堆07,http://121.12.115.162/txdirect.hls.huya.com/src/1199564000752-1199564000752-5446556123794505728-2399128124960-10057-A-0-1.m3u8
+埋堆堆08,http://121.12.115.162/txdirect.hls.huya.com/src/1199563995848-1199563995848-5446535061274886144-2399128115152-10057-A-0-1.m3u8
+埋堆堆09,http://121.12.115.162/txdirect.hls.huya.com/src/1199563493628-1199563493628-5444378042799489024-2399127110712-10057-A-0-1.m3u8
+埋堆堆10,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478721-1199563478721-5444314017722007552-2399127080898-10057-A-0-1.m3u8
+埋堆堆11,http://121.12.115.162/txdirect.hls.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.m3u8
+埋堆堆12,http://121.12.115.162/txdirect.hls.huya.com/src/1199561245453-1199561245453-5434722204698804224-2399122614362-10057-A-0-1.m3u8
+埋堆堆13,http://121.12.115.162/txdirect.hls.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.m3u8
+埋堆堆14,http://121.12.115.162/txdirect.hls.huya.com/src/1199561153241-1199561153241-5434326157174505472-2399122429938-10057-A-0-1.m3u8
+埋堆堆17,http://121.12.115.162/txdirect.hls.huya.com/src/1199561179116-1199561179116-5434437289453289472-2399122481688-10057-A-0-1.m3u8
+埋堆堆18,http://121.12.115.162/txdirect.hls.huya.com/src/1199561185543-1199561185543-5434464893208100864-2399122494542-10057-A-0-1.m3u8
+埋堆堆19,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.m3u8
+埋堆堆20,http://121.12.115.162/txdirect.hls.huya.com/src/1199564060588-1199564060588-5446813117457629184-2399128244632-10057-A-0-1.m3u8
+埋堆堆21,http://121.12.115.162/txdirect.hls.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.m3u8
+埋堆堆22,http://121.12.115.162/txdirect.hls.huya.com/src/1199561185548-1199561185548-5434464914682937344-2399122494552-10057-A-0-1.m3u8
+埋堆堆23,http://121.12.115.162/txdirect.hls.huya.com/src/1199563492830-1199563492830-5444374615415586816-2399127109116-10057-A-0-1.m3u8
+埋堆堆24,http://121.12.115.162/txdirect.hls.huya.com/src/1199563484986-1199563484986-5444340925692116992-2399127093428-10057-A-0-1.m3u8
+埋堆堆25,http://121.12.115.162/txdirect.hls.huya.com/src/1199561217760-1199561217760-5434603264169476096-2399122558976-10057-A-0-1.m3u8
+埋堆堆26,http://121.12.115.162/txdirect.hls.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.m3u8
+埋堆堆27,http://121.12.115.162/txdirect.hls.huya.com/src/1199563491091-1199563491091-5444367146467459072-2399127105638-10057-A-0-1.m3u8
+埋堆堆28,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478540-1199563478540-5444313240332926976-2399127080536-10057-A-0-1.m3u8
+埋堆堆29,http://121.12.115.162/txdirect.hls.huya.com/src/1199561235975-1199561235975-5434681496998772736-2399122595406-10057-A-0-1.m3u8
+埋堆堆30,http://121.12.115.162/txdirect.hls.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.m3u8
+埋堆堆31,http://121.12.115.162/txdirect.hls.huya.com/src/1199563461114-1199563461114-5444238396232826880-2399127045684-10057-A-0-1.m3u8
+埋堆堆32,http://121.12.115.162/txdirect.hls.huya.com/src/1199563489752-1199563489752-5444361395506249728-2399127102960-10057-A-0-1.m3u8
+埋堆堆33,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181108-1199561181108-5434445845028143104-2399122485672-10057-A-0-1.m3u8
+埋堆堆34,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.m3u8
+埋堆堆35,http://121.12.115.162/txdirect.hls.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.m3u8
+埋堆堆37,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277694-1199561277694-5434860678739394560-2399122678844-10057-A-0-1.m3u8
+埋堆堆38,http://121.12.115.162/txdirect.hls.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.m3u8
+埋堆堆39,http://121.12.115.162/txdirect.hls.huya.com/src/1199563483195-1199563483195-5444333233405689856-2399127089846-10057-A-0-1.m3u8
+埋堆堆40,http://121.12.115.162/txdirect.hls.huya.com/src/1199563452505-1199563452505-5444201420859375616-2399127028466-10057-A-0-1.m3u8
+埋堆堆41,http://121.12.115.162/txdirect.hls.huya.com/src/1199563479483-1199563479483-5444317290487087104-2399127082422-10057-A-0-1.m3u8
+埋堆堆42,http://121.12.115.162/txdirect.hls.huya.com/src/1199561278783-1199561278783-5434865355958779904-2399122681022-10057-A-0-1.m3u8
+埋堆堆43,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.m3u8
+埋堆堆44,http://121.12.115.162/txdirect.hls.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.m3u8
+埋堆堆45,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8
+埋堆堆46,http://121.12.115.162/txdirect.hls.huya.com/src/1199561223732-1199561223732-5434628913714167808-2399122570920-10057-A-0-1.m3u8
+埋堆堆47,http://121.12.115.162/txdirect.hls.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.m3u8
+埋堆堆48,http://121.12.115.162/txdirect.hls.huya.com/src/1199563489431-1199563489431-5444360016821747712-2399127102318-10057-A-0-1.m3u8
+埋堆堆49,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277677-1199561277677-5434860605724950528-2399122678810-10057-A-0-1.m3u8
+埋堆堆50,http://121.12.115.162/txdirect.hls.huya.com/src/1199561240090-1199561240090-5434699170789195776-2399122603636-10057-A-0-1.m3u8
+埋堆堆51,http://121.12.115.162/txdirect.hls.huya.com/src/1199561178473-1199561178473-5434434527789318144-2399122480402-10057-A-0-1.m3u8
+埋堆堆53,http://121.12.115.162/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8
+埋堆堆54,http://121.12.115.162/txdirect.hls.huya.com/src/1199563551865-1199563551865-5444628168809906176-2399127227186-10057-A-0-1.m3u8
+埋堆堆56,http://121.12.115.162/txdirect.hls.huya.com/src/1199561152145-1199561152145-5434321449890349056-2399122427746-10057-A-0-1.m3u8
+埋堆堆57,http://121.12.115.162/txdirect.hls.huya.com/src/1199563452337-1199563452337-5444200699304869888-2399127028130-10057-A-0-1.m3u8
+埋堆堆58,http://121.12.115.162/txdirect.hls.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.m3u8
+埋堆堆59,http://121.12.115.162/txdirect.hls.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.m3u8
+埋堆堆60,http://121.12.115.162/txdirect.hls.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.m3u8
+埋堆堆61,http://121.12.115.162/txdirect.hls.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.m3u8
+埋堆堆63,http://121.12.115.162/txdirect.hls.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.m3u8
+埋堆堆64,http://121.12.115.162/txdirect.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
+埋堆堆65,http://121.12.115.162/txdirect.hls.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.m3u8
+埋堆堆66,http://121.12.115.162/txdirect.hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8
+埋堆堆67,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
-
 回看江蘇PLTV,#genre#
 4K花园娱乐 24M2160[3840*2160],http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 凤凰中文 10M1080[1920*1080],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -1103,7 +976,6 @@ NewTV明星大片 4M1080[1920*1080],http://223.110.243.152/ott.js.chinamobile.co
 江西风尚购物 4M1080[1920*1080],http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227539/index.m3u8
 江苏好享购物 4M1080[1920*1080],http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
 5G购 2M1080[3840*2144],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
-
 回看衛視超清PLTV,#genre#
 CCTV1 8M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 CCTV2 8M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
@@ -1182,7 +1054,6 @@ SiTV都市剧场 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226192/index.m3u8
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
-
 回看福建PLTV,#genre#
 北京影视[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
 北京文艺[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
@@ -1194,7 +1065,6 @@ SiTV都市剧场 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226
 卡酷少儿[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=
 卡酷少儿[1047*576],http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 北京通州[1280*720],http://pull.dayuntongzhou.com/live/tztv.m3u8
-
 回看青海PLTV,#genre#
 纯享4K 20M2160[3840*2160],http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 CCTV1 4M1080[1920*1080],http://39.134.155.133/PLTV/88888888/224/3221225591/index.m3u8
@@ -1325,7 +1195,6 @@ CGTN纪录 576[785*576],http://39.134.155.141/PLTV/88888888/224/3221225507/index
 湖南金鹰卡通 4M576[1047*576],http://39.134.155.145/PLTV/88888888/224/3221225618/index.m3u8
 湖南金鹰纪实 4M576[768*576],http://39.134.155.135/PLTV/88888888/224/3221225623/index.m3u8
 果洛 4M576[1280*720],http://39.134.155.149/PLTV/88888888/224/3221225662/index.m3u8
-
 愛上衛視,#genre#
 CCTV1 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
 CCTV2 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
@@ -1359,10 +1228,8 @@ IPTV5+ 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240
 黑龙江卫视 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1
 CHC高清电影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 体育赛事 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
-
 Music,#genre#
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-
 台灣125,#genre#
 凤凰卫视,http://125.227.210.37:8935/VideoInput/play.ts
 CNN HD,http://125.227.210.37:10677/VideoInput/play.ts
@@ -1375,11 +1242,11 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 三立新闻,http://125.227.210.37:15589/VideoInput/play.ts
 三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
 中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
-HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
+HBO,http://125.227.210.37:16027/VideoInput/play.ts
 TVBS新闻台,http://125.227.210.37:16329/VideoInput/play.ts
 CNBC,http://125.227.210.37:16415/VideoInput/play.ts
 國家地理,http://125.227.210.37:16408/VideoInput/play.ts
-CN卡通  ,http://125.227.210.37:16671/VideoInput/play.ts
+CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
 東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
 NEWS,http://125.227.210.37:18184/VideoInput/play.ts
 卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
@@ -1396,7 +1263,6 @@ ALJAZEERA HD,http://125.227.210.37:8938/VideoInput/play.ts
 NHK BS1HD,http://125.227.210.37:8939/VideoInput/play.ts
 NHK BSPHD,http://125.227.210.37:8940/VideoInput/play.ts
 BBCworld HD,http://125.227.210.37:10246/VideoInput/play.ts
-
 台灣Seb,#genre#
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -1417,8 +1283,6 @@ BBCworld HD,http://125.227.210.37:10246/VideoInput/play.ts
 TVBS新聞台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
-
-
 台灣198,#genre#
 Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
@@ -1428,7 +1292,6 @@ CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-
 台灣備用,#genre#
 民視 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 台視 HD,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
@@ -1499,7 +1362,6 @@ Channel V,p5p://fccs.123178.top:9906/60494a1e0001d684145c682429cd1a38.ts
 Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 爱尔达体育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
-
 p5p_710924,#genre#
 彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
 彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
@@ -1527,7 +1389,6 @@ HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 驚艷成人電影台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
 驚艷成人電影台,mitv://ns2.hellotvvod.com:9906/077e6baec1774b88a259f68816b22981.ts
 潘朵拉玩美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
-
 測試_710924,#genre#
 SWAG,https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
 东京热,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0436/index.m3u8
@@ -1557,21 +1418,21 @@ Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
 Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
 Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
 Bikini TV,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-Visit-X ,http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-Jasmin ,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Nieuwe sinds ,http://93.189.224.117:9030/russkayanoch
+Visit-X,http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+Jasmin,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Nieuwe sinds,http://93.189.224.117:9030/russkayanoch
 BARELY,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
 --,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
-Rusland ,http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
-PLAYBOY ,http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
-Nieuwe sinds ,http://80.24.75.92:5555/udp/239.111.4.1:1234
-Penthouse ,http://80.24.75.92:5555/udp/239.111.4.1:1234
+Rusland,http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
+PLAYBOY,http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
+Nieuwe sinds,http://80.24.75.92:5555/udp/239.111.4.1:1234
+Penthouse,http://80.24.75.92:5555/udp/239.111.4.1:1234
 Penthouse,http://80.24.75.92:5555/udp/239.111.4.1:1234
 XXX 2,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 XXX 2,http://51.15.0.141:88/redlightHD/mpegts
 --,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 XXX 1,http://51.15.0.141:88/hustlerhd/mpegts
-Nieuwe sinds ,http://5.255.90.184:2000/play/a03e
+Nieuwe sinds,http://5.255.90.184:2000/play/a03e
 SEXPRVE,http://200.194.238.229:8000/udp/227.0.0.64:1234
 --,http://200.194.238.229:8000/udp/227.0.0.64:1234
 brazze2,http://ott3.gearhostpreview.com/xxav.php?id=191
@@ -1588,17 +1449,17 @@ bang,http://ott3.gearhostpreview.com/xxav.php?id=182
 菊花,http://ott3.gearhostpreview.com/xxav.php?id=177
 dp,http://ott3.gearhostpreview.com/xxav.php?id=176
 jasmin,http://ott3.gearhostpreview.com/xxav.php?id=175
-Redlight ,http://ott3.gearhostpreview.com/xxav.php?id=174
+Redlight,http://ott3.gearhostpreview.com/xxav.php?id=174
 Redlight,http://ott3.gearhostpreview.com/xxav.php?id=174
 penth,http://ott3.gearhostpreview.com/xxav.php?id=173
 brack,http://ott3.gearhostpreview.com/xxav.php?id=172
 Erox,http://ott3.gearhostpreview.com/xxav.php?id=171
-Erox ,http://ott3.gearhostpreview.com/xxav.php?id=171
+Erox,http://ott3.gearhostpreview.com/xxav.php?id=171
 花花,http://ott3.gearhostpreview.com/xxav.php?id=170
-Hustler ,http://ott3.gearhostpreview.com/xxav.php?id=169
+Hustler,http://ott3.gearhostpreview.com/xxav.php?id=169
 Hustler,http://ott3.gearhostpreview.com/xxav.php?id=169
 Vivid Red,http://ott3.gearhostpreview.com/xxav.php?id=168
-Vivid Red ,http://ott3.gearhostpreview.com/xxav.php?id=168
+Vivid Red,http://ott3.gearhostpreview.com/xxav.php?id=168
 EXTSY,http://ott3.gearhostpreview.com/xxav.php?id=315
 VLXEN,http://ott3.gearhostpreview.com/xxav.php?id=266
 EMAN,http://ott3.gearhostpreview.com/xxav.php?id=257
@@ -1621,7 +1482,7 @@ ERO,http://ott3.gearhostpreview.com/xxav.php?id=237
 VIVID1,http://ott3.gearhostpreview.com/xxav.php?id=236
 XXL5,http://ott3.gearhostpreview.com/xxav.php?id=235
 VEO HD,http://ott3.gearhostpreview.com/xxav.php?id=233
-VEO ,http://ott3.gearhostpreview.com/xxav.php?id=233
+VEO,http://ott3.gearhostpreview.com/xxav.php?id=233
 VEO,http://ott3.gearhostpreview.com/xxav.php?id=233
 HOT2,http://ott3.gearhostpreview.com/xxav.php?id=231
 VENUS,http://ott3.gearhostpreview.com/xxav.php?id=229
@@ -1633,7 +1494,7 @@ XY,http://ott3.gearhostpreview.com/xxav.php?id=218
 XXL4,http://ott3.gearhostpreview.com/xxav.php?id=217
 BRAZZE5,http://ott3.gearhostpreview.com/xxav.php?id=215
 XXL3,http://ott3.gearhostpreview.com/xxav.php?id=213
-HOT ,http://ott3.gearhostpreview.com/xxav.php?id=211
+HOT,http://ott3.gearhostpreview.com/xxav.php?id=211
 HOT,http://ott3.gearhostpreview.com/xxav.php?id=211
 男,http://ott3.gearhostpreview.com/xxav.php?id=208
 brazze4,http://ott3.gearhostpreview.com/xxav.php?id=206
@@ -1668,7 +1529,6 @@ erox,http://185.97.150.19:8082/158
 色情,http://185.97.150.19:8082/155
 3D,http://185.97.150.19:8082/154
 法国情人,http://185.97.150.19:8082/361
-
 直播 720,http://cdn.adultiptv.net/livecams.m3u8
 肛交 720,http://cdn.adultiptv.net/anal.m3u8
 巨尻 720,http://cdn.adultiptv.net/bigass.m3u8
@@ -1693,7 +1553,6 @@ erox,http://185.97.150.19:8082/158
 俄罗斯 720,http://cdn.adultiptv.net/russian.m3u8
 少女 720,http://cdn.adultiptv.net/teen.m3u8
 三人 720,http://cdn.adultiptv.net/threesome.m3u8
-
 秒播測試_710924,#genre#
 101,https://2.ddyunbo.com/20190709/vsmhQlYK/index.m3u8
 100,https://2.ddyunbo.com/20190721/Hw7HABFC/index.m3u8
