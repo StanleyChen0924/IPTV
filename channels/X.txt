@@ -1,4 +1,5 @@
-台灣頻道,#genre#
+﻿灣頻道,#genre#
+民視,rtmp://59.124.75.136/sat/tv051
 民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 民視,rtmp://161.202.204.248/sat/tv051
 民視,rtmp://161.202.204.248:1935/sat/tv051
@@ -20,6 +21,7 @@
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
+台視,rtmp://59.124.75.136/sat/tv071
 台視,http://60.251.59.180:8543/xoxo.m3u8
 台視,rtmp://161.202.204.248/sat/tv071
 台視,rtmp://161.202.204.248:1935/sat/tv071
@@ -28,6 +30,7 @@
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
 台視財經,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+中視,rtmp://59.124.75.136/sat/tv071
 中視,rtmp://161.202.204.248/sat/tv091
 中視,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
@@ -37,6 +40,7 @@
 中視菁采台,p5p://fccs.123178.top:9906/6044887d000496a501c80bf0a54afd29
 中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
+華視,rtmp://59.124.75.136/sat/tv111
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 華視,rtmp://161.202.204.248/sat/tv111#rtmp://161.202.204.248:1935/sat/tv111
 華視,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
@@ -74,8 +78,10 @@
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+MoMo綜合台,rtmp://59.124.75.136/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+東森超視,rtmp://59.124.75.136/sat/tv521
 東森超視,rtmp://161.202.204.248:1935/sat/tv521
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
 東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
@@ -84,20 +90,24 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森新聞,p5p://fccs.123178.top:9906/60e382fe000d9e21042519ca9bf23e95
+東森財經,rtmp://59.124.75.136/sat/tv571
 東森財經,rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8
 東森財經,p5p://fccs.123178.top:9906/60435ba7000123740710d20d0fa4a082.ts
 東森財經,p5p://fccs.123178.top:9906/60435ba7000123740710d20d0fa4a082
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
 緯來日本,http://198.16.106.62:8278/streams/d/videolandjapan/playlist.m3u8
+緯來日本,rtmp://59.124.75.136/sat/tv771
 緯來日本,rtmp://161.202.204.248:1935/sat/tv771
 緯來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
 緯來綜合,http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 緯來綜合,p5p://fccs.123178.top:9906/6045be33000be06a0681dcbdb39f2973.ts
 緯來戲劇,http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
 緯來戲劇,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
+緯來育樂,rtmp://59.124.75.136/sat/tv701
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
 緯來精彩,p5p://fccs.123178.top:9906/6044a30800006812022fb9d6202c684d.ts
+緯來體育,rtmp://59.124.75.136/sat/tv721
 緯來體育,rtmp://161.202.204.248/sat/tv721
 緯來體育,http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
 緯來體育,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
@@ -113,19 +123,24 @@ EYE戲劇,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
 愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 愛爾達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+愛爾體育1,rtmp://59.124.75.136/sat/md011
 愛爾體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 愛爾體育1,p5p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts
 愛爾體育1,rtmp://161.202.204.248/sat/md011
 愛爾體育2,p5p://fccs.123178.top:9906/60443b320005c061009a1f44d1793932.ts
+愛爾體育2,rtmp://59.124.75.136/sat/md051
 愛爾體育2,rtmp://161.202.204.248:1935/sat/md051
 愛爾體育3,p5p://fccs.123178.top:9906/610cc7a400025e110a1a334e80dad40f
 愛爾體育3,p5p://fccs.123178.top:9906/60443bfe00066777009d3c4f69ab187b.ts
+ELEVEN體育一台,rtmp://59.124.75.136/sat/tv731
 ELEVEN體育一台,http://125.227.210.37:10677/VideoInput/play.ts
 ELEVEN體育一台,http://125.227.210.55:10677/VideoInput/play.ts
 ELEVEN體育一台,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 ELEVEN體育一台,rtmp://161.202.204.248/sat/tv731
+ELEVEN體育二台,rtmp://59.124.75.136/sat/tv741
 ELEVEN體育二台,p5p://fccs.123178.top:9906/60447228000e0e420170d2547df9954a.ts
 ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
+博斯魅力,rtmp://59.124.75.136/sat/md021
 博斯魅力,rtmp://161.202.204.248/sat/md021
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 博斯運動II,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
@@ -134,6 +149,7 @@ TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,p5p://fccs.123178.top:9906/6075902e00016792114a73588fb745ba
 TVBS新聞台,p5p://fccs.123178.top:9906/60435300000abe3e06ef082bf48727a4.ts
+TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
 TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 TVBS歡樂台,p5p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts
 八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
@@ -244,6 +260,7 @@ tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 韓國娛樂台KMTV,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
 韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
+CBS2 720,rtmp://59.124.75.136/sat/us011
 CBS2 720,rtmp://161.202.204.248:1935/sat/us011
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
@@ -303,6 +320,7 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 寰宇新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 寰宇新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://seb.sason.top/sc/dscjxw_fhd.m3u8
+東森財經新聞,rtmp://59.124.75.136/sat/tv571
 東森財經新聞,rtmp://161.202.204.248:1935/sat/tv571#http://seb.sason.top/sc/dscjxw_fhd.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
