@@ -108,6 +108,7 @@ MoMo親子台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-liv
 東森財經,p5p://fccs.123178.top:9906/60435ba7000123740710d20d0fa4a082
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
 緯來日本,http://198.16.106.62:8278/streams/d/videolandjapan/playlist.m3u8
+緯來日本,http://xiaojun.cyou/code/?code=iptv800&id=69
 緯來日本,rtmp://59.124.75.136/sat/tv771
 緯來日本,rtmp://161.202.204.248:1935/sat/tv771
 緯來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
@@ -160,6 +161,7 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 博斯魅力,rtmp://161.202.204.248/sat/md021
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 博斯運動II,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+TVBS,http://xiaojun.cyou/code/?code=iptv800&id=95
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
@@ -167,6 +169,7 @@ TVBS新聞台,p5p://fccs.123178.top:9906/6075902e00016792114a73588fb745ba
 TVBS新聞台,p5p://fccs.123178.top:9906/60435300000abe3e06ef082bf48727a4.ts
 TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
 TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
+TVBS歡樂台,http://xiaojun.cyou/code/?code=iptv800&id=97
 TVBS歡樂台,p5p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts
 八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
@@ -201,16 +204,21 @@ TLC旅遊生活頻道,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb
 美食星球,p5p://fccs.123178.top:9906/604945ed00053a5b144c099a65029d36.ts
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+衛視電影台,http://xiaojun.cyou/code/?code=iptv&c=3&id=16
+衛視電影台,http://xiaojun.cyou/code/?code=iptv800&id=81
 衛視電影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
 星衛電影台,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 星衛電影台,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
+東森電影台,http://xiaojun.cyou/code/?code=iptv800&id=68
 東森電影台,http://xiaojun.cyou/code/?code=iptv&c=3&id=29
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
 東森電影台,p5p://fccs.123178.top:9906/60449ece0009c6ea021f39ac30bce072.ts
 緯來電影,http://107.167.5.66:80/mylive/102/2063/index.m3u8
+緯來電影,http://xiaojun.cyou/code/?code=iptv&c=3&id=9
 緯來電影,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 緯來電影,p5p://fccs.123178.top:9906/611ee70200084d5b03377d42bd45bfec
+龍祥時代電影台,http://xiaojun.cyou/code/?code=iptv&c=3&id=14
 龍祥時代電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
 龍祥時代電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
