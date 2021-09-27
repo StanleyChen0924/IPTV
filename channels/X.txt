@@ -1,12 +1,13 @@
 ﻿台灣頻道,#genre#
 民視,rtmp://59.124.75.136/sat/tv051
+民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/master.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
 民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 民視,rtmp://161.202.204.248/sat/tv051
 民視,rtmp://161.202.204.248:1935/sat/tv051
-民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 民視,p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
+民視新聞台,p5p://fccs.123178.top:9906/604350c30004f22006e648675a9482b5
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
 民視新聞台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
