@@ -79,8 +79,8 @@
 三立新聞,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立財經,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
-衛視中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
+衛視中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 寰宇新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 寰宇新聞台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
 寰宇新聞台灣台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
