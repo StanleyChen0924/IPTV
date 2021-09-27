@@ -217,8 +217,10 @@ http://107.167.5.66/mylive/102/2065/index.m3u8
 http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-language="Chinese" group-title="電影" ,HBO HD
 http://125.227.210.55:16027/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits                                                                                                                                    
+#EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-language="Chinese" group-title="電影" ,Hits
+https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live620/4gtv-live-mid/720.m3u8?token=NZ3-7-iAhTgPXvFB5Jw4Ug&expires=1632742553&token1=XNE5jZUWmvsUz9haf1x3aQ&expires1=1632742553
 #EXTINF:-1 tvg-id="" tvg-name="卫视洋片" tvg-logo="" group-title="電影",卫视洋片
 http://125.227.210.55:18789/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-language="Chinese" group-title="電影",東森洋片
