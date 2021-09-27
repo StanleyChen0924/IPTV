@@ -83,7 +83,9 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="6027" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="一般", DaAi
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1 tvg-id="6093" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台
+#EXTINF:-1 tvg-id="6042" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo親子台
+https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-live-mid/index.m3u8?token=VUX36LUdpgVG_ySSdeoTUQ&expires=1632758288&token1=HTzBuGbTfT7b0J9K-1F0ew&expires1=1632758288&_=1632711483940
+#EXTINF:-1 tvg-id="6190" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台
 rtmp://59.124.75.136/sat/tv761
 #rtmp://161.202.204.248:1935/sat/tv761
 #EXTINF:-1 tvg-id="6051" tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png" ,東森超視
