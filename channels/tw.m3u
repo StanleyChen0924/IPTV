@@ -47,8 +47,8 @@ rtmp://59.124.75.136/sat/tv111
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",華視(備1)
 http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 #rtmp://161.202.204.248/sat/tv111
-#EXTINF:-1 tvg-logo="https://www.rightheart.org/wp-content/uploads/2017/05/52a9dabe9d00f.png" group-title="TAIWAN",華視新聞 
-http://seb.sason.top/sc/hsxw_fhd.m3u8
+##EXTINF:-1 tvg-logo="https://www.rightheart.org/wp-content/uploads/2017/05/52a9dabe9d00f.png" group-title="TAIWAN",華視新聞 
+#http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.png" group-title="一般", 華視教育體育文化 HD
 http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 #EXTINF:-1 tvg-id="HSX.TW" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CTSNews.png" group-title="新聞", 華視新聞資訊 HD
