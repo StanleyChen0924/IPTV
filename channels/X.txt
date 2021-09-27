@@ -118,12 +118,14 @@ MoMo親子台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-liv
 緯來體育,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 JET综合,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
+龍華電影,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn03/4gtv-live-mid/index.m3u8?token=uAvVQfP7a80ePf_v4ug-Ew&expires=1632742837&token1=B8K8kLE043_UxaLDHCmXCA&expires1=1632742837&_=1632711483951
 龍華電影,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
 龍華洋片,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
 龍華戲劇,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts
 龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
 EYE旅遊,p5p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
 EYE戲劇,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
+采倉影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=LZ_-dRvWMw8dIe2YinxvqA&expires=1632742830&token1=s6mvpFjDsM1IY7tvZfGtQQ&expires1=1632742830&_=1632711483950
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
