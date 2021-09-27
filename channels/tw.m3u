@@ -109,6 +109,7 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6095" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png",緯來日本
 rtmp://59.124.75.136/sat/tv771
+#http://198.16.106.62:8278/streams/d/videolandjapan/playlist.m3u8
 #rtmp://161.202.204.248:1935/sat/tv771
 #EXTINF:-1 tvg-id="6044" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png",緯來綜合
 http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
