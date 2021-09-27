@@ -188,6 +188,7 @@ TLC旅遊生活頻道,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台,p5p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+智林體育台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv101/4gtv-live-mid/index.m3u8?token=fdzhIjN4k1ATNU0uFwZCGw&expires=1632760460&token1=v6BswlPmbzbVsWApdp7NvA&expires1=1632760460&_=1632713650856
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 美食星球,p5p://fccs.123178.top:9906/604945ed00053a5b144c099a65029d36.ts
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
