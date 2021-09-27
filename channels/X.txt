@@ -54,6 +54,7 @@
 公視,p5p://fccs.123178.top:9906/60448f540003197f01e2c366b8927af8.ts
 公視3,p5p://fccs.123178.top:9906/6044903d0009037901e653127d757c7b.ts
 公視台語台,p5p://fccs.123178.top:9906/60448ebb000b822801e06fe5cbe82807.ts
+公視戲劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv042/4gtv-live-mid/4gtv-4gtv042-avc1_2000000=1-mp4a_133000_zho=5.m3u8?token=whi7F5MvSWaSLBl2gNTDWA&expires=1632760113&token1=nZ0bWVY4A8sh0iEd78KLJg&expires1=1632760113
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛一台,p5p://fccs.123178.top:9906/6044917a0000fce101eb274c2044b550.ts
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -126,6 +127,7 @@ JET综合,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
 EYE旅遊,p5p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
 EYE戲劇,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
 采倉影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=LZ_-dRvWMw8dIe2YinxvqA&expires=1632742830&token1=s6mvpFjDsM1IY7tvZfGtQQ&expires1=1632742830&_=1632711483950
+ELTA生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=ZBBittOF4a5bv03fmYuQGQ&expires=1632760011&token1=ZikNh6p0DEPLI3m05RcTVw&expires1=1632760011&_=1632713224584
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
@@ -242,6 +244,7 @@ ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Discovery,http://125.227.210.55:10388/VideoInput/play.ts#http://125.227.210.37:10388/VideoInput/play.ts
 Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+精選動漫,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live024/4gtv-live-mid/720.m3u8?token=W_AGHQSLQs9c3pdAOitX5g&expires=1632760290&token1=IzVqNCd0ZqJAdB3ceSsrXQ&expires1=1632760290
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
