@@ -39,7 +39,8 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 rtmp://59.124.75.136/sat/tv071
 #http://60.251.59.180:8543/xoxo.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" tvg-language="Chinese" group-title="新聞",台視新聞
-http://seb.sason.top/sc/tsxw_fhd.m3u8
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
+#http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6028" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",中視
 rtmp://59.124.75.136/sat/tv091
 
@@ -47,7 +48,8 @@ rtmp://59.124.75.136/sat/tv091
 http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 #rtmp://161.202.204.248/sat/tv091
 #EXTINF:-1 tvg-id="7176" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" tvg-language="Chinese" group-title="新聞",中視新聞
-http://seb.sason.top/sc/zsxw_fhd.m3u8
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
+#http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="7136" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png" group-title="一般", 中視菁采台
 http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 #EXTINF:-1 tvg-id="7172" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="一般", 中視經典台
@@ -57,7 +59,8 @@ rtmp://59.124.75.136/sat/tv111
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",華視(備1)
 http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 #rtmp://161.202.204.248/sat/tv111
-##EXTINF:-1 tvg-logo="https://www.rightheart.org/wp-content/uploads/2017/05/52a9dabe9d00f.png" group-title="TAIWAN",華視新聞 
+#EXTINF:-1 tvg-logo="https://www.rightheart.org/wp-content/uploads/2017/05/52a9dabe9d00f.png" group-title="TAIWAN",華視新聞 
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
 #http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.png" group-title="一般", 華視教育體育文化 HD
 http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
@@ -75,14 +78,15 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-id="6048" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都會(備1)
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-##EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/100px-SET_incorporated_logo.svg.png",三立綜合
-#https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live207/4gtv-live-mid/index.m3u8?token=bQPRS6YDT9Nz4Djm1Ik67g&expires=1632757168&token1=QNOL9PciYabg16WJBqmVKA&expires1=1632757168&_=1632710376299
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/100px-SET_incorporated_logo.svg.png",三立綜合
+https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live207/4gtv-live-mid/index.m3u8?token=bQPRS6YDT9Nz4Djm1Ik67g&expires=1632757168&token1=QNOL9PciYabg16WJBqmVKA&expires1=1632757168&_=1632710376299
 #EXTINF:-1 tvg-id="6049" tvg-mame="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png",衛視中文台
 http://50.7.61.148:30080/Entry/starchinese
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立新聞
 http://125.227.210.55:15589/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立新聞(備1)
-http://seb.sason.top/sc/sllive_fhd.m3u8
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
+#http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png" tvg-language="Chinese" group-title="新聞",三立inews新聞
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="新聞", 寰宇新聞台
@@ -223,7 +227,8 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065925
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視電影HD(備1)
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="" group-title="電影",東森電影HD
-http://107.167.5.66:80/mylive/102/2062/index.m3u8
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+#http://107.167.5.66:80/mylive/102/2062/index.m3u8
 #EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="電影",緯來電影
 http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="電影",緯來電影(備1)
