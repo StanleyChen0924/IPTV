@@ -110,12 +110,6 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 緯來體育,rtmp://59.124.75.136/sat/tv721
 緯來體育,rtmp://161.202.204.248/sat/tv721
 緯來體育,http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
-龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-龍華電影台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn03/4gtv-live-mid/index.m3u8?token=uAvVQfP7a80ePf_v4ug-Ew&expires=1632742837&token1=B8K8kLE043_UxaLDHCmXCA&expires1=1632742837&_=1632711483951
-采昌影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=LZ_-dRvWMw8dIe2YinxvqA&expires=1632742830&token1=s6mvpFjDsM1IY7tvZfGtQQ&expires1=1632742830&_=1632711483950
-采昌影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=LZ_-dRvWMw8dIe2YinxvqA&expires=1632742830&token1=s6mvpFjDsM1IY7tvZfGtQQ&expires1=1632742830&_=1632711483950
-ELTA生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=ZBBittOF4a5bv03fmYuQGQ&expires=1632760011&token1=ZikNh6p0DEPLI3m05RcTVw&expires1=1632760011&_=1632713224584
-ELTA生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=ZBBittOF4a5bv03fmYuQGQ&expires=1632760011&token1=ZikNh6p0DEPLI3m05RcTVw&expires1=1632760011&_=1632713224584
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
@@ -194,6 +188,14 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 美亞高清電影台,http://xiaojun.cyou/code/?code=iptv&c=3&id=89
 美亞高清電影台,http://xiaojun.cyou/code/?code=hodiptv&id=246
+經典電影台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live021/4gtv-live-mid/720.m3u8?token=hFMEoiz-DiUVv5pvUvdeAg&expires=1632778688&token1=UFuUeQlJa6gbfmqsz0mcaw&expires1=1632778688
+經典電影台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live021/4gtv-live-mid/720.m3u8?token=hFMEoiz-DiUVv5pvUvdeAg&expires=1632778688&token1=UFuUeQlJa6gbfmqsz0mcaw&expires1=1632778688
+龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+龍華電影台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn03/4gtv-live-mid/index.m3u8?token=uAvVQfP7a80ePf_v4ug-Ew&expires=1632742837&token1=B8K8kLE043_UxaLDHCmXCA&expires1=1632742837&_=1632711483951
+采昌影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=LZ_-dRvWMw8dIe2YinxvqA&expires=1632742830&token1=s6mvpFjDsM1IY7tvZfGtQQ&expires1=1632742830&_=1632711483950
+采昌影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=LZ_-dRvWMw8dIe2YinxvqA&expires=1632742830&token1=s6mvpFjDsM1IY7tvZfGtQQ&expires1=1632742830&_=1632711483950
+ELTA生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=ZBBittOF4a5bv03fmYuQGQ&expires=1632760011&token1=ZikNh6p0DEPLI3m05RcTVw&expires1=1632760011&_=1632713224584
+ELTA生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=ZBBittOF4a5bv03fmYuQGQ&expires=1632760011&token1=ZikNh6p0DEPLI3m05RcTVw&expires1=1632760011&_=1632713224584
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel [V],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 國家地理,http://125.227.210.55:16408/VideoInput/play.ts#http://125.227.210.37:16408/VideoInput/play.ts
