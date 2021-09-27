@@ -91,7 +91,7 @@ https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 rtmp://59.124.75.136/sat/tv761
 #rtmp://161.202.204.248:1935/sat/tv761
 #EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn11/4gtv-live-mid/index.m3u8?token=BgT55JdAo0BgRpSn_tmxkQ&expires=1632742015&token1=Gx8e05aI9MEMmIcKB8deTg&expires1=1632742015&_=1632711483943
+#https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn11/4gtv-live-mid/index.m3u8?token=BgT55JdAo0BgRpSn_tmxkQ&expires=1632742015&token1=Gx8e05aI9MEMmIcKB8deTg&expires1=1632742015&_=1632711483943
 #EXTINF:-1 tvg-id="6051" tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png" ,東森超視
 rtmp://59.124.75.136/sat/tv521
 #rtmp://161.202.204.248:1935/sat/tv521
