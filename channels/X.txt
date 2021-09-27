@@ -205,6 +205,7 @@ BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
 星衛電影台,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 星衛電影台,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
+東森電影台,http://xiaojun.cyou/code/?code=iptv&c=3&id=29
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
 東森電影台,p5p://fccs.123178.top:9906/60449ece0009c6ea021f39ac30bce072.ts
 緯來電影,http://107.167.5.66:80/mylive/102/2063/index.m3u8
@@ -236,6 +237,7 @@ Fox福斯家庭,p5p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
 Fox福斯家庭,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 FOXCRIME,p5p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
 FX HD,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
+靖天電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel [V],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 Channel V,p5p://fccs.123178.top:9906/6068a12900029e3a13556dc2ad58c3d5.ts
