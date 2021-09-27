@@ -65,8 +65,8 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-id="6048" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都會(備1)
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/100px-SET_incorporated_logo.svg.png",三立綜合
-https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live207/4gtv-live-mid/index.m3u8?token=bQPRS6YDT9Nz4Djm1Ik67g&expires=1632757168&token1=QNOL9PciYabg16WJBqmVKA&expires1=1632757168&_=1632710376299
+##EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/100px-SET_incorporated_logo.svg.png",三立綜合
+#https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live207/4gtv-live-mid/index.m3u8?token=bQPRS6YDT9Nz4Djm1Ik67g&expires=1632757168&token1=QNOL9PciYabg16WJBqmVKA&expires1=1632757168&_=1632710376299
 #EXTINF:-1 tvg-id="6049" tvg-mame="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png",衛視中文台
 http://50.7.61.148:30080/Entry/starchinese
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立新聞
@@ -219,8 +219,6 @@ http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 http://125.227.210.55:16027/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-language="Chinese" group-title="電影" ,Hits
-https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live620/4gtv-live-mid/720.m3u8?token=NZ3-7-iAhTgPXvFB5Jw4Ug&expires=1632742553&token1=XNE5jZUWmvsUz9haf1x3aQ&expires1=1632742553
 #EXTINF:-1 tvg-id="" tvg-name="卫视洋片" tvg-logo="" group-title="電影",卫视洋片
 http://125.227.210.55:18789/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-language="Chinese" group-title="電影",東森洋片
