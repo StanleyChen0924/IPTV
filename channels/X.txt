@@ -132,7 +132,8 @@ JET综合,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
 龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
 EYE旅遊,p5p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
 EYE戲劇,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
-采倉影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=LZ_-dRvWMw8dIe2YinxvqA&expires=1632742830&token1=s6mvpFjDsM1IY7tvZfGtQQ&expires1=1632742830&_=1632711483950
+采昌影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=LZ_-dRvWMw8dIe2YinxvqA&expires=1632742830&token1=s6mvpFjDsM1IY7tvZfGtQQ&expires1=1632742830&_=1632711483950
+采昌影劇,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
 ELTA生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=ZBBittOF4a5bv03fmYuQGQ&expires=1632760011&token1=ZikNh6p0DEPLI3m05RcTVw&expires1=1632760011&_=1632713224584
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
