@@ -66,6 +66,7 @@
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
+三立綜合,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live207/4gtv-live-mid/index.m3u8?token=bQPRS6YDT9Nz4Djm1Ik67g&expires=1632757168&token1=QNOL9PciYabg16WJBqmVKA&expires1=1632757168&_=1632710376299
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts#http://seb.sason.top/sc/sllive_fhd.m3u8
 三立新聞,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8.ts
 三立新聞,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8
