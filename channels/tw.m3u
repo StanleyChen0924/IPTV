@@ -260,9 +260,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="電影" ,FOX電影(備1)
 http://60.251.59.179:8527/xoxo.m3u8
-#EXTINF:-1 tvg-id="6087" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" tvg-language="Chinese" group-title="電影" ,FOX電影(備2)
+#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="電影" ,FOX電影(備2)
 http://60.251.59.179:8504/xoxo.m3u8
-#EXTINF:-1 tvg-id="7164" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="電影" ,靖天電影
+#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" tvg-language="Chinese" group-title="電影" ,靖天電影
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" group-title="電影" ,FX HD
 http://125.227.210.55:13498/VideoInput/play.ts
