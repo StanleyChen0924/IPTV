@@ -206,6 +206,7 @@ HBO HD,http://125.227.210.55:16027/VideoInput/play.ts#http://125.227.210.37:1602
 HBO HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+Hits,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live620/4gtv-live-mid/720.m3u8?token=NZ3-7-iAhTgPXvFB5Jw4Ug&expires=1632742553&token1=XNE5jZUWmvsUz9haf1x3aQ&expires1=1632742553
 好萊塢電影,p5p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
 衛視洋片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
