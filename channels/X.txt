@@ -161,12 +161,14 @@ TVBS歡樂台,http://xiaojun.cyou/code/?code=iptv800&id=97
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
+TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
+TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 亞洲美食頻道,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-智林體育台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv101/4gtv-live-mid/index.m3u8?token=fdzhIjN4k1ATNU0uFwZCGw&expires=1632760460&token1=v6BswlPmbzbVsWApdp7NvA&expires1=1632760460&_=1632713650856&vt=
-智林體育台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv101/4gtv-live-mid/index.m3u8?token=fdzhIjN4k1ATNU0uFwZCGw&expires=1632760460&token1=v6BswlPmbzbVsWApdp7NvA&expires1=1632760460&_=1632713650856
+智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
@@ -179,9 +181,9 @@ BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 東森電影台,http://xiaojun.cyou/code/?code=iptv&c=3&id=29
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
 緯來電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 緯來電影台,http://107.167.5.66:80/mylive/102/2063/index.m3u8
 緯來電影台,http://xiaojun.cyou/code/?code=iptv&c=3&id=9
-緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 龍祥時代電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 龍祥時代電影台,http://xiaojun.cyou/code/?code=iptv&c=3&id=14
 龍祥時代電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
@@ -192,32 +194,25 @@ HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-Hits,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live620/4gtv-live-mid/720.m3u8?token=NZ3-7-iAhTgPXvFB5Jw4Ug&expires=1632742553&token1=XNE5jZUWmvsUz9haf1x3aQ&expires1=1632742553&vt=
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 衛視洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 AXN,http://50.7.61.148:30080/Entry/axn
+AXN,http://50.7.61.148:30080/Entry/axn
 CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+靖天電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
 靖天電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 美亞高清電影台,http://xiaojun.cyou/code/?code=iptv&c=3&id=89
 美亞高清電影台,http://xiaojun.cyou/code/?code=hodiptv&id=246
-經典電影台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live021/4gtv-live-mid/720.m3u8?token=hFMEoiz-DiUVv5pvUvdeAg&expires=1632778688&token1=UFuUeQlJa6gbfmqsz0mcaw&expires1=1632778688&vt=
-經典電影台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live021/4gtv-live-mid/720.m3u8?token=hFMEoiz-DiUVv5pvUvdeAg&expires=1632778688&token1=UFuUeQlJa6gbfmqsz0mcaw&expires1=1632778688
 龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200&vt=
-龍華電影台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn03/4gtv-live-mid/index.m3u8?token=uAvVQfP7a80ePf_v4ug-Ew&expires=1632742837&token1=B8K8kLE043_UxaLDHCmXCA&expires1=1632742837&_=1632711483951&vt=
-龍華電影台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn03/4gtv-live-mid/index.m3u8?token=uAvVQfP7a80ePf_v4ug-Ew&expires=1632742837&token1=B8K8kLE043_UxaLDHCmXCA&expires1=1632742837&_=1632711483951
-龍華戲劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn18/4gtv-live-mid/index.m3u8?token=ApGrngdEIHO7uMB_BrI0-Q&expires=1632785634&token1=zFuUk9YtNdWzUm5MHoiZHQ&expires1=1632785634&_=1632755329596
-采昌影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=LZ_-dRvWMw8dIe2YinxvqA&expires=1632742830&token1=s6mvpFjDsM1IY7tvZfGtQQ&expires1=1632742830&_=1632711483950&vt=
-采昌影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/index.m3u8?token=LZ_-dRvWMw8dIe2YinxvqA&expires=1632742830&token1=s6mvpFjDsM1IY7tvZfGtQQ&expires1=1632742830&_=1632711483950
-采昌影劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv049/4gtv-live-mid/4gtv-4gtv049-avc1_2000000=3-mp4a_122000_zho=2.m3u8?token=c32PjSrZltN10DtU2xXVMw&expires=1632785833&token1=HEQEu-n1Gv0s2WHjG2hWoA&expires1=1632785833
-ELTA生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/720.m3u8?token=6tst4JtAqQD5Pg7KhjP_4Q&expires=1632802299&token1=ir94a5AxrE8H2PBrXvpERQ&expires1=1632802299
-ELTA生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=ZBBittOF4a5bv03fmYuQGQ&expires=1632760011&token1=ZikNh6p0DEPLI3m05RcTVw&expires1=1632760011&_=1632713224584&vt=
-ELTA生活旅遊,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live120/4gtv-live-mid/index.m3u8?token=ZBBittOF4a5bv03fmYuQGQ&expires=1632760011&token1=ZikNh6p0DEPLI3m05RcTVw&expires1=1632760011&_=1632713224584
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+Channel [V],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 Channel [V],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 國家地理,http://125.227.210.55:16408/VideoInput/play.ts
 國家地理,http://125.227.210.37:16408/VideoInput/play.ts
@@ -227,8 +222,7 @@ Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 Discovery,http://125.227.210.55:10388/VideoInput/play.ts
 Discovery,http://125.227.210.37:10388/VideoInput/play.ts
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-精選動漫,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live024/4gtv-live-mid/720.m3u8?token=W_AGHQSLQs9c3pdAOitX5g&expires=1632760290&token1=IzVqNCd0ZqJAdB3ceSsrXQ&expires1=1632760290
-精選動漫,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live024/4gtv-live-mid/720.m3u8?token=Qqb_GIHvnjbgWFIAB0AzsQ&expires=1632802702&token1=WPKjpI08uV35ErDAKD7dPQ&expires1=1632802702
+優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
