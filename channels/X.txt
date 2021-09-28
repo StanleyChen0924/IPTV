@@ -51,10 +51,6 @@
 華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
-公視戲劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv042/4gtv-live-mid/4gtv-4gtv042-avc1_2000000=1-mp4a_133000_zho=5.m3u8?token=whi7F5MvSWaSLBl2gNTDWA&expires=1632760113&token1=nZ0bWVY4A8sh0iEd78KLJg&expires1=1632760113&vt=
-公視戲劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv042/4gtv-live-mid/4gtv-4gtv042-avc1_2000000=1-mp4a_133000_zho=5.m3u8?token=OiqjtH-pECM13HfksYtONQ&expires=1632802348&token1=__k80oIWsDVfB6TtxtzJJA&expires1=1632802348
-公視戲劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv042/4gtv-live-mid/4gtv-4gtv042-avc1_2000000=1-mp4a_133000_zho=5.m3u8?token=K95Jqhtnb3rAp1_pU2idrQ&expires=1632780660&token1=QgsjRMkrbx6AcZmehyFSvQ&expires1=1632780660&vt=
-公視戲劇,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv042/4gtv-live-mid/4gtv-4gtv042-avc1_2000000=1-mp4a_133000_zho=5.m3u8?token=whi7F5MvSWaSLBl2gNTDWA&expires=1632760113&token1=nZ0bWVY4A8sh0iEd78KLJg&expires1=1632760113
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -68,9 +64,6 @@
 三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-三立綜合,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live207/4gtv-live-mid/720.m3u8?token=K95Jqhtnb3rAp1_pU2idrQ&expires=1632780660&token1=QgsjRMkrbx6AcZmehyFSvQ&expires1=1632780660&vt=
-三立綜合,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live207/4gtv-live-mid/index.m3u8?token=bQPRS6YDT9Nz4Djm1Ik67g&expires=1632757168&token1=QNOL9PciYabg16WJBqmVKA&expires1=1632757168&_=1632710376299&vt=
-三立綜合,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live207/4gtv-live-mid/index.m3u8?token=bQPRS6YDT9Nz4Djm1Ik67g&expires=1632757168&token1=QNOL9PciYabg16WJBqmVKA&expires1=1632757168&_=1632710376299
 三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
