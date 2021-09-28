@@ -140,22 +140,20 @@ http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png",ELTA愛爾達影劇台
 http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 #EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
-rtmp://59.124.75.136/sat/md041
+rtmp://59.124.75.136/sat/md011
+#rtmp://59.124.75.136/sat/md041
 #rtmp://161.202.204.248/sat/md041
-#EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台(備1)
-rtmp://59.124.75.136:1935/sat/md041
+#rtmp://59.124.75.136:1935/sat/md041
 #rtmp://161.202.204.248:1935/sat/md041
 #EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合2台
 rtmp://59.124.75.136/sat/md031
 #rtmp://161.202.204.248/sat/md031
-#EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合2台(備1)
-rtmp://59.124.75.136:1935/sat/md031
+#rtmp://59.124.75.136:1935/sat/md031
 #rtmp://161.202.204.248:1935/sat/md031
 #EXTINF:-1 tvg-id="7213" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台
 rtmp://59.124.75.136:1935/sat/md051
 #rtmp://161.202.204.248:1935/sat/md051
-#EXTINF:-1 tvg-id="7213" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台(備1)
-rtmp://59.124.75.136/sat/md051
+#rtmp://59.124.75.136/sat/md051
 #rtmp://161.202.204.248/sat/md051
 #EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" tvg-language="Chinese" group-title="體育",ELEVEN1體育
 rtmp://59.124.75.136/sat/tv731
@@ -165,12 +163,17 @@ rtmp://59.124.75.136/sat/tv741
 #rtmp://161.202.204.248/sat/tv741
 #EXTINF:-1 tvg-id="6180" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-language="Chinese" group-title="體育",博斯運動I
 rtmp://59.124.75.136/sat/md011
+#EXTINF:-1 tvg-id="6180" tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-language="Chinese" group-title="體育",博斯運動II
+rtmp://59.124.75.136/sat/md051
+#rtmp://59.124.75.136/sat/md011
 #rtmp://161.202.204.248:1935/sat/md011
 #EXTINF:-1 tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-language="Chinese" group-title="體育",博斯網球
 rtmp://59.124.75.136/sat/md021
 #rtmp://161.202.204.248:1935/sat/md021
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-language="Chinese" group-title="體育",魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="智林体育" tvg-name="智林體育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="一般",智林體育台
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6074"  tvg-logo="https://cc.tvbs.com.tw/portal/images/logo.png",TVBS
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 #EXTINF:-1 tvg-id="6060"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png",TVBS歡樂台
@@ -207,28 +210,21 @@ http://125.227.210.55:19020/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="一般",FOX
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",Food亞洲美食
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",Food亞洲美食(備1)
+#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="7216" tvg-logo="noimage.png" group-title="一般", 美食星球
-http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
-                                                                   
+http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8                                                                   
 #EXTINF:-1 tvg-id="6172" tvg-name="亞洲旅遊台" tvg-logo="" group-title="一般",亞洲旅遊台
 http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="智林体育" tvg-name="智林體育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="一般",智林體育台
-http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="6147" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" , BBC lifestyle
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="一般",ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道电影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映頻道電影 (480p)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-language="Chinese" group-title="電影",天映經典
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-language="Chinese" group-title="電影",thrill
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="526" tvg-name="美亚电影台" tvg-logo="" group-title="電影" ,美亞電影台
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 #EXTINF:-1 tvg-id="526" tvg-name="卫视卡式台" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQwup.png" group-title="電影" ,衛視卡式台
@@ -252,10 +248,8 @@ https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy&tonken=32d1adfdffa0760e
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 #EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO
 http://125.227.210.55:16027/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO(備1)
-http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-language="Chinese" group-title="電影" ,HBO HD
-http://107.167.5.66/mylive/102/2065/index.m3u8
+#http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+#http://107.167.5.66/mylive/102/2065/index.m3u8
 #EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卫视洋片" tvg-logo="" group-title="電影",卫视洋片
@@ -301,6 +295,7 @@ http://125.227.210.55:16408/VideoInput/play.ts
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" ,NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 tvg-id="" ,ANIMAX
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-id="" ,Discovery HD
@@ -371,16 +366,14 @@ http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="韓國" ,韓國娛樂台KMTV
 http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韓國" ,韓國阿里郎
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="One" ,ONE
 http://210.210.155.35/uq2663/h/h143/01.m3u8
-#EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="One" ,ONE(備1)
-http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
-#EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="One" ,ONE(備2)
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
+#http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",TVN HD
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",TVN ASIA HD
+#http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·TBS
 http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
