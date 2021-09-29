@@ -69,6 +69,10 @@
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
+衛視中文台,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
+衛視中文台,mitv://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f.ts
+衛視中文台,mitv://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80.ts
+衛視中文台,mitv://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
 寰宇新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 寰宇新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
