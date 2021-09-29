@@ -104,8 +104,12 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
+愛爾達影劇台,mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b.ts
+愛爾達影劇台,mitv://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b.ts
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+愛爾達綜合台,mitv://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts
+愛爾達綜合台,mitv://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts
 愛爾體育1,rtmp://59.124.75.136/sat/md011
 愛爾體育1,rtmp://161.202.204.248/sat/md011
 愛爾體育2,rtmp://59.124.75.136/sat/md051
