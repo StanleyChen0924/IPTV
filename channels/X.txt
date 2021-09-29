@@ -881,7 +881,6 @@ TVB輪播埋堆,#genre#
 洪金寶,http://ws.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
 徐崢,http://121.51.249.53/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
 徐崢,http://ws.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.flv
-衛視卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 鬥魚5,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 鬥魚6,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 鬥魚8,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
