@@ -276,7 +276,7 @@ http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20AOD%20311.png" group-title="一般",Astro AOD
 http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="一般",Astro 愛奇藝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E7%88%B1%E5%A5%87%E8%89%BA.png" group-title="一般",Astro 愛奇藝
 http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Shuang%20Xing.png" group-title="一般",Astro 雙星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
