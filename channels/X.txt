@@ -450,6 +450,7 @@ YTN[1920*1080],http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist
 가요TV[1920*1080][1920*1080],http://gayotv.net:1935/live/gayotv/playlist.m3u8
 KBC 광주방송(SBS 光州)[1920*1080][1920*1080],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 KBS World[1920*1080][1920*1080],http://125.227.210.37:8935/VideoInput/play.ts
+KBS,http://luotuo.ycchenrong.cn/dl/youku.php?id=8034767
 TJB 대전방송(SBS 大田)[1280*720][1280*720],http://1.245.74.5:1935/live/tv/.m3u8
 arirang[1280*720],http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 Arirang[1280*720],http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
@@ -509,9 +510,9 @@ Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now直播331台,https://api.leonardpark.dev/live/now/331
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
-香港開电視,https://cdn.hkdtmb.com/hls/77/index.m3u8
-香港開电視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港開电視,https://www.navchina.cf/IPTV/icable.php?id=77
+香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港開電視,https://www.navchina.cf/IPTV/icable.php?id=77
 鳳凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 鳳凰資訊 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 鳳凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
@@ -538,8 +539,8 @@ TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22&tonken=32d1adfdff
 VIUtv,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviutv99&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 VIUtv6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 有線電影 ,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-香港电台31,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3131&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-香港电台32,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3232&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+香港電台31,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3131&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+香港電台32,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3232&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 鳳凰中文,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 鳳凰資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 鳳凰電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
@@ -1213,15 +1214,15 @@ NewTV超級體育 8M1080[1920*1080],http://39.134.155.137/PLTV/88888888/224/3221
 NewTV超級電影 2.5M1080[1920*1080],http://39.134.155.189/PLTV/88888888/224/3221225497/index.m3u8
 NewTV超級電影 4M1080[1920*1080],http://39.134.155.133/PLTV/88888888/224/3221225582/index.m3u8
 NewTV超級電影 8M1080[1920*1080],http://39.134.155.141/PLTV/88888888/224/3221225656/index.m3u8
-NewTV超級电視劇 2.5M1080[1920*1080],http://39.134.155.135/PLTV/88888888/224/3221225514/index.m3u8
-NewTV超級电視劇 4M1080[1920*1080],http://39.134.155.145/PLTV/88888888/224/3221225595/index.m3u8
+NewTV超級電視劇 2.5M1080[1920*1080],http://39.134.155.135/PLTV/88888888/224/3221225514/index.m3u8
+NewTV超級電視劇 4M1080[1920*1080],http://39.134.155.145/PLTV/88888888/224/3221225595/index.m3u8
 NewTV超級綜藝 2.5M1080[1920*1080],http://39.134.155.203/PLTV/88888888/224/3221225495/index.m3u8
 NewTV超級綜藝 4M1080[1920*1080],http://39.134.155.139/PLTV/88888888/224/3221225593/index.m3u8
 黑莓動畫 4M1080[1920*1080],http://39.134.155.147/PLTV/88888888/224/3221225671/index.m3u8
 黑莓動畫 4M1080[1920*1080],http://39.134.155.151/PLTV/88888888/224/3221225554/index.m3u8
 黑莓電影 4M1080[1920*1080],http://39.134.155.155/PLTV/88888888/224/3221225664/index.m3u8
-黑莓电竞 4M1080[1920*1080],http://39.134.155.145/PLTV/88888888/224/3221225569/index.m3u8
-黑莓电竞 4M1080[1920*1080],http://39.134.155.159/PLTV/88888888/224/3221225643/index.m3u8
+黑莓電競 4M1080[1920*1080],http://39.134.155.145/PLTV/88888888/224/3221225569/index.m3u8
+黑莓電競 4M1080[1920*1080],http://39.134.155.159/PLTV/88888888/224/3221225643/index.m3u8
 CCTV1 720[1280*720],http://39.134.155.133/PLTV/88888888/224/3221225553/index.m3u8
 CCTV1 720[1280*720],http://39.134.155.177/PLTV/88888888/224/3221225506/index.m3u8
 CCTV5+ 720[1280*720],http://39.134.155.213/PLTV/88888888/224/3221225563/index.m3u8
@@ -1333,7 +1334,6 @@ Hillsong Channel,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486
 Privacy Policy,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b36abcddfb1f0729a3a7dab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 新歌速遞,rtmp://tx.rtmp.huya.com:1935/huyalive/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1
 音樂石榴,http://121.12.115.156/tx.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8
-歌曲,http://luotuo.ycchenrong.cn/dl/youku.php?id=8034767
 岭南戲曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
 
 台灣125,#genre#
