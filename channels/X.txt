@@ -5,11 +5,11 @@
 民視,rtmp://161.202.204.248/sat/tv051
 民視,rtmp://161.202.204.248:1935/sat/tv051
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
-民視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
 民視新聞台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
 民視新聞台,http://luyutv.com/hdtv.m3u8
+民視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 民視台灣台,https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 民視台灣台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
