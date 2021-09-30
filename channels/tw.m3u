@@ -446,7 +446,7 @@ http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 #EXTINF:-1 tvg-logo="https://aatv-file.oss-cn-beijing.aliyuncs.com/img/602da458-0525-40dc-54c7-94f6d627e62d.png" ,亞美衛視
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/eaf81a4c510fd9f9d72a034bf764c32a2834349b0ef5?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="SiTV",SiTV動漫秀場 4M1080[1920*1080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sg.heytv.org/wp-content/uploads/2018/12/1-1P501135151462.jpg" group-title="SiTV",SiTV動漫秀場 4M1080[1920*1080
 http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SITV-MOVIE/SITV-MOVIE.jpg?1" group-title="SiTV",SiTV都市劇場 4M1080[1920*1080
 http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
