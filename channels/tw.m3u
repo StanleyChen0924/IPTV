@@ -136,7 +136,8 @@ https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw&tonken=32d1adfdffa0760e
 #http://seb.sason.top/sc/dsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6075" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
+rtmp://59.124.75.136:1935/sat/tv571
+#http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6095" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png",緯來日本
 rtmp://59.124.75.136/sat/tv771
@@ -216,10 +217,9 @@ rtmp://59.124.75.136/sat/tv421
 #rtmp://161.202.204.248/sat/tv421
 
 #EXTINF:-1 tvg-id="6073" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1c/Tvbsnews.png/220px-Tvbsnews.png" tvg-language="Chinese" group-title="新聞",TVBS新聞台
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-
-#EXTINF:-1 tvg-id="6073" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1c/Tvbsnews.png/220px-Tvbsnews.png" tvg-language="Chinese" group-title="新聞",TVBS新聞台
-http://125.227.210.55:16329/VideoInput/play.ts
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#http://125.227.210.55:16329/VideoInput/play.ts
+rtmp://59.124.75.136/sat/tv551
 #http://125.227.210.37:16329/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6057" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="一般",中天娛樂台
