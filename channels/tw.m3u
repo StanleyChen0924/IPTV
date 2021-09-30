@@ -224,6 +224,7 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mn
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6074"  tvg-logo="https://cc.tvbs.com.tw/portal/images/logo.png",TVBS
+#https://git.io/JgYl2
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 
 #EXTINF:-1 tvg-id="6060"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png",TVBS歡樂台
