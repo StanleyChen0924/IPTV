@@ -204,8 +204,6 @@ Disney,http://125.227.210.55:14250/VideoInput/play.ts
 Disney,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 Cartoonito,http://212.102.60.76:80/o1/mono.m3u8
-MoMo親子台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-live-mid/720.m3u8?token=6hLnB1wCcva30I6pE0Ofpg&expires=1632936655&token1=XAgP_zXe-dPDwWC6FD7GXw&expires1=1632936655
-MoMo親子台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-live-mid/index.m3u8?token=6hLnB1wCcva30I6pE0Ofpg&expires=1632936655&token1=XAgP_zXe-dPDwWC6FD7GXw&expires1=1632936655&_=1632889853333
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
