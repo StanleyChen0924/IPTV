@@ -307,8 +307,8 @@ http://125.227.210.55:16408/VideoInput/play.ts
 #EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" ,翡翠台高清
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv-pro.github.io/logo/NHKChinese.png" ,NHK World Japan
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-#https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv-pro.github.io/logo/animax.png" ,ANIMAX
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv-pro.github.io/logo/Discovery%20Asia.png" ,Discovery HD
