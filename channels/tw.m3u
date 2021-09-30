@@ -135,6 +135,9 @@ rtmp://59.124.75.136/sat/tv761
 rtmp://59.124.75.136/sat/tv521
 #rtmp://161.202.204.248:1935/sat/tv521
 
+#EXTINF:-1 tvg-id="6043" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" tvg-language="Chinese" group-title="兒童",東森幼幼
+https://git.io/JgYON
+
 #EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",東森戲劇
 http://125.227.210.55:17524/VideoInput/play.ts
 #http://125.227.210.37:17524/VideoInput/play.ts
@@ -267,7 +270,7 @@ http://125.227.210.55:19020/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="一般",FOX
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",Food亞洲美食
+#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",亞洲美食
 #https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 
@@ -383,7 +386,7 @@ http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Xiao%20Tai%20Yang.png" group-title="兒童",Astro 小太陽
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="一般",幸福空間
+#EXTINF:-1 tvg-id="6138" tvg-name="幸福空间居家台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png" group-title="一般",幸福空間
 https://git.io/JgYYF
 
 #EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="一般",HGTV居家樂活
@@ -394,15 +397,19 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="一般",國家地理
 http://125.227.210.55:16408/VideoInput/play.ts
+
 #EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" ,翡翠台高清
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv-pro.github.io/logo/NHKChinese.png" ,NHK World Japan
 #https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv-pro.github.io/logo/animax.png" ,ANIMAX
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv-pro.github.io/logo/Discovery%20Asia.png" ,Discovery HD
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="一般",Discovery
 http://125.227.210.55:10388/VideoInput/play.ts
 
@@ -518,4 +525,15 @@ https://git.io/JgkA6
 https://git.io/JgkA1
 #EXTINF:-1 tvg-id="" group-title="音樂",西洋流行音樂電台
 https://git.io/JgkAy
-
+#EXTINF:-1 tvg-id="" group-title="音樂",KPOP
+https://git.io/JgYAE
+#EXTINF:-1 tvg-id="" group-title="音樂",2021不能不聽的50首歌
+https://git.io/JgYR5
+#EXTINF:-1 tvg-id="" group-title="音樂",KKBOX華語單曲排行週榜
+https://git.io/JgYBe
+#EXTINF:-1 tvg-id="" group-title="音樂",網路流行音樂電台
+https://git.io/JgkA6
+#EXTINF:-1 tvg-id="" group-title="音樂",日文動漫音樂電台
+https://git.io/JgkA1
+#EXTINF:-1 tvg-id="" group-title="音樂",西洋流行音樂電台
+https://git.io/JgkAy
