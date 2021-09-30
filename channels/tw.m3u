@@ -227,6 +227,17 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-language="Chinese" tvg-logo="https://iptv-pro.github.io/logo/Thrill.png" group-title="電影",thrill
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="電影",CHC高清电影
+#rtmp://58.200.131.2:1935/livetv/chchd
+#http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="電影",CHC家庭电影
+#rtmp://58.200.131.2:1935/livetv/chctv
+#http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="電影",CHC动作电影
+#rtmp://58.200.131.2:1935/livetv/chcatv
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="526" tvg-name="美亚电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="電影" ,美亞電影台
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
