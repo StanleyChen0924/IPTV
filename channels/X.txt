@@ -87,6 +87,7 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 MoMo綜合台,rtmp://59.124.75.136/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+東森幼幼,https://git.io/JgYON
 東森超視,rtmp://59.124.75.136/sat/tv521
 東森超視,rtmp://161.202.204.248:1935/sat/tv521
 東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
@@ -226,6 +227,7 @@ GEN,http://210.210.155.35:80/uq2663/h/h19/02.m3u8
 ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 ONE,http://210.210.155.35/uq2663/h/h143/01.m3u8
 ONE,http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
+KPOP,https://git.io/JgYAE
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/02.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
@@ -269,6 +271,7 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 寰宇新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 寰宇新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
 寰宇全球新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+TVBS,https://git.io/JgYl2
 TVBS新聞台,rtmp://59.124.75.136/sat/tv551
 TVBS新聞台,https://git.io/Jgkp1
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
@@ -966,6 +969,7 @@ CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 寰宇新聞二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
 寰宇新聞二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
 寰宇新聞二台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
+東森幼幼,https://git.io/JgYON
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
@@ -1455,6 +1459,9 @@ IPTV5+ 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240
 CHC高清電影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 體育賽事 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
 Music,#genre#
+KPOP,https://git.io/JgYAE
+2021不能不聽的50首歌,https://git.io/JgYR5
+KKBOX華語單曲排行週榜,https://git.io/JgYBe
 網路流行音樂電台,https://git.io/JgkA6
 日文動漫音樂電台,https://git.io/JgkA1
 西洋流行音樂電台,https://git.io/JgkAy
