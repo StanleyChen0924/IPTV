@@ -276,6 +276,7 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 寰宇新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
 寰宇全球新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 TVBS,https://git.io/JgYl2
+TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 TVBS新聞台,rtmp://59.124.75.136/sat/tv551
 TVBS新聞台,https://git.io/Jgkp1
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
