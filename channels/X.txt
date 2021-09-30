@@ -10,7 +10,7 @@
 民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
 民視新聞台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
 民視新聞台,http://luyutv.com/hdtv.m3u8
-民視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+民視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
 民視台灣台,https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 民視台灣台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
@@ -29,13 +29,13 @@
 台視,rtmp://161.202.204.248/sat/tv071
 台視,rtmp://161.202.204.248:1935/sat/tv071
 台視新聞,https://git.io/JgkxY
-台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 中視,rtmp://59.124.75.136/sat/tv071
 中視,rtmp://161.202.204.248/sat/tv091
 中視新聞,https://git.io/Jgkxz
-中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
@@ -47,7 +47,7 @@
 華視,rtmp://161.202.204.248/sat/tv111
 華視,rtmp://161.202.204.248:1935/sat/tv111
 華視新聞,https://git.io/Jgkxa
-華視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+華視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
@@ -68,7 +68,7 @@
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立新聞,https://git.io/Jgkxp
-三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立inews新聞,https://git.io/Jgkxj
@@ -78,7 +78,7 @@
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 寰宇新聞台,https://git.io/JgkpO
 寰宇新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
-寰宇新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+寰宇新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
 寰宇全球新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
@@ -92,7 +92,7 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
 東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
 東森新聞,https://git.io/Jgkps
-東森新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+東森新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森財經,https://git.io/Jgkpc
 東森財經,rtmp://59.124.75.136/sat/tv571
@@ -107,7 +107,7 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 緯來戲劇,http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
 緯來育樂,rtmp://59.124.75.136/sat/tv701
 緯來育樂,rtmp://161.202.204.248/sat/tv701
-緯來體育,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwlty&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+緯來體育,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwlty
 緯來體育,rtmp://59.124.75.136/sat/tv721
 緯來體育,rtmp://161.202.204.248/sat/tv721
 緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
@@ -143,13 +143,11 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 中天綜合,http://125.227.210.55:14583/VideoInput/play.ts
 中天綜合,http://125.227.210.37:14583/VideoInput/play.ts
 中天新聞,https://git.io/Jgkpy
-中天新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+中天新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-年代新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
-非凡新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
-壹電視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+壹電視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -164,14 +162,14 @@ TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-衛視電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+衛視電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 衛視電影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
-東森電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+東森電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
-緯來電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+緯來電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 緯來電影台,http://107.167.5.66:80/mylive/102/2063/index.m3u8
-龍祥時代電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+龍祥時代電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 龍祥時代電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
@@ -190,10 +188,10 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 靖天電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
 靖天電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
-美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200&vt=
+美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
+龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 國家地理,http://125.227.210.55:16408/VideoInput/play.ts
@@ -244,29 +242,29 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 新聞頻道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
-民視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+民視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
 民視新聞台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
 民視新聞台,http://luyutv.com/hdtv.m3u8
-台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
-中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
-華視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+華視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
-三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
-寰宇新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+寰宇新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
 寰宇新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 寰宇新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-東森新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+東森新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 東森財經,rtmp://59.124.75.136/sat/tv571
@@ -274,13 +272,13 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
-年代新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+年代新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
 年代新聞,http://107.167.5.66:80/mylive/102/2026/index.m3u8
-非凡新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+非凡新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,http://107.167.5.66:80/mylive/102/2058/index.m3u8
-壹電視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+壹電視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -298,14 +296,14 @@ HK03_電影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 天映電影,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映電影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
-衛視電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+衛視電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 衛視電影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
-東森電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+東森電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
-緯來電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+緯來電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 緯來電影台,http://107.167.5.66:80/mylive/102/2063/index.m3u8
-龍祥時代電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+龍祥時代電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 龍祥時代電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
 HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
@@ -328,10 +326,10 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 靖天電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
 靖天電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
-美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200&vt=
+美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
+龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&vt=
 電影5_鬥魚,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 電影6_鬥魚,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 電影8_鬥魚,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
@@ -520,23 +518,23 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 天映頻道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映電影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-翡翠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-有線新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-無線新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkinews83&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-無線財經,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-有線電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-明珠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkpearl84&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-VIUtv,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviutv99&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-VIUtv6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-有線電影 ,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-香港電台31,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3131&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-香港電台32,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3232&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-鳳凰中文,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-鳳凰資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-鳳凰電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-天映頻道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+翡翠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
+有線新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxxw
+無線新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkinews83
+無線財經,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
+有線電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy
+明珠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkpearl84
+TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
+VIUtv,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviutv99
+VIUtv6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696
+有線電影 ,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy
+香港電台31,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3131
+香港電台32,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3232
+鳳凰中文,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw
+鳳凰資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
+鳳凰電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhdy
+天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
+天映頻道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
 馬來,#genre#
 Astro 歡喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
@@ -1530,9 +1528,9 @@ BBCworld HD,http://125.227.210.37:10246/VideoInput/play.ts
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 東風衛視,http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 中視新聞 HD,http://seb.sason.top/sc/zsxw_fhd.m3u8
-華視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+華視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
 華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
-台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
 台視新聞 HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視 HD,http://seb.sason.top/ptv/ftv.php?id=ms
 民視第一台 HD,http://seb.sason.top/ptv/ftv.php?id=dy
@@ -1560,7 +1558,7 @@ Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 民視 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 台視 HD,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
 台視財經,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
-台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
 中視 HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
 中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
