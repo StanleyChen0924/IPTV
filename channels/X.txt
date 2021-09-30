@@ -193,6 +193,7 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
 龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
+幸福空間,https://git.io/JgYYF
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 國家地理,http://125.227.210.55:16408/VideoInput/play.ts
