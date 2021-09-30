@@ -308,8 +308,8 @@ https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy&tonken=32d1adfdffa0760e
 #http://107.167.5.66:80/mylive/102/2062/index.m3u8
 
 #EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="電影",緯來電影
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-#http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 #http://107.167.5.66:80/mylive/102/2063/index.m3u8
 
 #EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="電影",龍祥時代電影台                                                                                                                                          
