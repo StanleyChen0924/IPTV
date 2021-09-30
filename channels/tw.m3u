@@ -105,7 +105,7 @@ https://git.io/Jgkxj
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="新聞", 寰宇新聞台
 https://git.io/JgkpO
 #https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
 
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="新聞", 寰宇全球新聞台
 http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
@@ -141,7 +141,7 @@ http://125.227.210.55:17524/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6069" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森新聞
 https://git.io/Jgkps
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
 #http://seb.sason.top/sc/dsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6075" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
@@ -220,14 +220,14 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mn
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6074"  tvg-logo="https://cc.tvbs.com.tw/portal/images/logo.png",TVBS
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 
 #EXTINF:-1 tvg-id="6060"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png",TVBS歡樂台
 rtmp://59.124.75.136/sat/tv421
 #rtmp://161.202.204.248/sat/tv421
 
 #EXTINF:-1 tvg-id="6073" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1c/Tvbsnews.png/220px-Tvbsnews.png" tvg-language="Chinese" group-title="新聞",TVBS新聞台
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 #http://125.227.210.55:16329/VideoInput/play.ts
 https://git.io/Jgkp1
 #rtmp://59.124.75.136/sat/tv551
@@ -241,21 +241,21 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
 
 #EXTINF:-1 tvg-id="6070" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" tvg-language="Chinese" group-title="新聞",中天新聞
 https://git.io/Jgkpy
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
 #http://seb.sason.top/sc/ztxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
 #http://125.227.210.55:11055/VideoInput/play.ts
 #http://www.1314lm.com/mylive/102/2050/index.m3u8
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
 
 #EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-language="Chinese" group-title="新聞",非凡新聞
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
 #http://125.227.210.55:15078/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6067" tvg-name="壹電視新闻台" tvg-logo="https://ppt.cc/fYmRdx" tvg-language="Chinese" group-title="新聞",壹電視新聞台
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 #http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="新聞,彭博財經台  
@@ -313,23 +313,23 @@ http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視電影HD
 #http://107.167.5.66:80/mylive/102/2061/index.m3u8
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影HD
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 #http://107.167.5.66:80/mylive/102/2062/index.m3u8
 
 #EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="電影",緯來電影
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 #http://107.167.5.66:80/mylive/102/2063/index.m3u8
 
 #EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="電影",龍祥時代電影台                                                                                                                                          
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 #http://107.167.5.66/mylive/102/2064/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="電影",龍華电影
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
 
 #EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO
 http://125.227.210.55:16027/VideoInput/play.ts
