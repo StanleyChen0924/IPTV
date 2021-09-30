@@ -5,6 +5,7 @@
 民視,rtmp://161.202.204.248/sat/tv051
 民視,rtmp://161.202.204.248:1935/sat/tv051
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
+民視新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FTVNews.m3u8
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
 民視新聞台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
@@ -33,6 +34,7 @@
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 中視,rtmp://59.124.75.136/sat/tv071
 中視,rtmp://161.202.204.248/sat/tv091
+中視新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTVNews.m3u8
 中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
@@ -44,6 +46,7 @@
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 華視,rtmp://161.202.204.248/sat/tv111
 華視,rtmp://161.202.204.248:1935/sat/tv111
+華視新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTSNews.m3u8
 華視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
@@ -64,6 +67,7 @@
 三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+三立新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/SETLiveNews.m3u8
 三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
@@ -71,6 +75,7 @@
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
+寰宇新聞台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hyxw.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 寰宇新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 寰宇全球新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
@@ -88,6 +93,7 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 東森新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCNews.m3u8
 東森新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCFNews.m3u8
 東森財經,rtmp://59.124.75.136/sat/tv571
 東森財經,rtmp://161.202.204.248:1935/sat/tv571
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
@@ -125,9 +131,8 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 博斯運動II,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 TVBS新聞台,rtmp://59.124.75.136/sat/tv551
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+TVBS新聞台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBSNews.m3u8
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
@@ -136,6 +141,7 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
 中天綜合,http://125.227.210.55:14583/VideoInput/play.ts
 中天綜合,http://125.227.210.37:14583/VideoInput/play.ts
+中天新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTITVNews.m3u8
 中天新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
