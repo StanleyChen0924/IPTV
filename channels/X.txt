@@ -1457,6 +1457,9 @@ IPTV5+ 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240
 CHC高清電影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 體育賽事 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
 Music,#genre#
+網路流行音樂電台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
+日文動漫音樂電台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/MusicJp24.m3u8
+西洋流行音樂電台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/MusicCi24.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 MTV 音樂頻道,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
