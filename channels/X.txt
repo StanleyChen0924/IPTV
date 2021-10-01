@@ -42,10 +42,6 @@
 中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-
-中視經典台 tvbus,tvbus://3gokPtrEK1RFptNWM4TzM6T2wj1tbQjUvSHZejsAZtdet8pZ99
-中視菁采台 tvbus,tvbus://3mnGRSmJTPMqyWhAowL4jz1nd4uTvQnkrARmZkmb8mpmLEnQPK
-
 華視,rtmp://59.124.75.136/sat/tv111
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 華視,rtmp://161.202.204.248/sat/tv111
@@ -123,10 +119,6 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-
-愛爾達影劇台 tvbus,tvbus://4XaXTY5KrLbztAaGsyLAStwtuMBdsKBKVzWoMGf6xxifh42rnm
-愛爾達綜合台 tvbus,tvbus://4UKhCXtpPwWZLKvSiaiycpv6bPZTaffy7FewjAsBe7ynEJTq31
-
 愛爾體育1,rtmp://59.124.75.136/sat/md011
 愛爾體育1,rtmp://161.202.204.248/sat/md011
 愛爾體育2,rtmp://59.124.75.136/sat/md051
