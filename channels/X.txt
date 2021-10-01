@@ -583,7 +583,6 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 武林外傳,http://121.51.249.53/tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
 Music,#genre#
 KPOP,https://git.io/JgYAE
-KPOP Live,https://git.io/JgP6P
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 網路流行音樂電台,https://git.io/JgkA6
 日文動漫音樂電台,https://git.io/JgkA1
