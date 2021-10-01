@@ -204,6 +204,7 @@ HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 國家地理,http://125.227.210.37:16408/VideoInput/play.ts
 NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 NHK World Japan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+NHK World Japan,http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 Discovery,http://125.227.210.55:10388/VideoInput/play.ts
@@ -1673,6 +1674,7 @@ HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 驚艷成人電影台,mitv://ns2.hellotvvod.com:9906/077e6baec1774b88a259f68816b22981.ts
 潘朵拉玩美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
 測試_710924,#genre#
+EXTASY HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 SWAG,https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
 東京熱,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0436/index.m3u8
 一本道,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
