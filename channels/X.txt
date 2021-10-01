@@ -1538,8 +1538,6 @@ CHC高清電影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00
 體育賽事 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
 Music,#genre#
 KPOP,https://git.io/JgYAE
-2021不能不聽的50首歌,https://git.io/JgYR5
-KKBOX華語單曲排行週榜,https://git.io/JgYBe
 網路流行音樂電台,https://git.io/JgkA6
 日文動漫音樂電台,https://git.io/JgkA1
 西洋流行音樂電台,https://git.io/JgkAy
