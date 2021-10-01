@@ -521,6 +521,9 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="韓國",韓國·CGNTV韓國
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="音樂",KPOP
+https://git.io/JgYAE
 #EXTINF:-1 tvg-id="" group-title="音樂",網路流行音樂電台
 https://git.io/JgkA6
 #EXTINF:-1 tvg-id="" group-title="音樂",日文動漫音樂電台
@@ -531,7 +534,3 @@ https://git.io/JgkAy
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1 tvg-id="" group-title="音樂",KPOP
 https://git.io/JgYAE
-#EXTINF:-1 tvg-id="" group-title="音樂",2021不能不聽的50首歌
-https://git.io/JgYR5
-#EXTINF:-1 tvg-id="" group-title="音樂",KKBOX華語單曲排行週榜
-https://git.io/JgYBe
