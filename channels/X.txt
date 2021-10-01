@@ -166,6 +166,7 @@ TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+ANIMAL PLANET,http://foctv.xyz:25510/Amir5641/YY5641/96
 BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 衛視電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 衛視電影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
