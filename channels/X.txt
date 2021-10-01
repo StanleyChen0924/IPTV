@@ -627,7 +627,6 @@ tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/02.m3u8
 KPOP,https://git.io/JgYAE
-KPOP Live,https://git.io/JgP6P
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
