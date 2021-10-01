@@ -524,13 +524,13 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w16047600
 
 #EXTINF:-1 tvg-id="" group-title="音樂",KPOP
 https://git.io/JgYAE
+#EXTINF:-1 tvg-id="" group-title="音樂",KPOP Live
+https://git.io/JgP6P
+#EXTINF:-1 tvg-id="" group-title="音樂",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1 tvg-id="" group-title="音樂",網路流行音樂電台
 https://git.io/JgkA6
 #EXTINF:-1 tvg-id="" group-title="音樂",日文動漫音樂電台
 https://git.io/JgkA1
 #EXTINF:-1 tvg-id="" group-title="音樂",西洋流行音樂電台
 https://git.io/JgkAy
-#EXTINF:-1 tvg-id="" group-title="音樂",Sexy K-Pop
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1 tvg-id="" group-title="音樂",KPOP
-https://git.io/JgYAE
