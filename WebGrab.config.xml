@@ -97,6 +97,10 @@
     <channel update="i" site="tvbox.qmap.tw" site_id="z" xmltv_id="Z頻道">Z頻道</channel>
     <channel update="i" site="tvbox.qmap.tw" site_id="vl_sport" xmltv_id="緯來體育台">緯來體育台</channel>
     <channel update="i" site="tvbox.qmap.tw" site_id="star_sport" xmltv_id="衛視體育台">衛視體育台</channel>
+  </channels>
+</site>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.54.6/0.01 -- Jan van Straaten" site="epg.dishhdasia.com">
+  <channels>
     <channel update="i" site="dishhdasia.com" site_id="BBC-E" xmltv_id="6115    BBC World News">6115    BBC World News</channel>
     <channel update="i" site="dishhdasia.com" site_id="SKYN-E" xmltv_id="6120    Sky News HD">6120    Sky News HD</channel>
     <channel update="i" site="dishhdasia.com" site_id="NHKW-E" xmltv_id="6130    NHK World TV HD">6130    NHK World TV HD</channel>
