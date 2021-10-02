@@ -180,7 +180,6 @@ BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 緯來電影台,http://107.167.5.66:80/mylive/102/2063/index.m3u8
 龍祥時代電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 龍祥時代電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
-HBO,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO,http://50.7.61.148:30080/Entry/hbo
