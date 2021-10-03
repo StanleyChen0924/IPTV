@@ -53,8 +53,8 @@
 華視新聞,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-公視,https://git.io/JgkxM
-公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+公視三台,https://git.io/JgkxM
+公視三台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 大愛一台,https://git.io/Jgkx9
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
