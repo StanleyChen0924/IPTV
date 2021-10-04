@@ -117,15 +117,15 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 緯來體育,rtmp://161.202.204.248/sat/tv721
 緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
 緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
-愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
-愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
-愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-愛爾體育1,rtmp://59.124.75.136/sat/md041
-愛爾體育1,rtmp://161.202.204.248/sat/md041
-愛爾體育2,rtmp://59.124.75.136/sat/md051
-愛爾體育2,rtmp://161.202.204.248:1935/sat/md051
-愛爾體育3,rtmp://59.124.75.136/sat/md031
+愛爾達達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
+愛爾達達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
+愛爾達達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+愛爾達達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+愛爾達達體育1,rtmp://59.124.75.136/sat/md041
+愛爾達達體育1,rtmp://161.202.204.248/sat/md041
+愛爾達體育2,rtmp://59.124.75.136/sat/md051
+愛爾達體育2,rtmp://161.202.204.248:1935/sat/md051
+愛爾達體育3,rtmp://59.124.75.136/sat/md031
 ELEVEN體育一台,rtmp://59.124.75.136/sat/tv731
 ELEVEN體育一台,http://125.227.210.37:10677/VideoInput/play.ts
 ELEVEN體育一台,http://125.227.210.55:10677/VideoInput/play.ts
@@ -136,11 +136,11 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 博斯魅力,rtmp://59.124.75.136/sat/md021
 博斯魅力,rtmp://161.202.204.248/sat/md021
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-博斯運動II,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+博斯運動二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-TVBS,https://git.io/JgYl2
 TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
+TVBS,https://git.io/JgYl2
 TVBS新聞台,rtmp://59.124.75.136/sat/tv551
 TVBS新聞台,https://git.io/Jgkp1
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
@@ -164,8 +164,8 @@ TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
-亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-亞洲美食頻道,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+亞洲美食,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
@@ -202,7 +202,7 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
 龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
-幸福空間,https://git.io/JgYYF
+幸福空間居家台,https://git.io/JgYYF
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 國家地理,http://125.227.210.55:16408/VideoInput/play.ts
@@ -403,17 +403,17 @@ EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
 Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
 Channel V,p5p://fccs.123178.top:9906/60494a1e0001d684145c682429cd1a38.ts
-愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
-愛爾達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+愛爾達達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+愛爾達達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+愛爾達達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+愛爾達達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+愛爾達達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
-愛爾達體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+愛爾達達體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 
 民視 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 台視 HD,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
@@ -480,11 +480,11 @@ EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 時尚瘋高清頻道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e
 Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
 Channel V,p5p://fccs.123178.top:9906/60494a1e0001d684145c682429cd1a38.ts
-愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+愛爾達達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+愛爾達達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
-愛爾達體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+愛爾達達體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 新聞頻道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
@@ -1056,11 +1056,11 @@ CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 弈壇春秋[1047*576][1047*576],http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
 吉林籃球[1047*576][1047*576],http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
 博斯運動2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-愛爾達體育1,rtmp://161.202.204.248/sat/md011
+愛爾達達體育1,rtmp://161.202.204.248/sat/md011
 eleven2,rtmp://161.202.204.248/sat/md021
 博斯網球,rtmp://161.202.204.248/sat/md031
 博斯魅力,rtmp://161.202.204.248/sat/md041
-愛爾達體育1,rtmp://161.202.204.248/sat/md051
+愛爾達達體育1,rtmp://161.202.204.248/sat/md051
 ELEVEN SPORTS 1 HD[1280*720],http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 ELEVEN SPORTS 2 HD[960*540],http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 TNTSPORTS 1[1280*720],https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -2259,11 +2259,11 @@ EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
 Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
 Channel V,p5p://fccs.123178.top:9906/60494a1e0001d684145c682429cd1a38.ts
-愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-愛爾達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
-愛爾達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+愛爾達達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+愛爾達達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+愛爾達達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+愛爾達達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
+愛爾達達綜合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
