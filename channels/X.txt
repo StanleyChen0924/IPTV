@@ -253,7 +253,7 @@ BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playli
 Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro歡喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-港台備用國內,#genre#
+🇹🇼港台備用國內,#genre#
 民視,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
 民視,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
 民視,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
@@ -485,7 +485,7 @@ Channel V,p5p://fccs.123178.top:9906/60494a1e0001d684145c682429cd1a38.ts
 Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 愛爾達達體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
-新聞頻道,#genre#
+🆕新聞頻道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 民視新聞台,https://git.io/JgkAb
@@ -535,7 +535,7 @@ TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 鳳凰資訊 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 無線新聞,http://cdn.hkdtmb.com/hls/83/index.m3u8
 無線新聞,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-電影頻道,#genre#
+🎥電影頻道,#genre#
 HK03_電影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 衛視卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 淘電影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
@@ -587,7 +587,7 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 電影21_鬥魚,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 電影44_鬥魚,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 武林外傳,http://121.51.249.53/tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
-Music,#genre#
+🎵Music,#genre#
 KPOP,https://git.io/JgYAE
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 網路流行音樂電台,https://git.io/JgkA6
@@ -1028,7 +1028,7 @@ Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
-體育頻道,#genre#
+🏅體育頻道,#genre#
 CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
