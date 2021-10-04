@@ -2,12 +2,14 @@
 🇹🇼台灣頻道,#genre#
 民視,rtmp://59.124.75.136/sat/tv051
 民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
+民視,http://50.7.61.147:30080/Entry/ftv
 民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 民視,rtmp://161.202.204.248/sat/tv051
 民視,rtmp://59.124.75.153/sat/tv051
 民視,rtmp://161.202.204.248:1935/sat/tv051
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視新聞台,https://git.io/JgkAb
+民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
 民視新聞台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
@@ -27,12 +29,14 @@
 民視綜藝,https://4gtvfreemobile-mozai.4gtv.tv/NgfVD30MBxjs1kU9m3lMtxjPqnu2_Me6anz6aPf7PYc%3d/stream2.m3u8?token=m-OTQK_06hRbFrhAJwCjTA&expires=1632730935&token1=8kPUOFYapn4YUVKcqEpDxA&expires1=1632759735&refer=YWQ5MDU3YjYtNGViYy00MGJkLWJiMjMtZjg1NmMyMTYyODU1&y=0&vt=
 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 台視,rtmp://59.124.75.136/sat/tv071
+台視,http://50.7.61.148:30080/Entry/ttv
 台視,http://60.251.59.180:8543/xoxo.m3u8
 台視,rtmp://161.202.204.248/sat/tv071
 台視,rtmp://161.202.204.248:1935/sat/tv071
 台視新聞,https://git.io/JgkxY
 台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中視,http://50.7.61.148:30080/Entry/ctv
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 中視,rtmp://59.124.75.136/sat/tv071
 中視,rtmp://161.202.204.248/sat/tv091
@@ -44,6 +48,7 @@
 中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+華視,http://50.7.61.147:30080/Entry/cts
 華視,rtmp://59.124.75.136/sat/tv111
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 華視,rtmp://161.202.204.248/sat/tv111
@@ -65,6 +70,7 @@
 大愛海外,https://git.io/J2GSu
 大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+三立台灣,http://50.7.61.148:30080/Entry/settw-
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
@@ -103,6 +109,7 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 東森財經,rtmp://59.124.75.136/sat/tv571
 東森財經,rtmp://161.202.204.248:1935/sat/tv571
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+JET綜合台,http://50.7.61.147:30080/Entry/jet
 八大娛樂台,http://198.16.106.62:8278/streams/d/badaentertain/playlist.m3u8
 緯來日本,http://198.16.106.62:8278/streams/d/videolandjapan/playlist.m3u8
 緯來日本,rtmp://59.124.75.136/sat/tv771
@@ -140,6 +147,7 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 博斯運動二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+TVBS,http://50.7.61.148:30080/Entry/tvbs
 TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 TVBS,https://git.io/JgYl2
 TVBS新聞台,rtmp://59.124.75.136/sat/tv551
@@ -156,11 +164,14 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 中天新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
+非凡新聞,http://50.7.61.147:30080/Entry/ubnbus
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
+壹電視新聞台,http://50.7.61.147:30080/Entry/etv
 壹電視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+TLC旅遊生活頻道,http://50.7.61.147:30080/Entry/tlc
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
@@ -188,6 +199,7 @@ HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
+HBO Hits,http://43.128.9.168/jjtv.php?id=60
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
