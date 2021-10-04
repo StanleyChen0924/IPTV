@@ -828,7 +828,7 @@ VIUtv6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696
 鳳凰電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhdy
 天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
 天映頻道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
-馬來,#genre#
+🇲🇾馬來,#genre#
 Astro 歡喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
@@ -875,7 +875,7 @@ TRUE LLIV,http://194.233.73.66:2082/freehitv/freehitv/39
 WWE摔角,http://194.233.73.66:2082/freehitv/freehitv/38
 IQIYI,http://194.233.73.66:2082/freehitv/freehitv/44
 Oh!K,http://194.233.73.66:2082/freehitv/freehitv/45
-日本頻道,#genre#
+🇯🇵日本頻道,#genre#
 NHK World Japan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 GEM,http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 NHK WORLD TV[1920*1080],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
