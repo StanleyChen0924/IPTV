@@ -222,6 +222,7 @@ HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
+HBO Igniture,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/57
 HBO Hits,http://43.128.9.168/jjtv.php?id=60
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
