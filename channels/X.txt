@@ -90,7 +90,7 @@ MoMo綜合台,rtmp://59.124.75.136/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
-東森幼幼,https://git.io/JgYON
+東森幼幼點點名,https://git.io/JgYON
 東森超視,rtmp://59.124.75.136/sat/tv521
 東森超視,rtmp://161.202.204.248:1935/sat/tv521
 東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
