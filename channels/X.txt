@@ -994,7 +994,7 @@ FIGHTING TV サムライ,p5p://fccs.123178.top:9906/61302321000a162312bceb3f5534
 フジテレビＮＥＸＴ,p5p://fccs.123178.top:9906/613056720008f74d13855f5e8d806907
 フジテレビＯＮＥ,p5p://fccs.123178.top:9906/613057db000b71fa138ae22888301964
 フジテレビＴＷＯ,p5p://fccs.123178.top:9906/613058a5000034b0138df45883905c5e
-海外頻道,#genre#
+🇺🇸海外頻道,#genre#
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel V[1280*720],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 Outdoor,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
@@ -1825,7 +1825,7 @@ Ba Ba Ba,http://qukufile2.qianqian.com/data2/video/2e3747f8eae298e80f98a9f9a57d9
 韩国歌团018,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
 韩国歌团019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
 韩国歌团020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
-p5p_710924,#genre#
+🔞p5p_710924,#genre#
 彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
 彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
 彩虹E台mitv,mitv://ns2.hellotvvod.com:9906/e953ee1fe74c4995acd52ba72c02b0a1.ts
@@ -1847,7 +1847,7 @@ LOOK TVmitv,mitv://ns2.hellotvvod.com:9906/778ec35a672f4c898c3ac116d6681b54.ts
 HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 驚艷成人電影台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
 潘朵拉玩美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
-測試_710924,#genre#
+🔞測試_710924,#genre#
 EXTASY HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 filmon,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 SWAG,https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
@@ -2013,7 +2013,7 @@ erox,http://185.97.150.19:8082/158
 俄羅斯 720,http://cdn.adultiptv.net/russian.m3u8
 少女 720,http://cdn.adultiptv.net/teen.m3u8
 三人 720,http://cdn.adultiptv.net/threesome.m3u8
-秒播測試_710924,#genre#
+🔞秒播測試_710924,#genre#
 101,https://2.ddyunbo.com/20190709/vsmhQlYK/index.m3u8
 100,https://2.ddyunbo.com/20190721/Hw7HABFC/index.m3u8
 99,https://2.ddyunbo.com/20190721/RDGXIB2D/index.m3u8
