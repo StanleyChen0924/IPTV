@@ -110,6 +110,7 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 東森財經,rtmp://161.202.204.248:1935/sat/tv571
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 JET綜合台,http://50.7.61.147:30080/Entry/jet
+八大戲劇台,p3p://45.86.67.154:9906/6085c5e2000d9e73053f65c04d82798a.ts
 八大娛樂台,http://198.16.106.62:8278/streams/d/badaentertain/playlist.m3u8
 緯來日本,http://198.16.106.62:8278/streams/d/videolandjapan/playlist.m3u8
 緯來日本,rtmp://59.124.75.136/sat/tv771
@@ -155,6 +156,7 @@ TVBS新聞台,https://git.io/Jgkp1
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
+TVBS歡樂台,rtmp://59.124.75.136:1935/sat/tv421
 TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
 中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
@@ -207,6 +209,7 @@ FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 衛視洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+AXN,http://43.128.9.168/jjtv.php?id=80
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,http://50.7.61.148:30080/Entry/axn
 CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
@@ -222,6 +225,7 @@ NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580
 NHK World Japan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 NHK World Japan,http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+ANIMAX,http://43.128.9.168/jjtv.php?id=83
 Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 Discovery,http://125.227.210.55:10388/VideoInput/play.ts
 Discovery,http://125.227.210.37:10388/VideoInput/play.ts
@@ -246,6 +250,7 @@ CNBC,http://125.227.210.55:16415/VideoInput/play.ts
 CNBC,http://125.227.210.37:16415/VideoInput/play.ts
 GEN,http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 GEN,http://210.210.155.35:80/uq2663/h/h19/02.m3u8
+ONE,http://43.128.9.168/jjtv.php?id=81
 ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 ONE,http://210.210.155.35/uq2663/h/h143/01.m3u8
 ONE,http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
