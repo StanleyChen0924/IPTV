@@ -260,6 +260,9 @@ https://git.io/Jgkp1
 #rtmp://59.124.75.136/sat/tv551
 #http://125.227.210.37:16329/VideoInput/play.ts
 
+#EXTINF:-1 tvg-id="6073" group-title="一般",TVBS精彩台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/253
+
 #EXTINF:-1 tvg-id="6057" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="一般",中天娛樂台
 http://125.227.210.55:15796/VideoInput/play.ts
 
@@ -435,23 +438,57 @@ http://api.hstv.me:8080/chuntian1229/xiaoli152/280
 
 #EXTINF:-1 tvg-id="" group-title="一般",靖天日本台
 http://api.hstv.me:8080/chuntian1229/xiaoli152/281
-靖天綜合台,http://api.hstv.me:8080/chuntian1229/xiaoli152/282
-靖天歡樂台,http://api.hstv.me:8080/chuntian1229/xiaoli152/283
-靖天資訊台,http://api.hstv.me:8080/chuntian1229/xiaoli152/284
-靖天育樂台,http://api.hstv.me:8080/chuntian1229/xiaoli152/285
-靖洋卡通Nice Bingo,http://api.hstv.me:8080/chuntian1229/xiaoli152/286
-i-Fun動漫台,http://api.hstv.me:8080/chuntian1229/xiaoli152/287
-靖洋戲劇台,http://api.hstv.me:8080/chuntian1229/xiaoli152/292
-韓國娛樂台 KMTV,http://api.hstv.me:8080/chuntian1229/xiaoli152/293
-KLT-靖天國際台,http://api.hstv.me:8080/chuntian1229/xiaoli152/294
-好消息,http://api.hstv.me:8080/chuntian1229/xiaoli152/299
-好消息2台,http://api.hstv.me:8080/chuntian1229/xiaoli152/300
-Medici Arts,http://api.hstv.me:8080/chuntian1229/xiaoli152/301
-TRACE Urban,http://api.hstv.me:8080/chuntian1229/xiaoli152/302
-Mezzo Live HD,http://api.hstv.me:8080/chuntian1229/xiaoli152/303
-CLASSICA 古典樂,http://api.hstv.me:8080/chuntian1229/xiaoli152/304
-客家電視台,http://api.hstv.me:8080/chuntian1229/xiaoli152/308
-達文西頻道,http://api.hstv.me:8080/chuntian1229/xiaoli152/309
+
+#EXTINF:-1 tvg-id="" group-title="一般",靖天綜合台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/282
+
+#EXTINF:-1 tvg-id="" group-title="一般",靖天歡樂台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/283
+
+#EXTINF:-1 tvg-id="" group-title="一般",靖天資訊台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/284
+
+#EXTINF:-1 tvg-id="" group-title="一般",靖天育樂台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/285
+
+#EXTINF:-1 tvg-id="" group-title="一般",靖洋卡通Nice Bingo
+http://api.hstv.me:8080/chuntian1229/xiaoli152/286
+
+#EXTINF:-1 tvg-id="" group-title="一般",i-Fun動漫台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/287
+
+#EXTINF:-1 tvg-id="" group-title="一般",靖洋戲劇台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/292
+
+#EXTINF:-1 tvg-id="" group-title="一般",韓國娛樂台 KMTV
+http://api.hstv.me:8080/chuntian1229/xiaoli152/293
+
+#EXTINF:-1 tvg-id="" group-title="一般",KLT-靖天國際台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/294
+
+#EXTINF:-1 tvg-id="" group-title="一般",好消息
+http://api.hstv.me:8080/chuntian1229/xiaoli152/299
+
+#EXTINF:-1 tvg-id="" group-title="一般",好消息2台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/300
+
+#EXTINF:-1 tvg-id="" group-title="一般",Medici Arts
+http://api.hstv.me:8080/chuntian1229/xiaoli152/301
+
+#EXTINF:-1 tvg-id="" group-title="一般",TRACE Urban
+http://api.hstv.me:8080/chuntian1229/xiaoli152/302
+
+#EXTINF:-1 tvg-id="" group-title="一般",Mezzo Live HD
+http://api.hstv.me:8080/chuntian1229/xiaoli152/303
+
+#EXTINF:-1 tvg-id="" group-title="一般",CLASSICA 古典樂
+http://api.hstv.me:8080/chuntian1229/xiaoli152/304
+
+#EXTINF:-1 tvg-id="" group-title="一般",客家電視台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/308
+
+#EXTINF:-1 tvg-id="" group-title="一般",達文西頻道
+http://api.hstv.me:8080/chuntian1229/xiaoli152/309
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Hua%20Hee%20Dai.png" group-title="一般",Astro 歡喜
 http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
