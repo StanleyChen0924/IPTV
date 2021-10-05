@@ -16,12 +16,11 @@ TVBS精彩台,http://api.hstv.me:8080/chuntian1229/xiaoli152/253
 采昌影劇台,http://api.hstv.me:8080/chuntian1229/xiaoli152/256
 東森購物2台,http://api.hstv.me:8080/chuntian1229/xiaoli152/257
 視納華仁紀實頻道,http://api.hstv.me:8080/chuntian1229/xiaoli152/258
-amc最愛電影,http://api.hstv.me:8080/chuntian1229/xiaoli152/259
 影迷數位電影台,http://api.hstv.me:8080/chuntian1229/xiaoli152/260
 CATCHPLAY電影台,http://api.hstv.me:8080/chuntian1229/xiaoli152/261
 龍華電影台,http://api.hstv.me:8080/chuntian1229/xiaoli152/262
-敬天電影台,http://api.hstv.me:8080/chuntian1229/xiaoli152/263
-靖天映画,http://api.hstv.me:8080/chuntian1229/xiaoli152/264
+靖天電影台,http://api.hstv.me:8080/chuntian1229/xiaoli152/263
+靖天映畫,http://api.hstv.me:8080/chuntian1229/xiaoli152/264
 博斯高球台,http://api.hstv.me:8080/chuntian1229/xiaoli152/265
 博斯高球二台,http://api.hstv.me:8080/chuntian1229/xiaoli152/266
 博斯運動一台,http://api.hstv.me:8080/chuntian1229/xiaoli152/267
