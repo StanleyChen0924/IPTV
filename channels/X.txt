@@ -349,6 +349,7 @@ TVBS精彩台,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 愛爾達達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 愛爾達達綜合台,http://43.128.9.168/jjtv.php?id=53
 愛爾達達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
@@ -379,7 +380,6 @@ BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playli
 緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
 緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
 緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
