@@ -10,10 +10,6 @@ Baby First,http://api.hstv.me:8080/chuntian1229/xiaoli152/244
 八大綜合台,http://api.hstv.me:8080/chuntian1229/xiaoli152/245
 亞洲旅遊台,http://api.hstv.me:8080/chuntian1229/xiaoli152/246
 龍華戲劇台,http://api.hstv.me:8080/chuntian1229/xiaoli152/248
-民視戲劇台,http://api.hstv.me:8080/chuntian1229/xiaoli152/249
-民視綜藝台,http://api.hstv.me:8080/chuntian1229/xiaoli152/250
-民視旅遊台,http://api.hstv.me:8080/chuntian1229/xiaoli152/251
-公視戲劇台,http://api.hstv.me:8080/chuntian1229/xiaoli152/252
 TVBS精彩台,http://api.hstv.me:8080/chuntian1229/xiaoli152/253
 民視影劇台,http://api.hstv.me:8080/chuntian1229/xiaoli152/254
 東森購物1台,http://api.hstv.me:8080/chuntian1229/xiaoli152/255
