@@ -270,7 +270,7 @@ TRACE Sport Stars,http://api.hstv.me:8080/chuntian1229/xiaoli152/276
 GINX Esports TV,http://api.hstv.me:8080/chuntian1229/xiaoli152/278
 靖天卡通台,http://api.hstv.me:8080/chuntian1229/xiaoli152/279
 靖天戲劇台,http://api.hstv.me:8080/chuntian1229/xiaoli152/280
-靖天日本台http://api.hstv.me:8080/chuntian1229/xiaoli152/281
+靖天日本台,http://api.hstv.me:8080/chuntian1229/xiaoli152/281
 靖天綜合台,http://api.hstv.me:8080/chuntian1229/xiaoli152/282
 靖天歡樂台,http://api.hstv.me:8080/chuntian1229/xiaoli152/283
 靖天資訊台,http://api.hstv.me:8080/chuntian1229/xiaoli152/284
