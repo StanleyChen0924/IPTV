@@ -360,7 +360,8 @@ https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 #http://107.167.5.66/mylive/102/2064/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="電影",龍華电影
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
+http://api.hstv.me:8080/chuntian1229/xiaoli152/262
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
 
 #EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO
 http://125.227.210.55:16027/VideoInput/play.ts
