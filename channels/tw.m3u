@@ -294,8 +294,9 @@ http://125.227.210.55:19020/VideoInput/play.ts
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",亞洲美食
+http://43.128.9.168/jjtv.php?id=100
 #https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7216" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="一般", 美食星球
 http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
