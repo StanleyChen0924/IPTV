@@ -690,5 +690,7 @@ https://www.youtube.com/c/makimakiwalk/videos|Referer=https://www.youtube.com
 https://www.youtube.com/playlist?list=PLZtkj1UPIsFMsgOhPBx8BRD8_c76CnF3C|Referer=https://www.youtube.com
 #EXTINF:-1 tvg-id="" group-title="TEST",Aespa
 https://git.io/JVuG8
+#EXTINF:-1 tvg-id="" group-title="TEST",AespaYT
+https://www.youtube.com/playlist?list=PLinm7-cvTdN6n9zc_0ggVNpWwiuKFGCVJ|Referer=https://www.youtube.com
 #EXTINF:-1 tvg-id="" group-title="TEST",TESTYT
 https://www.youtube.com/watch?v=kZlLTnE1y1Q&list=PLA91TLEzZINvfD-ToXanRYXVlcVdy4CDI
