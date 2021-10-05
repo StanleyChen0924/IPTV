@@ -1,11 +1,90 @@
 ﻿Test,#genre#
-Astro-爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-Astro-港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
-OHK,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-GOODTV-综合,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
-GOODTV-卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+民视,http://api.hstv.me:8080/chuntian1229/xiaoli152/232
+华视,http://api.hstv.me:8080/chuntian1229/xiaoli152/233
+中视,http://api.hstv.me:8080/chuntian1229/xiaoli152/234
+台视,http://api.hstv.me:8080/chuntian1229/xiaoli152/235
+民视台湾台,http://api.hstv.me:8080/chuntian1229/xiaoli152/236
+民视第一台,http://api.hstv.me:8080/chuntian1229/xiaoli152/237
+中视经典台,http://api.hstv.me:8080/chuntian1229/xiaoli152/238
+中视菁采台,http://api.hstv.me:8080/chuntian1229/xiaoli152/239
+亚洲旅游台,http://api.hstv.me:8080/chuntian1229/xiaoli152/240
+猪哥亮歌厅秀,http://api.hstv.me:8080/chuntian1229/xiaoli152/241
+金光布袋戏,http://api.hstv.me:8080/chuntian1229/xiaoli152/242
+TVBS,http://api.hstv.me:8080/chuntian1229/xiaoli152/243
+Baby First,http://api.hstv.me:8080/chuntian1229/xiaoli152/244
+八大综艺台,http://api.hstv.me:8080/chuntian1229/xiaoli152/
+中天亚洲台,http://api.hstv.me:8080/chuntian1229/xiaoli152/247
+龙华戏剧台,http://api.hstv.me:8080/chuntian1229/xiaoli152/248
+民视戏剧台,http://api.hstv.me:8080/chuntian1229/xiaoli152/249
+民视综艺台,http://api.hstv.me:8080/chuntian1229/xiaoli152/250
+民视旅游台,http://api.hstv.me:8080/chuntian1229/xiaoli152/251
+公视戏剧台,http://api.hstv.me:8080/chuntian1229/xiaoli152/252
+TVBS精采台,http://api.hstv.me:8080/chuntian1229/xiaoli152/253
+民视影剧台,http://api.hstv.me:8080/chuntian1229/xiaoli152/254
+东森购物1台,http://api.hstv.me:8080/chuntian1229/xiaoli152/255
+采昌影剧台,http://api.hstv.me:8080/chuntian1229/xiaoli152/256
+东森购物2台,http://api.hstv.me:8080/chuntian1229/xiaoli152/257
+视纳华仁纪实频道,http://api.hstv.me:8080/chuntian1229/xiaoli152/258
+amc最爱电影,http://api.hstv.me:8080/chuntian1229/xiaoli152/259
+影迷数位电影台,http://api.hstv.me:8080/chuntian1229/xiaoli152/260
+CATCHPLAY电影台,http://api.hstv.me:8080/chuntian1229/xiaoli152/261
+龙华电影台,http://api.hstv.me:8080/chuntian1229/xiaoli152/262
+靖天电影台,http://api.hstv.me:8080/chuntian1229/xiaoli152/263
+靖天映画,http://api.hstv.me:8080/chuntian1229/xiaoli152/264
+博斯高球台,http://api.hstv.me:8080/chuntian1229/xiaoli152/265
+博斯高球二台,http://api.hstv.me:8080/chuntian1229/xiaoli152/266
+博斯运动一台,http://api.hstv.me:8080/chuntian1229/xiaoli152/267
+博斯无限台,http://api.hstv.me:8080/chuntian1229/xiaoli152/268
+博斯网球台,http://api.hstv.me:8080/chuntian1229/xiaoli152/269
+博斯运动二台,http://api.hstv.me:8080/chuntian1229/xiaoli152/270
+博斯魅力台,http://api.hstv.me:8080/chuntian1229/xiaoli152/271
+博斯无限二台,http://api.hstv.me:8080/chuntian1229/xiaoli152/272
+智林体育台,http://api.hstv.me:8080/chuntian1229/xiaoli152/273
+Fashion one,http://api.hstv.me:8080/chuntian1229/xiaoli152/274
+Travel Channel,http://api.hstv.me:8080/chuntian1229/xiaoli152/275
+TRACE Sport Stars,http://api.hstv.me:8080/chuntian1229/xiaoli152/276
+时尚运动X,http://api.hstv.me:8080/chuntian1229/xiaoli152/277
+GINX Esports TV,http://api.hstv.me:8080/chuntian1229/xiaoli152/278
+靖天卡通台,http://api.hstv.me:8080/chuntian1229/xiaoli152/279
+靖天戏剧台,http://api.hstv.me:8080/chuntian1229/xiaoli152/280
+靖天日本台http://api.hstv.me:8080/chuntian1229/xiaoli152/281
+靖天综合台,http://api.hstv.me:8080/chuntian1229/xiaoli152/282
+靖天欢乐台,http://api.hstv.me:8080/chuntian1229/xiaoli152/283
+靖天资讯台,http://api.hstv.me:8080/chuntian1229/xiaoli152/284
+靖天育乐台,http://api.hstv.me:8080/chuntian1229/xiaoli152/285
+靖洋卡通Nice Bingo,http://api.hstv.me:8080/chuntian1229/xiaoli152/286
+i-Fun动漫台,http://api.hstv.me:8080/chuntian1229/xiaoli152/287
+龙华卡通台,http://api.hstv.me:8080/chuntian1229/xiaoli152/288
+龙华偶像台,http://api.hstv.me:8080/chuntian1229/xiaoli152/289
+龙华日韩台,http://api.hstv.me:8080/chuntian1229/xiaoli152/290
+龙华经典台,http://api.hstv.me:8080/chuntian1229/xiaoli152/291
+靖洋戏剧台,http://api.hstv.me:8080/chuntian1229/xiaoli152/292
+韩国娱乐台 KMTV,http://api.hstv.me:8080/chuntian1229/xiaoli152/293
+KLT-靖天国际台,http://api.hstv.me:8080/chuntian1229/xiaoli152/294
+八大精彩台,http://api.hstv.me:8080/chuntian1229/xiaoli152/295
+爱尔达娱乐台,http://api.hstv.me:8080/chuntian1229/xiaoli152/296
+ELTV英语学习台,http://api.hstv.me:8080/chuntian1229/xiaoli152/297
+VTV4,http://api.hstv.me:8080/chuntian1229/xiaoli152/298
+好消息,http://api.hstv.me:8080/chuntian1229/xiaoli152/299
+好消息2台,http://api.hstv.me:8080/chuntian1229/xiaoli152/300
+Medici Arts,http://api.hstv.me:8080/chuntian1229/xiaoli152/301
+TRACE Urban,http://api.hstv.me:8080/chuntian1229/xiaoli152/302
+Mezzo Live HD,http://api.hstv.me:8080/chuntian1229/xiaoli152/303
+CLASSICA 古典乐,http://api.hstv.me:8080/chuntian1229/xiaoli152/304
+猪哥亮歌厅秀,http://api.hstv.me:8080/chuntian1229/xiaoli152/305
+蜡笔小新剧场版,http://api.hstv.me:8080/chuntian1229/xiaoli152/306
+东森儿童台,http://api.hstv.me:8080/chuntian1229/xiaoli152/307
+客家电视台,http://api.hstv.me:8080/chuntian1229/xiaoli152/308
+达文西频道,http://api.hstv.me:8080/chuntian1229/xiaoli152/309
+三立LIVE新闻,http://api.hstv.me:8080/chuntian1229/xiaoli152/310
+东森新闻,http://api.hstv.me:8080/chuntian1229/xiaoli152/311
+中天新闻,http://api.hstv.me:8080/chuntian1229/xiaoli152/312
+民视新闻,http://api.hstv.me:8080/chuntian1229/xiaoli152/313
+TVBS新闻,http://api.hstv.me:8080/chuntian1229/xiaoli152/314
+东森财经,http://api.hstv.me:8080/chuntian1229/xiaoli152/315
+华视新闻,http://api.hstv.me:8080/chuntian1229/xiaoli152/316
+台视新闻,http://api.hstv.me:8080/chuntian1229/xiaoli152/317
+中视新闻,http://api.hstv.me:8080/chuntian1229/xiaoli152/318
 
 🇹🇼台灣頻道,#genre#
 民視,rtmp://59.124.75.136/sat/tv051
