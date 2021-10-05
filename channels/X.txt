@@ -877,6 +877,37 @@ VIUtv6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696
 鳳凰電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhdy
 天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
 天映頻道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
+
+翡翠台,http://api.hstv.me:8080/chuntian1229/xiaoli152/1
+明珠台,http://api.hstv.me:8080/chuntian1229/xiaoli152/2
+无线新闻台,http://api.hstv.me:8080/chuntian1229/xiaoli152/3
+有线18台,http://api.hstv.me:8080/chuntian1229/xiaoli152/4
+Now Sport,http://api.hstv.me:8080/chuntian1229/xiaoli152/5
+ViuTV,http://api.hstv.me:8080/chuntian1229/xiaoli152/6
+ViuTV 6,http://api.hstv.me:8080/chuntian1229/xiaoli152/7
+无线财经资讯台,http://api.hstv.me:8080/chuntian1229/xiaoli152/8
+J2,http://api.hstv.me:8080/chuntian1229/xiaoli152/9
+RTHK31,http://api.hstv.me:8080/chuntian1229/xiaoli152/10
+RTHK32,http://api.hstv.me:8080/chuntian1229/xiaoli152/11
+有线财经资讯台,http://api.hstv.me:8080/chuntian1229/xiaoli152/12
+有线体育台2,http://api.hstv.me:8080/chuntian1229/xiaoli152/13
+有线体育台,http://api.hstv.me:8080/chuntian1229/xiaoli152/14
+香港开电视,http://api.hstv.me:8080/chuntian1229/xiaoli152/15
+凤凰香港台,http://api.hstv.me:8080/chuntian1229/xiaoli152/16
+凤凰卫视,http://api.hstv.me:8080/chuntian1229/xiaoli152/17
+凤凰资讯台,http://api.hstv.me:8080/chuntian1229/xiaoli152/18
+奥视澳门,http://api.hstv.me:8080/chuntian1229/xiaoli152/19
+澳门资讯,http://api.hstv.me:8080/chuntian1229/xiaoli152/20
+澳门葡语,http://api.hstv.me:8080/chuntian1229/xiaoli152/21
+澳门Macau,http://api.hstv.me:8080/chuntian1229/xiaoli152/22
+澳门体育,http://api.hstv.me:8080/chuntian1229/xiaoli152/23
+有线新闻,http://api.hstv.me:8080/chuntian1229/xiaoli152/24
+C+,http://api.hstv.me:8080/chuntian1229/xiaoli152/26
+TVB星河,http://api.hstv.me:8080/chuntian1229/xiaoli152/27
+天映频道,http://api.hstv.me:8080/chuntian1229/xiaoli152/30
+翡翠台,http://api.hstv.me:8080/chuntian1229/xiaoli152/31
+
+
 🇲🇾馬來,#genre#
 Astro 歡喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
@@ -1651,7 +1682,7 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 迪斯尼,http://125.227.210.37:14250/VideoInput/play.ts
 非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
 三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
-三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
+三立台灣,http://125.227.210.37:15714/VideoInput/play.ts
 中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
 HBO,http://125.227.210.37:16027/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
@@ -1666,7 +1697,7 @@ NEWS,http://125.227.210.37:18184/VideoInput/play.ts
 TLC,http://125.227.210.37:19020/VideoInput/play.ts
 YTNHD,http://125.227.210.37:8932/VideoInput/play.ts
 NHKworldHD,http://125.227.210.37:8931/VideoInput/play.ts
-NHKworldHD,http://125.227.210.55:8931/VideoInput/play.ts
+NHKworldHD,http://125.227.210.37:8931/VideoInput/play.ts
 arirang HD,http://125.227.210.37:8933/VideoInput/play.ts
 DWHD,http://125.227.210.37:8934/VideoInput/play.ts
 TV5MONDE HD,http://125.227.210.37:8937/VideoInput/play.ts
@@ -1675,6 +1706,41 @@ ALJAZEERA HD,http://125.227.210.37:8938/VideoInput/play.ts
 NHK BS1HD,http://125.227.210.37:8939/VideoInput/play.ts
 NHK BSPHD,http://125.227.210.37:8940/VideoInput/play.ts
 BBCworld HD,http://125.227.210.37:10246/VideoInput/play.ts
+
+鳳凰衛視,http://125.227.210.55:8935/VideoInput/play.ts
+CNN HD,http://125.227.210.55:10677/VideoInput/play.ts
+Discovery,http://125.227.210.55:10388/VideoInput/play.ts
+ELEVEN,http://125.227.210.55:10677/VideoInput/play.ts
+年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
+FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
+迪斯尼,http://125.227.210.55:14250/VideoInput/play.ts
+非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
+三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
+三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
+中天娛樂,http://125.227.210.55:15796/VideoInput/play.ts
+HBO,http://125.227.210.55:16027/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
+CNBC,http://125.227.210.55:16415/VideoInput/play.ts
+國家地理,http://125.227.210.55:16408/VideoInput/play.ts
+CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
+東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
+NEWS,http://125.227.210.55:18184/VideoInput/play.ts
+衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
+緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
+東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
+TLC,http://125.227.210.55:19020/VideoInput/play.ts
+YTNHD,http://125.227.210.55:8932/VideoInput/play.ts
+NHKworldHD,http://125.227.210.55:8931/VideoInput/play.ts
+NHKworldHD,http://125.227.210.55:8931/VideoInput/play.ts
+arirang HD,http://125.227.210.55:8933/VideoInput/play.ts
+DWHD,http://125.227.210.55:8934/VideoInput/play.ts
+TV5MONDE HD,http://125.227.210.55:8937/VideoInput/play.ts
+RT HD,http://125.227.210.37:8936/VideoInput/play.ts
+ALJAZEERA HD,http://125.227.210.55:8938/VideoInput/play.ts
+NHK BS1HD,http://125.227.210.55:8939/VideoInput/play.ts
+NHK BSPHD,http://125.227.210.55:8940/VideoInput/play.ts
+BBCworld HD,http://125.227.210.55:10246/VideoInput/play.ts
+
 台灣Seb,#genre#
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
