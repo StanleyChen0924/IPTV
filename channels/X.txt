@@ -145,7 +145,7 @@ JET綜合台,http://50.7.61.147:30080/Entry/jet
 愛爾達達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達達綜合台,http://43.128.9.168/jjtv.php?id=53
-愛爾達達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+愛爾達達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 愛爾達達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 愛爾達達體育1,rtmp://59.124.75.136/sat/md041
 愛爾達達體育1,rtmp://161.202.204.248/sat/md041
@@ -877,6 +877,12 @@ VIUtv6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696
 鳳凰電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhdy
 天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
 天映頻道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
+
+翡翠台，https://r2.weizan.cn/v/1646497941_13205559193952309.flv
+高清603，https://r2.weizan.cn/v/1646497941_983713851238420989.flv
+J2，https://r2.weizan.cn/v/1646497941_939801511891437526.flv
+有线新闻，https://r2.weizan.cn/v/1646497941_697113090439139174.flv
+无线新闻，https://r2.weizan.cn/v/1646497941_673946820532880689.flv
 
 翡翠台,http://api.hstv.me:8080/chuntian1229/xiaoli152/1
 明珠台,http://api.hstv.me:8080/chuntian1229/xiaoli152/2
