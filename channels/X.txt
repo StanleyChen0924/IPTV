@@ -164,11 +164,8 @@ TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
-亞洲美食,http://43.128.9.168/jjtv.php?id=100
-亞洲美食,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 ANIMAL PLANET,http://foctv.xyz:25510/Amir5641/YY5641/96
 衛視電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 衛視電影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
@@ -350,6 +347,9 @@ TVBS精彩台,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 愛爾達達綜合台,http://43.128.9.168/jjtv.php?id=53
 愛爾達達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+亞洲美食,http://43.128.9.168/jjtv.php?id=100
+亞洲美食,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
