@@ -1,57 +1,11 @@
 ﻿Test,#genre#
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-TVB-翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
-TVB-新闻台,p5p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-TVB-星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8  
-TVB-J2台,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-HBO-综合,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8#http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-HBO-强档,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-HBO-原创,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-TVN-亚洲,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-NHK-综合,http://203.162.235.41:16903
-Astro-爱奇艺,http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8#http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+Astro-爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 Astro-港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
-家居生活,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8 
-新传媒-U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
-NOW-新闻台,p8p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b.ts
-AFC-美食,http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-AXN-动作,http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-BBC-记录,http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8#https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
-FOX-警匪,http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-FOX-生活,http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8#https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
-FOX-体育一台,http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-FOX-体育二台,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8#http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-FOX-体育三台,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8#http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-TLC-旅游生活,http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8#https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-OHK,http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8#http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+OHK,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-TVBS-综合台,p8p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e.ts
-TVBS-新闻台,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-中视新闻,p8p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24.ts#http://seb.sason.top/sc/zsxw_fhd.m3u8
-索尼动画,http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8#https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 GOODTV-综合,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
 GOODTV-卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-XD-迪士尼,http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-CN卡通台,http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
-成龙电影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=1
-张国荣电影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354727/150/index.m3u8?&encrypt=1
-周星驰电影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
-刘德华电影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r3/virtuallive/5102354855/150/index.m3u8?&&encrypt=1
-古天乐电影,http://42.81.144.99/live.cache.cmvideo.cn/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=1
-八度空间,http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-纬来电影,p8p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
-纬来戏剧,p8p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
-纬来体育,p8p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e.ts
-国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8#http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-地理野生,http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
-地理悠人,http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-东森戏剧,p8p://0198.02686.cc:16871/5f2e5ed20008e6ef1d9b93e3bf1b4576.ts
-宝贝电视,http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
-尼克儿童,http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 
 🇹🇼台灣頻道,#genre#
 民視,rtmp://59.124.75.136/sat/tv051
@@ -349,6 +303,7 @@ CBS2 720,rtmp://161.202.204.248:1935/sat/us011
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 Astro AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro歡喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+Astro愛奇藝,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 🇹🇼港台備用國內,#genre#
 民視,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
