@@ -147,10 +147,6 @@ TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
 TVBS歡樂台,rtmp://59.124.75.136:1935/sat/tv421
 TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
-中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
-中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
-中天綜合,http://125.227.210.55:14583/VideoInput/play.ts
-中天綜合,http://125.227.210.37:14583/VideoInput/play.ts
 中天亞洲台,https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
 中天新聞,https://git.io/Jgkpy
 中天新聞,http://43.128.9.168/jjtv.php?id=36
@@ -364,6 +360,10 @@ Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
+中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
+中天綜合,http://125.227.210.55:14583/VideoInput/play.ts
+中天綜合,http://125.227.210.37:14583/VideoInput/play.ts
 龍華動畫,p5p://fccs.123178.top:9906/6044594300037550010f9116e9856cd9.ts
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 緯來日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
