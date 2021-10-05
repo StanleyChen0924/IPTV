@@ -132,12 +132,10 @@ JET綜合台,http://43.128.9.168/jjtv.php?id=52
 緯來日本,rtmp://161.202.204.248:1935/sat/tv771
 緯來育樂,rtmp://59.124.75.136/sat/tv701
 緯來育樂,rtmp://161.202.204.248/sat/tv701
-緯來體育,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwlty
 緯來體育,rtmp://59.124.75.136/sat/tv721
 緯來體育,rtmp://161.202.204.248/sat/tv721
 緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
 緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
-愛爾達影劇台,http://93.190.139.36:8278/streams/d/eltadrama/playlist.m3u8
 TVBS,https://git.io/JgYl2
 TVBS,http://50.7.61.148:30080/Entry/tvbs
 TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
@@ -350,6 +348,7 @@ TVBS精彩台,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
+愛爾達影劇台,http://93.190.139.36:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 愛爾達達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
