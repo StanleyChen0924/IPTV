@@ -51,6 +51,7 @@
 台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,http://api.hstv.me:8080/chuntian1229/xiaoli152/317
+台視新聞,http://v3948069e.live.126.net/live/ugdbeaya63838689/38.flv
 台視財經,http://api.hstv.me:8080/chuntian1229/xiaoli152/326
 中視,http://50.7.61.148:30080/Entry/ctv
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
