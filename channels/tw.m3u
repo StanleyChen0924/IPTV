@@ -164,6 +164,7 @@ https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1 tvg-id="6190" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台
 rtmp://59.124.75.136/sat/tv761
 #rtmp://161.202.204.248:1935/sat/tv761
+#http://125.227.210.55:13498/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
 #https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn11/4gtv-live-mid/index.m3u8?token=BgT55JdAo0BgRpSn_tmxkQ&expires=1632742015&token1=Gx8e05aI9MEMmIcKB8deTg&expires1=1632742015&_=1632711483943&vt=
@@ -421,21 +422,18 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #http://60.251.59.179:8527/xoxo.m3u8
 #http://60.251.59.179:8504/xoxo.m3u8
 
-#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1.png" tvg-language="Chinese" group-title="電影" ,靖天電影
+#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1.png" tvg-language="Chinese" group-title="電影" ,靖天電影台
 http://api.hstv.me:8080/chuntian1229/xiaoli152/263
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
 
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" tvg-logo="https://iptv-pro.github.io/logo/FX.png" group-title="電影" ,FX HD
-http://125.227.210.55:13498/VideoInput/play.ts
+#http://125.227.210.55:13498/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="" group-title="一般",影迷數位電影台
 http://api.hstv.me:8080/chuntian1229/xiaoli152/260
 
 #EXTINF:-1 tvg-id="" group-title="一般",CATCHPLAY電影台
 http://api.hstv.me:8080/chuntian1229/xiaoli152/261
-
-#EXTINF:-1 tvg-id="" group-title="一般",靖天電影台
-http://api.hstv.me:8080/chuntian1229/xiaoli152/263
 
 #EXTINF:-1 tvg-id="" group-title="一般",靖天映畫
 http://api.hstv.me:8080/chuntian1229/xiaoli152/264
