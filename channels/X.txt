@@ -6,9 +6,12 @@
 民視台灣台,http://api.hstv.me:8080/chuntian1229/xiaoli152/236
 民視第一台,http://api.hstv.me:8080/chuntian1229/xiaoli152/237
 豬哥亮歌廳秀,http://api.hstv.me:8080/chuntian1229/xiaoli152/241
+豬哥亮歌廳秀,http://api.hstv.me:8080/chuntian1229/xiaoli152/305
+TVBS,http://api.hstv.me:8080/chuntian1229/xiaoli152/243
 Baby First,http://api.hstv.me:8080/chuntian1229/xiaoli152/244
 八大綜合台,http://api.hstv.me:8080/chuntian1229/xiaoli152/245
 亞洲旅遊台,http://api.hstv.me:8080/chuntian1229/xiaoli152/246
+中天亞洲台,http://api.hstv.me:8080/chuntian1229/xiaoli152/247
 龍華戲劇台,http://api.hstv.me:8080/chuntian1229/xiaoli152/248
 TVBS精彩台,http://api.hstv.me:8080/chuntian1229/xiaoli152/253
 民視影劇台,http://api.hstv.me:8080/chuntian1229/xiaoli152/254
