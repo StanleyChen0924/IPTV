@@ -31,9 +31,9 @@ CATCHPLAY電影台,http://api.hstv.me:8080/chuntian1229/xiaoli152/261
 博斯無限二台,http://api.hstv.me:8080/chuntian1229/xiaoli152/272
 智林体育台,http://api.hstv.me:8080/chuntian1229/xiaoli152/273
 Fashion one,http://api.hstv.me:8080/chuntian1229/xiaoli152/274
-Travel Channel,http://api.hstv.me:8080/chuntian1229/xiaoli152/275
+韓國阿里郎,http://api.hstv.me:8080/chuntian1229/xiaoli152/275
 TRACE Sport Stars,http://api.hstv.me:8080/chuntian1229/xiaoli152/276
-时尚运动X,http://api.hstv.me:8080/chuntian1229/xiaoli152/277
+時尚運動X,http://api.hstv.me:8080/chuntian1229/xiaoli152/277
 GINX Esports TV,http://api.hstv.me:8080/chuntian1229/xiaoli152/278
 靖天卡通台,http://api.hstv.me:8080/chuntian1229/xiaoli152/279
 靖天戲劇台,http://api.hstv.me:8080/chuntian1229/xiaoli152/280
