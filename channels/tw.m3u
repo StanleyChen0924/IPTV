@@ -5,7 +5,7 @@
 
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視
 rtmp://59.124.75.136/sat/tv051
-#http://43.128.9.168/jjtv.php?id=24
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=24
 #http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 #rtmp://161.202.204.248/sat/tv051
 #rtmp://59.124.75.136/sat/tv051
@@ -13,17 +13,17 @@ rtmp://59.124.75.136/sat/tv051
 #http://seb.sason.top/ptv/ftv.php?id=ms
 
 #EXTINF:-1 tvg-id="7134" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" tvg-language="Chinese" group-title="一般",民視台灣
-#http://43.128.9.168/jjtv.php?id=26
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=26
 https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0
 #http://seb.sason.top/ptv/ftv.php?id=tw
 
 #EXTINF:-1 tvg-id="6071" tvg-logo="https://i.imgur.com/6jbjVNy.png" tvg-language="Chinese" group-title="新聞",民視新聞台
-#http://43.128.9.168/jjtv.php?id=32
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=32
 https://git.io/JgkAb
 #https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
 #EXTINF:-1 tvg-id="7133" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" tvg-language="Chinese" group-title="一般",民視第一
-#http://43.128.9.168/jjtv.php?id=25
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=25
 https://4gtvfreemobile-mozai.4gtv.tv/BS0hPFwEmjNJQjj2oFSy1Z-XQ9JgkjaDBtZQBS7S6B4%3d/stream2.m3u8?token=25j77IK5TofuZcj-JuUCMQ&expires=1632735955&token1=vu3xx42dEIv86AGcv0C74g&expires1=1632764755&refer=ZGQ2ZmNkZTMtYzQyMS00NTYzLTg5MTgtM2RhMjBhZmFhM2Rj&y=0
 #http://seb.sason.top/ptv/ftv.php?id=dy
 
@@ -32,12 +32,12 @@ https://4gtvfreemobile-mozai.4gtv.tv/2rqbIbRqglryu8IiI0qxjrccv7fDS-G13j9voZQySdk
 #http://seb.sason.top/ptv/ftv.php?id=yj
 
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv07_mobile.png",民視旅遊
-#http://43.128.9.168/jjtv.php?id=28
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=28
 https://4gtvfreemobile-mozai.4gtv.tv/5aKpM4LBCCkSNY-NDqu_QuK_2b__ckfU6MnG55DANMI%3d/stream2.m3u8?token=CnJNRPOvMkXHAg7xZ3MRvg&expires=1632736040&token1=Bj0UqU00DPlvywn8kxMqXg&expires1=1632764840&refer=ZTIxNThiOGItY2RkNC00YTM0LTg3YjktMGUyMGU5NTI1NTQ2&y=0
 #http://seb.sason.top/ptv/ftv.php?id=ly
 
 #EXTINF:-1 tvg-id="7145" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="一般",民視綜藝
-#http://43.128.9.168/jjtv.php?id=27
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=27
 https://4gtvfreemobile-mozai.4gtv.tv/0df68Gf2eZZfeig9vWfaKfrjsVCG-GW-OCbyLHhoW0M%3d/stream2.m3u8?token=kZe4eLTn9CRCt4byOtfzpQ&expires=1628316954&refer=ZDRjZGQzODAtOTUyMi00ZDAxLTgyMzktZTMyMzFiZWUwZGIz&token1=kHxHRFjqciiDO5a-uaorqw&expires1=1628345754&y=0&vt=
 #http://seb.sason.top/ptv/ftv.php?id=zy
 
@@ -46,7 +46,7 @@ rtmp://59.124.75.136/sat/tv071
 #http://60.251.59.180:8543/xoxo.m3u8
 
 #EXTINF:-1 tvg-id="6143" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-language="Chinese" group-title="新聞",台視新聞
-#http://43.128.9.168/jjtv.php?id=34
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=34
 https://git.io/JgkxY
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
 #http://seb.sason.top/sc/tsxw_fhd.m3u8
@@ -57,7 +57,7 @@ rtmp://59.124.75.136/sat/tv091
 #rtmp://161.202.204.248/sat/tv091
 
 #EXTINF:-1 tvg-id="7176" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" tvg-language="Chinese" group-title="新聞",中視新聞
-#http://43.128.9.168/jjtv.php?id=33
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=33
 https://git.io/Jgkxz
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
 #http://seb.sason.top/sc/zsxw_fhd.m3u8
@@ -74,7 +74,7 @@ rtmp://59.124.75.136/sat/tv111
 #rtmp://161.202.204.248/sat/tv111
 
 #EXTINF:-1 tvg-id="HSX.TW" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CTSNews.png" group-title="新聞", 華視新聞資訊 HD
-#http://43.128.9.168/jjtv.php?id=41
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=41
 https://git.io/Jgkxa
 #http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
@@ -126,19 +126,19 @@ http://api.hstv.me:8080/chuntian1229/xiaoli152/248
 http://50.7.61.148:30080/Entry/starchinese
 
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立新聞
-#http://43.128.9.168/jjtv.php?id=44
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=44
 https://git.io/Jgkxp
 #http://125.227.210.55:15589/VideoInput/play.ts
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
 #http://seb.sason.top/sc/sllive_fhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png" tvg-language="Chinese" group-title="新聞",三立inews新聞
-#http://43.128.9.168/jjtv.php?id=43
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=43
 https://git.io/Jgkxj
 #http://seb.sason.top/sc/slinews_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="新聞", 寰宇新聞台
-#http://43.128.9.168/jjtv.php?id=35
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=35
 https://git.io/JgkpO
 #https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
@@ -181,19 +181,19 @@ http://125.227.210.55:17524/VideoInput/play.ts
 #http://125.227.210.37:17524/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6069" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森新聞
-#http://43.128.9.168/jjtv.php?id=38
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=38
 https://git.io/Jgkps
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
 #http://seb.sason.top/sc/dsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6075" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
-#http://43.128.9.168/jjtv.php?id=39
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=39
 https://git.io/Jgkpc
 #rtmp://59.124.75.136:1935/sat/tv571
 #http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6063" tvg-logo="" group-title="一般",JET綜合台
-http://43.128.9.168/jjtv.php?id=52
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=52
 
 #EXTINF:-1 tvg-id="6095" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png",緯來日本
 rtmp://59.124.75.136/sat/tv771
@@ -217,7 +217,7 @@ rtmp://59.124.75.136/sat/tv721
 #EXTINF:-1 tvg-id="7219" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達綜合台
 #http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
-#http://43.128.9.168/jjtv.php?id=53
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=53
 
 #EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png",ELTA愛爾達影劇台
 http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
@@ -326,7 +326,7 @@ http://125.227.210.55:19020/VideoInput/play.ts
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",亞洲美食
-http://43.128.9.168/jjtv.php?id=100
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=100
 #https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 
@@ -340,7 +340,7 @@ http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6189" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" , BBC earth
-http://43.128.9.168/jjtv.php?id=96
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=96
 
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="一般",ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
@@ -400,7 +400,7 @@ http://125.227.210.55:16027/VideoInput/play.ts
 #http://107.167.5.66/mylive/102/2065/index.m3u8
 
 #EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits
-#http://43.128.9.168/jjtv.php?id=60
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=60
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="卫视洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視洋片
@@ -410,7 +410,7 @@ http://125.227.210.55:18789/VideoInput/play.ts
 http://125.227.210.55:18685/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN
-http://43.128.9.168/jjtv.php?id=80
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/=80
 #http://50.7.61.148:30080/Entry/axn
 
 #EXTINF:-1 tvg-id="6089" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-language="Chinese" group-title="電影" ,CINEMAX
@@ -682,3 +682,13 @@ https://git.io/JgkA1
 https://git.io/JgkAy
 #EXTINF:-1 tvg-id="" group-title="音樂",時尚運動X
 http://api.hstv.me:8080/chuntian1229/xiaoli152/277
+#EXTINF:-1 tvg-id="" group-title="TEST",FM 96.3 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+#EXTINF:-1 tvg-id="" group-title="TEST",Japan Walk 24/7
+https://www.youtube.com/c/makimakiwalk/videos|Referer=https://www.youtube.com
+#EXTINF:-1 tvg-id="" group-title="TEST",Korea walk
+https://www.youtube.com/playlist?list=PLZtkj1UPIsFMsgOhPBx8BRD8_c76CnF3C|Referer=https://www.youtube.com
+#EXTINF:-1 tvg-id="" group-title="TEST",Aespa
+https://git.io/JVuG8
+#EXTINF:-1 tvg-id="" group-title="TEST",TESTYT
+https://www.youtube.com/watch?v=kZlLTnE1y1Q&list=PLA91TLEzZINvfD-ToXanRYXVlcVdy4CDI
