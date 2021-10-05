@@ -87,11 +87,11 @@
 三立台灣,http://50.7.61.148:30080/Entry/settw-
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-三立新聞,https://git.io/Jgkxp
-三立新聞,http://43.128.9.168/jjtv.php?id=44
 三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
-三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u80
+三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立LIVE新聞,https://git.io/Jgkxp
+三立LIVE新聞,http://43.128.9.168/jjtv.php?id=44
 三立inews新聞,https://git.io/Jgkxj
 三立inews新聞,http://43.128.9.168/jjtv.php?id=43
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
@@ -1608,7 +1608,7 @@ CIBN流金岁月,http://112.74.200.9:88/tv000000/m3u8.php?/migu/692399419
 张国荣影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
 郭富城影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
 吴京作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681368
-刘德华影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
+劉德華影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
 经典影视速看,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751
 试胆大会,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
 高能烧脑时刻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
@@ -1639,7 +1639,6 @@ Migutv-7套武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
 爱情公寓,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
 吳京,http://121.51.249.53/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
 吳京,http://ws.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv
-劉德華,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
 劉德華,http://121.51.249.53/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
 劉德華,http://ws.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv
 甄子丹,http://121.51.249.53/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
