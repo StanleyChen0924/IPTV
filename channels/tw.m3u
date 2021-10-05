@@ -98,6 +98,27 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&a
 #EXTINF:-1 tvg-id="6133" tvg-name="八大娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="一般",GTV八大娛樂台
 http://198.16.106.62:8278/streams/d/badaentertain/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="八大綜合台" ,八大綜合台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/245
+
+#EXTINF:-1 tvg-id="" tvg-name="八大精彩台" ,八大精彩台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/295
+
+#EXTINF:-1 tvg-id="" ,龍華卡通台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/288
+
+#EXTINF:-1 tvg-id="" ,龍華偶像台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/289
+
+#EXTINF:-1 tvg-id="" ,龍華日韓台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/290
+
+#EXTINF:-1 tvg-id="" ,龍華經典台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/291
+
+#EXTINF:-1 tvg-id="" ,龍華戲劇台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/248
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/100px-SET_incorporated_logo.svg.png",三立綜合
 #https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live207/4gtv-live-mid/index.m3u8?token=bQPRS6YDT9Nz4Djm1Ik67g&expires=1632757168&token1=QNOL9PciYabg16WJBqmVKA&expires1=1632757168&_=1632710376299
 
@@ -193,12 +214,19 @@ rtmp://59.124.75.136/sat/tv721
 #rtmp://161.202.204.248/sat/tv721
 
 #EXTINF:-1 tvg-id="7219" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達綜合台
+http://43.128.9.168/jjtv.php?id=53
 #http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
+#http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 #http://43.128.9.168/jjtv.php?id=53
 
 #EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png",ELTA愛爾達影劇台
 http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" ,愛爾達娛樂台
+http://api.hstv.me:8080/chuntian1229/xiaoli152/296
+
+#EXTINF:-1 tvg-id="" ,ELTV英語學習
+http://api.hstv.me:8080/chuntian1229/xiaoli152/297
 
 #EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
 rtmp://59.124.75.136/sat/md011
@@ -260,7 +288,7 @@ https://git.io/Jgkp1
 #rtmp://59.124.75.136/sat/tv551
 #http://125.227.210.37:16329/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="6073" group-title="一般",TVBS精彩台
+#EXTINF:-1 tvg-id="" group-title="一般",TVBS精彩台
 http://api.hstv.me:8080/chuntian1229/xiaoli152/253
 
 #EXTINF:-1 tvg-id="6057" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="一般",中天娛樂台
