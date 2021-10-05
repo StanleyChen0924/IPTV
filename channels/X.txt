@@ -85,7 +85,7 @@ TVBS新聞,http://api.hstv.me:8080/chuntian1229/xiaoli152/314
 東森財經,http://api.hstv.me:8080/chuntian1229/xiaoli152/315
 華視新聞,http://api.hstv.me:8080/chuntian1229/xiaoli152/316
 台視新聞,http://api.hstv.me:8080/chuntian1229/xiaoli152/317
-中視新聞,http://api.hstv.me:8080/chuntian1229/xiaoli152/318
+中視新聞,http://api.hstv.me:8080/chuntian1229/xiaoli152/319
 
 🇹🇼台灣頻道,#genre#
 民視,rtmp://59.124.75.136/sat/tv051
