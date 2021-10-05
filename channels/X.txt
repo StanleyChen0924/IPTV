@@ -124,7 +124,7 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 MoMo綜合台,rtmp://59.124.75.136/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-momo综合台,http://125.227.210.55:13498/VideoInput/play.ts
+MoMo综合台,http://125.227.210.55:13498/VideoInput/play.ts
 龍華動畫,p5p://fccs.123178.top:9906/6044594300037550010f9116e9856cd9.ts
 龍華卡通台,http://api.hstv.me:8080/chuntian1229/xiaoli152/288
 龍華偶像台,http://api.hstv.me:8080/chuntian1229/xiaoli152/289
