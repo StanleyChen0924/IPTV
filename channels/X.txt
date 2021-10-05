@@ -181,9 +181,6 @@ HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 衛視洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
@@ -191,8 +188,6 @@ FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 AXN,http://43.128.9.168/jjtv.php?id=80
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,http://50.7.61.148:30080/Entry/axn
-CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 幸福空間居家台,https://git.io/JgYYF
@@ -353,6 +348,11 @@ ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
