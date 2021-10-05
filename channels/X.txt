@@ -71,6 +71,7 @@
 華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 公視三台,https://git.io/JgkxM
 公視三台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+公視三台,https://stream5.woniuzfb.com/live/gs/HGbvhjpI.m3u8
 大愛一台,https://git.io/Jgkx9
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -222,7 +223,8 @@ HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
-HBO Igniture,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/57
+HBO Igniture,https://cdn4.woniuzfb.com/live/family/EZUIqZSC.m3u8
+HBO Hits,https://cdn4.woniuzfb.com/live/hits/vdFSCwDp.m3u8
 HBO Hits,http://43.128.9.168/jjtv.php?id=60
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
