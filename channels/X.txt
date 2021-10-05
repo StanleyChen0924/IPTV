@@ -312,6 +312,11 @@ HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+HBO Igniture,https://cdn4.woniuzfb.com/live/family/EZUIqZSC.m3u8
+HBO Hits,https://cdn4.woniuzfb.com/live/hits/vdFSCwDp.m3u8
+>>>>>>> 7ef6c6badb404854df63813f606bd9d060998ffe
 =======
 HBO Igniture,https://cdn4.woniuzfb.com/live/family/EZUIqZSC.m3u8
 HBO Hits,https://cdn4.woniuzfb.com/live/hits/vdFSCwDp.m3u8
