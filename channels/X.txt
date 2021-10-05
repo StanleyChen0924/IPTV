@@ -57,15 +57,12 @@ KLT-靖天國際台,http://api.hstv.me:8080/chuntian1229/xiaoli152/294
 八大精彩台,http://api.hstv.me:8080/chuntian1229/xiaoli152/295
 愛爾達娛樂台,http://api.hstv.me:8080/chuntian1229/xiaoli152/296
 ELTV英語學習,http://api.hstv.me:8080/chuntian1229/xiaoli152/297
-VTV4,http://api.hstv.me:8080/chuntian1229/xiaoli152/298
 好消息,http://api.hstv.me:8080/chuntian1229/xiaoli152/299
 好消息2台,http://api.hstv.me:8080/chuntian1229/xiaoli152/300
 Medici Arts,http://api.hstv.me:8080/chuntian1229/xiaoli152/301
 TRACE Urban,http://api.hstv.me:8080/chuntian1229/xiaoli152/302
 Mezzo Live HD,http://api.hstv.me:8080/chuntian1229/xiaoli152/303
 CLASSICA 古典樂,http://api.hstv.me:8080/chuntian1229/xiaoli152/304
-蠟筆小新劇場版,http://api.hstv.me:8080/chuntian1229/xiaoli152/306
-東森兒童台,http://api.hstv.me:8080/chuntian1229/xiaoli152/307
 客家電視台,http://api.hstv.me:8080/chuntian1229/xiaoli152/308
 達文西頻道,http://api.hstv.me:8080/chuntian1229/xiaoli152/309
 三立LIVE新聞,http://api.hstv.me:8080/chuntian1229/xiaoli152/310
@@ -77,6 +74,8 @@ TVBS新聞,http://api.hstv.me:8080/chuntian1229/xiaoli152/314
 華視新聞,http://api.hstv.me:8080/chuntian1229/xiaoli152/316
 台視新聞,http://api.hstv.me:8080/chuntian1229/xiaoli152/317
 中視新聞,http://api.hstv.me:8080/chuntian1229/xiaoli152/319
+台視財經,http://api.hstv.me:8080/chuntian1229/xiaoli152/326
+
 
 🇹🇼台灣頻道,#genre#
 民視,rtmp://59.124.75.136/sat/tv051
