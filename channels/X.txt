@@ -1,9 +1,4 @@
-﻿YT1006Test,#genre#
-Japan Walk 24/7,https://www.youtube.com/c/makimakiwalk/videos|Referer=https://www.youtube.com
-Korea walk,https://www.youtube.com/playlist?list=PLZtkj1UPIsFMsgOhPBx8BRD8_c76CnF3C|Referer=https://www.youtube.com
-Aespa,https://git.io/JVuG8
-https://www.youtube.com/watch?v=kZlLTnE1y1Q&list=PLA91TLEzZINvfD-ToXanRYXVlcVdy4CDI
-
+﻿
 🇹🇼台灣頻道,#genre#
 民視,rtmp://59.124.75.136/sat/tv051
 民視,http://43.128.9.168/jjtv.php?id=24
