@@ -215,9 +215,8 @@ rtmp://59.124.75.136/sat/tv721
 #rtmp://161.202.204.248/sat/tv721
 
 #EXTINF:-1 tvg-id="7219" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達綜合台
-http://43.128.9.168/jjtv.php?id=53
 #http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-#http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
+http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 #http://43.128.9.168/jjtv.php?id=53
 
 #EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png",ELTA愛爾達影劇台
@@ -401,8 +400,8 @@ http://125.227.210.55:16027/VideoInput/play.ts
 #http://107.167.5.66/mylive/102/2065/index.m3u8
 
 #EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits
-http://43.128.9.168/jjtv.php?id=60
-#https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#http://43.128.9.168/jjtv.php?id=60
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="卫视洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視洋片
 http://125.227.210.55:18789/VideoInput/play.ts
