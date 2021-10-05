@@ -141,11 +141,6 @@ JET綜合台,http://43.128.9.168/jjtv.php?id=52
 緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
 緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
 愛爾達影劇台,http://93.190.139.36:8278/streams/d/eltadrama/playlist.m3u8
-愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
-愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
-愛爾達達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
-愛爾達達綜合台,http://43.128.9.168/jjtv.php?id=53
-愛爾達達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 TVBS,https://git.io/JgYl2
 TVBS,http://50.7.61.148:30080/Entry/tvbs
 TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
@@ -180,14 +175,11 @@ TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 亞洲美食,http://43.128.9.168/jjtv.php?id=100
-亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 亞洲美食,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 ANIMAL PLANET,http://foctv.xyz:25510/Amir5641/YY5641/96
-BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 衛視電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 衛視電影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 東森電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
@@ -200,7 +192,6 @@ BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 HBO,http://50.7.61.148:30080/Entry/hbo
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
-HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
@@ -232,15 +223,9 @@ Discovery,http://125.227.210.37:10388/VideoInput/play.ts
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Disney,http://125.227.210.55:14250/VideoInput/play.ts
 Disney,http://125.227.210.37:14250/VideoInput/play.ts
 Disney,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
@@ -265,7 +250,6 @@ tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 韓國阿里郎,http://125.227.210.37:8933/VideoInput/play.ts
 CBS2 720,rtmp://59.124.75.136/sat/us011
 CBS2 720,rtmp://161.202.204.248:1935/sat/us011
-BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 Astro AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro歡喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 Astro愛奇藝,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
@@ -369,6 +353,21 @@ TVBS精彩台,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
+愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
+愛爾達影劇台,http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
+愛爾達達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
+愛爾達達綜合台,http://43.128.9.168/jjtv.php?id=53
+愛爾達達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
+BBClifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 緯來日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
 緯來日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
 緯來日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
@@ -382,6 +381,7 @@ TVBS精彩台,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
 緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
 緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
