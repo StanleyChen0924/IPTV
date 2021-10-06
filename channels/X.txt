@@ -133,6 +133,7 @@ MoMo綜合台,http://125.227.210.55:13498/VideoInput/play.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
 東森新聞,https://git.io/Jgkps
+東森新聞,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
 東森新聞,http://43.128.9.168/jjtv.php?id=38
 東森新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
