@@ -49,7 +49,7 @@
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
 中視,http://50.7.61.148:30080/Entry/ctv
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
-中視,rtmp://59.124.75.136/sat/tv071
+中視,rtmp://59.124.75.136/sat/tv091
 中視,rtmp://161.202.204.248/sat/tv091
 中視新聞,https://git.io/Jgkxz
 中視新聞,http://43.128.9.168/jjtv.php?id=33
