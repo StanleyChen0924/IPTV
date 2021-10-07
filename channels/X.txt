@@ -146,6 +146,7 @@ JET綜合台,http://50.7.61.147:30080/Entry/jet
 JET綜合台,http://43.128.9.168/jjtv.php?id=52
 緯來日本,rtmp://59.124.75.136/sat/tv771
 緯來日本,rtmp://161.202.204.248:1935/sat/tv771
+緯來日本,http://50.7.61.147:30080/Entry/vljp
 緯來育樂,rtmp://59.124.75.136/sat/tv701
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來體育,rtmp://59.124.75.136/sat/tv721
@@ -422,6 +423,8 @@ BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playli
 天映電影,http://43.128.9.168/jjtv.php?id=63
 天映電影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
 天映電影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
+天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映電影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 星衛HD電影,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
