@@ -73,7 +73,7 @@
 華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-公視三台,https://git.io/JVFBr
+公視三台,https://git.io/JVFGN#https://git.io/JVFBr
 公視三台,https://git.io/JgkxM
 公視三台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視三台,https://stream5.woniuzfb.com/live/gs/HGbvhjpI.m3u8
