@@ -477,7 +477,9 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 武林外傳,http://121.51.249.53/tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
 🎵音樂頻道,#genre#
 KPOP,https://git.io/JgYAE
+K-POP LIVE STREAMING,KPOPLive.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+2021華語流行歌曲,https://git.io/JgYR5
 網路流行音樂電台,https://git.io/JgkA6
 日文動漫音樂電台,https://git.io/JgkA1
 西洋流行音樂電台,https://git.io/JgkAy
