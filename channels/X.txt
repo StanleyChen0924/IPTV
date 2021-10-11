@@ -51,6 +51,7 @@
 中視,rtmp://161.202.204.248/sat/tv091
 中視,http://50.7.61.148:30080/Entry/ctv
 中視經典台,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
+中視經典台,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
 中視新聞,https://git.io/Jgkxz
 中視新聞,http://43.128.9.168/jjtv.php?id=33
 中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
