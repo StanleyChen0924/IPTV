@@ -94,24 +94,29 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&a
 #http://198.16.106.62:8278/streams/d/badaentertain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="八大綜合台" ,八大綜合台
+http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/245
 
 #EXTINF:-1 tvg-id="" tvg-name="八大精彩台" ,八大精彩台
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/295
 
 #EXTINF:-1 tvg-id="" ,龍華卡通台
+http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/288
 
 #EXTINF:-1 tvg-id="" ,龍華偶像台
+http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/289
 
 #EXTINF:-1 tvg-id="" ,龍華日韓台
+http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/290
 
 #EXTINF:-1 tvg-id="" ,龍華經典台
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/291
 
 #EXTINF:-1 tvg-id="" ,龍華戲劇台
+http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/248
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/100px-SET_incorporated_logo.svg.png",三立綜合
@@ -165,10 +170,14 @@ rtmp://59.124.75.136/sat/tv761
 #https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn11/4gtv-live-mid/index.m3u8?token=BgT55JdAo0BgRpSn_tmxkQ&expires=1632742015&token1=Gx8e05aI9MEMmIcKB8deTg&expires1=1632742015&_=1632711483943&vt=
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png" ,東森超視
-rtmp://59.124.75.136/sat/tv521
+http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
+#rtmp://59.124.75.136/sat/tv521
 #rtmp://161.202.204.248:1935/sat/tv521
 
 #EXTINF:-1 tvg-id="6043" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" tvg-language="Chinese" group-title="兒童",東森幼幼
+http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
+
+#EXTINF:-1 tvg-id="6043" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" tvg-language="Chinese" group-title="兒童",東森幼幼點點名
 https://git.io/JgYON
 
 #EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",東森戲劇
@@ -286,6 +295,9 @@ https://git.io/Jgkp1
 #EXTINF:-1 tvg-id="" group-title="一般",TVBS精彩台
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/253
 
+#EXTINF:-1 tvg-id="6054" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="一般",中天綜合台
+http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
+
 #EXTINF:-1 tvg-id="6057" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="一般",中天娛樂台
 http://125.227.210.55:15796/VideoInput/play.ts
 
@@ -386,6 +398,7 @@ https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 #http://107.167.5.66/mylive/102/2064/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="電影",龍華电影
+http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/262
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
 
