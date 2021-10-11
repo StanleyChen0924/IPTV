@@ -300,6 +300,11 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 三立都會台,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
+龍華日韓台,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
+龍華戲劇台,http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
+龍華偶像台,http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
+龍華卡通台,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
+龍華電影台,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 
 
 🇹🇼港台p5p,#genre#
