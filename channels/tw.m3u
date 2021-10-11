@@ -135,7 +135,8 @@ http://50.7.61.148:30080/Entry/starchinese
 
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立新聞
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/44
-https://git.io/Jgkxp
+三立新聞,
+#https://git.io/Jgkxp
 #http://125.227.210.55:15589/VideoInput/play.ts
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
 #http://seb.sason.top/sc/sllive_fhd.m3u8
