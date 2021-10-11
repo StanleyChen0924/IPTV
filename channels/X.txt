@@ -52,6 +52,8 @@
 中視,http://50.7.61.148:30080/Entry/ctv
 中視經典台,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
 中視經典台,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
+中視菁彩台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
+中視菁彩台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
 中視新聞,https://git.io/Jgkxz
 中視新聞,http://43.128.9.168/jjtv.php?id=33
 中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
@@ -73,6 +75,7 @@
 公視,https://git.io/JgkxM
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視,https://stream5.woniuzfb.com/live/gs/HGbvhjpI.m3u8
+公視台語台,http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
 公視三台,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
 大愛一台,https://git.io/Jgkx9
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -109,6 +112,7 @@
 寰宇新聞台,http://43.128.9.168/jjtv.php?id=35
 寰宇新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 寰宇新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
+寰宇新聞台灣台,http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
 寰宇全球新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
@@ -116,6 +120,7 @@ CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
 八大綜合,http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free
+年代MUCH,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 龍華日韓台,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
 龍華戲劇台,http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
@@ -150,6 +155,7 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森財經,rtmp://59.124.75.136/sat/tv571
 東森財經,rtmp://161.202.204.248:1935/sat/tv571
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 JET綜合台,http://50.7.61.147:30080/Entry/jet
 JET綜合台,http://43.128.9.168/jjtv.php?id=52
 緯來日本,rtmp://59.124.75.136/sat/tv771
@@ -170,6 +176,7 @@ TVBS新聞台,rtmp://59.124.75.136/sat/tv551
 TVBS新聞台,http://43.128.9.168/jjtv.php?id=42
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
+TVBS精采台,http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free
 TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
 TVBS歡樂台,rtmp://59.124.75.136:1935/sat/tv421
 TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
@@ -193,6 +200,7 @@ TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 亞洲旅遊台台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+亞洲旅遊台台,http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free
 ANIMAL PLANET,http://foctv.xyz:25510/Amir5641/YY5641/96
 龍華電影台,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 龍華洋片台,http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
@@ -228,6 +236,8 @@ AXN,http://50.7.61.148:30080/Entry/axn
 AXN,http://50.7.61.148:30080/Entry/axn
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+影迷數電影,http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free
+CATCHPLAY电影,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free
 幸福空間居家台,https://git.io/JgYYF
 天映電影,http://43.128.9.168/jjtv.php?id=63
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
@@ -240,6 +250,11 @@ NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580
 NHK World Japan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 NHK World Japan,http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+高點綜合,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
+高點育樂,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
+采昌影劇,http://sytv.xtvants.fun/mytv.php?id=ccyj&token=free&user=free
+Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
+i-Fun動漫,http://sytv.xtvants.fun/mytv.php?id=afdm&token=free&user=free
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
@@ -263,6 +278,7 @@ Disney,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+東風衛視,http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
 星空衛視,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 CNBC,http://125.227.210.55:16415/VideoInput/play.ts
@@ -307,72 +323,117 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 博斯運動二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 
-
-🇹🇼港台p5p,#genre#
-凤凰资讯台,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
-凤凰中文台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
-凤凰香港,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts
-TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
-有线娱乐台,p5p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
-香港福斯电影,p5p://fccs.123178.top:9906/60693d0e000cf43215b666ef7701d76e.ts
-澳门莲花台,p5p://fccs.123178.top:9906/613192f10005f0f11859aeaf78bfd050.ts
-民视 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
-台视综合,p5p://fccs.123178.top:9906/6044936700021fe101f2ad5ea50e836e.ts
-MoMo亲子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
-CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-迪斯尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
-卫视中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
-寰宇新闻台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
-东森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
-东森超视,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
-东森综合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
-东森综合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
-东森戏剧,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
-东森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
-中天新闻,p5p://fccs.123178.top:9906/6108751d000ce82f133327c1075ab46a.ts
-三立财经,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
-三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-三立都会台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
-八大戏剧台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
-八大综合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
-八大娱乐台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
-八大娱乐台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
-年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
-纬来日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
-纬来戏剧,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-纬来育乐,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-国兴卫视,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
-AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
-AXN Mystery,p5p://fccs.123178.top:9906/6130442d0000201d133dff92bc0fef39.ts
-龙祥电影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-龙祥时代,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
-东风卫视,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
-卫视中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
-光影欧洲,p5p://fccs.123178.top:9906/604420030008e014002ff07922c6f89b.ts
-thrill电影台,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
-KIX电影台,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
-FOX 频道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
-FOX优质电影台,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
-Outdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3.ts
-HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab.ts
-探索频道,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
-动物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
-狼谷竞技,p5p://fccs.123178.top:9906/6045b7460004ba730666cd212d07958d.ts
-日本旅游频道,p5p://fccs.123178.top:9906/61304d2b000a9536136122700ecd28a5.ts
-TLC旅游,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
-亚洲旅游,p5p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
-afc亚洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
-法国时装,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950.ts
-时尚疯高清频道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e.ts
-Eleven运动台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
-Z 频道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
-美国高尔夫球,p5p://fccs.123178.top:9906/60447654000dbd4101811e203ac3ee9f.ts
-博斯高球1,p5p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
-博斯网球,p5p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
-人间卫视,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
-
+🇹🇼港台720,#genre#
+TVBS新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
+TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
+三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
+民视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
+年代新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
+非凡新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
+卫视电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+美亚电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+民视,http://sytv.xtvants.fun/mytv.php?id=ms&token=free&user=free
+民视第一,http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free
+民视台湾,http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free
+民视新闻,http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free
+民视影剧,http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free
+民视综艺,http://sytv.xtvants.fun/mytv.php?id=mszy&token=free&user=free
+民视旅游,http://sytv.xtvants.fun/mytv.php?id=msly&token=free&user=free
+台视,http://sytv.xtvants.fun/mytv.php?id=ts&token=free&user=free
+台视新闻,http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free
+台视财经,http://sytv.xtvants.fun/mytv.php?id=tscj&token=free&user=free
+台视综合,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
+中视,http://sytv.xtvants.fun/mytv.php?id=zs&token=free&user=free
+中视新闻,http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free
+中视经典,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
+中视菁采,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
+华视,http://sytv.xtvants.fun/mytv.php?id=hs&token=free&user=free
+华视教育体育文化,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
+华视新闻信息,http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free
+公视,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
+公视台语,http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
+公视3,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
+东森新闻,http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free
+东森财经新闻,http://sytv.xtvants.fun/mytv.php?id=dscj&token=free&user=free
+东森综合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
+东森戏剧,http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
+东森洋片,http://sytv.xtvants.fun/mytv.php?id=dsyp&token=free&user=free
+东森电影,http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
+中天新闻,http://sytv.xtvants.fun/mytv.php?id=ztxw&token=free&user=free
+中天娱乐,http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
+中天亚洲,http://sytv.xtvants.fun/mytv.php?id=ztyz&token=free&user=free
+三立台湾,http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
+三立新闻,http://sytv.xtvants.fun/mytv.php?id=slxw&token=free&user=free
+三立财经,http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free
+三立综合,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
+三立戏剧,http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
+MTV综合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
+TVBS新闻,http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free
+TVBS欢乐,http://sytv.xtvants.fun/mytv.php?id=tvbshl&token=free&user=free
+TVBS,http://sytv.xtvants.fun/mytv.php?id=tvbs&token=free&user=free
+TVBS精采,http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free
+年代新闻,http://sytv.xtvants.fun/mytv.php?id=ndxw&token=free&user=free
+MUCH TV,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
+JET综合,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
+东风卫视,http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
+壹电影,http://sytv.xtvants.fun/mytv.php?id=ydy&token=free&user=free
+非凡新闻,http://sytv.xtvants.fun/mytv.php?id=ffxw&token=free&user=free
+非凡商业,http://sytv.xtvants.fun/mytv.php?id=ffsy&token=free&user=free
+寰宇新闻,http://sytv.xtvants.fun/mytv.php?id=hyxw&token=free&user=free
+寰宇新闻台湾,http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
+亚洲旅游,http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free
+宝宝世界,http://sytv.xtvants.fun/mytv.php?id=bbsj&token=free&user=free
+Medici-Arts,http://sytv.xtvants.fun/mytv.php?id=mdqys&token=free&user=free
+博斯高球,http://sytv.xtvants.fun/mytv.php?id=bsgq&token=free&user=free
+博斯高球II,http://sytv.xtvants.fun/mytv.php?id=bsgq2&token=free&user=free
+博斯网球,http://sytv.xtvants.fun/mytv.php?id=bswq&token=free&user=free
+博斯魅力,http://sytv.xtvants.fun/mytv.php?id=bsml&token=free&user=free
+博斯运动一,http://sytv.xtvants.fun/mytv.php?id=bsyd&token=free&user=free
+博斯运动二,http://sytv.xtvants.fun/mytv.php?id=bsyd2&token=free&user=free
+博斯无限,http://sytv.xtvants.fun/mytv.php?id=bswx&token=free&user=free
+博斯无限二,http://sytv.xtvants.fun/mytv.php?id=bswx2&token=free&user=free
+龙华戏剧,http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
+龙华偶像,http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
+龙华电影,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
+龙华洋片,http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
+龙华日韩,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
+龙华卡通,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
+八大第1,http://sytv.xtvants.fun/mytv.php?id=bddy&token=free&user=free
+八大戏剧,http://sytv.xtvants.fun/mytv.php?id=bdxj&token=free&user=free
+八大娱乐,http://sytv.xtvants.fun/mytv.php?id=bdyl&token=free&user=free
+八大精彩,http://sytv.xtvants.fun/mytv.php?id=bdjc&token=free&user=free
+爱尔达体育1,http://sytv.xtvants.fun/mytv.php?id=aedty&token=free&user=free
+爱尔达体育2,http://sytv.xtvants.fun/mytv.php?id=aedty2&token=free&user=free
+TRACE Sport Stars,http://sytv.xtvants.fun/mytv.php?id=traces&token=free&user=free
+智林体育,http://sytv.xtvants.fun/mytv.php?id=zlty&token=free&user=free
+韩国娱乐,http://sytv.xtvants.fun/mytv.php?id=hgyl&token=free&user=free
+靖洋卡通,http://sytv.xtvants.fun/mytv.php?id=jykt&token=free&user=free
+靖天卡通,http://sytv.xtvants.fun/mytv.php?id=jtkt&token=free&user=free
+靖天信息,http://sytv.xtvants.fun/mytv.php?id=jtzx&token=free&user=free
+靖天综合,http://sytv.xtvants.fun/mytv.php?id=jtzh&token=free&user=free
+靖天育乐,http://sytv.xtvants.fun/mytv.php?id=jtyl&token=free&user=free
+靖天戏剧,http://sytv.xtvants.fun/mytv.php?id=jtxj&token=free&user=free
+靖洋戏剧,http://sytv.xtvants.fun/mytv.php?id=jyxj&token=free&user=free
+靖天映画,http://sytv.xtvants.fun/mytv.php?id=jtyh&token=free&user=free
+靖天电影,http://sytv.xtvants.fun/mytv.php?id=jtdy&token=free&user=free
+靖天国际,http://sytv.xtvants.fun/mytv.php?id=jtgj&token=free&user=free
+靖天日本,http://sytv.xtvants.fun/mytv.php?id=jtrb&token=free&user=free
+靖天欢乐,http://sytv.xtvants.fun/mytv.php?id=jthl&token=free&user=free
+i-Fun动漫,http://sytv.xtvants.fun/mytv.php?id=afdm&token=free&user=free
+高点综合,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
+高点育乐,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
+采昌影剧,http://sytv.xtvants.fun/mytv.php?id=ccyj&token=free&user=free
+影迷數電影,http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free
+CATCHPLAY电影,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free
+EYE TV戏剧,http://sytv.xtvants.fun/mytv.php?id=eyexj&token=free&user=free
+EYE TV旅游,http://sytv.xtvants.fun/mytv.php?id=eyely&token=free&user=free
+Z频道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
+卫视电影,http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
+龙祥电影,http://sytv.xtvants.fun/mytv.php?id=lxsd&token=free&user=free
+东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+龙翔时代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 
 🆕新聞頻道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
