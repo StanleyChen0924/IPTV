@@ -91,6 +91,7 @@
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 三立綜合台,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
 三立戲劇台,http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
+三立新聞,http://sytv.xtvants.fun/mytv.php?id=slxw&token=free&user=free
 三立新聞,http://125.227.210.37:15589/VideoInput/play.ts#http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立LIVE新聞,https://git.io/Jgkxp
