@@ -285,6 +285,10 @@ tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 MTV綜合,p5p://fccs.123178.top:9906/604408e9000a103309b59e2621263caa.ts
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 eltayl,https://raw.githubusercontent.com/etag2000/NewTV/main/eltayl_tw.m3u8
+lhax,https://raw.githubusercontent.com/etag2000/NewTV/main/lhax_tw.m3u8
+lhxj,https://raw.githubusercontent.com/etag2000/NewTV/main/lhxj_tw.m3u8
+lhyj,https://raw.githubusercontent.com/etag2000/NewTV/main/lhyj_tw.m3u8
+lxyp,https://raw.githubusercontent.com/etag2000/NewTV/main/lxyp_tw.m3u8
 
 🆕新聞頻道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
