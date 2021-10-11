@@ -85,7 +85,7 @@
 三立台灣,http://50.7.61.148:30080/Entry/settw-
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
+三立新聞,http://125.227.210.37:15589/VideoInput/play.ts#http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立LIVE新聞,https://git.io/Jgkxp
 三立LIVE新聞,http://43.128.9.168/jjtv.php?id=44
@@ -281,9 +281,8 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 
 
 🇹🇼港台備用,#genre#
-民視,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
-民視,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
-民視,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
+民視,rtmp://161.202.204.248/sat/tv051
+民視,rtmp://59.124.75.136/sat/tv051
 民視 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 民視 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 民視 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
@@ -535,7 +534,6 @@ FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
 FOX優質電影台,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 Fox福斯家庭,p5p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
 Fox福斯家庭,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
-民視,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
 HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 探索亞洲頻道,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55
 探索亞洲頻道,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55.ts
@@ -555,7 +553,6 @@ Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 愛爾達達體育1,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 
-民視,rtmp://161.202.204.248/sat/tv051	
 台視,rtmp://161.202.204.248/sat/tv071	
 中視,rtmp://161.202.204.248/sat/tv091	
 華視,rtmp://161.202.204.248/sat/tv111	
@@ -582,7 +579,6 @@ ELTA影劇,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 ELTA綜合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8	
 ELTA體育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8	
 
-民視,rtmp://59.124.75.136/sat/tv051
 台視,rtmp://59.124.75.136/sat/tv071
 中視,rtmp://59.124.75.136/sat/tv091
 華視,rtmp://59.124.75.136/sat/tv111
@@ -592,7 +588,6 @@ TVBS欢樂台,rtmp://59.124.75.136/sat/tv421
 纬来育樂,rtmp://59.124.75.136/sat/tv701
 纬来體育,rtmp://59.124.75.136/sat/tv721
 MOMO综合台,rtmp://59.124.75.136/sat/tv761
-民視,rtmp://161.202.204.248/sat/tv051
 台視,rtmp://161.202.204.248/sat/tv071
 中視,rtmp://161.202.204.248/sat/tv091
 華視,rtmp://161.202.204.248/sat/tv111
