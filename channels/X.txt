@@ -280,15 +280,16 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 
 
 🇹🇼港台備用,#genre#
-
-tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
-MTV綜合,p5p://fccs.123178.top:9906/604408e9000a103309b59e2621263caa.ts
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
-eltayl,https://raw.githubusercontent.com/etag2000/NewTV/main/eltayl_tw.m3u8
-lhax,https://raw.githubusercontent.com/etag2000/NewTV/main/lhax_tw.m3u8
-lhxj,https://raw.githubusercontent.com/etag2000/NewTV/main/lhxj_tw.m3u8
-lhyj,https://raw.githubusercontent.com/etag2000/NewTV/main/lhyj_tw.m3u8
-lxyp,https://raw.githubusercontent.com/etag2000/NewTV/main/lxyp_tw.m3u8
+八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
+八大戏剧台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
+八大综合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+八大娱乐台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
+八大娱乐台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
+年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
+纬来日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
+纬来戏剧,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
+纬来育乐,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+国兴卫视,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 
 🆕新聞頻道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
