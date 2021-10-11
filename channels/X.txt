@@ -49,17 +49,11 @@
 中視,rtmp://59.124.75.136/sat/tv091
 中視,rtmp://161.202.204.248/sat/tv091
 中視,http://50.7.61.148:30080/Entry/ctv
-#中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 中視新聞,https://git.io/Jgkxz
 中視新聞,http://43.128.9.168/jjtv.php?id=33
 中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
-#中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
-#中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
-#中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-#中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-#中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
 華視,http://50.7.61.147:30080/Entry/cts
 華視,rtmp://59.124.75.136/sat/tv111
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
