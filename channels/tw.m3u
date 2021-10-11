@@ -40,6 +40,9 @@ https://4gtvfreemobile-mozai.4gtv.tv/0df68Gf2eZZfeig9vWfaKfrjsVCG-GW-OCbyLHhoW0M
 rtmp://59.124.75.136/sat/tv071
 #http://60.251.59.180:8543/xoxo.m3u8
 
+#EXTINF:-1 tvg-id="6145" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",台視綜合台
+http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
+
 #EXTINF:-1 tvg-id="6143" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-language="Chinese" group-title="新聞",台視新聞
 https://git.io/JgkxY
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
