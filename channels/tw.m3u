@@ -56,10 +56,10 @@ https://git.io/Jgkxz
 #http://seb.sason.top/sc/zsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="7136" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87.png" group-title="一般", 中視菁采台
-http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+#http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7172" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="一般", 中視經典台
-http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+#http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",華視
 rtmp://59.124.75.136/sat/tv111
