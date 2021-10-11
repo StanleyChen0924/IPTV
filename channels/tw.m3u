@@ -56,9 +56,11 @@ https://git.io/Jgkxz
 #http://seb.sason.top/sc/zsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="7136" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87.png" group-title="一般", 中視菁采台
+http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
 #http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7172" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="一般", 中視經典台
+http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
 #http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",華視
@@ -181,7 +183,8 @@ http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
 https://git.io/JgYON
 
 #EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",東森戲劇
-http://125.227.210.55:17524/VideoInput/play.ts
+http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
+#http://125.227.210.55:17524/VideoInput/play.ts
 #http://125.227.210.37:17524/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6069" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森新聞
