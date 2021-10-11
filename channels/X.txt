@@ -49,6 +49,7 @@
 中視,rtmp://59.124.75.136/sat/tv091
 中視,rtmp://161.202.204.248/sat/tv091
 中視,http://50.7.61.148:30080/Entry/ctv
+中視經典台,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
 中視新聞,https://git.io/Jgkxz
 中視新聞,http://43.128.9.168/jjtv.php?id=33
 中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
@@ -65,10 +66,12 @@
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-公視三台,https://git.io/JVFGN#https://git.io/JVFBr
-公視三台,https://git.io/JgkxM
-公視三台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
-公視三台,https://stream5.woniuzfb.com/live/gs/HGbvhjpI.m3u8
+公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
+公視,https://git.io/JVFGN#https://git.io/JVFBr
+公視,https://git.io/JgkxM
+公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+公視,https://stream5.woniuzfb.com/live/gs/HGbvhjpI.m3u8
+公視三台,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
 大愛一台,https://git.io/Jgkx9
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二台,https://git.io/JgYms
@@ -126,9 +129,11 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森超視,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
 東森超視,rtmp://59.124.75.136/sat/tv521
 東森超視,rtmp://161.202.204.248:1935/sat/tv521
+東森戲劇,http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
 東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
 東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
+東森綜合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
 東森新聞,https://git.io/Jgkps
 東森新聞,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
 東森新聞,http://43.128.9.168/jjtv.php?id=38
@@ -184,11 +189,14 @@ TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 亞洲旅遊台台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 ANIMAL PLANET,http://foctv.xyz:25510/Amir5641/YY5641/96
 龍華電影台,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
+壹電影台,http://sytv.xtvants.fun/mytv.php?id=ydy&token=free&user=free
 衛視電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+衛視電影台,http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
 衛視電影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
 東森電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+東森電影台,http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
 緯來電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
@@ -202,6 +210,7 @@ HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 衛視洋片,http://125.227.210.37:18789/VideoInput/play.ts
+東森洋片,http://sytv.xtvants.fun/mytv.php?id=dsyp&token=free&user=free
 東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 東森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
@@ -272,8 +281,8 @@ Astro AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro歡喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 Astro愛奇藝,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-愛爾達達體育1,rtmp://59.124.75.136/sat/md041
-愛爾達達體育1,rtmp://161.202.204.248/sat/md041
+愛爾達體育1,rtmp://59.124.75.136/sat/md041
+愛爾達體育1,rtmp://161.202.204.248/sat/md041
 愛爾達體育2,rtmp://59.124.75.136/sat/md051
 愛爾達體育2,rtmp://161.202.204.248:1935/sat/md051
 愛爾達體育3,rtmp://59.124.75.136/sat/md031
@@ -290,21 +299,6 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 博斯運動二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-
-東森幼幼,http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
-東森超視,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
-中天綜合,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
-八大綜合,http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free
-愛爾達體育3,http://sytv.xtvants.fun/mytv.php?id=aedty3&token=free&user=free
-三立台灣台,http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
-三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
-三立都會台,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
-三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
-龍華日韓台,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
-龍華戲劇台,http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
-龍華偶像台,http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
-龍華卡通台,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
-龍華電影台,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 
 
 🇹🇼港台p5p,#genre#
