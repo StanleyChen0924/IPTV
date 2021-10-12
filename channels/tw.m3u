@@ -115,7 +115,7 @@ http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 #http://198.16.106.62:8278/streams/d/badaentertain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="八大綜合台" ,八大綜合台
-http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/245
 
 #EXTINF:-1 tvg-id="" tvg-name="八大精彩台" ,八大精彩台
