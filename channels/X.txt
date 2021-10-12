@@ -181,6 +181,8 @@ TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
 TVBS歡樂台,rtmp://59.124.75.136:1935/sat/tv421
 TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 中天娛樂台,http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
+中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
+中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
 中天综合台,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
 中天新聞,https://git.io/Jgkpy
 中天新聞,http://43.128.9.168/jjtv.php?id=36
