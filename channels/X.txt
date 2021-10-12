@@ -192,6 +192,7 @@ JET綜合台,http://43.128.9.168/jjtv.php?id=52
 緯來日本,rtmp://59.124.75.136/sat/tv771
 緯來日本,rtmp://161.202.204.248:1935/sat/tv771
 緯來日本,http://50.7.61.147:30080/Entry/vljp
+緯來綜合,rtmp://45.88.148.114/channel/60c312b7961593122ebaf8f1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpllN84UP6ZHs5zWaUeLaEaJmiwW2l%2F3INxD33RqWjuslE
 緯來育樂,rtmp://59.124.75.136/sat/tv701
 緯來育樂,rtmp://161.202.204.248/sat/tv701
 緯來體育,rtmp://59.124.75.136/sat/tv721
