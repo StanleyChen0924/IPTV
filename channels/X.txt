@@ -330,6 +330,7 @@ Discovery,http://125.227.210.37:10388/VideoInput/play.ts
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+KAKU少兒,http://113.64.147.150:808/hls/66/index.m3u8?times=0
 Disney,http://125.227.210.55:14250/VideoInput/play.ts
 Disney,http://125.227.210.37:14250/VideoInput/play.ts
 Disney,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
