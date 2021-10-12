@@ -108,6 +108,9 @@ http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
 #EXTINF:-1 tvg-id="7221" tvg-logo="",三立戲劇
 http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
 
+#EXTINF:-1 tvg-id="6056" tvg-logo="",年代MUCH
+http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
+
 #EXTINF:-1 tvg-id="6133" tvg-name="八大娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="一般",GTV八大娛樂台
 #http://198.16.106.62:8278/streams/d/badaentertain/playlist.m3u8
 
