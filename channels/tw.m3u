@@ -706,6 +706,10 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w16047600
 https://git.io/JgYAE
 #EXTINF:-1 tvg-id="" group-title="音樂",Sexy K-Pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 tvg-id="" group-title="音樂",K-POP LIVE STREAMING
+https://git.io/JgP6P
+#EXTINF:-1 tvg-id="" group-title="音樂",2021華語流行歌曲
+https://git.io/JgYR5
 #EXTINF:-1 tvg-id="" group-title="音樂",網路流行音樂電台
 https://git.io/JgkA6
 #EXTINF:-1 tvg-id="" group-title="音樂",日文動漫音樂電台
@@ -716,10 +720,6 @@ https://git.io/JgkAy
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/277
 #EXTINF:-1 tvg-id="" group-title="音樂",FM 96.3 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1 tvg-id="" group-title="音樂",K-POP LIVE STREAMING
-https://git.io/JgP6P
-#EXTINF:-1 tvg-id="" group-title="音樂",2021華語流行歌曲
-https://git.io/JgYR5
 #EXTINF:-1 tvg-id="" group-title="TEST",Japan Walk 24/7
 https://www.youtube.com/c/makimakiwalk/videos|Referer=https://www.youtube.com
 #EXTINF:-1 tvg-id="" group-title="TEST",Korea walk
