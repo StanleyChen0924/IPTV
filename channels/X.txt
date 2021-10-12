@@ -577,7 +577,7 @@ HK03_電影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 衛視卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 淘電影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-衛視電影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+衛視電影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 天映電影,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映電影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
