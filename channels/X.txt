@@ -1319,11 +1319,11 @@ VIUtv6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696
 天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
 天映頻道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
 
-翡翠台，https://r2.weizan.cn/v/1646497941_13205559193952309.flv
-高清603，https://r2.weizan.cn/v/1646497941_983713851238420989.flv
-J2，https://r2.weizan.cn/v/1646497941_939801511891437526.flv
-有線新聞，https://r2.weizan.cn/v/1646497941_697113090439139174.flv
-無線新聞，https://r2.weizan.cn/v/1646497941_673946820532880689.flv
+翡翠台,https://r2.weizan.cn/v/1646497941_13205559193952309.flv
+高清603,https://r2.weizan.cn/v/1646497941_983713851238420989.flv
+J2,https://r2.weizan.cn/v/1646497941_939801511891437526.flv
+有線新聞,https://r2.weizan.cn/v/1646497941_697113090439139174.flv
+無線新聞,https://r2.weizan.cn/v/1646497941_673946820532880689.flv
 
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 凤凰資訊台,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
@@ -1713,9 +1713,6 @@ HTV Key,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 VTV⑦HD,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 VTV⑧HD,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 VTV⑨HD,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-
-越南②,#genre#
-
 Nhân Dân,https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
 Nhan Dan,https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 HA NOI①ᴴᴰ,https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8?
@@ -2000,51 +1997,6 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
 📺影視輪播,#genre#
-道,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
-新片放映厅,http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
-高分影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
-欢笑劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
-盗墓方法论,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
-CCTV6電影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
-CCTV8電視劇,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
-CIBN經典劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/692446012
-CIBN流金岁月,http://112.74.200.9:88/tv000000/m3u8.php?/migu/692399419
-周润發影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
-古龙作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
-周星驰影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
-成龙作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
-张國荣影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
-郭富城影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
-吴京作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681368
-劉德華影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
-經典影視速看,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751
-试胆大會,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
-高能烧脑时刻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
-杨幂影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542372
-刘亦菲影視展播,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386
-TVB劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/631354620
-咪咕雲上電影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
-咪咕暑期劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
-黄金劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
-軍旅劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517
-少林劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
-高清大片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
-葛优作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315456
-古天樂影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
-热劇联播,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
-喜劇联盟,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
-僵尸劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
-深夜失眠劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
-神探狄仁杰,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625574493
-红色谍战劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/634274665
-經典贺岁片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662
-CHC動作電影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/644368714
-CHC家庭影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/644368373
-每日科幻電影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
-追劇少女,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318
-懷舊老片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
-Migutv-7套武侠劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
-爱情公寓,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
 吳京,http://121.51.249.53/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
 吳京,http://ws.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv
 劉德華,http://121.51.249.53/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
@@ -2085,19 +2037,7 @@ Migutv-7套武侠劇場,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
 鬥魚54,http://dyscdnali1.douyucdn.cn/live/6763930rQ0VfA1mV.flv?uuid=
 鬥魚42,http://dyscdnali1.douyucdn.cn/live/3980787rVI3fG6Tv.flv?uuid=
 武林外傳,http://121.51.249.53/tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
-鬥魚電影1,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=925724
-鬥魚電影2,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=122402
-鬥魚電影3,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=85894
-鬥魚電影4,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=310926
-鬥魚電影5,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=263824
-鬥魚電影6,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=747764
-鬥魚動漫,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=206858
-國語動漫,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=6449849
-鬼吹燈,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=7701735
-鬥魚4K,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=9249162
-鬥魚4K,http://epg.112114.xyz/douyu/9249162
-鬥魚4K,http://080880qazwsx.ve5.aihost10.top/dy.php?id=9249162
-鬥魚4K,http://zzy789.xyz/douyu1.php?id=9249162
+
 
 
 📺兒童頻道,#genre#
