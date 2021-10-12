@@ -424,6 +424,7 @@ https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影中文
 http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
+#http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
 
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影原音
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
@@ -462,7 +463,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 http://125.227.210.55:18789/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-language="Chinese" group-title="電影",東森洋片
-http://125.227.210.55:18685/VideoInput/play.ts
+http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
+#http://125.227.210.55:18685/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/80
