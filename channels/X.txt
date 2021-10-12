@@ -255,7 +255,8 @@ ANIMAL PLANET,http://foctv.xyz:25510/Amir5641/YY5641/96
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
 衛視電影台 原音,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
-東森電影台,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
+東森電影台,http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
+東森電影台,http://113.64.147.150:808/hls/58/index.m3u8?times=0
 東森電影台,http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
 東森電影台,http://sytv.xtvants.fun/mytv.php?id=dsdy&token=qq3036107507&user=fmys
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
@@ -290,6 +291,7 @@ AXN,http://50.7.61.148:30080/Entry/axn
 CATCHPLAY電影,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free
 CATCHPLAY電影,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=qq3036107507&user=fmys
 天映電影,http://43.128.9.168/jjtv.php?id=63
+天映電影,http://113.64.147.240:808/hls/62/index.m3u8?times=0
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映電影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 幸福空間居家台,https://git.io/JgYYF
@@ -1229,6 +1231,7 @@ CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index
 安徽衛視,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
 
 🇭🇰港澳頻道,#genre#
+翡翠台,http://113.64.147.240:808/hls/36/index.m3u8?times=0
 翡翠台,https://r2.weizan.cn/v/1646497941_13205559193952310.flv
 翡翠台,http://43.128.9.168/jjtv.php?id=22
 翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
@@ -1257,6 +1260,7 @@ HKC有線18台,rtmp://161.202.204.248/sat/hk041
 無線新聞,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 無線財經,http://cdn.hkdtmb.com/hls/85/index.m3u8
 TVB星河粤語,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+TVB星河粤語,http://113.64.147.240:808/hls/35/index.m3u8?times=0
 TVB星河國語http://43.128.9.168/jjtv.php?id=4
 TVB星河國語,http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8
 TVB劇場,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?
