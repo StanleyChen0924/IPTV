@@ -93,6 +93,7 @@
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
+三立都會台,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 三立綜合台,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
 三立戲劇台,http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
