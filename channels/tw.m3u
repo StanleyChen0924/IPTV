@@ -693,6 +693,8 @@ http://210.210.155.35/uq2663/h/h143/01.m3u8
 #http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",TVN UP
 rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpliATlhSbh8UDvdjZt3K4z5zXna9oLrT3o5Wv66nxUoCC
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",TVN HD UP
+rtmp://104.149.191.182/channel/6162d70f295d84395bb001a9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpliATlhSbh8UDvdjZt3K4z5zXna9oLrT3o5Wv66nxUoCC
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",TVN HD
 #http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
