@@ -69,7 +69,7 @@
 華視新聞資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
-華視教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 公視,https://git.io/JVFGN#https://git.io/JVFBr
 公視,https://git.io/JgkxM
