@@ -154,6 +154,7 @@ FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 愛爾達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 愛爾達綜合台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d46?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpllN84UP6ZHs5zWaUeLaEaJmiwW2l%2F3INxD33RqWjuslE
+愛爾達影劇台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cbe?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplggRx%2BaOhin4jEvZQ8hcjHefzPjg9qEqp4YEMr%2BFIT8j
 愛爾達影劇台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d3a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpllN84UP6ZHs5zWaUeLaEaJmiwW2l%2F3INxD33RqWjuslE
 MoMo綜合台,rtmp://59.124.75.136/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
@@ -161,6 +162,7 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 MoMo綜合台,http://125.227.210.55:13498/VideoInput/play.ts	
 海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8	
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+MoMo親子台,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cc8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplggRx%2BaOhin4jEvZQ8hcjHefzPjg9qEqp4YEMr%2BFIT8j
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森幼幼,http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
 東森幼幼,http://sytv.xtvants.fun/mytv.php?id=dsyy&token=qq3036107507&user=fmys
