@@ -3138,7 +3138,7 @@ VIP-KOREA-2-40,http://hotstream.asia/2018/2/12/kbj18020305.mp4
 VIP-KOREA-2-41,http://hotstream.asia/2018/2/12/kbj18013004-03.mp4
 VIP-KOREA-2-42,http://hotstream.asia/2018/2/12/kbj18020909-01.mp4
 
-Test,#genre#
+Test_710924,#genre#
 20211012,http://www.iptv.wang/live.php
 國家人文,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910ca6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpllN84UP6ZHs5zWaUeLaEaJmiwW2l%2F3INxD33RqWjuslE
 WAKUWAKU,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910d38?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpllN84UP6ZHs5zWaUeLaEaJmiwW2l%2F3INxD33RqWjuslE
