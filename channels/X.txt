@@ -1922,7 +1922,7 @@ TNTSPORTS 4[1280*720],https://glxlmn026c.singularcdn.net.br/playout_04/playlist-
 TNTSPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 Canal+ Sport HD[1280*720],http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
-📺台灣更新#genre#
+🇹🇼台灣php,#genre#
 國家人文,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910ca6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpllN84UP6ZHs5zWaUeLaEaJmiwW2l%2F3INxD33RqWjuslE
 WAKUWAKU,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910d38?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpllN84UP6ZHs5zWaUeLaEaJmiwW2l%2F3INxD33RqWjuslE
 BBC Lifestyle,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910cba?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpllN84UP6ZHs5zWaUeLaEaJmiwW2l%2F3INxD33RqWjuslE
