@@ -126,7 +126,7 @@ http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
 http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/289
 
-#EXTINF:-1 tvg-id="" ,龍華日韓台
+#EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
 http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/290
 
