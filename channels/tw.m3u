@@ -79,7 +79,8 @@ https://git.io/Jgkxa
 #http://seb.sason.top/sc/hsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.png" group-title="一般", 華視教育體育文化 HD
-http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
+#http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6031" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公視13台
 https://git.io/JVFGN
