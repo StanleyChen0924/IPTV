@@ -108,12 +108,14 @@
 三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
-寰宇新聞台,https://git.io/JgkpO
-寰宇新聞台,http://43.128.9.168/jjtv.php?id=35
-寰宇新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
-寰宇新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
-寰宇新聞台灣台,http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
+寰宇新聞台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
+寰宇全球新聞台,https://git.io/JgkpO
+寰宇全球新聞台,http://43.128.9.168/jjtv.php?id=35
+寰宇全球新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+寰宇全球新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
 寰宇全球新聞台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+寰宇台灣新聞台,http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
+寰宇新聞台灣台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
@@ -121,9 +123,17 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 年代MUCH,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 龍華日韓台,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
+龍華日韓台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 龍華戲劇台,http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
+龍華戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
 龍華偶像台,http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
+龍華偶像台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
 龍華卡通台,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
+龍華卡通台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
+龍華經典台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
+FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
+ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 愛爾達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 MoMo綜合台,rtmp://59.124.75.136/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
@@ -199,11 +209,13 @@ TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
-亞洲旅遊台台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-亞洲旅遊台台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-亞洲旅遊台台,http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free
+亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+亞洲旅遊台,http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free
+亞洲旅遊台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn17
 ANIMAL PLANET,http://foctv.xyz:25510/Amir5641/YY5641/96
 龍華電影台,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
+龍華電影台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
 龍華洋片台,http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
 壹電影台,http://sytv.xtvants.fun/mytv.php?id=ydy&token=free&user=free
 衛視電影台,http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
@@ -320,11 +332,20 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 博斯網球,rtmp://59.124.75.136/sat/md011
 博斯魅力,rtmp://59.124.75.136/sat/md021
 博斯魅力,rtmp://161.202.204.248/sat/md021
-魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+博斯魅力,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04
+博斯高球1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05
+博斯高球2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06
+博斯運動一台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn07
 博斯運動二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+博斯運動二台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08
+博斯網球,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09
+博斯無限,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10
+博斯電玩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn13
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
+梅蒂斯藝術,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn16
 
 🇹🇼港台720,#genre#
 TVBS新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
