@@ -625,6 +625,8 @@ http://125.227.210.55:10388/VideoInput/play.ts
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="兒童",CN卡通
 http://125.227.210.55:16671/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAKU少兒" tvg-logo="" group-title="兒童",KAKU少兒
+http://113.64.147.150:808/hls/66/index.m3u8?times=0
 #EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="兒童" ,Nickelodeon
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="兒童" ,Nick Jr
