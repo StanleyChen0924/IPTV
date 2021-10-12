@@ -214,8 +214,8 @@ TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 亞洲旅遊台,http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free
 亞洲旅遊台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn17
 ANIMAL PLANET,http://foctv.xyz:25510/Amir5641/YY5641/96
-龍華電影台,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 龍華電影台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
+龍華電影台,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 龍華洋片台,http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
 壹電影台,http://sytv.xtvants.fun/mytv.php?id=ydy&token=free&user=free
 衛視電影台,http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
@@ -420,7 +420,7 @@ Medici-Arts,http://sytv.xtvants.fun/mytv.php?id=mdqys&token=free&user=free
 龍華偶像,http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
 龍華電影,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 龍華洋片,http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
-龍華日韩,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
+龍華日韓,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
 龍華卡通,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
 八大第一,http://sytv.xtvants.fun/mytv.php?id=bddy&token=free&user=free
 八大戲劇,http://sytv.xtvants.fun/mytv.php?id=bdxj&token=free&user=free
