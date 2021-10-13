@@ -123,24 +123,26 @@ http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/295
 
 #EXTINF:-1 tvg-id="" ,龍華卡通台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
+http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
 
 #EXTINF:-1 tvg-id="" ,龍華卡通台
-http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
+http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/288
 
 #EXTINF:-1 tvg-id="7126" ,龍華偶像台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
+http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
 
 #EXTINF:-1 tvg-id="7126" ,龍華偶像台
-http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
+http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/289
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
+http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
+#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
-http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
+http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
+#http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/290
 
 #EXTINF:-1 tvg-id="7130" ,龍華經典台
@@ -148,10 +150,10 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/291
 
 #EXTINF:-1 tvg-id="7127" ,龍華戲劇台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
+http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
 
 #EXTINF:-1 tvg-id="7127" ,龍華戲劇台
-http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
+http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/248
 
 #EXTINF:-1 tvg-id="6049" tvg-mame="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87.png",衛視中文台
@@ -440,10 +442,10 @@ https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 #http://107.167.5.66/mylive/102/2064/index.m3u8
 
 #EXTINF:-1 tvg-id="7128" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="電影",龍華電影台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
+http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 
 #EXTINF:-1 tvg-id="7128" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="電影",龍華電影台
-http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
+http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/262
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
 
