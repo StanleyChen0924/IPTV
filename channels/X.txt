@@ -288,6 +288,7 @@ HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
 東森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 東森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
+AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 AXN,http://43.128.9.168/jjtv.php?id=80
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,http://50.7.61.148:30080/Entry/axn
