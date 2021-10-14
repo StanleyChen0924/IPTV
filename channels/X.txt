@@ -587,6 +587,7 @@ TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 鳳凰資訊 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 無線新聞,http://cdn.hkdtmb.com/hls/83/index.m3u8
 無線新聞,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+
 🎥電影頻道,#genre#
 HK03_電影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 衛視卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
@@ -662,6 +663,7 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 電影21_鬥魚,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 電影44_鬥魚,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 武林外傳,http://121.51.249.53/tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
+
 🎵音樂頻道,#genre#
 KPOP,https://git.io/JgYAE
 K-POP LIVE STREAMING,https://git.io/JgP6P
@@ -701,6 +703,7 @@ Privacy Policy,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b36abc
 新歌速遞,rtmp://tx.rtmp.huya.com:1935/huyalive/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1
 音樂石榴,http://121.12.115.156/tx.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8
 岭南戲曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
+
 🇰🇷韓國頻道,#genre#
 TLC,http://50.7.61.147:30080/Entry/tlc
 ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
@@ -1152,6 +1155,7 @@ CCTV-17,http://39.134.19.244:6610/yinhe/2/ch00000090990000001295/index.m3u8?virt
 CCTV-17,http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8
 CCTV-17,http://60.255.49.202/live/CCTV-17_4000.m3u8
 CCTV-17,http://117.148.179.160/PLTV/88888888/224/3221231772/index.m3u8
+
 CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-4歐洲,http://117.148.179.160/PLTV/88888888/224/3221231615/index.m3u8
 CCTV-4美洲,http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
@@ -1616,6 +1620,7 @@ TRUE LLIV,http://194.233.73.66:2082/freehitv/freehitv/39
 WWE摔角,http://194.233.73.66:2082/freehitv/freehitv/38
 IQIYI,http://194.233.73.66:2082/freehitv/freehitv/44
 Oh!K,http://194.233.73.66:2082/freehitv/freehitv/45
+
 🇯🇵日本頻道,#genre#
 NHK World Japan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 GEM,http://210.210.155.35:80/uq2663/h/h19/01.m3u8
