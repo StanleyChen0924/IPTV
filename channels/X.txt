@@ -2848,15 +2848,13 @@ Ba Ba Ba,http://qukufile2.qianqian.com/data2/video/2e3747f8eae298e80f98a9f9a57d9
 🔞p5p_710924,#genre#
 彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
 彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
-彩虹E台mitv,mitv://ns2.hellotvvod.com:9906/e953ee1fe74c4995acd52ba72c02b0a1.ts
 彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
 彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
 彩虹電影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
 Look TV,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
-LOOK TVmitv,mitv://ns2.hellotvvod.com:9906/778ec35a672f4c898c3ac116d6681b54.ts
 香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
 驚艳台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
-潘朵拉玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+潘朵拉完美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
 極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
 極限電影,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
 極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
@@ -2866,38 +2864,24 @@ LOOK TVmitv,mitv://ns2.hellotvvod.com:9906/778ec35a672f4c898c3ac116d6681b54.ts
 松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
 HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 驚艷成人電影台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
-潘朵拉玩美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
-HOT,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-HAPPY,rtmp://45.92.126.226/channel/60e5a862c47203d3a673d5ee?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-彩虹E台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-松視一,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-松視二,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-松視三,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-K頻道,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-潘朵拉完美台,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-Look HD,rtmp://45.83.118.242/channel/60ecdf7f020b42a2f634be25?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-彩虹电影台,rtmp://202.39.64.233/channel/60ed7124020b42a2f634bfe5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-潘朵拉粉红台,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-驚艷台,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-香蕉台,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-JSTAR極限台,rtmp://45.92.126.226/channel/60fa6d9b8dfe8209677fdb20?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-香草天道,rtmp://118.163.221.79/channel/6130ff36c6f62a25d2da217d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-性愛教主,rtmp://118.163.221.79/channel/6131004fc6f62a25d2da2185?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-VENUS,rtmp://118.163.221.79/channel/61310094c6f62a25d2da2187?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-做愛特教班,rtmp://118.163.221.79/channel/613100d2c6f62a25d2da2189?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-奶奶按摩店,rtmp://118.163.221.79/channel/6131010cc6f62a25d2da218b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-AV女王,rtmp://118.163.221.79/channel/61310232c6f62a25d2da218d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-人妻不倫,rtmp://118.163.221.79/channel/6131027ac6f62a25d2da218f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-水多多,rtmp://118.163.221.79/channel/613102e2c6f62a25d2da2191?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-近親相姦,rtmp://118.163.221.79/channel/61319ab6c6f62a25d2da21b6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-彩虹通道,rtmp://118.163.221.79/channel/61319b25c6f62a25d2da21b8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-PLAYBOY,rtmp://118.163.221.79/channel/61319b62c6f62a25d2da21ba?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-KMP,rtmp://118.163.221.79/channel/61319ba0c6f62a25d2da21bd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-午夜蓝,rtmp://118.163.221.79/channel/61319c1cc6f62a25d2da21bf?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-櫻桃,rtmp://118.163.221.79/channel/61319cdfc6f62a25d2da21c3?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-大學女援交妹,rtmp://118.163.221.79/channel/613221dbc6f62a25d2da21d0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-做愛輸入,rtmp://202.39.64.233/channel/613229bec6f62a25d2da21e2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluoalXddgJ%2F%2Br0ePh1FHlFk%2FZKhJ8UD7LHGayKmP%2B7iL
-
+潘朵拉完美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
+紅松，http://api.hstv.me:8080/hstv/hstv2021/360
+紅松2，HTTP：//api.hstv.me：8080/hstv/hstv2021/361
+HOT,http://api.hstv.me:8080/hstv/hstv2021/362
+D槽素人，http://api.hstv.me:8080/hstv/hstv2021/363
+一本道，http://api.hstv.me:8080/hstv/hstv2021/364
+加勒比全球，http://api.hstv.me:8080/hstv/hstv2021/365
+NYX MEDIA,http://api.hstv.me:8080/hstv/hstv2021/366
+NYX MEDIA2,http://api.hstv.me:8080/hstv/hstv2021/367
+NYX MEDIA3,http://api.hstv.me:8080/hstv/hstv2021/368
+NYX MEDIA4,http://api.hstv.me:8080/hstv/hstv2021/369
+松視2台,HTTP：//api.hstv.me：8080/hstv/hstv2021/335
+香蕉台,http://api.hstv.me:8080/hstv/hstv2021/337
+松視3台,HTTP：//api.hstv.me：8080/hstv/hstv2021/336
+潘朵拉完美,http://api.hstv.me:8080/hstv/hstv2021/338
+彩虹電影,http://api.hstv.me:8080/hstv/hstv2021/340
+七公主 S01 E01,HTTP：//api.hstv.me：8080/series/hstv/hstv2021/370.mp4
+七公主 S01 E02,HTTP：//api.hstv.me：8080/series/hstv/hstv2021/371.mp4
 
 🔞測試_710924,#genre#
 EXTASY HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
