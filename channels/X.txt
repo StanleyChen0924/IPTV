@@ -27,14 +27,14 @@
 民視第一台,http://v3948069e.live.126.net/live/epreliwi80996113/29.flv
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
-民視影劇,https://4gtvfreemobile-mozai.4gtv.tv/2rqbIbRqglryu8IiI0qxjrccv7fDS-G13j9voZQySdk%3d/stream2.m3u8?token=7_GvS2I7i2XhcMTApCqRsQ&expires=1632735997&token1=7amtPD5YIAjhQAZSQ1eijQ&expires1=1632764797&refer=MWRkZGE1NmMtYjk2My00MGQ5LTlhOGQtOTA3NjQ2MDg5ZDU0&y=0
-民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
-民視旅遊,https://4gtvfreemobile-mozai.4gtv.tv/5aKpM4LBCCkSNY-NDqu_QuK_2b__ckfU6MnG55DANMI%3d/stream2.m3u8?token=CnJNRPOvMkXHAg7xZ3MRvg&expires=1632736040&token1=Bj0UqU00DPlvywn8kxMqXg&expires1=1632764840&refer=ZTIxNThiOGItY2RkNC00YTM0LTg3YjktMGUyMGU5NTI1NTQ2&y=0
-民視旅遊,http://43.128.9.168/jjtv.php?id=28
-民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
-民視綜藝,https://4gtvfreemobile-mozai.4gtv.tv/0df68Gf2eZZfeig9vWfaKfrjsVCG-GW-OCbyLHhoW0M%3d/stream2.m3u8?token=kZe4eLTn9CRCt4byOtfzpQ&expires=1628316954&refer=ZDRjZGQzODAtOTUyMi00ZDAxLTgyMzktZTMyMzFiZWUwZGIz&token1=kHxHRFjqciiDO5a-uaorqw&expires1=1628345754&y=0&vt=
-民視綜藝,https://4gtvfreemobile-mozai.4gtv.tv/NgfVD30MBxjs1kU9m3lMtxjPqnu2_Me6anz6aPf7PYc%3d/stream2.m3u8?token=m-OTQK_06hRbFrhAJwCjTA&expires=1632730935&token1=8kPUOFYapn4YUVKcqEpDxA&expires1=1632759735&refer=YWQ5MDU3YjYtNGViYy00MGJkLWJiMjMtZjg1NmMyMTYyODU1&y=0&vt=
-民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇台,https://4gtvfreemobile-mozai.4gtv.tv/2rqbIbRqglryu8IiI0qxjrccv7fDS-G13j9voZQySdk%3d/stream2.m3u8?token=7_GvS2I7i2XhcMTApCqRsQ&expires=1632735997&token1=7amtPD5YIAjhQAZSQ1eijQ&expires1=1632764797&refer=MWRkZGE1NmMtYjk2My00MGQ5LTlhOGQtOTA3NjQ2MDg5ZDU0&y=0
+民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
+民視旅遊台,https://4gtvfreemobile-mozai.4gtv.tv/5aKpM4LBCCkSNY-NDqu_QuK_2b__ckfU6MnG55DANMI%3d/stream2.m3u8?token=CnJNRPOvMkXHAg7xZ3MRvg&expires=1632736040&token1=Bj0UqU00DPlvywn8kxMqXg&expires1=1632764840&refer=ZTIxNThiOGItY2RkNC00YTM0LTg3YjktMGUyMGU5NTI1NTQ2&y=0
+民視旅遊台,http://43.128.9.168/jjtv.php?id=28
+民視旅遊台,http://seb.sason.top/ptv/ftv.php?id=ly
+民視綜藝台,https://4gtvfreemobile-mozai.4gtv.tv/0df68Gf2eZZfeig9vWfaKfrjsVCG-GW-OCbyLHhoW0M%3d/stream2.m3u8?token=kZe4eLTn9CRCt4byOtfzpQ&expires=1628316954&refer=ZDRjZGQzODAtOTUyMi00ZDAxLTgyMzktZTMyMzFiZWUwZGIz&token1=kHxHRFjqciiDO5a-uaorqw&expires1=1628345754&y=0&vt=
+民視綜藝台,https://4gtvfreemobile-mozai.4gtv.tv/NgfVD30MBxjs1kU9m3lMtxjPqnu2_Me6anz6aPf7PYc%3d/stream2.m3u8?token=m-OTQK_06hRbFrhAJwCjTA&expires=1632730935&token1=8kPUOFYapn4YUVKcqEpDxA&expires1=1632759735&refer=YWQ5MDU3YjYtNGViYy00MGJkLWJiMjMtZjg1NmMyMTYyODU1&y=0&vt=
+民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
 台視,rtmp://59.124.75.136/sat/tv071
 台視,http://50.7.61.148:30080/Entry/ttv
 台視,http://60.251.59.180:8543/xoxo.m3u8
@@ -411,39 +411,26 @@ MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=qq3036107507&user=fmys
 
 
 民視,http://api.hstv.me:8080/hstv/hstv2021/232
-華視,http://api.hstv.me:8080/hstv/hstv2021/233
-中視,http://api.hstv.me:8080/hstv/hstv2021/234
-台視,http://api.hstv.me:8080/hstv/hstv2021/235
-民視台灣台,http://api.hstv.me:8080/hstv/hstv2021/236
-民視第一台,http://api.hstv.me:8080/hstv/hstv2021/237
-中視經典台,http://api.hstv.me:8080/hstv/hstv2021/238
-中視菁采台,http://api.hstv.me:8080/hstv/hstv2021/239
-亞洲旅遊台,http://api.hstv.me:8080/hstv/hstv2021/240
-豬哥亮歌廳秀,http://api.hstv.me:8080/hstv/hstv2021/241
-金光布袋戲,http://api.hstv.me:8080/hstv/hstv2021/242
-非凡新聞台,http://api.hstv.me:8080/hstv/hstv2021/320
-寰宇新聞臺灣台,http://api.hstv.me:8080/hstv/hstv2021/321
-半島國際新聞台,http://api.hstv.me:8080/hstv/hstv2021/322
-VOA美國之音,http://api.hstv.me:8080/hstv/hstv2021/323
-第1商業台,http://api.hstv.me:8080/hstv/hstv2021/324
-非凡商業台,http://api.hstv.me:8080/hstv/hstv2021/325
-台視財經,http://api.hstv.me:8080/hstv/hstv2021/326
-寰宇財經台,http://api.hstv.me:8080/hstv/hstv2021/327
-EuroNews,http://api.hstv.me:8080/hstv/hstv2021/328
-Channel News Asia,http://api.hstv.me:8080/hstv/hstv2021/329
-RT News: On-air YTB,http://api.hstv.me:8080/hstv/hstv2021/330
-JapaNews24 YTB,http://api.hstv.me:8080/hstv/hstv2021/331
-KBS World 24YTB,http://api.hstv.me:8080/hstv/hstv2021/332
-FRANCE 24 – EN DIRECT,http://api.hstv.me:8080/hstv/hstv2021/333
-TVBS,http://api.hstv.me:8080/hstv/hstv2021/243
-Baby First,http://api.hstv.me:8080/hstv/hstv2021/244
-八大綜藝台,http://api.hstv.me:8080/hstv/hstv2021/245
-亞洲旅遊台,http://api.hstv.me:8080/hstv/hstv2021/246
-中天亞洲台,http://api.hstv.me:8080/hstv/hstv2021/247
-龍華戲劇台,http://api.hstv.me:8080/hstv/hstv2021/248
 民視戲劇台,http://api.hstv.me:8080/hstv/hstv2021/249
 民視綜藝台,http://api.hstv.me:8080/hstv/hstv2021/250
 民視旅遊台,http://api.hstv.me:8080/hstv/hstv2021/251
+民視台灣台,http://api.hstv.me:8080/hstv/hstv2021/236
+民視第一台,http://api.hstv.me:8080/hstv/hstv2021/237
+
+台視,http://api.hstv.me:8080/hstv/hstv2021/235
+台視新聞,http://api.hstv.me:8080/hstv/hstv2021/317
+台視財經,http://api.hstv.me:8080/hstv/hstv2021/326
+中視,http://api.hstv.me:8080/hstv/hstv2021/234
+中視經典台,http://api.hstv.me:8080/hstv/hstv2021/238
+中視菁采台,http://api.hstv.me:8080/hstv/hstv2021/239
+中視新聞,http://api.hstv.me:8080/hstv/hstv2021/319
+華視,http://api.hstv.me:8080/hstv/hstv2021/233
+華視新聞,http://api.hstv.me:8080/hstv/hstv2021/316
+
+
+八大綜藝台,http://api.hstv.me:8080/hstv/hstv2021/245
+中天亞洲台,http://api.hstv.me:8080/hstv/hstv2021/247
+龍華戲劇台,http://api.hstv.me:8080/hstv/hstv2021/248
 公視戲劇台,http://api.hstv.me:8080/hstv/hstv2021/252
 TVBS精采台,http://api.hstv.me:8080/hstv/hstv2021/253
 民視影劇台,http://api.hstv.me:8080/hstv/hstv2021/254
@@ -455,8 +442,58 @@ amc最愛電影,http://api.hstv.me:8080/hstv/hstv2021/259
 影迷數位電影台,http://api.hstv.me:8080/hstv/hstv2021/260
 CATCHPLAY電影台,http://api.hstv.me:8080/hstv/hstv2021/261
 龍華電影台,http://api.hstv.me:8080/hstv/hstv2021/262
+龍華卡通台,http://api.hstv.me:8080/hstv/hstv2021/288
+龍華偶像台,http://api.hstv.me:8080/hstv/hstv2021/289
+龍華日韓台,http://api.hstv.me:8080/hstv/hstv2021/290
+龍華經典台,http://api.hstv.me:8080/hstv/hstv2021/291
+
+八大精彩台,http://api.hstv.me:8080/hstv/hstv2021/295
+愛爾達娛樂台,http://api.hstv.me:8080/hstv/hstv2021/296
+ELTV英語學習台,http://api.hstv.me:8080/hstv/hstv2021/297
+i-Fun動漫台,http://api.hstv.me:8080/hstv/hstv2021/287
+韓國娛樂台 KMTV,HTTP：//api.hstv.me：8080/hstv/hstv2021/293
+KLT-靖天國際台,http://api.hstv.me:8080/hstv/hstv2021/294
+
+三立LIVE新聞,http://api.hstv.me:8080/hstv/hstv2021/310
+東森新聞,http://api.hstv.me:8080/hstv/hstv2021/311
+中天新聞,http://api.hstv.me:8080/hstv/hstv2021/312
+民視新聞,http://api.hstv.me:8080/hstv/hstv2021/313
+TVBS新聞,http://api.hstv.me:8080/hstv/hstv2021/314
+東森財經,http://api.hstv.me:8080/hstv/hstv2021/315
+寰宇新聞,http://api.hstv.me:8080/hstv/hstv2021/318
+寰宇新聞臺灣台,http://api.hstv.me:8080/hstv/hstv2021/321
+寰宇財經台,http://api.hstv.me:8080/hstv/hstv2021/327
+非凡新聞台,http://api.hstv.me:8080/hstv/hstv2021/320
+半島國際新聞台,http://api.hstv.me:8080/hstv/hstv2021/322
+VOA美國之音,http://api.hstv.me:8080/hstv/hstv2021/323
+第1商業台,http://api.hstv.me:8080/hstv/hstv2021/324
+非凡商業台,http://api.hstv.me:8080/hstv/hstv2021/325
+
+
+靖天卡通台,http://api.hstv.me:8080/hstv/hstv2021/279
+靖洋戲劇台,http://api.hstv.me:8080/hstv/hstv2021/292
+靖天戲劇台,http://api.hstv.me:8080/hstv/hstv2021/280
+靖天日本台,http://api.hstv.me:8080/hstv/hstv2021/281
+靖天綜合台,http://api.hstv.me:8080/hstv/hstv2021/282
+靖天歡樂台,http://api.hstv.me:8080/hstv/hstv2021/283
+靖天資訊台,http://api.hstv.me:8080/hstv/hstv2021/284
+靖天育樂台,http://api.hstv.me:8080/hstv/hstv2021/285
+靖洋卡通Nice Bingo,HTTP：//api.hstv.me：8080/hstv/hstv2021/286
 靖天電影台,http://api.hstv.me:8080/hstv/hstv2021/263
 靖天映畫,http://api.hstv.me:8080/hstv/hstv2021/264
+
+亞洲旅遊台,http://api.hstv.me:8080/hstv/hstv2021/240
+亞洲旅遊台,http://api.hstv.me:8080/hstv/hstv2021/246
+
+
+EuroNews,http://api.hstv.me:8080/hstv/hstv2021/328
+Channel News Asia,http://api.hstv.me:8080/hstv/hstv2021/329
+RT News: On-air YTB,http://api.hstv.me:8080/hstv/hstv2021/330
+JapaNews24 YTB,http://api.hstv.me:8080/hstv/hstv2021/331
+KBS World 24YTB,http://api.hstv.me:8080/hstv/hstv2021/332
+FRANCE 24 – EN DIRECT,http://api.hstv.me:8080/hstv/hstv2021/333
+TVBS,http://api.hstv.me:8080/hstv/hstv2021/243
+Baby First,http://api.hstv.me:8080/hstv/hstv2021/244
 博斯高球臺,http://api.hstv.me:8080/hstv/hstv2021/265
 博斯高球二台,http://api.hstv.me:8080/hstv/hstv2021/266
 博斯運動一台,http://api.hstv.me:8080/hstv/hstv2021/267
@@ -471,47 +508,20 @@ Travel Channel,http://api.hstv.me:8080/hstv/hstv2021/275
 TRACE Sport Stars,http://api.hstv.me:8080/hstv/hstv2021/276
 時尚運動X,HTTP：//api.hstv.me：8080/hstv/hstv2021/277
 GINX Esports TV,http://api.hstv.me:8080/hstv/hstv2021/278
-靖天卡通台,http://api.hstv.me:8080/hstv/hstv2021/279
-靖天戲劇台,http://api.hstv.me:8080/hstv/hstv2021/280
-靖天日本台,http://api.hstv.me:8080/hstv/hstv2021/281
-靖天綜合台,http://api.hstv.me:8080/hstv/hstv2021/282
-靖天歡樂台,http://api.hstv.me:8080/hstv/hstv2021/283
-靖天資訊台,http://api.hstv.me:8080/hstv/hstv2021/284
-靖天育樂台,http://api.hstv.me:8080/hstv/hstv2021/285
-靖洋卡通Nice Bingo,HTTP：//api.hstv.me：8080/hstv/hstv2021/286
-i-Fun動漫台,http://api.hstv.me:8080/hstv/hstv2021/287
-龍華卡通台,http://api.hstv.me:8080/hstv/hstv2021/288
-龍華偶像台,http://api.hstv.me:8080/hstv/hstv2021/289
-龍華日韓台,http://api.hstv.me:8080/hstv/hstv2021/290
-龍華經典台,http://api.hstv.me:8080/hstv/hstv2021/291
-靖洋戲劇台,http://api.hstv.me:8080/hstv/hstv2021/292
-韓國娛樂台 KMTV,HTTP：//api.hstv.me：8080/hstv/hstv2021/293
-KLT-靖天國際台,http://api.hstv.me:8080/hstv/hstv2021/294
-八大精彩台,http://api.hstv.me:8080/hstv/hstv2021/295
-愛爾達娛樂台,http://api.hstv.me:8080/hstv/hstv2021/296
-ELTV英語學習台,http://api.hstv.me:8080/hstv/hstv2021/297
 VTV4,http://api.hstv.me:8080/hstv/hstv2021/298
-好消息,http://api.hstv.me:8080/hstv/hstv2021/299
-好消息2台,http://api.hstv.me:8080/hstv/hstv2021/300
 Medici Arts,http://api.hstv.me:8080/hstv/hstv2021/301
 TRACE Urban,http://api.hstv.me:8080/hstv/hstv2021/302
 Mezzo Live HD,http://api.hstv.me:8080/hstv/hstv2021/303
 CLASSICA 古典樂,http://api.hstv.me:8080/hstv/hstv2021/304
-豬哥亮歌廳秀,http://api.hstv.me:8080/hstv/hstv2021/305
 蠟筆小新劇場版,http://api.hstv.me:8080/hstv/hstv2021/306
 東森兒童台,http://api.hstv.me:8080/hstv/hstv2021/307
 客家電視台,http://api.hstv.me:8080/hstv/hstv2021/308
 達文西頻道,http://api.hstv.me:8080/hstv/hstv2021/309
-三立LIVE新聞,http://api.hstv.me:8080/hstv/hstv2021/310
-東森新聞,http://api.hstv.me:8080/hstv/hstv2021/311
-中天新聞,http://api.hstv.me:8080/hstv/hstv2021/312
-民視新聞,http://api.hstv.me:8080/hstv/hstv2021/313
-TVBS新聞,http://api.hstv.me:8080/hstv/hstv2021/314
-東森財經,http://api.hstv.me:8080/hstv/hstv2021/315
-華視新聞,http://api.hstv.me:8080/hstv/hstv2021/316
-台視新聞,http://api.hstv.me:8080/hstv/hstv2021/317
-寰宇新聞,http://api.hstv.me:8080/hstv/hstv2021/318
-中視新聞,http://api.hstv.me:8080/hstv/hstv2021/319
+豬哥亮歌廳秀,http://api.hstv.me:8080/hstv/hstv2021/241
+豬哥亮歌廳秀,http://api.hstv.me:8080/hstv/hstv2021/305
+金光布袋戲,http://api.hstv.me:8080/hstv/hstv2021/242
+好消息,http://api.hstv.me:8080/hstv/hstv2021/299
+好消息2台,http://api.hstv.me:8080/hstv/hstv2021/300
 
 🇹🇼港台720,#genre#
 TVBS新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
