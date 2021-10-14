@@ -54,9 +54,9 @@
 中視經典台,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
 中視經典台,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=qq3036107507&user=fmys
 中視經典台,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
-中視菁彩台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
-中視菁彩台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=qq3036107507&user=fmys
-中視菁彩台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
+中視菁采台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
+中視菁采台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=qq3036107507&user=fmys
+中視菁采台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
 中視新聞,https://git.io/Jgkxz
 中視新聞,http://43.128.9.168/jjtv.php?id=33
 中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
@@ -408,6 +408,110 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=qq3036107507&user=fmys
 梅蒂斯藝術,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn16
+
+
+民視,http://api.hstv.me:8080/hstv/hstv2021/232
+華視,http://api.hstv.me:8080/hstv/hstv2021/233
+中視,http://api.hstv.me:8080/hstv/hstv2021/234
+台視,http://api.hstv.me:8080/hstv/hstv2021/235
+民視台灣台,http://api.hstv.me:8080/hstv/hstv2021/236
+民視第一台,http://api.hstv.me:8080/hstv/hstv2021/237
+中視經典台,http://api.hstv.me:8080/hstv/hstv2021/238
+中視菁采台,http://api.hstv.me:8080/hstv/hstv2021/239
+亞洲旅遊台,http://api.hstv.me:8080/hstv/hstv2021/240
+豬哥亮歌廳秀,http://api.hstv.me:8080/hstv/hstv2021/241
+金光布袋戲,http://api.hstv.me:8080/hstv/hstv2021/242
+非凡新聞台,http://api.hstv.me:8080/hstv/hstv2021/320
+寰宇新聞臺灣台,http://api.hstv.me:8080/hstv/hstv2021/321
+半島國際新聞台,http://api.hstv.me:8080/hstv/hstv2021/322
+VOA美國之音,http://api.hstv.me:8080/hstv/hstv2021/323
+第1商業台,http://api.hstv.me:8080/hstv/hstv2021/324
+非凡商業台,http://api.hstv.me:8080/hstv/hstv2021/325
+台視財經,http://api.hstv.me:8080/hstv/hstv2021/326
+寰宇財經台,http://api.hstv.me:8080/hstv/hstv2021/327
+EuroNews,http://api.hstv.me:8080/hstv/hstv2021/328
+Channel News Asia,http://api.hstv.me:8080/hstv/hstv2021/329
+RT News: On-air YTB,http://api.hstv.me:8080/hstv/hstv2021/330
+JapaNews24 YTB,http://api.hstv.me:8080/hstv/hstv2021/331
+KBS World 24YTB,http://api.hstv.me:8080/hstv/hstv2021/332
+FRANCE 24 – EN DIRECT,http://api.hstv.me:8080/hstv/hstv2021/333
+TVBS,http://api.hstv.me:8080/hstv/hstv2021/243
+Baby First,http://api.hstv.me:8080/hstv/hstv2021/244
+八大綜藝台,http://api.hstv.me:8080/hstv/hstv2021/245
+亞洲旅遊台,http://api.hstv.me:8080/hstv/hstv2021/246
+中天亞洲台,http://api.hstv.me:8080/hstv/hstv2021/247
+龍華戲劇台,http://api.hstv.me:8080/hstv/hstv2021/248
+民視戲劇台,http://api.hstv.me:8080/hstv/hstv2021/249
+民視綜藝台,http://api.hstv.me:8080/hstv/hstv2021/250
+民視旅遊台,http://api.hstv.me:8080/hstv/hstv2021/251
+公視戲劇台,http://api.hstv.me:8080/hstv/hstv2021/252
+TVBS精采台,http://api.hstv.me:8080/hstv/hstv2021/253
+民視影劇台,http://api.hstv.me:8080/hstv/hstv2021/254
+東森購物1台,http://api.hstv.me:8080/hstv/hstv2021/255
+採昌影劇台,http://api.hstv.me:8080/hstv/hstv2021/256
+東森購物2台,http://api.hstv.me:8080/hstv/hstv2021/257
+視納華仁紀實頻道,http://api.hstv.me:8080/hstv/hstv2021/258
+amc最愛電影,http://api.hstv.me:8080/hstv/hstv2021/259
+影迷數位電影台,http://api.hstv.me:8080/hstv/hstv2021/260
+CATCHPLAY電影台,http://api.hstv.me:8080/hstv/hstv2021/261
+龍華電影台,http://api.hstv.me:8080/hstv/hstv2021/262
+靖天電影台,http://api.hstv.me:8080/hstv/hstv2021/263
+靖天映畫,http://api.hstv.me:8080/hstv/hstv2021/264
+博斯高球臺,http://api.hstv.me:8080/hstv/hstv2021/265
+博斯高球二台,http://api.hstv.me:8080/hstv/hstv2021/266
+博斯運動一台,http://api.hstv.me:8080/hstv/hstv2021/267
+博斯無限台,http://api.hstv.me:8080/hstv/hstv2021/268
+博斯網球台,http://api.hstv.me:8080/hstv/hstv2021/269
+博斯運動二台,http://api.hstv.me:8080/hstv/hstv2021/270
+博斯魅力台,http://api.hstv.me:8080/hstv/hstv2021/271
+博斯無限二台,http://api.hstv.me:8080/hstv/hstv2021/272
+智林體育台,http://api.hstv.me:8080/hstv/hstv2021/273
+Fashion one,http://api.hstv.me:8080/hstv/hstv2021/274
+Travel Channel,http://api.hstv.me:8080/hstv/hstv2021/275
+TRACE Sport Stars,http://api.hstv.me:8080/hstv/hstv2021/276
+時尚運動X,HTTP：//api.hstv.me：8080/hstv/hstv2021/277
+GINX Esports TV,http://api.hstv.me:8080/hstv/hstv2021/278
+靖天卡通台,http://api.hstv.me:8080/hstv/hstv2021/279
+靖天戲劇台,http://api.hstv.me:8080/hstv/hstv2021/280
+靖天日本台,http://api.hstv.me:8080/hstv/hstv2021/281
+靖天綜合台,http://api.hstv.me:8080/hstv/hstv2021/282
+靖天歡樂台,http://api.hstv.me:8080/hstv/hstv2021/283
+靖天資訊台,http://api.hstv.me:8080/hstv/hstv2021/284
+靖天育樂台,http://api.hstv.me:8080/hstv/hstv2021/285
+靖洋卡通Nice Bingo,HTTP：//api.hstv.me：8080/hstv/hstv2021/286
+i-Fun動漫台,http://api.hstv.me:8080/hstv/hstv2021/287
+龍華卡通台,http://api.hstv.me:8080/hstv/hstv2021/288
+龍華偶像台,http://api.hstv.me:8080/hstv/hstv2021/289
+龍華日韓台,http://api.hstv.me:8080/hstv/hstv2021/290
+龍華經典台,http://api.hstv.me:8080/hstv/hstv2021/291
+靖洋戲劇台,http://api.hstv.me:8080/hstv/hstv2021/292
+韓國娛樂台 KMTV,HTTP：//api.hstv.me：8080/hstv/hstv2021/293
+KLT-靖天國際台,http://api.hstv.me:8080/hstv/hstv2021/294
+八大精彩台,http://api.hstv.me:8080/hstv/hstv2021/295
+愛爾達娛樂台,http://api.hstv.me:8080/hstv/hstv2021/296
+ELTV英語學習台,http://api.hstv.me:8080/hstv/hstv2021/297
+VTV4,http://api.hstv.me:8080/hstv/hstv2021/298
+好消息,http://api.hstv.me:8080/hstv/hstv2021/299
+好消息2台,http://api.hstv.me:8080/hstv/hstv2021/300
+Medici Arts,http://api.hstv.me:8080/hstv/hstv2021/301
+TRACE Urban,http://api.hstv.me:8080/hstv/hstv2021/302
+Mezzo Live HD,http://api.hstv.me:8080/hstv/hstv2021/303
+CLASSICA 古典樂,http://api.hstv.me:8080/hstv/hstv2021/304
+豬哥亮歌廳秀,http://api.hstv.me:8080/hstv/hstv2021/305
+蠟筆小新劇場版,http://api.hstv.me:8080/hstv/hstv2021/306
+東森兒童台,http://api.hstv.me:8080/hstv/hstv2021/307
+客家電視台,http://api.hstv.me:8080/hstv/hstv2021/308
+達文西頻道,http://api.hstv.me:8080/hstv/hstv2021/309
+三立LIVE新聞,http://api.hstv.me:8080/hstv/hstv2021/310
+東森新聞,http://api.hstv.me:8080/hstv/hstv2021/311
+中天新聞,http://api.hstv.me:8080/hstv/hstv2021/312
+民視新聞,http://api.hstv.me:8080/hstv/hstv2021/313
+TVBS新聞,http://api.hstv.me:8080/hstv/hstv2021/314
+東森財經,http://api.hstv.me:8080/hstv/hstv2021/315
+華視新聞,http://api.hstv.me:8080/hstv/hstv2021/316
+台視新聞,http://api.hstv.me:8080/hstv/hstv2021/317
+寰宇新聞,http://api.hstv.me:8080/hstv/hstv2021/318
+中視新聞,http://api.hstv.me:8080/hstv/hstv2021/319
 
 🇹🇼港台720,#genre#
 TVBS新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
@@ -824,6 +928,56 @@ Arirang TV Korea EN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil
 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 🇨🇳央視高清,#genre#
+CCTV1,http://api.hstv.me:8080/hstv/hstv2021/32
+CCTV2,http://api.hstv.me:8080/hstv/hstv2021/33
+CCTV3,http://api.hstv.me:8080/hstv/hstv2021/34
+CCTV4,http://api.hstv.me:8080/hstv/hstv2021/35
+CCTV5,http://api.hstv.me:8080/hstv/hstv2021/36
+CCTV5+,http://api.hstv.me:8080/hstv/hstv2021/37
+CCTV6,http://api.hstv.me:8080/hstv/hstv2021/38
+CCTV7,http://api.hstv.me:8080/hstv/hstv2021/39
+CCTV8,http://api.hstv.me:8080/hstv/hstv2021/40
+CCTV9,http://api.hstv.me:8080/hstv/hstv2021/41
+CCTV10,http://api.hstv.me:8080/hstv/hstv2021/42
+CCTV12,http://api.hstv.me:8080/hstv/hstv2021/43
+CCTV13,http://api.hstv.me:8080/hstv/hstv2021/44
+CCTV14,http://api.hstv.me:8080/hstv/hstv2021/45
+CCTV15,http://api.hstv.me:8080/hstv/hstv2021/46
+CCTV17,http://api.hstv.me:8080/hstv/hstv2021/47
+广东卫视,http://api.hstv.me:8080/hstv/hstv2021/48
+深圳卫视,http://api.hstv.me:8080/hstv/hstv2021/49
+东方卫视,http://api.hstv.me:8080/hstv/hstv2021/50
+北京卫视,http://api.hstv.me:8080/hstv/hstv2021/51
+湖南卫视,http://api.hstv.me:8080/hstv/hstv2021/52
+浙江卫视,http://api.hstv.me:8080/hstv/hstv2021/53
+四川卫视,http://api.hstv.me:8080/hstv/hstv2021/54
+江苏卫视,http://api.hstv.me:8080/hstv/hstv2021/55
+重庆卫视,http://api.hstv.me:8080/hstv/hstv2021/56
+贵州卫视,http://api.hstv.me:8080/hstv/hstv2021/57
+河北卫视,http://api.hstv.me:8080/hstv/hstv2021/58
+辽宁卫视,http://api.hstv.me:8080/hstv/hstv2021/59
+天津卫视,http://api.hstv.me:8080/hstv/hstv2021/60
+山东卫视,http://api.hstv.me:8080/hstv/hstv2021/61
+湖北卫视,http://api.hstv.me:8080/hstv/hstv2021/62
+安徽卫视,http://api.hstv.me:8080/hstv/hstv2021/63
+黑龙江卫视,http://api.hstv.me:8080/hstv/hstv2021/64
+DOX4K,http://api.hstv.me:8080/hstv/hstv2021/65
+广东综艺4K,http://api.hstv.me:8080/hstv/hstv2021/66
+CHC高清电影,http://api.hstv.me:8080/hstv/hstv2021/67
+CHC家庭影院,http://api.hstv.me:8080/hstv/hstv2021/68
+CHC动作电影,http://api.hstv.me:8080/hstv/hstv2021/69
+CGTN国际,http://api.hstv.me:8080/hstv/hstv2021/70
+CCTV老故事,http://api.hstv.me:8080/hstv/hstv2021/71
+CCTV风云剧场,http://api.hstv.me:8080/hstv/hstv2021/72
+CCTV风云足球,http://api.hstv.me:8080/hstv/hstv2021/73
+CCTV风云音乐,http://api.hstv.me:8080/hstv/hstv2021/74
+CCTV怀旧剧场,http://api.hstv.me:8080/hstv/hstv2021/75
+CCTV世界地理,http://api.hstv.me:8080/hstv/hstv2021/76
+CCTV第一剧场,http://api.hstv.me:8080/hstv/hstv2021/77
+CCTV发现之旅,http://api.hstv.me:8080/hstv/hstv2021/78
+CCTV女性时尚,http://api.hstv.me:8080/hstv/hstv2021/79
+CCTV央视精品,http://api.hstv.me:8080/hstv/hstv2021/80
+CCTV卫生健康,http://api.hstv.me:8080/hstv/hstv2021/81
 CCTV-1综合,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-2財經,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 CCTV-3綜藝,http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
@@ -924,6 +1078,156 @@ CGTN 纪錄,http://39.130.202.115:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 CGTN 法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 CGTN 俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN 西班牙,http://livees.cgtn.com/500e/prog_index.m3u8
+星空卫视,http://api.hstv.me:8080/hstv/hstv2021/115
+MTV,http://api.hstv.me:8080/hstv/hstv2021/116
+DOXTV,http://api.hstv.me:8080/hstv/hstv2021/117
+广东卫视,http://api.hstv.me:8080/hstv/hstv2021/118
+深圳卫视,http://api.hstv.me:8080/hstv/hstv2021/119
+东方卫视,http://api.hstv.me:8080/hstv/hstv2021/120
+北京卫视,http://api.hstv.me:8080/hstv/hstv2021/121
+湖南卫视,http://api.hstv.me:8080/hstv/hstv2021/122
+浙江卫视,http://api.hstv.me:8080/hstv/hstv2021/123
+江苏卫视,http://api.hstv.me:8080/hstv/hstv2021/124
+安徽卫视,http://api.hstv.me:8080/hstv/hstv2021/125
+天津卫视,http://api.hstv.me:8080/hstv/hstv2021/126
+山东卫视,http://api.hstv.me:8080/hstv/hstv2021/127
+四川卫视,http://api.hstv.me:8080/hstv/hstv2021/128
+江西卫视,http://api.hstv.me:8080/hstv/hstv2021/129
+重庆卫视,http://api.hstv.me:8080/hstv/hstv2021/130
+云南卫视,http://api.hstv.me:8080/hstv/hstv2021/131
+贵州卫视,http://api.hstv.me:8080/hstv/hstv2021/132
+新疆卫视,http://api.hstv.me:8080/hstv/hstv2021/133
+河南卫视,http://api.hstv.me:8080/hstv/hstv2021/134
+东南卫视,http://api.hstv.me:8080/hstv/hstv2021/135
+辽宁卫视,http://api.hstv.me:8080/hstv/hstv2021/136
+山西卫视,http://api.hstv.me:8080/hstv/hstv2021/137
+河北卫视,http://api.hstv.me:8080/hstv/hstv2021/138
+陕西卫视,http://api.hstv.me:8080/hstv/hstv2021/139
+兵团卫视,http://api.hstv.me:8080/hstv/hstv2021/140
+湖北卫视,http://api.hstv.me:8080/hstv/hstv2021/141
+内蒙古卫视,http://api.hstv.me:8080/hstv/hstv2021/142
+黑龙江卫视,http://api.hstv.me:8080/hstv/hstv2021/143
+广东经济,http://api.hstv.me:8080/hstv/hstv2021/144
+广东体育,http://api.hstv.me:8080/hstv/hstv2021/145
+汕头一套,http://api.hstv.me:8080/hstv/hstv2021/146
+汕头二套,http://api.hstv.me:8080/hstv/hstv2021/147
+汕头三套,http://api.hstv.me:8080/hstv/hstv2021/148
+广东珠江,http://api.hstv.me:8080/hstv/hstv2021/149
+广东公共,http://api.hstv.me:8080/hstv/hstv2021/150
+广东新闻,http://api.hstv.me:8080/hstv/hstv2021/151
+广东体育,http://api.hstv.me:8080/hstv/hstv2021/152
+南方卫视,http://api.hstv.me:8080/hstv/hstv2021/153
+广东经视,http://api.hstv.me:8080/hstv/hstv2021/154
+广东综艺,http://api.hstv.me:8080/hstv/hstv2021/155
+广东综艺,http://api.hstv.me:8080/hstv/hstv2021/156
+广东影视,http://api.hstv.me:8080/hstv/hstv2021/157
+广东少儿,http://api.hstv.me:8080/hstv/hstv2021/158
+广东房产,http://api.hstv.me:8080/hstv/hstv2021/159
+珠江电影,http://api.hstv.me:8080/hstv/hstv2021/160
+现代教育,http://api.hstv.me:8080/hstv/hstv2021/161
+CCTV电视指南,http://api.hstv.me:8080/hstv/hstv2021/82
+CCTV女性时尚,http://api.hstv.me:8080/hstv/hstv2021/83
+CCTV世界地理,http://api.hstv.me:8080/hstv/hstv2021/84
+CCTV央视文化精品,http://api.hstv.me:8080/hstv/hstv2021/85
+CCTV央视台球,http://api.hstv.me:8080/hstv/hstv2021/86
+CCTV风云音乐,http://api.hstv.me:8080/hstv/hstv2021/87
+CCTV风云剧场,http://api.hstv.me:8080/hstv/hstv2021/88
+CCTV第一剧场,http://api.hstv.me:8080/hstv/hstv2021/89
+CCTV怀旧剧场,http://api.hstv.me:8080/hstv/hstv2021/90
+全纪实,http://api.hstv.me:8080/hstv/hstv2021/91
+求索纪录,http://api.hstv.me:8080/hstv/hstv2021/92
+求索科学,http://api.hstv.me:8080/hstv/hstv2021/93
+求索动物,http://api.hstv.me:8080/hstv/hstv2021/94
+求索生活,http://api.hstv.me:8080/hstv/hstv2021/95
+高清演示,http://api.hstv.me:8080/hstv/hstv2021/96
+粤语高清,http://api.hstv.me:8080/hstv/hstv2021/97
+劲爆体育,http://api.hstv.me:8080/hstv/hstv2021/98
+欢笑剧场,http://api.hstv.me:8080/hstv/hstv2021/99
+魅力音乐,http://api.hstv.me:8080/hstv/hstv2021/100
+CGTN国际,http://api.hstv.me:8080/hstv/hstv2021/101
+CCTV老故事,http://api.hstv.me:8080/hstv/hstv2021/102
+CCTV风云剧场,http://api.hstv.me:8080/hstv/hstv2021/103
+CCTV风云足球,http://api.hstv.me:8080/hstv/hstv2021/104
+CCTV风云音乐,http://api.hstv.me:8080/hstv/hstv2021/105
+CCTV怀旧剧场,http://api.hstv.me:8080/hstv/hstv2021/106
+CCTV世界地理,http://api.hstv.me:8080/hstv/hstv2021/107
+CCTV第一剧场,http://api.hstv.me:8080/hstv/hstv2021/108
+CCTV发现之旅,http://api.hstv.me:8080/hstv/hstv2021/109
+CCTV女性时尚,http://api.hstv.me:8080/hstv/hstv2021/110
+CCTV央视精品,http://api.hstv.me:8080/hstv/hstv2021/111
+CCTV卫生健康,http://api.hstv.me:8080/hstv/hstv2021/112
+CCTV电视指南,http://api.hstv.me:8080/hstv/hstv2021/113
+
+嶺南戲曲,http://api.hstv.me:8080/hstv/hstv2021/162
+廣州綜合,http://api.hstv.me:8080/hstv/hstv2021/163
+廣州新聞,http://api.hstv.me:8080/hstv/hstv2021/164
+廣州經濟,http://api.hstv.me:8080/hstv/hstv2021/165
+廣州生活,http://api.hstv.me:8080/hstv/hstv2021/166
+廣州競賽,http://api.hstv.me:8080/hstv/hstv2021/167
+廣州影視,http://api.hstv.me:8080/hstv/hstv2021/168
+廣州少兒,http://api.hstv.me:8080/hstv/hstv2021/169
+南海綜合,http://api.hstv.me:8080/hstv/hstv2021/170
+順德綜合,http://api.hstv.me:8080/hstv/hstv2021/171
+新會綜合,http://api.hstv.me:8080/hstv/hstv2021/172
+佛山綜合,http://api.hstv.me:8080/hstv/hstv2021/173
+佛山公共,http://api.hstv.me:8080/hstv/hstv2021/174
+湛江綜合,http://api.hstv.me:8080/hstv/hstv2021/175
+湛江公共,http://api.hstv.me:8080/hstv/hstv2021/176
+韶關綜合,http://api.hstv.me:8080/hstv/hstv2021/177
+韶關公共,http://api.hstv.me:8080/hstv/hstv2021/178
+博羅經典,http://api.hstv.me:8080/hstv/hstv2021/179
+博羅綜合,http://api.hstv.me:8080/hstv/hstv2021/180
+雲浮一套,http://api.hstv.me:8080/hstv/hstv2021/181
+雲浮二套,http://api.hstv.me:8080/hstv/hstv2021/182
+珠海一套,http://api.hstv.me:8080/hstv/hstv2021/183
+珠海二套,http://api.hstv.me:8080/hstv/hstv2021/184
+潮州一套,http://api.hstv.me:8080/hstv/hstv2021/185
+潮州二套,http://api.hstv.me:8080/hstv/hstv2021/186
+東莞一套,http://api.hstv.me:8080/hstv/hstv2021/187
+東莞二套,http://api.hstv.me:8080/hstv/hstv2021/188
+梅州一套,http://api.hstv.me:8080/hstv/hstv2021/189
+梅州二套,http://api.hstv.me:8080/hstv/hstv2021/190
+江門一套,http://api.hstv.me:8080/hstv/hstv2021/191
+江門二套,http://api.hstv.me:8080/hstv/hstv2021/192
+中山一套,http://api.hstv.me:8080/hstv/hstv2021/193
+中山二套,http://api.hstv.me:8080/hstv/hstv2021/194
+河源一套,http://api.hstv.me:8080/hstv/hstv2021/195
+河源二套,http://api.hstv.me:8080/hstv/hstv2021/196
+肇慶一套,http://api.hstv.me:8080/hstv/hstv2021/197
+肇慶二套,http://api.hstv.me:8080/hstv/hstv2021/198
+惠州一套,http://api.hstv.me:8080/hstv/hstv2021/199
+惠州二套,http://api.hstv.me:8080/hstv/hstv2021/200
+汕頭一套,http://api.hstv.me:8080/hstv/hstv2021/201
+汕頭二套,http://api.hstv.me:8080/hstv/hstv2021/202
+汕頭三套,http://api.hstv.me:8080/hstv/hstv2021/203
+全紀實,http://api.hstv.me:8080/hstv/hstv2021/204
+新動漫,http://api.hstv.me:8080/hstv/hstv2021/205
+幸福彩,http://api.hstv.me:8080/hstv/hstv2021/206
+極速汽車,http://api.hstv.me:8080/hstv/hstv2021/207
+高爾夫,http://api.hstv.me:8080/hstv/hstv2021/208
+勁爆體育,http://api.hstv.me:8080/hstv/hstv2021/209
+歡笑劇場,http://api.hstv.me:8080/hstv/hstv2021/210
+法治天地,http://api.hstv.me:8080/hstv/hstv2021/211
+都市劇場,http://api.hstv.me:8080/hstv/hstv2021/212
+魅力音樂,http://api.hstv.me:8080/hstv/hstv2021/213
+七彩戲劇,http://api.hstv.me:8080/hstv/hstv2021/214
+金色頻道,http://api.hstv.me:8080/hstv/hstv2021/215
+生活時尚,http://api.hstv.me:8080/hstv/hstv2021/216
+東方財經,http://api.hstv.me:8080/hstv/hstv2021/217
+環球奇觀,http://api.hstv.me:8080/hstv/hstv2021/218
+中華美食,http://api.hstv.me:8080/hstv/hstv2021/219
+書畫頻道,http://api.hstv.me:8080/hstv/hstv2021/220
+網路軍旗撲克牌,http://api.hstv.me:8080/hstv/hstv2021/221
+英語輔導,http://api.hstv.me:8080/hstv/hstv2021/222
+先鋒乒羽,http://api.hstv.me:8080/hstv/hstv2021/223
+山東教育,http://api.hstv.me:8080/hstv/hstv2021/224
+中國氣象,http://api.hstv.me:8080/hstv/hstv2021/225
+動漫秀場,http://api.hstv.me:8080/hstv/hstv2021/226
+嘉佳卡通,http://api.hstv.me:8080/hstv/hstv2021/227
+優漫卡通,http://api.hstv.me:8080/hstv/hstv2021/228
+金鷹卡通,http://api.hstv.me:8080/hstv/hstv2021/229
+都市劇場,http://api.hstv.me:8080/hstv/hstv2021/230
+金鷹卡通,http://api.hstv.me:8080/hstv/hstv2021/231
 
 🇨🇳央視頻道,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
@@ -1530,6 +1834,41 @@ TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 耀才財經台1,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000	
 無線新聞,https://cdn.hkdtmb.com/hls/83/index.m3u8	
 無線財經,https://cdn.hkdtmb.com/hls/85/index.m3u8	
+
+翡翠台,http://api.hstv.me:8080/hstv/hstv2021/1
+明珠台,http://api.hstv.me:8080/hstv/hstv2021/2
+无线新闻,http://api.hstv.me:8080/hstv/hstv2021/3
+有线新闻,http://api.hstv.me:8080/hstv/hstv2021/4
+NOW新闻,http://api.hstv.me:8080/hstv/hstv2021/5
+Viutv,http://api.hstv.me:8080/hstv/hstv2021/6
+Viutv 6,http://api.hstv.me:8080/hstv/hstv2021/7
+无线财经,http://api.hstv.me:8080/hstv/hstv2021/8
+J 2,http://api.hstv.me:8080/hstv/hstv2021/9
+港台31,http://api.hstv.me:8080/hstv/hstv2021/10
+港台32,http://api.hstv.me:8080/hstv/hstv2021/11
+有线财经,http://api.hstv.me:8080/hstv/hstv2021/12
+有线603,http://api.hstv.me:8080/hstv/hstv2021/13
+18台,http://api.hstv.me:8080/hstv/hstv2021/14
+香港开电视,http://api.hstv.me:8080/hstv/hstv2021/15
+鳳凰香港,http://api.hstv.me:8080/hstv/hstv2021/16
+鳳凰衛視,http://api.hstv.me:8080/hstv/hstv2021/17
+鳳凰資訊,http://api.hstv.me:8080/hstv/hstv2021/18
+澳视澳门,http://api.hstv.me:8080/hstv/hstv2021/19
+澳门资讯,http://api.hstv.me:8080/hstv/hstv2021/20
+澳視葡語,http://api.hstv.me:8080/hstv/hstv2021/21
+澳門Macau,http://api.hstv.me:8080/hstv/hstv2021/22
+澳视体育,http://api.hstv.me:8080/hstv/hstv2021/23
+有线电影,http://api.hstv.me:8080/hstv/hstv2021/24
+爆谷台,http://api.hstv.me:8080/hstv/hstv2021/25
+C+,http://api.hstv.me:8080/hstv/hstv2021/26
+TVB 星河,http://api.hstv.me:8080/hstv/hstv2021/27
+TVB经典,http://api.hstv.me:8080/hstv/hstv2021/28
+天映经典,http://api.hstv.me:8080/hstv/hstv2021/29
+天映频道,http://api.hstv.me:8080/hstv/hstv2021/30
+卫视卡式台,http://api.hstv.me:8080/hstv/hstv2021/31
+
+
+
 體育頻道,#genre#	
 Fox Sports HD1,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 北京冬奥纪實,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8	
@@ -2865,12 +3204,12 @@ Look TV,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
 HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 驚艷成人電影台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
 潘朵拉完美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
-紅松，http://api.hstv.me:8080/hstv/hstv2021/360
-紅松2，HTTP：//api.hstv.me：8080/hstv/hstv2021/361
+紅松,http://api.hstv.me:8080/hstv/hstv2021/360
+紅松2,HTTP：//api.hstv.me：8080/hstv/hstv2021/361
 HOT,http://api.hstv.me:8080/hstv/hstv2021/362
-D槽素人，http://api.hstv.me:8080/hstv/hstv2021/363
-一本道，http://api.hstv.me:8080/hstv/hstv2021/364
-加勒比全球，http://api.hstv.me:8080/hstv/hstv2021/365
+D槽素人,http://api.hstv.me:8080/hstv/hstv2021/363
+一本道,http://api.hstv.me:8080/hstv/hstv2021/364
+加勒比全球,http://api.hstv.me:8080/hstv/hstv2021/365
 NYX MEDIA,http://api.hstv.me:8080/hstv/hstv2021/366
 NYX MEDIA2,http://api.hstv.me:8080/hstv/hstv2021/367
 NYX MEDIA3,http://api.hstv.me:8080/hstv/hstv2021/368
