@@ -2902,7 +2902,6 @@ redlight hd,http://51.15.0.141:88/redlightHD/mpegts
 RUsskayanoch,http://93.189.224.117:9030/russkayanoch
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
-russian,http://live.redtraffic.xyz/russian.m3u8
 Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
 Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
 Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
