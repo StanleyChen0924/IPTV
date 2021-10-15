@@ -721,6 +721,653 @@ https://git.io/JgkAy
 #EXTINF:-1 tvg-id="" group-title="音樂",FM 96.3 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="陸港澳",CCTV1综合
+http://60.255.49.202/live/CCTV1H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1综合
+http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg
+#EXTINF:-1 group-title="陸港澳",CCTV1综合
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2财经
+http://60.255.49.202/live/CCTV2H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2财经
+http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3综艺
+https://p4.weizan.cn/1228393605/270303707572166290/live.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3综艺
+http://60.255.49.202/live/CCTV3H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3综艺
+http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?xtkg
+#EXTINF:-1 group-title="陸港澳",CCTV3综艺
+http://39.135.32.29:6610/000000001000/1000000001000011218/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV3综艺
+http://140.207.241.2:8080/live/program/live/cctv3hd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3综艺
+http://111.63.117.13:6060/030000001000/CCTV3/CCTV3.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3综艺
+http://117.169.120.160:8080/live/CCTV3/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4中文国际
+http://60.255.49.202/live/CCTV4H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4中文国际
+http://39.135.34.150:8080/000000001000/1000000002000031664/1.m3u8?xtkg
+#EXTINF:-1 group-title="陸港澳",CCTV4中文国际
+http://117.169.120.160:8080/live/CCTV4/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4中文国际
+http://39.135.32.29:6610/000000001000/1000000002000031664/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV5体育
+http://60.255.49.202/live/CCTV5H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5体育
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
+#EXTINF:-1 group-title="陸港澳",CCTV5体育
+http://39.135.34.150:8080/000000001000/1000000001000004794/1.m3u8?xtkg
+#EXTINF:-1 group-title="陸港澳",CCTV5体育
+http://111.63.117.13:6060/030000001000/CCTV5/CCTV5.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5体育
+http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5体育
+http://117.169.120.160:8080/live/CCTV5/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5体育
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+体育赛事
+http://60.255.49.202/live/CCTV5plusH265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+体育赛事
+http://39.134.39.39/TVOD/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+体育赛事
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6电影
+http://60.255.49.202/live/CCTV6H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6电影
+http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?xtkg
+#EXTINF:-1 group-title="陸港澳",CCTV6电影
+http://140.207.241.2:8080/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6电影
+http://39.135.32.29:6610/000000001000/1000000001000016466/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV6电影
+http://111.63.117.13:6060/030000001000/CCTV6/CCTV6.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6电影
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7军事
+http://39.135.32.29:6610/000000001000/1000000001000017218/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV7军事
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7军事
+http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8电视剧
+http://60.255.49.202/live/CCTV8H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8电视剧
+http://39.135.34.150:8080/000000001000/1000000001000003736/1.m3u8?xtkg
+#EXTINF:-1 group-title="陸港澳",CCTV8电视剧
+http://140.207.241.2:8080/live/program/live/cctv8hd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8电视剧
+http://117.169.120.160:8080/live/CCTV8/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9记录频道
+http://60.255.49.202/live/CCTV9H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9记录频道
+http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?xtkg
+#EXTINF:-1 group-title="陸港澳",CCTV9记录频道
+http://117.169.120.160:8080/live/CCTVnews/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10科教
+http://60.255.49.202/live/CCTV10H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10科教
+http://39.135.34.150:8080/000000001000/7019587760656900133/1.m3u8?xtkg
+#EXTINF:-1 group-title="陸港澳",CCTV10科教
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10科教
+http://117.169.120.160:8080/live/CCTV10/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV11戏曲
+http://60.255.49.202/live/CCTV11-H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV11戏曲
+http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?xtkg
+#EXTINF:-1 group-title="陸港澳",CCTV11戏曲
+http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12社会与法
+http://60.255.49.202/live/CCTV12H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12社会与法
+http://39.135.32.29:6610/000000001000/1000000001000032494/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV13新闻
+http://39.135.140.104:6610/PLTV/88888888/224/3221225638/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV13新闻
+http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?xtkg
+#EXTINF:-1 group-title="陸港澳",CCTV13新闻
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV13新闻
+http://117.169.120.160:8080/live/CCTV13/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV13新闻
+http://39.135.32.29:6610/000000001000/1000000002000021303/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV14少儿
+http://60.255.49.202/live/CCTV14H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14少儿
+http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14少儿
+http://117.169.120.160:8080/live/CCTV14/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV15音乐
+http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?xtkg
+#EXTINF:-1 group-title="陸港澳",CCTV17-农业农村
+http://60.255.49.202/live/CCTV17_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17-农业农村
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+#EXTINF:-1 group-title="陸港澳",CCTV1综合
+http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2财经
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3综艺
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4中文国际
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5体育
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+体育赛事
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7国防军事
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8电视剧
+http://39.134.39.39/PLTV/88888888/224/3221226150/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9纪录
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10科教
+http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV11戏曲
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12社会与法
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV13新闻
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14少儿
+http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV15音乐
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17农业农村
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4K超高清
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4-中文国际欧洲
+http://117.148.129.68/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4-中文国际美洲
+http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CNC中文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CNC英文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CNC英文
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 group-title="陸港澳",CGTN
+http://39.130.202.115:6610/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
+#EXTINF:-1 group-title="陸港澳",CGTN 纪录
+http://39.130.202.115:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
+#EXTINF:-1 group-title="陸港澳",CGTN 法语
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 group-title="陸港澳",CGTN 俄语
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="陸港澳",CGTN 西班牙
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://117.136.156.37/PLTV/88888888/224/3221225499/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://39.134.39.4/PLTV/88888888/224/3221226247/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://117.136.156.37/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://39.134.39.4/PLTV/88888888/224/3221226220/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://117.136.156.37/PLTV/88888888/224/3221225512/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://39.134.39.4/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://39.134.39.4/PLTV/88888888/224/3221226146/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://39.134.39.4/PLTV/88888888/224/3221226226/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://117.136.156.37/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://39.134.39.4/PLTV/88888888/224/3221226150/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://117.136.156.37/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://117.136.156.37/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://39.134.39.4/PLTV/88888888/224/3221226164/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV11
+http://117.136.156.37/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12
+http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV13
+http://117.136.156.37/PLTV/88888888/224/3221225510/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV13
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV15
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://117.136.154.98/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://39.135.238.47:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://39.135.238.47:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://58.20.64.92:9999/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://39.135.238.47:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://117.136.154.98/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227427/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221226993/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://223.110.245.148/ott.js.chinamobile.com/PLTV/3/224/3221227543/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://58.20.64.92:9999/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://117.148.179.160/PLTV/88888888/224/3221231678/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3
+http://117.148.179.160/PLTV/88888888/224/3221231682/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3
+http://39.135.238.47:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3
+http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227295/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV3
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3
+http://58.20.64.92:9999/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://117.136.154.86/PLTV/88888888/224/3221225501/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://39.135.238.47:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://117.136.154.98/PLTV/88888888/224/3221225501/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227683/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227489/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://117.148.179.160/PLTV/88888888/224/3221231726/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://117.136.154.98/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227686/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227478/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226248/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://223.110.243.145/ott.js.chinamobile.com/PLTV/3/224/3221227478/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://58.20.64.92:9999/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://117.148.179.160/PLTV/88888888/224/3221231702/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://39.135.238.47:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225548/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227209/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://223.110.243.145/ott.js.chinamobile.com/PLTV/3/224/3221227581/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226046/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226250/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://58.20.64.92:9999/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://117.148.179.160/PLTV/88888888/224/3221231724/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://39.135.238.69/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://58.20.64.92:9999/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227314/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://223.110.245.148/ott.js.chinamobile.com/PLTV/3/224/3221225546/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://60.255.49.202/live/CCTV7H265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://39.135.238.47:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227205/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://58.20.64.92:9999/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230737/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://223.110.243.164/ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221227750/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://117.136.154.98/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227614/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://223.110.243.143/ott.js.chinamobile.com/PLTV/3/224/3221227704/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://39.134.134.86:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://117.148.179.160/PLTV/88888888/224/3221231697/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://39.134.135.126:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226227/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://39.135.238.47:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://117.136.154.98/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225550/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://58.20.64.92:9999/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://117.148.179.160/PLTV/88888888/224/3221231666/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV11
+http://117.136.154.98/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV11
+http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV11
+http://39.134.135.126:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV11
+http://223.110.243.149/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV11
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV11
+http://117.148.179.160/PLTV/88888888/224/3221231711/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12
+http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12
+http://39.134.135.126:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12
+http://117.136.154.98/PLTV/88888888/224/3221225505/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12
+http://223.110.243.164/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV12
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225556/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV12
+http://117.148.179.160/PLTV/88888888/224/3221231660/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV13
+http://39.135.238.15:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV13
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227387/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV13
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV13
+http://117.136.154.98/PLTV/88888888/224/3221225510/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV13
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV13
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227387/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV13
+http://60.255.49.202/live/CCTVxw_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://117.136.154.86/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227201/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://58.20.64.92:9999/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://117.148.179.160/PLTV/88888888/224/3221231648/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV15
+http://39.134.135.126:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV15
+http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV15
+http://117.136.154.86/PLTV/88888888/224/3221225508/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV15
+http://117.136.154.98/PLTV/88888888/224/3221225508/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV15
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV15
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV15
+http://60.255.49.202/live/CCTV15-yyH265_4000.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV15
+http://117.148.179.160/PLTV/88888888/224/3221231693/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://39.134.135.81:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://117.136.154.98/PLTV/88888888/224/3221225512/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227381/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227480/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227502/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226128/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://223.110.243.145/ott.js.chinamobile.com/PLTV/3/224/3221227685/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://58.20.64.92:9999/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://117.148.179.160/PLTV/88888888/224/3221231459/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://117.136.154.98/PLTV/88888888/224/3221225706/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227578/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://223.110.243.150/ott.js.chinamobile.com/PLTV/3/224/3221227592/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://39.134.135.82:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://223.110.243.149/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://223.110.243.143/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV17
+http://117.148.179.160/PLTV/88888888/224/3221231772/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV4欧洲
+http://117.148.179.160/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV3
+http://117.169.124.36:6610/ysten-businessmobile/live/CCTV3/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://117.169.124.36:6610/ysten-businessmobile/live/CCTV6/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV8
+http://117.169.124.36:6610/ysten-businessmobile/live/CCTV8/1.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV15
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="陸港澳",CCTV1
+http://39.135.34.142:8080/000000001000/1000000001000021973/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV2
+http://39.135.34.142:8080/000000001000/1000000001000012442/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV3
+http://39.135.34.142:8080/000000001000/1000000001000011218/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV4
+http://39.135.34.142:8080/000000001000/1000000002000031664/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV5
+http://39.135.34.142:8080/000000001000/1000000001000004794/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV5+
+http://39.135.34.142:8080/000000001000/1000000001000020505/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV6
+http://39.135.34.142:8080/000000001000/1000000001000016466/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV7
+http://39.135.34.142:8080/000000001000/1000000001000017218/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV9
+http://39.135.34.142:8080/000000001000/1000000001000014583/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV10
+http://39.135.34.142:8080/000000001000/1000000001000023734/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV11
+http://39.135.34.142:8080/000000001000/1000000002000019789/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV12
+http://39.135.34.142:8080/000000001000/1000000001000032494/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV13
+http://39.135.34.142:8080/000000001000/1000000002000021303/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV14
+http://39.135.34.142:8080/000000001000/1000000001000008170/1.m3u8?
+#EXTINF:-1 group-title="陸港澳",CCTV15
+http://39.135.34.142:8080/000000001000/1000000002000008163/1.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sg.heytv.org/wp-content/uploads/2018/12/1-1P501135151462.jpg" group-title="陸港澳",SiTV動漫秀場 4M1080[1920*1080
 http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
