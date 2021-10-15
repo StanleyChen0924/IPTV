@@ -650,46 +650,15 @@ http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="6034" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" tvg-language="Chinese" group-title="一般",原住民電視
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-id="7229" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-language="Chinese" group-title="宗教",唯心電視
+#EXTINF:-1 tvg-id="7229" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-language="Chinese" group-title="一般",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="511" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="一般", 星空衛視
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-logo="https://aatv-file.oss-cn-beijing.aliyuncs.com/img/602da458-0525-40dc-54c7-94f6d627e62d.png" ,亞美衛視
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sg.heytv.org/wp-content/uploads/2018/12/1-1P501135151462.jpg" group-title="SiTV",SiTV動漫秀場 4M1080[1920*1080
-http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SITV-MOVIE/SITV-MOVIE.jpg?1" group-title="SiTV",SiTV都市劇場 4M1080[1920*1080
-http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E6%BD%AE%E5%A6%88%E8%BE%A3%E5%A9%86.png" group-title="NewTV",NewTV潮婆辣媽 4M1080[1920*108
-http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="NewTV",NewTV動作電影 4M1080[1920*108
-http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png" group-title="NewTV",NewTV古裝劇場 4M1080[1920*108
-http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png" group-title="NewTV",NewTV家庭劇場 4M1080[1920*108
-http://223.110.243.164/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91.png" group-title="NewTV",NewTV驚悚懸疑 4M1080[1920*108
-http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E7%88%B1%E6%83%85%E5%96%9C%E5%89%A7.png" group-title="NewTV",NewTV愛情喜劇 4M1080[1920*108
-http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7.png" group-title="NewTV",NewTV精品大劇 4M1080[1920*108
-http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png" group-title="NewTV",NewTV金牌綜藝 4M1080[1920*108
-http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E6%98%8E%E6%98%9F%E5%A4%A7%E7%89%87.png" group-title="NewTV",NewTV明星大片 4M1080[1920*108
-http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓動畫 4M1080[1920*1080]
-http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓電影 4M1080[1920*1080]
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
 
 #EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="韓國" ,韓國娛樂台KMTV
 http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韓國" ,韓國阿里郎
 #https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="韓國" tvg-name="One" ,ONE
+#EXTINF:-1 tvg-id="" group-title="韓國" ,ONE
 #http://210.210.155.35/uq2663/h/h143/01.m3u8
 #http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
@@ -751,89 +720,117 @@ https://git.io/JgkAy
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/277
 #EXTINF:-1 tvg-id="" group-title="音樂",FM 96.3 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-#EXTINF:-1 tvg-id="" group-title="TEST",Japan Walk 24/7
-https://www.youtube.com/c/makimakiwalk/videos|Referer=https://www.youtube.com
-#EXTINF:-1 tvg-id="" group-title="TEST",Korea walk
-https://www.youtube.com/playlist?list=PLZtkj1UPIsFMsgOhPBx8BRD8_c76CnF3C|Referer=https://www.youtube.com
 
-#EXTINF:-1 ,NewTV精品大剧
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sg.heytv.org/wp-content/uploads/2018/12/1-1P501135151462.jpg" group-title="陸港澳",SiTV動漫秀場 4M1080[1920*1080
+http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SITV-MOVIE/SITV-MOVIE.jpg?1" group-title="陸港澳",SiTV都市劇場 4M1080[1920*1080
+http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E6%BD%AE%E5%A6%88%E8%BE%A3%E5%A9%86.png" group-title="陸港澳",NewTV潮婆辣媽 4M1080[1920*108
+http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="陸港澳",NewTV動作電影 4M1080[1920*108
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png" group-title="陸港澳",NewTV古裝劇場 4M1080[1920*108
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png" group-title="陸港澳",NewTV家庭劇場 4M1080[1920*108
+http://223.110.243.164/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91.png" group-title="陸港澳",NewTV驚悚懸疑 4M1080[1920*108
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E7%88%B1%E6%83%85%E5%96%9C%E5%89%A7.png" group-title="陸港澳",NewTV愛情喜劇 4M1080[1920*108
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7.png" group-title="陸港澳",NewTV精品大劇 4M1080[1920*108
+http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png" group-title="陸港澳",NewTV金牌綜藝 4M1080[1920*108
+http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E6%98%8E%E6%98%9F%E5%A4%A7%E7%89%87.png" group-title="陸港澳",NewTV明星大片 4M1080[1920*108
+http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陸港澳",黑莓動畫 4M1080[1920*1080]
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陸港澳",黑莓電影 4M1080[1920*1080]
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+
+#EXTINF:-1 group-title="陸港澳",NewTV精品大剧
 http://111.12.101.23:6610/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV精品体育
+#EXTINF:-1 group-title="陸港澳",NewTV精品体育
 http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
-#EXTINF:-1 ,NewTV精品体育
+#EXTINF:-1 group-title="陸港澳",NewTV精品体育
 http://111.12.101.23:6610/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV精品综合
+#EXTINF:-1 group-title="陸港澳",NewTV精品综合
 http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
-#EXTINF:-1 ,NewTV军旅剧场
+#EXTINF:-1 group-title="陸港澳",NewTV军旅剧场
 http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc
-#EXTINF:-1 ,NewTV军旅剧场
+#EXTINF:-1 group-title="陸港澳",NewTV军旅剧场
 http://111.12.101.23:6610/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV军事评论
+#EXTINF:-1 group-title="陸港澳",NewTV军事评论
 http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
-#EXTINF:-1 ,NewTV军事评论
+#EXTINF:-1 group-title="陸港澳",NewTV军事评论
 http://111.12.101.23:6610/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,Newtv明星大片
+#EXTINF:-1 group-title="陸港澳",Newtv明星大片
 http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
-#EXTINF:-1 ,NewTV农业致富
+#EXTINF:-1 group-title="陸港澳",NewTV农业致富
 http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
-#EXTINF:-1 ,NewTV农业致富
+#EXTINF:-1 group-title="陸港澳",NewTV农业致富
 http://111.12.101.23:6610/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV热播精选
+#EXTINF:-1 group-title="陸港澳",NewTV热播精选
 http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
-#EXTINF:-1 ,NewTV无台标1
+#EXTINF:-1 group-title="陸港澳",NewTV无台标1
 http://111.12.101.23:6610/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV无台标2
+#EXTINF:-1 group-title="陸港澳",NewTV无台标2
 http://111.12.101.23:6610/PLTV/77777777/224/3221225789/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV无台标5
+#EXTINF:-1 group-title="陸港澳",NewTV无台标5
 http://111.12.101.23:6610/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV武博世界
+#EXTINF:-1 group-title="陸港澳",NewTV武博世界
 http://111.12.101.23:6610/PLTV/77777777/224/3221225758/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV炫舞未来
+#EXTINF:-1 group-title="陸港澳",NewTV炫舞未来
 http://111.12.101.23:6610/PLTV/77777777/224/3221225728/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NewTV中国功夫
+#EXTINF:-1 group-title="陸港澳",NewTV中国功夫
 http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
-#EXTINF:-1 ,NewTV中国功夫
+#EXTINF:-1 group-title="陸港澳",NewTV中国功夫
 http://111.12.101.23:6610/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,NHK华语视界
+#EXTINF:-1 group-title="陸港澳",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 ,SET三立台湾
+#EXTINF:-1 group-title="陸港澳",SET三立台湾
 http://50.7.61.148:30080/Entry/settw-
-#EXTINF:-1 ,SiTV东方财经
+#EXTINF:-1 group-title="陸港澳",SiTV东方财经
 http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 ,SiTV动漫秀场
+#EXTINF:-1 group-title="陸港澳",SiTV动漫秀场
 http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 ,SiTV都市剧场
+#EXTINF:-1 group-title="陸港澳",SiTV都市剧场
 http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 ,SiTV法治天地
+#EXTINF:-1 group-title="陸港澳",SiTV法治天地
 http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
-#EXTINF:-1 ,SiTV欢笑剧场
+#EXTINF:-1 group-title="陸港澳",SiTV欢笑剧场
 http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
-#EXTINF:-1 ,SiTV极速汽车
+#EXTINF:-1 group-title="陸港澳",SiTV极速汽车
 http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
-#EXTINF:-1 ,SiTV金色频道
+#EXTINF:-1 group-title="陸港澳",SiTV金色频道
 http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mnf.m3u8
-#EXTINF:-1 ,SiTV劲爆体育
+#EXTINF:-1 group-title="陸港澳",SiTV劲爆体育
 http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 ,SiTV魅力足球
+#EXTINF:-1 group-title="陸港澳",SiTV魅力足球
 http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 ,SiTV七彩戏剧
+#EXTINF:-1 group-title="陸港澳",SiTV七彩戏剧
 http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1 ,SiTV全纪实
+#EXTINF:-1 group-title="陸港澳",SiTV全纪实
 http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 ,SiTV生活时尚
+#EXTINF:-1 group-title="陸港澳",SiTV生活时尚
 http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 ,SiTV新视觉
+#EXTINF:-1 group-title="陸港澳",SiTV新视觉
 http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 ,SiTV幸福彩
+#EXTINF:-1 group-title="陸港澳",SiTV幸福彩
 http://140.207.241.2:8080/live/program/live/xfchd/4000000/mnf.m3u8
-#EXTINF:-1 ,SiTV游戏风云
+#EXTINF:-1 group-title="陸港澳",SiTV游戏风云
 http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
-#EXTINF:-1 ,SNH48剧场公演
+#EXTINF:-1 group-title="陸港澳",SNH48剧场公演
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432328
-#EXTINF:-1 ,TLC
+#EXTINF:-1 group-title="陸港澳",TLC
 http://50.7.61.147:30080/Entry/tlc
-#EXTINF:-1 ,TVB J2
+#EXTINF:-1 group-title="陸港澳",TVB J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 ,TVB 翡翠台
+#EXTINF:-1 group-title="陸港澳",TVB 翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 ,TVB 明珠
+#EXTINF:-1 group-title="陸港澳",TVB 明珠
+#EXTINF:-1 tvg-id="511" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="陸港澳", 星空衛視
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-logo="https://aatv-file.oss-cn-beijing.aliyuncs.com/img/602da458-0525-40dc-54c7-94f6d627e62d.png" group-title="陸港澳",亞美衛視
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
