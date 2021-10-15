@@ -756,9 +756,84 @@ https://www.youtube.com/c/makimakiwalk/videos|Referer=https://www.youtube.com
 #EXTINF:-1 tvg-id="" group-title="TEST",Korea walk
 https://www.youtube.com/playlist?list=PLZtkj1UPIsFMsgOhPBx8BRD8_c76CnF3C|Referer=https://www.youtube.com
 
-#EXTINF:-1 tvg-id="" group-title="TEST",Aespa
-https://git.io/JVuG8
-#EXTINF:-1 tvg-id="" group-title="TEST",AespaYT
-https://www.youtube.com/playlist?list=PLinm7-cvTdN6n9zc_0ggVNpWwiuKFGCVJ|Referer=https://www.youtube.com
-#EXTINF:-1 tvg-id="" group-title="TEST",TESTYT
-https://www.youtube.com/watch?v=kZlLTnE1y1Q&list=PLA91TLEzZINvfD-ToXanRYXVlcVdy4CDI
+#EXTINF:-1 ,NewTV精品大剧
+http://111.12.101.23:6610/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,NewTV精品体育
+http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
+#EXTINF:-1 ,NewTV精品体育
+http://111.12.101.23:6610/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,NewTV精品综合
+http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
+#EXTINF:-1 ,NewTV军旅剧场
+http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc
+#EXTINF:-1 ,NewTV军旅剧场
+http://111.12.101.23:6610/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,NewTV军事评论
+http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
+#EXTINF:-1 ,NewTV军事评论
+http://111.12.101.23:6610/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,Newtv明星大片
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 ,NewTV农业致富
+http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
+#EXTINF:-1 ,NewTV农业致富
+http://111.12.101.23:6610/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,NewTV热播精选
+http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
+#EXTINF:-1 ,NewTV无台标1
+http://111.12.101.23:6610/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,NewTV无台标2
+http://111.12.101.23:6610/PLTV/77777777/224/3221225789/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,NewTV无台标5
+http://111.12.101.23:6610/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,NewTV武博世界
+http://111.12.101.23:6610/PLTV/77777777/224/3221225758/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,NewTV炫舞未来
+http://111.12.101.23:6610/PLTV/77777777/224/3221225728/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,NewTV中国功夫
+http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
+#EXTINF:-1 ,NewTV中国功夫
+http://111.12.101.23:6610/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,SET三立台湾
+http://50.7.61.148:30080/Entry/settw-
+#EXTINF:-1 ,SiTV东方财经
+http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
+#EXTINF:-1 ,SiTV动漫秀场
+http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV都市剧场
+http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV法治天地
+http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场
+http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV极速汽车
+http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV金色频道
+http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mnf.m3u8
+#EXTINF:-1 ,SiTV劲爆体育
+http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV魅力足球
+http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV七彩戏剧
+http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1 ,SiTV全纪实
+http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV生活时尚
+http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV新视觉
+http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV幸福彩
+http://140.207.241.2:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV游戏风云
+http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SNH48剧场公演
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432328
+#EXTINF:-1 ,TLC
+http://50.7.61.147:30080/Entry/tlc
+#EXTINF:-1 ,TVB J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 ,TVB 翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 ,TVB 明珠
