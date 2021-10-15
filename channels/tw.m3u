@@ -721,7 +721,7 @@ https://git.io/JgkAy
 #EXTINF:-1 tvg-id="" group-title="音樂",FM 96.3 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 
-#EXTM3U
+
 #EXTINF:-1 group-title="陸港澳",CCTV1综合
 http://60.255.49.202/live/CCTV1H265_4000.m3u8
 #EXTINF:-1 group-title="陸港澳",CCTV1综合
@@ -1483,8 +1483,6 @@ http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 
 
-
-#EXTM3U
 #EXTINF:-1 group-title="越南頻道",VTV①HD
 http://s4.nihontv.net:21585/vtv1/index.m3u8
 #EXTINF:-1 group-title="越南頻道",VTV③HD
