@@ -1765,7 +1765,7 @@ CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
 黑莓电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 
-📺4K高清,#genre#
+📺衛視頻道,#genre#
 鳳凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 鳳凰中文,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 鳳凰資訊,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
@@ -2046,53 +2046,6 @@ TVB经典,http://api.hstv.me:8080/hstv/hstv2021/28
 天映频道,http://api.hstv.me:8080/hstv/hstv2021/30
 卫视卡式台,http://api.hstv.me:8080/hstv/hstv2021/31
 
-
-
-體育頻道,#genre#	
-Fox Sports HD1,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-北京冬奥纪實,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8	
-北京冬奥纪實,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8	
-北京冬奥纪實,http://223.110.241.133:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi	
-北京冬奥纪實,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls69a25.m3u8	
-五星體育頻道,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8	
-五星體育頻道,http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8	
-五星體育頻道,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8	
-五星體育頻道,http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8	
-五星體育頻道,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8	
-五星體育頻道,http://116.178.68.79/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8	
-勁爆體育,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8	
-勁爆體育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8	
-勁爆體育,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8	
-魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8	
-魅力足球,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8	
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8	
-新視覺,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8	
-新視覺,http://125.210.152.21:9120/live/XSJHD.m3u8	
-新視覺,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8	
-ELEVEN1,rtmp://59.124.75.136/sat/tv731
-ELEVEN2,rtmp://59.124.75.136/sat/tv741
-ELTA體育1,rtmp://59.124.75.136/sat/md011
-ELTA體育1,rtmp://59.124.75.136/sat/md041
-博斯魅力,rtmp://59.124.75.136/sat/md021
-博斯運動2,rtmp://59.124.75.136/sat/md051
-體育
-MAX極速汽車,http://39.134.39.38/PLTV/88888888/224/3221226195/index.m3u8
-MLB NETWORK,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-籃球,http://223.110.241.137:6610/gitv/live1/G_LANQIU/G_LANQIU/.m3u8
-五星體育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-勁爆體育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
-體育賽事,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226253/1/index.m3u8?fmt=ts2hls
-咪咕視頻,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-咪咕視頻 備用,http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
-廣東體育,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-新視覺HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-武術世界,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225691/1/index.m3u8?fmt=ts2hls
-NEWTV精品體育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
-NEWTV超级體育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-足球頻道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 
 🇲🇾馬來西亞,#genre#
 Astro 歡喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
@@ -2525,6 +2478,50 @@ TNTSPORTS 3[1280*720],https://glxlmn026c.singularcdn.net.br/playout_03/playlist-
 TNTSPORTS 4[1280*720],https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 Canal+ Sport HD[1280*720],http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+Fox Sports HD1,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+北京冬奥纪實,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8	
+北京冬奥纪實,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8	
+北京冬奥纪實,http://223.110.241.133:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi	
+北京冬奥纪實,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls69a25.m3u8	
+五星體育頻道,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8	
+五星體育頻道,http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8	
+五星體育頻道,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8	
+五星體育頻道,http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8	
+五星體育頻道,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8	
+五星體育頻道,http://116.178.68.79/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8	
+勁爆體育,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8	
+勁爆體育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8	
+勁爆體育,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8	
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8	
+魅力足球,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8	
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8	
+新視覺,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8	
+新視覺,http://125.210.152.21:9120/live/XSJHD.m3u8	
+新視覺,http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8	
+ELEVEN1,rtmp://59.124.75.136/sat/tv731
+ELEVEN2,rtmp://59.124.75.136/sat/tv741
+ELTA體育1,rtmp://59.124.75.136/sat/md011
+ELTA體育1,rtmp://59.124.75.136/sat/md041
+博斯魅力,rtmp://59.124.75.136/sat/md021
+博斯運動2,rtmp://59.124.75.136/sat/md051
+體育
+MAX極速汽車,http://39.134.39.38/PLTV/88888888/224/3221226195/index.m3u8
+MLB NETWORK,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+籃球,http://223.110.241.137:6610/gitv/live1/G_LANQIU/G_LANQIU/.m3u8
+五星體育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+勁爆體育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
+體育賽事,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226253/1/index.m3u8?fmt=ts2hls
+咪咕視頻,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+咪咕視頻 備用,http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
+廣東體育,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+新視覺HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+武術世界,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225691/1/index.m3u8?fmt=ts2hls
+NEWTV精品體育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+NEWTV超级體育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
+足球頻道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 
 
 
@@ -2698,7 +2695,7 @@ BBC-lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
-📺回看江蘇,#genre#
+📺回看頻道,#genre#
 4K花園娛樂 24M2160[3840*2160],http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 鳳凰中文 10M1080[1920*1080],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 鳳凰資訊 10M1080[1920*1080],http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
@@ -2829,7 +2826,6 @@ NewTV明星大片 4M1080[1920*1080],http://223.110.243.152/ott.js.chinamobile.co
 江蘇好享購物 4M1080[1920*1080],http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
 5G購 2M1080[3840*2144],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 
-📺回看衛視,#genre#
 CCTV1 8M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 CCTV2 8M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 CCTV5 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
@@ -2908,7 +2904,6 @@ SiTV都市劇場 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226
 購物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8
 購物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
 
-📺回看福建,#genre#
 北京影視[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
 北京文藝[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
 北京青年[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
@@ -2920,7 +2915,7 @@ SiTV都市劇場 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226
 卡酷少兒[1047*576],http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 北京通州[1280*720],http://pull.dayuntongzhou.com/live/tztv.m3u8
 
-📺回看青海,#genre#
+
 純享4K 20M2160[3840*2160],http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 CCTV1 4M1080[1920*1080],http://39.134.155.133/PLTV/88888888/224/3221225591/index.m3u8
 CCTV1 8M1080[1920*1080],http://39.134.155.133/PLTV/88888888/224/3221225658/index.m3u8
