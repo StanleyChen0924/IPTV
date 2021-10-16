@@ -499,7 +499,7 @@ VOA美國之音,http://api.hstv.me:8080/hstv/hstv2021/323
 靖天歡樂台,http://api.hstv.me:8080/hstv/hstv2021/283
 靖天資訊台,http://api.hstv.me:8080/hstv/hstv2021/284
 靖天育樂台,http://api.hstv.me:8080/hstv/hstv2021/285
-靖洋卡通Nice Bingo,HTTP：//api.hstv.me：8080/hstv/hstv2021/286
+靖洋卡通Nice Bingo,http://api.hstv.me:8080/hstv/hstv2021/286
 靖天電影台,http://api.hstv.me:8080/hstv/hstv2021/263
 靖天映畫,http://api.hstv.me:8080/hstv/hstv2021/264
 
