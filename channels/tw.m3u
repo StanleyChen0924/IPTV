@@ -575,7 +575,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/309
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Hua%20Hee%20Dai.png" group-title="一般",Astro 歡喜
-http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20AEC.png" group-title="一般",Astro AEC
 http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
@@ -632,19 +632,19 @@ http://113.64.147.150:808/hls/66/index.m3u8?times=0
 #EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="兒童" ,Nickelodeon
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="兒童" ,Nick Jr
-http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="兒童" ,Baby TV Eng
-http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/MY-KIDS%20TV.png" group-title="兒童",Kids TV
-http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 #EXTINF:-1 tvg-id="6187" tvg-name="CBeebies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png"  group-title="兒童",CBeebies
-http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 #EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="兒童",Disney
 http://125.227.210.55:14250/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png"  group-title="兒童",Disney1
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-id="679" tvg-name="DisneyJunior" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png"  group-title="兒童",Disney Junior
-http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6134" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" tvg-language="Chinese" group-title="一般",大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
