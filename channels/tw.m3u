@@ -241,7 +241,7 @@ rtmp://59.124.75.136/sat/tv771
 #rtmp://161.202.204.248:1935/sat/tv771
 
 #EXTINF:-1 tvg-id="6044" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png",緯來綜合
-http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6061" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png",緯來戲劇
 http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
@@ -260,7 +260,7 @@ http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/53
 
 #EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png",ELTA愛爾達影劇台
-http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" ,愛爾達娛樂台
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/296
@@ -367,7 +367,7 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 http://125.227.210.55:19020/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="一般",FOX
-https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",亞洲美食
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/100
@@ -375,13 +375,13 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 #http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7216" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="一般", 美食星球
-http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6172" tvg-name="亞洲旅遊台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="一般",亞洲旅遊台
 http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6147" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" , BBC lifestyle
-http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6189" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" , BBC earth
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/96
