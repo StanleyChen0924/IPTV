@@ -3238,15 +3238,69 @@ TVBS新聞台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 
-📺台灣198,#genre#
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+📺台灣p5p,#genre#
+凤凰资讯台,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
+凤凰中文台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
+凤凰香港,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts
+有线娱乐台,p5p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
+有线电影台,p5p://fccs.123178.top:9906/60693d0e000cf43215b666ef7701d76e.ts
+澳门莲花台,p5p://fccs.123178.top:9906/613192f10005f0f11859aeaf78bfd050.ts
+民视 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
+台视综合,p5p://fccs.123178.top:9906/6044936700021fe101f2ad5ea50e836e.ts
+MoMo亲子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
+CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+迪斯尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
+卫视中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
+寰宇新闻台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
+东森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
+东森超视,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
+东森综合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
+东森综合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
+东森戏剧,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
+东森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
+中天新闻,p5p://fccs.123178.top:9906/6108751d000ce82f133327c1075ab46a.ts
+三立财经,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
+三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+三立都会台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
+八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
+八大戏剧台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
+八大综合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+八大娱乐台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
+八大娱乐台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
+年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
+纬来日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
+纬来戏剧,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
+纬来育乐,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+国兴卫视,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
+AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
+龙祥时代电影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龙祥时代电影台,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
+东风卫视,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
+卫视中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
+光影欧洲,p5p://fccs.123178.top:9906/604420030008e014002ff07922c6f89b.ts
+thrill电影台,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
+KIX电影台,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
+Fox Movies,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
+Fox Movies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
+Outdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3.ts
+HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab.ts
+探索频道,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
+探索动力 DMAX,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731.ts
+动物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
+狼谷育乐,p5p://fccs.123178.top:9906/6045b7460004ba730666cd212d07958d.ts
+TLC旅游,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
+亚洲旅游,p5p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
+afn亚洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
+法国时装,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950.ts
+时尚疯高清频道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e.ts
+Eleven运动台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
+Z 频道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
+美国高尔夫球,p5p://fccs.123178.top:9906/60447654000dbd4101811e203ac3ee9f.ts
+博斯高球1,p5p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
+博斯网球,p5p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
+人间卫视,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
+BBC World News,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+BBC World News,p5p://45.92.126.18:9906/6044382f0001bdea008e5a851f8cf009.ts
 
 📺音樂MV,#genre#
 蔡依琳,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
@@ -3262,7 +3316,6 @@ Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 情难断,http://txmov2.a.yximgs.com/upic/2021/01/16/06/BMjAyMTAxMTYwNjQ1NTlfMTU0MDc1NjUwOF80MjQ0MTcxNjg1OF8yXzM=_b_Ba50d29ff1365b0338675040586f9fac4.mp4
 風中泪,http://txmov2.a.yximgs.com/upic/2021/01/07/06/BMjAyMTAxMDcwNjU5MjhfMTU0MDc1NjUwOF80MTk5MDI5NTM1Nl8yXzM=_b_B2c0675b0c05835b9efde19e6a2d9a47f.mp4
 無你的我,http://txmov2.a.yximgs.com/upic/2021/01/04/17/BMjAyMTAxMDQxNzQzMjZfMTU0MDc1NjUwOF80MTg3OTc3ODQzMV8yXzM=_b_Be9a32f157bcce8d01c4f1de7bdc6f03e.mp4
-
 黄金甲,http://qukufile2.qianqian.com/data2/video/89d00859990ab00850e0e26ad71f427c/608011829/608011829.mp4
 星晴,http://qukufile2.qianqian.com/data2/video/7bd0e2ed49683239f9ad64ff68bfe3cb/607942670/607942670.mp4
 后来的我们,http://qukufile2.qianqian.com/data2/video/d475d2d5a1c5f6589538de5f36d7c5b6/608004684/608004684.mp4
@@ -3321,7 +3374,6 @@ Ba Ba Ba,http://qukufile2.qianqian.com/data2/video/2e3747f8eae298e80f98a9f9a57d9
 那年夏天的梦,http://qukufile2.qianqian.com/data2/video/523726dc4b3531407aced4440ac2472d/658951025/658951025.mp4
 把你信仰,http://qukufile2.qianqian.com/data2/video/d1f3740bff3b9d4397b82da539e5d0ae/608075049/608075049.mp4
 無解呦,http://qukufile2.qianqian.com/data2/video/1cbc1ed5376549a3f13c0768d4394ae4/608006889/608006889.mp4
-
 燕無歇,http://txmov2.a.yximgs.com/upic/2021/01/16/06/BMjAyMTAxMTYwNjU1MDBfMTU0MDc1NjUwOF80MjQ0MTcyNDAxMF8yXzM=_b_B3b8ab9d72d0b82c60425370678668244.mp4
 情难断,http://txmov2.a.yximgs.com/upic/2021/01/16/06/BMjAyMTAxMTYwNjQ1NTlfMTU0MDc1NjUwOF80MjQ0MTcxNjg1OF8yXzM=_b_Ba50d29ff1365b0338675040586f9fac4.mp4
 風中泪,http://txmov2.a.yximgs.com/upic/2021/01/07/06/BMjAyMTAxMDcwNjU5MjhfMTU0MDc1NjUwOF80MTk5MDI5NTM1Nl8yXzM=_b_B2c0675b0c05835b9efde19e6a2d9a47f.mp4
@@ -3340,7 +3392,6 @@ Ba Ba Ba,http://qukufile2.qianqian.com/data2/video/2e3747f8eae298e80f98a9f9a57d9
 镜中女人花,http://txmov2.a.yximgs.com/upic/2021/01/01/12/BMjAyMTAxMDExMjU2NTRfMTU0MDc1NjUwOF80MTY4NTMyMjQyNl8yXzM=_b_Bf8f3112bb9c801bbe8a3ae1a563417df.mp4
 雲朵上的梦,http://txmov2.a.yximgs.com/upic/2020/11/29/06/BMjAyMDExMjkwNjIyMTZfMTU0MDc1NjUwOF8zOTk1MDg4ODMzNl8yXzM=_b_B28abdca5985b7f4722ab6688adc6e17c.mp4
 二小姐酒梦,http://vd4.bdstatic.com/mda-jisq7k1t5n821tjt/sc/mda-jisq7k1t5n821tjt.mp4
-
 可可托海,https://vd2.bdstatic.com/mda-kkkrymnm2i5tgndt/v1-cae/1080p/mda-kkkrymnm2i5tgndt.mp4
 邓紫棋01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240401970214.mp4
 邓紫棋02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240522651855.mp4
@@ -3357,7 +3408,6 @@ Ba Ba Ba,http://qukufile2.qianqian.com/data2/video/2e3747f8eae298e80f98a9f9a57d9
 邓紫棋13,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298025415.mp4
 邓紫棋14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240297965874.mp4
 邓紫棋15,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301809263.mp4
-
 韓國太妍01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
 韓國太妍02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
 韓國太妍03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
@@ -3401,7 +3451,6 @@ Ba Ba Ba,http://qukufile2.qianqian.com/data2/video/2e3747f8eae298e80f98a9f9a57d9
 韓國太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 韓國太妍42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 韓國太妍43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
-
 韓國歌團001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韓國歌團002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
 韓國歌團003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
@@ -3422,6 +3471,7 @@ Ba Ba Ba,http://qukufile2.qianqian.com/data2/video/2e3747f8eae298e80f98a9f9a57d9
 韓國歌團018,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
 韓國歌團019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
 韓國歌團020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+
 🔞p5p_710924,#genre#
 彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
 彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
@@ -3669,6 +3719,7 @@ erox,http://185.97.150.19:8082/158
 俄羅斯 720,http://cdn.adultiptv.net/russian.m3u8
 少女 720,http://cdn.adultiptv.net/teen.m3u8
 三人 720,http://cdn.adultiptv.net/threesome.m3u8
+
 🔞秒播測試_710924,#genre#
 101,https://2.ddyunbo.com/20190709/vsmhQlYK/index.m3u8
 100,https://2.ddyunbo.com/20190721/Hw7HABFC/index.m3u8
@@ -3758,13 +3809,11 @@ erox,http://185.97.150.19:8082/158
 15,https://2.ddyunbo.com/20191007/w4IeM92g/index.m3u8
 14,https://2.ddyunbo.com/20191008/uI8rwtGb/index.m3u8
 13,https://2.ddyunbo.com/20191008/3EPGwWiO/index.m3u8
-
 Adult-1,http://125.227.210.55:9051/VideoInput/play.ts
 Adult-2,http://125.227.210.55:9053/VideoInput/play.ts
 Adult-3,http://125.227.210.55:9054/VideoInput/play.ts
 Adult-4,http://125.227.210.55:9055/VideoInput/play.ts
 Adult-5,http://125.227.210.55:9062/VideoInput/play.ts
-
 VIP-KOREA-0-5,http://hotstream.asia/2019/8/2/kbj19072108.mp4
 VIP-KOREA-0-6,http://hotstream.asia/2019/8/2/kbj19072207-1.mp4
 VIP-KOREA-0-7,http://hotstream.asia/2019/8/2/a19080208.mp4
