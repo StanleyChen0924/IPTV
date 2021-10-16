@@ -316,11 +316,6 @@ ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
 Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=qq3036107507&user=fmys
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Disney,http://125.227.210.55:14250/VideoInput/play.ts
 Disney,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
