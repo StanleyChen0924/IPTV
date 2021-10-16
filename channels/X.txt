@@ -2696,14 +2696,24 @@ migu_国际剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtualli
 migu_经典频道,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179383/50/index.m3u8?ProgramID=&encrypt=
 
 📺兒童頻道,#genre#
-BBC-Cbeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-KidsTV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-Disneyxd,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disneyjr,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-Babytv/,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Nickjr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-BBC-lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+iHOT愛玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
+iHOT愛動漫,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
+iHOT愛幼教,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
+CIBN動畫樂園,http://womlive.cloud.wo.cn/tvlive/100034/otpzod_otpzod,100034_hls_pull_2000K_live.m3u8
+CIBN動畫樂園,http://iptv.inewya.com/qq494937337/others/cibn.php?id=0
+CIBN動漫劇場,http://iptv.inewya.com/qq494937337/others/cibn.php?id=12
+CIBN朵丫樂園,http://iptv.inewya.com/qq494937337/others/cibn.php?id=5
+黑莓動畫,http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
+黑莓動畫,http://39.135.140.104:6610/PLTV/88888888/224/3221225672/2/index.m3u8
+動漫秀場,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+動漫秀場,http://117.136.154.94/PLTV/88888888/224/3221225845/index.m3u8
+哈哈炫動,http://117.136.154.98/PLTV/88888888/224/3221225790/index.m3u8
+PTV淘BABY,HTTP：//39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+卡酷少兒,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+卡酷少兒,http://ott.js.chinamobile.com/PLTV/4/224/3221226305/index.m3u8#http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
+新科動漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
+金鷹卡通,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+優漫卡通,http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
 
 黑莓動画,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/1.m3u8
 卡酷少兒,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
