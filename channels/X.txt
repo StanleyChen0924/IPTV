@@ -316,21 +316,16 @@ ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
 Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=qq3036107507&user=fmys
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
+CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 Disney,http://125.227.210.55:14250/VideoInput/play.ts
-Disney,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+Disney,http://125.227.210.37:14250/VideoInput/play.ts
 Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 Discovery,http://125.227.210.55:10388/VideoInput/play.ts
 Discovery,http://125.227.210.37:10388/VideoInput/play.ts
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
-CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-KAKU少兒,http://113.64.147.215:808/hls/66/index.m3u8?times=0
-Disney,http://125.227.210.55:14250/VideoInput/play.ts
-Disney,http://125.227.210.37:14250/VideoInput/play.ts
-Disney,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
