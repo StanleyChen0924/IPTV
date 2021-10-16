@@ -459,7 +459,7 @@ http://125.227.210.55:16027/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/60
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="卫视洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視洋片
 http://125.227.210.55:18789/VideoInput/play.ts
@@ -470,10 +470,10 @@ http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
 
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/80
-#http://50.7.61.148:30080/Entry/axn
+http://50.7.61.148:30080/Entry/axn
 
 #EXTINF:-1 tvg-id="6089" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-language="Chinese" group-title="電影" ,CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="電影" ,FOX電影
 #http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
@@ -484,8 +484,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/263
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
 
-#EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" tvg-logo="https://iptv-pro.github.io/logo/FX.png" group-title="電影" ,FX HD
-#http://125.227.210.55:13498/VideoInput/play.ts
+#EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" tvg-logo="https://iptv-pro.github.io/logo/FX.png" group-title="一般" ,FOX HD
+http://125.227.210.55:13498/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="" group-title="一般",影迷數位電影台
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/260
