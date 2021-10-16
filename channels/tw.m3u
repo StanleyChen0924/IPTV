@@ -669,6 +669,8 @@ rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsu
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",tvN 英文
 #http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:-1 tvg-id="" group-title="韓國" ,韓國女團
+http://tx2play1.douyucdn.cn/live/17732rtara.flv
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·TBS
 http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·TBS
