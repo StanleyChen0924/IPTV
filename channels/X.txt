@@ -481,7 +481,7 @@ Medici-Arts,http://sytv.xtvants.fun/mytv.php?id=mdqys&token=qq3036107507&user=fm
 龍華電影,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=qq3036107507&user=fmys
 龍華洋片,http://sytv.xtvants.fun/mytv.php?id=lhyp&token=qq3036107507&user=fmys
 龍華日韓,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=qq3036107507&user=fmys
-龍華卡通,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=qq3036107507&user=fmys
+龍華動畫,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=qq3036107507&user=fmys
 八大第一,http://sytv.xtvants.fun/mytv.php?id=bddy&token=qq3036107507&user=fmys
 八大戲劇,http://sytv.xtvants.fun/mytv.php?id=bdxj&token=qq3036107507&user=fmys
 八大娛樂,http://sytv.xtvants.fun/mytv.php?id=bdyl&token=qq3036107507&user=fmys
@@ -517,8 +517,7 @@ Z調,http://sytv.xtvants.fun/mytv.php?id=zpd&token=qq3036107507&user=fmys
 東森電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 龍祥時代電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 
-龍華卡通,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
-BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
+龍華動畫,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
 龍華電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
 博斯魅力,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04
 博斯高球1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05
