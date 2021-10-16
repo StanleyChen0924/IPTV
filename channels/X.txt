@@ -157,7 +157,8 @@ ELTV英語學習台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-lon
 MoMo綜合台,rtmp://59.124.75.136/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-MoMo綜合台,http://125.227.210.55:13498/VideoInput/play.ts	
+FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
+FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8	
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
@@ -208,7 +209,7 @@ TVBS新聞台,https://git.io/Jgkp1
 TVBS新聞台,rtmp://59.124.75.136/sat/tv551
 TVBS新聞台,http://43.128.9.168/jjtv.php?id=42
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
-TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
 TVBS精采台,http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free
 TVBS精采台,http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=qq3036107507&user=fmys
 TVBS歡樂台,rtmp://59.124.75.136/sat/tv421
@@ -319,8 +320,8 @@ CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-Disney,http://125.227.210.55:14250/VideoInput/play.ts
-Disney,http://125.227.210.37:14250/VideoInput/play.ts
+迪斯尼,http://125.227.210.55:14250/VideoInput/play.ts
+迪斯尼,http://125.227.210.37:14250/VideoInput/play.ts
 Discovery HD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 Discovery,http://125.227.210.55:10388/VideoInput/play.ts
 Discovery,http://125.227.210.37:10388/VideoInput/play.ts
