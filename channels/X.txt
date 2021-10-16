@@ -81,8 +81,8 @@
 公視,https://git.io/JgkxM
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視,https://stream5.woniuzfb.com/live/gs/HGbvhjpI.m3u8
-公視台語台,http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
-公視台語台,http://sytv.xtvants.fun/mytv.php?id=gs2&token=qq3036107507&user=fmys
+公視2,http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
+公視2,http://sytv.xtvants.fun/mytv.php?id=gs2&token=qq3036107507&user=fmys
 公視三台,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
 公視三台,http://sytv.xtvants.fun/mytv.php?id=gs3&token=qq3036107507&user=fmys
 大愛一台,https://git.io/Jgkx9
@@ -146,9 +146,9 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 龍華偶像台,http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
 龍華偶像台,http://sytv.xtvants.fun/mytv.php?id=lhox&token=qq3036107507&user=fmys
 龍華偶像台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
-龍華卡通台,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
-龍華卡通台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
-龍華卡通台,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=qq3036107507&user=fmys
+龍華動畫台,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
+龍華動畫台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
+龍華動畫台,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=qq3036107507&user=fmys
 龍華經典台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 ELTV英語學習台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
