@@ -725,3 +725,5 @@ https://git.io/JgkAy
 #EXTINF:-1 tvg-id="" group-title="音樂",FM 96.3 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 
+#EXTINF:-1,壹新聞TEST
+http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
