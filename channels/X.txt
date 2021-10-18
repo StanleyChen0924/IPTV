@@ -152,7 +152,7 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 ELTV英語學習台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 愛爾達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
-愛爾達綜合台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d46?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluqH%2FvmdiSntxKvj6ck8dcikx87cc7%2F0dAPXBpO8GmPP
+愛爾達綜合台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d46?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplmkUg310DVPgoUXKrLy78Kb3r3z%2ByRoGggWFzlU9zKGT
 MoMo綜合台,rtmp://59.124.75.136/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
@@ -266,13 +266,13 @@ TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 緯來電影台,http://107.167.5.66:80/mylive/102/2063/index.m3u8
 龍祥時代電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 龍祥時代電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
-HBO,rtmp://104.149.188.82/channel/6162d414295d84395baff8bd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluqH%2FvmdiSntxKvj6ck8dcikx87cc7%2F0dAPXBpO8GmPP
+HBO,rtmp://104.149.188.82/channel/6162d414295d84395baff8bd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplmkUg310DVPgoUXKrLy78Kb3r3z%2ByRoGggWFzlU9zKGT
 HBO,http://50.7.61.148:30080/Entry/hbo
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
-好萊塢電影台,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c92?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluqH%2FvmdiSntxKvj6ck8dcikx87cc7%2F0dAPXBpO8GmPP
+好萊塢電影台,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c92?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplmkUg310DVPgoUXKrLy78Kb3r3z%2ByRoGggWFzlU9zKGT
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 衛視洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://sytv.xtvants.fun/mytv.php?id=dsyp&token=free&user=free
@@ -343,15 +343,15 @@ ONE,http://210.210.155.35/uq2663/h/h143/01.m3u8
 ONE,http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 KPOP,https://git.io/JgYAE
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-tvN,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluqH%2FvmdiSntxKvj6ck8dcikx87cc7%2F0dAPXBpO8GmPP
-tvN,rtmp://104.149.191.182/channel/6162d70f295d84395bb001a9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluqH%2FvmdiSntxKvj6ck8dcikx87cc7%2F0dAPXBpO8GmPP
+tvN,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplmkUg310DVPgoUXKrLy78Kb3r3z%2ByRoGggWFzlU9zKGT
+tvN,rtmp://104.149.191.182/channel/6162d70f295d84395bb001a9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplmkUg310DVPgoUXKrLy78Kb3r3z%2ByRoGggWFzlU9zKGT
 tvN,http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/02.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 tvN,tvbus://5mQX2AnAV1rwQnqHabgh8odF6QhCieFaumRLyjLVy8b2z8zNpkVMtgoXXAa
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
-tvNMOVIES,rtmp://104.149.191.182/channel/6162d733295d84395bb00220?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluqH%2FvmdiSntxKvj6ck8dcikx87cc7%2F0dAPXBpO8GmPP
+tvNMOVIES,rtmp://104.149.191.182/channel/6162d733295d84395bb00220?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplmkUg310DVPgoUXKrLy78Kb3r3z%2ByRoGggWFzlU9zKGT
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/02.m3u8
 韓國女團,http://tx2play1.douyucdn.cn/live/17732rtara.flv
@@ -674,14 +674,14 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 
 ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 ONE,http://43.128.9.168/jjtv.php?id=33
-tvN,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluqH%2FvmdiSntxKvj6ck8dcikx87cc7%2F0dAPXBpO8GmPP
+tvN,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplmkUg310DVPgoUXKrLy78Kb3r3z%2ByRoGggWFzlU9zKGT
 tvN,http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/02.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 tvN,tvbus://5mQX2AnAV1rwQnqHabgh8odF6QhCieFaumRLyjLVy8b2z8zNpkVMtgoXXAa
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
-tvNMOVIES,rtmp://104.149.191.182/channel/6162d733295d84395bb00220?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluqH%2FvmdiSntxKvj6ck8dcikx87cc7%2F0dAPXBpO8GmPP
+tvNMOVIES,rtmp://104.149.191.182/channel/6162d733295d84395bb00220?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplmkUg310DVPgoUXKrLy78Kb3r3z%2ByRoGggWFzlU9zKGT
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/02.m3u8
 KPOP,https://git.io/JgYAE
@@ -1779,7 +1779,7 @@ J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB劇場,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=1#http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=2
 HKC有線新聞台,https://api.leonardpark.dev/live/icable/109
 HKC有線新聞台,https://api.leonardpark.dev/live/icable/109
-HKC有線新聞台,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpluqH%2FvmdiSntxKvj6ck8dcikx87cc7%2F0dAPXBpO8GmPP
+HKC有線新聞台,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplmkUg310DVPgoUXKrLy78Kb3r3z%2ByRoGggWFzlU9zKGT
 HKC有線財經資訊台,https://api.leonardpark.dev/live/icable/108
 HKC有線直播新聞台,https://api.leonardpark.dev/live/icable/110
 HKC有線新聞台,https://www.navchina.cf/IPTV/icable.php?id=37
