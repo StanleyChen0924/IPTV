@@ -788,7 +788,23 @@ Arirang TV Korea EN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil
 🇨🇳央視頻道,#genre#
 
 CCTV1综合,http://host496323.us.ooqr.com/pltv/gz.php?id=cctv-1
-
+CCTV1,http://cdnbn2.ynumc.com:8278/cctv1/playlist.m3u8
+CCTV2,http://cdnbn2.ynumc.com:8278/cctv2/playlist.m3u8
+CCTV3,http://cdnbn2.ynumc.com:8278/cctv3/playlist.m3u8
+CCTV4,http://cdnbn2.ynumc.com:8278/cctv4/playlist.m3u8
+CCTV5,http://cdnbn2.ynumc.com:8278/cctv5/playlist.m3u8
+CCTV5+,http://cdnbn2.ynumc.com:8278/cctv5p/playlist.m3u8
+CCTV6,http://cdnbn2.ynumc.com:8278/cctv6/playlist.m3u8
+CCTV7,http://cdnbn2.ynumc.com:8278/cctv7/playlist.m3u8
+CCTV8,http://cdnbn2.ynumc.com:8278/cctv8/playlist.m3u8
+CCTV9,http://cdnbn2.ynumc.com:8278/cctv9/playlist.m3u8
+CCTV10,http://cdnbn2.ynumc.com:8278/cctv10/playlist.m3u8
+CCTV11,http://cdnbn2.ynumc.com:8278/cctv11/playlist.m3u8
+CCTV12,http://cdnbn2.ynumc.com:8278/cctv12/playlist.m3u8
+CCTV13,http://cdnbn2.ynumc.com:8278/cctv13/playlist.m3u8
+CCTV14,http://cdnbn2.ynumc.com:8278/cctv14/playlist.m3u8
+CCTV15,http://cdnbn2.ynumc.com:8278/cctv15/playlist.m3u8
+CCTV17,http://cdnbn2.ynumc.com:8278/cctv17/playlist.m3u8
 CCTV-1综合,http://60.255.49.202/live/CCTV-1H265_4000.m3u8
 CCTV-1综合,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
