@@ -158,6 +158,7 @@ ELTV英語學習台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-lon
 愛爾達綜合台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d46?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplhQ%2BdiIxcxaXY1fDJSAWEDnTwCjUkzxCAu7iP7UDwjFH
 愛爾達娛樂台,http://43.128.9.168/jjtv.php?id=53
 愛爾達娛樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
+愛爾達娛樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/PSPjtl4dGgI/4gtv-4gtv070-avc1_2000000=1-mp4a_131000_zho=2.m3u8
 MoMo綜合台,rtmp://59.124.75.136/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
