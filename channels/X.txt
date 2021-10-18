@@ -34,6 +34,7 @@
 民視旅遊台,http://seb.sason.top/ptv/ftv.php?id=ly
 民視綜藝台,https://4gtvfreemobile-mozai.4gtv.tv/0df68Gf2eZZfeig9vWfaKfrjsVCG-GW-OCbyLHhoW0M%3d/stream2.m3u8?token=kZe4eLTn9CRCt4byOtfzpQ&expires=1628316954&refer=ZDRjZGQzODAtOTUyMi00ZDAxLTgyMzktZTMyMzFiZWUwZGIz&token1=kHxHRFjqciiDO5a-uaorqw&expires1=1628345754&y=0&vt=
 民視綜藝台,https://4gtvfreemobile-mozai.4gtv.tv/NgfVD30MBxjs1kU9m3lMtxjPqnu2_Me6anz6aPf7PYc%3d/stream2.m3u8?token=m-OTQK_06hRbFrhAJwCjTA&expires=1632730935&token1=8kPUOFYapn4YUVKcqEpDxA&expires1=1632759735&refer=YWQ5MDU3YjYtNGViYy00MGJkLWJiMjMtZjg1NmMyMTYyODU1&y=0&vt=
+民視綜藝台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/tQOK-BZ2yVw/4gtv-4gtv004-avc1_6000000=1-mp4a_134000=2.m3u8
 民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
 台視,rtmp://59.124.75.136/sat/tv071
 台視,http://50.7.61.148:30080/Entry/ttv
@@ -156,9 +157,9 @@ FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 ELTV英語學習台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 愛爾達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 愛爾達綜合台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d46?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplhQ%2BdiIxcxaXY1fDJSAWEDnTwCjUkzxCAu7iP7UDwjFH
+愛爾達娛樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/PSPjtl4dGgI/4gtv-4gtv070-avc1_2000000=1-mp4a_131000_zho=2.m3u8
 愛爾達娛樂台,http://43.128.9.168/jjtv.php?id=53
 愛爾達娛樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
-愛爾達娛樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/PSPjtl4dGgI/4gtv-4gtv070-avc1_2000000=1-mp4a_131000_zho=2.m3u8
 MoMo綜合台,rtmp://59.124.75.136/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
@@ -399,6 +400,96 @@ MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=qq3036107507&user=fmys
 
 
 🇹🇼港台720,#genre#
+
+民視台灣台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/qLn1DGJCtu8/4gtv-4gtv001-avc1_6000000=1-mp4a_130000=7.m3u8
+民視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/vQXtS2Yt_K4/4gtv-4gtv002-avc1_6000000=1-mp4a_138000=2.m3u8
+民視第一台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/O6KZLceOVh8/4gtv-4gtv003-avc1_6000000=1-mp4a_128000=7.m3u8
+民視綜藝,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/tQOK-BZ2yVw/4gtv-4gtv004-avc1_6000000=1-mp4a_134000=2.m3u8
+豬哥亮歌廳秀,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/tNO56G2kGQk/4gtv-4gtv006-avc1_6000000=1-mp4a_139000=2.m3u8
+中天新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/UEFgvi0TMUE/4gtv-4gtv009-avc1_6000000=2-mp4a_132000=7.m3u8
+非凡新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/EmkOvRcpIU0/4gtv-4gtv010-avc1_6000000=1-mp4a_125000_zho=2.m3u8
+影迷數位電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/CEPP_Pv-lMg/4gtv-4gtv011-avc1_6000000=1-mp4a_121000=2.m3u8
+Cnex,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/D7fTmXTl5_Y/4gtv-4gtv013-avc1_6000000=1-mp4a_127000_zho=10.m3u8
+時尚運動,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/byzYv2UErz4/4gtv-4gtv014-avc1_2000000=8-mp4a_124000_zho=9.m3u8
+韓國娛樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/ro3cPz4NSpU/4gtv-4gtv016-avc1_6000000=1-mp4a_119000_zho=2.m3u8
+達文西,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/62_jhES1EZU/4gtv-4gtv018-avc1_6000000=1-mp4a_130000_zho=7.m3u8
+八大精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/JxOgRLDIf3w/4gtv-4gtv034-avc1_6000000=1-mp4a_134000_zho=6.m3u8
+八大綜合台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/kfV1umjDf2Q/4gtv-4gtv039-avc1_3000000=6-mp4a_123000_zho=5.m3u8
+中視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/tVcRvDFpP4o/4gtv-4gtv040-avc1_6000000=1-mp4a_133000_zho=6.m3u8
+華視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/0Q06gJW8dzo/4gtv-4gtv041-avc1_6000000=1-mp4a_132000_zho=6.m3u8
+公視戲劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/G1FeuPFO5qM/4gtv-4gtv042-avc1_6000000=1-mp4a_135000_zho=2.m3u8
+客家電視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/7fw3h-hLHfw/4gtv-4gtv043-avc1_6000000=1-mp4a_148000=2.m3u8
+靖天卡通台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/XbLczgml9HI/4gtv-4gtv044-avc1_6000000=1-mp4a_147000_zho=2.m3u8
+靖洋戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/itvts.php?ts=hi/vod/AGfxNdjlrgE/4gtv-4gtv045-avc1_6000000=1-mp4a_133000_zho=2.m3u8
+靖天綜合台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/slSvwp6xQG8/4gtv-4gtv046-avc1_6000000=1-mp4a_131000_zho=2.m3u8
+靖天日本台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/yFjO8Ncqg4c/4gtv-4gtv047-avc1_6000000=1-mp4a_131000_zho=2.m3u8
+非凡商業,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/CEFQeR8-MiA/4gtv-4gtv048-avc1_6000000=1-mp4a_122000_zho=2.m3u8
+採昌,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/OdVCFS0e_6k/4gtv-4gtv049-avc1_6000000=1-mp4a_122000_zho=2.m3u8
+台視新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/cpVr_7deDkU/4gtv-4gtv051-avc1_6000000=1-mp4a_141000_zho=2.m3u8
+華視新聞資訊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/hddrpVVg0JM/4gtv-4gtv052-avc1_6000000=1-mp4a_124000_zho=2.m3u8
+Ginx Esports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/e3EWht0HBHc/4gtv-4gtv053-avc1_6000000=1-mp4a_130000_zho=2.m3u8
+靖天歡樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/LHA9ykmrxuI/4gtv-4gtv054-avc1_6000000=1-mp4a_132000_zho=2.m3u8
+靖天映畫台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/-RgOwdEF2uU/4gtv-4gtv055-avc1_6000000=1-mp4a_120000_zho=2.m3u8
+台視財經,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/2KQK5vNLsdw/4gtv-4gtv056-avc1_6000000=1-mp4a_124000_zho=2.m3u8
+靖洋卡通,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/DsR4BNweETk/4gtv-4gtv057-avc1_6000000=1-mp4a_125000_zho=2.m3u8
+靖天戲劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/sbV56KH7JtQ/4gtv-4gtv058-avc1_6000000=1-mp4a_149000_zho=2.m3u8
+CLASSICA 古典樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/qnB7FpxWwxM/4gtv-4gtv059-avc1_2000000=1-mp4a_129000_zho=2.m3u8
+靖天電影台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/3NovODqZ9rg/4gtv-4gtv061-avc1_6000000=1-mp4a_139000_zho=2.m3u8
+靖天育樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/vr_hE9GgweQ/4gtv-4gtv062-avc1_6000000=1-mp4a_137000_zho=2.m3u8
+靖天國際台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/Fvwn5szYy5k/4gtv-4gtv063-avc1_6000000=1-mp4a_139000_zho=2.m3u8
+中視精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/LQ6Vx2fu8h8/4gtv-4gtv064-avc1_6000000=1-mp4a_119000_zho=2.m3u8
+靖天資訊台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/41pGV3HFu6g/4gtv-4gtv065-avc1_6000000=1-mp4a_130000_zho=2.m3u8
+台視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/XUw9PklhSoQ/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2.m3u8
+TVBS精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/pUb4-5Ph638/4gtv-4gtv067-avc1_6000000=1-mp4a_134000_zho=2.m3u8
+TVBS歡樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/Md2jCAsQwNA/4gtv-4gtv068-avc1_6000000=1-mp4a_127000=2.m3u8
+愛爾達娛樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/g7odDsKcEVg/4gtv-4gtv070-avc1_2000000=1-mp4a_131000_zho=2.m3u8
+TVBS新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/hEv7_DvQi8E/4gtv-4gtv072-avc1_6000000=1-mp4a_134000_zho=2.m3u8
+TVBS直播,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/cLMks18E-bg/4gtv-4gtv073-avc1_6000000=1-mp4a_135000_zho=2.m3u8
+中視新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/P7mJmnMsPgI/4gtv-4gtv074-avc1_6000000=1-mp4a_140000_zho=2.m3u8
+Catch Play,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/-_NuUTFlwso/4gtv-4gtv076-avc1_6000000=1-mp4a_139000=2.m3u8
+Trace Sports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/JXWuB31VoWo/4gtv-4gtv077-avc1_2000000=1-mp4a_135000_zho=2.m3u8
+Arirang,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/sjtmNaYVnhk/4gtv-4gtv079-avc1_6000000=1-mp4a_130000_zho=2.m3u8
+中視經典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/DfAJPINHzPg/4gtv-4gtv080-avc1_2000000=1-mp4a_129000_zho=2.m3u8
+Trace Urban,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/kzOVPZrC7NQ/4gtv-4gtv082-avc1_6000000=1-mp4a_125000_zho=2.m3u8
+Mezzo Live HD,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/ISaKPeJXyMU/4gtv-4gtv083-avc1_2000000=1-mp4a_132000_zho=2.m3u8
+國會頻道1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/GoFtWrl85Wk/4gtv-4gtv084-avc1_2000000=1-mp4a_138000_zho=2.m3u8
+國會頻道2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/IeCKRZXBSb4/4gtv-4gtv085-avc1_2000000=1-mp4a_162000_zho=2.m3u8
+智林體育,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/Ebdh0Oewde8/4gtv-4gtv101-avc1_2000000=1-mp4a_131000_zho=2.m3u8
+東森購物1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/IRTmVvP7xaM/4gtv-4gtv102-avc1_6000000=1-mp4a_132000_zho=2.m3u8
+東森購物2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/A6wC-wmT0co/4gtv-4gtv103-avc1_6000000=1-mp4a_137000_zho=2.m3u8
+財經頻道,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/9d0RJRj4m8I/4gtv-4gtv104-avc1_6000000=1-mp4a_125000_zho=2.m3u8
+中天亞洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/ChAcIDeesJ8/4gtv-4gtv109-avc1_6000000=1-mp4a_176000_zho=2.m3u8
+
+V0A美國之音,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/-CspiPw8FEo/litv-ftv03-audio_20000=129600-video=2936000.m3u8
+民視旅遊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/EcKI8MPxU3w/litv-ftv07-audio_20000=121000-video=6000000.m3u8
+民視影劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/ZdUqwT0qph8/litv-ftv09-audio_20000=129000-video=6000000.m3u8
+半島國際新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/0hivt7SDSVM/litv-ftv10-audio_20000=130800-video=3000000.m3u8
+民視新聞台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/yUQ0gwxcRkE/litv-ftv13-audio_20000=113000-video=6000000.m3u8
+愛放i-Fun動漫台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/vzrr7eUPhfY/litv-ftv15-audio_20000=124000-video=6000000.m3u8
+好消息,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/DYEBNN_rf8Q/litv-ftv16-audio_20000=160000-video=6000000.m3u8
+好消息2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/AVF3y_wpO3s/litv-ftv17-audio_20000=121000-video=6000000.m3u8
+龍華卡通,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/-N-jxgABAyo/litv-longturn01-audio_20000=64000-video=2936000.m3u8
+BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/T5K_WIrbZjY/litv-longturn02-audio_20000=64000-video=2936000.m3u8
+龍華電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/ssI92JddL_Q/litv-longturn03-audio_20000=64000-video=5936000.m3u8
+博斯魅力,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/kJ5UJukdIgY/litv-longturn04-audio_20000=64000-video=5936000.m3u8
+博斯高球1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/BRQxFJ83yp4/litv-longturn05-audio_20000=64000-video=5936000.m3u8
+博斯高球2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/F4BKk3WP6-U/litv-longturn06-audio_20000=64000-video=5936000.m3u8
+博斯運動1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/OBKt45c7vac/litv-longturn07-audio_20000=64000-video=5936000.m3u8
+博斯運動2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/gTe3NXv3lkQ/litv-longturn08-audio_20000=64000-video=5936000.m3u8
+博斯網球,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/kmh4N7nSHPY/litv-longturn09-audio_20000=64000-video=5936000.m3u8
+博斯無限,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/2aJleS-Dntg/litv-longturn10-audio_20000=64000-video=5936000.m3u8
+龍華日韓,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/35ZN2H9qeJ8/litv-longturn11-audio_20000=64000-video=5936000.m3u8
+龍華偶像,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/MVtzS6h4PrU/litv-longturn12-audio_20000=64000-video=5936000.m3u8
+博斯電玩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/DaRKJQUZ-nE/litv-longturn13-audio_20000=64000-video=2936000.m3u8
+寰宇新闻台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/OykZZVj3U4o/litv-longturn14-audio_20000=117000-video=6000000.m3u8
+寰宇新聞台湾台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/I0cDId9fFB8/litv-longturn15-audio_20000=64000-video=5936000.m3u8
+梅蒂斯藝術,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/88yXwoIELBI/litv-longturn16-audio_20000=65600-video=6000000.m3u8
+亞洲旅遊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/H3BBZeBlAlc/litv-longturn17-audio_20000=64000-video=2936000.m3u8
+龍華戲劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/nmJVDDXwMO4/litv-longturn18-avc1_6000000=5-mp4a_64000=2.m3u8
+FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/j3jdDkmuZiM/litv-longturn19-avc1_6000000=5-mp4a_64000=2.m3u8
+ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/Bbv1xl8GB0g/litv-longturn20-audio_20000=65600-video=5936000.m3u8
+龍華經典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/Khk8a7Iz3J0/litv-longturn21-audio_20000=64000-video=5936000.m3u8
+
 
 民視台灣台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
 民視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
