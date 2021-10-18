@@ -665,7 +665,7 @@ http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
 #http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",tvN 中文
-rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplmkUg310DVPgoUXKrLy78Kb3r3z%2ByRoGggWFzlU9zKGT
+rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpln2mRU46lBllmPISKE5GlRJGVvpJbreV%2F5tosBZic%2BFR
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",tvN 英文
 #http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
