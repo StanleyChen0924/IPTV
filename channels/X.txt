@@ -394,7 +394,10 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=qq3036107507&user=fmys
-梅蒂斯藝術,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn16
+
+
+
+🇹🇼港台720,#genre#
 
 民視台灣台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
 民視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
@@ -484,7 +487,6 @@ FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 龍華經典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 
-🇹🇼港台720,#genre#
 TVBS新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
