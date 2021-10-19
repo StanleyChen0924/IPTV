@@ -947,7 +947,7 @@
       ]
     },
     {
-      "group": "央视",
+      "group": "央視",
       "channels": [
         {
           "name": "CCTV1综合",
@@ -1152,9 +1152,8 @@
         }
       ]
     },
-    
     {
-      "group": "卫视",
+      "group": "衛視",
       "channels": [
         {
           "name": "山西卫视",
@@ -3472,113 +3471,6 @@
           "name": "峨眉电影",
           "urls": [
             "http://60.255.49.202/live/emdygqH265_4000.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "NewTV",
-      "channels": [
-        {
-          "name": "NewTV愛情喜劇",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj"
-          ]
-        },
-        {
-          "name": "NewTV潮媽辣婆",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo"
-          ]
-        },
-        {
-          "name": "NewTV動作電影",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody"
-          ]
-        },
-        {
-          "name": "NewTV古裝劇場",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc"
-          ]
-        },
-        {
-          "name": "NewTV黑莓電競之夜",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/wmyx/wmyx"
-          ]
-        },
-        {
-          "name": "NewTV黑莓電影",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie"
-          ]
-        },
-        {
-          "name": "NewTV黑莓動畫",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg"
-          ]
-        },
-        {
-          "name": "NewTV家庭劇場",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc"
-          ]
-        },
-        {
-          "name": "NewTV金牌綜藝",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx"
-          ]
-        },
-        {
-          "name": "NewTV精品大劇",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju"
-          ]
-        },
-        {
-          "name": "NewTV精品體育",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu"
-          ]
-        },
-        {
-          "name": "NewTV精品綜合",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp"
-          ]
-        },
-        {
-          "name": "NewTV軍旅劇場",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc"
-          ]
-        },
-        {
-          "name": "NewTV軍事評論",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl"
-          ]
-        },
-        {
-          "name": "NewTV農業致富",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf"
-          ]
-        },
-        {
-          "name": "NewTV熱播精選",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"
-          ]
-        },
-        {
-          "name": "NewTV中國功夫",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu"
           ]
         }
       ]
