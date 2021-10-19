@@ -206,6 +206,7 @@ rtmp://59.124.75.136/sat/tv761
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png" ,東森超視
 http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
+#https://flv3948069e.live.126.net/live/sytv_e0c30bc8ee846a19f53dde422e773b0b.flv
 #rtmp://59.124.75.136/sat/tv521
 #rtmp://161.202.204.248:1935/sat/tv521
 
