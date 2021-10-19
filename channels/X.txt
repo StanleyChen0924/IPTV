@@ -191,8 +191,7 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森幼幼點點名,https://git.io/JgYON
 東森超視,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
 東森超視,http://sytv.xtvants.fun/mytv.php?id=dscs&token=qq3036107507&user=fmys
-東森超視,rtmp://59.124.75.136/sat/tv521
-東森超視,rtmp://161.202.204.248:1935/sat/tv521
+東森超視,https://flv3948069e.live.126.net/live/sytv_e0c30bc8ee846a19f53dde422e773b0b.flv
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
 東森戲劇,http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
@@ -303,8 +302,8 @@ HBO,http://50.7.61.148:30080/Entry/hbo
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
-HBO-HD,http://125.227.210.55:16027/VideoInput/play.ts
-HBO-HD,http://125.227.210.37:16027/VideoInput/play.ts
+HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
+HBOHD,http://125.227.210.37:16027/VideoInput/play.ts
 好萊塢電影台,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c92?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltIRIpDCasXRmMBqc%2FFlKmtshZwUrPqTRDzmRUL3HQxp
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 衛視洋片,http://125.227.210.37:18789/VideoInput/play.ts
