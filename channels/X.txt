@@ -157,7 +157,6 @@ FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 ELTV英語學習台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 愛爾達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 愛爾達綜合台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d46?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltIRIpDCasXRmMBqc%2FFlKmtshZwUrPqTRDzmRUL3HQxp
-愛爾達娛樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/PSPjtl4dGgI/4gtv-4gtv070-avc1_2000000=1-mp4a_131000_zho=2.m3u8
 愛爾達娛樂台,http://43.128.9.168/jjtv.php?id=53
 愛爾達娛樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
 MoMo綜合台,rtmp://59.124.75.136/sat/tv761
@@ -882,7 +881,7 @@ Arirang TV Korea EN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil
 
 🇨🇳央視頻道,#genre#
 
-CCTV1综合,http://host496323.us.ooqr.com/pltv/gz.php?id=cctv-1
+
 CCTV1,http://cdnbn2.ynumc.com:8278/cctv1/playlist.m3u8
 CCTV2,http://cdnbn2.ynumc.com:8278/cctv2/playlist.m3u8
 CCTV3,http://cdnbn2.ynumc.com:8278/cctv3/playlist.m3u8
@@ -901,9 +900,11 @@ CCTV13,http://cdnbn2.ynumc.com:8278/cctv13/playlist.m3u8
 CCTV14,http://cdnbn2.ynumc.com:8278/cctv14/playlist.m3u8
 CCTV15,http://cdnbn2.ynumc.com:8278/cctv15/playlist.m3u8
 CCTV17,http://cdnbn2.ynumc.com:8278/cctv17/playlist.m3u8
+
 CCTV-1综合,http://60.255.49.202/live/CCTV-1H265_4000.m3u8
 CCTV-1综合,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+CCTV1综合,http://host496323.us.ooqr.com/pltv/gz.php?id=cctv-1
 CCTV-2财经,http://60.255.49.202/live/CCTV-2H265_4000.m3u8
 CCTV-2财经,http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 CCTV-3综艺,https://p4.weizan.cn/1228393605/270303707572166290/live.m3u8
