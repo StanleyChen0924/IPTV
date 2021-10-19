@@ -3091,7 +3091,7 @@
       ]
     },
     {
-      "group": "港澳台1",
+      "group": "港澳台",
       "channels": [
         {
           "name": "大爱1台",
@@ -3108,6 +3108,7 @@
         {
           "name": "东森超视",
           "urls": [
+            "http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free",
             "rtmp://161.202.204.248/sat/tv771",
             "rtmp://161.202.204.248/sat/tv772",
             "http://104.192.80.69/api.auete.com/ggg.m3u8.php?id=69"
