@@ -431,6 +431,65 @@ MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=qq3036107507&user=fmys
 
 
 🇹🇼港台1019,#genre#
+民视,http://v3948069e.live.126.net/live/nteimwyu30134860/28.flv
+民視第一台,http://v3948069e.live.126.net/live/epreliwi80996113/29.flv
+民視台湾台,http://v3948069e.live.126.net/live/htdndniz25866884/30.flv
+民視綜藝,http://v3948069e.live.126.net/live/lsvtdgwt69296670/31.flv
+民視旅游,http://v3948069e.live.126.net/live/dyjmdzws81670834/32.flv
+民视新闻台,http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv
+中视新闻台,http://v3948069e.live.126.net/live/dscspbkh98253248/37.flv
+台视新闻,http://v3948069e.live.126.net/live/ugdbeaya63838689/38.flv
+寰宇新闻,http://v3948069e.live.126.net/live/paevmpzc60020136/39.flv
+中天新聞,http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
+年代新闻,http://v3948069e.live.126.net/live/tdhzoveg27028949/41.flv
+东森新闻,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
+东森财经,http://v3948069e.live.126.net/live/xttzgmzd89254972/43.flv
+TVBS ,http://v3948069e.live.126.net/live/olqudmbl26461676/44.flv
+华视新闻,http://v3948069e.live.126.net/live/faynljtw39421227/45.flv
+TVBS新闻台,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
+三立iNEWS,http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
+三立Live新闻,http://v3948069e.live.126.net/live/tizinjzv54935020/48.flv
+非凡新闻,http://v3948069e.live.126.net/live/fvyokqzp68633443/49.flv
+壹新闻,http://v3948069e.live.126.net/live/xtxndaws57833801/50.flv
+BBCNews,http://v3948069e.live.126.net/live/cakbruve46655165/51.flv
+ABCnews,http://v3948069e.live.126.net/live/wbrbruqn78846690/52.flv
+CNN,http://v3948069e.live.126.net/live/vhyiolar25209544/54.flv
+NHK World,http://v3948069e.live.126.net/live/uxoeaxnk44941053/55.flv
+CNA,http://v3948069e.live.126.net/live/xyptvspr68769369/56.flv
+JET综合,http://v3948069e.live.126.net/live/wakudnpz00430412/57.flv
+Thrill,http://v3948069e.live.126.net/live/wkcsulor10807304/84.flv
+AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
+台视综合,https://flv3948069e.live.126.net/live/sytv_a3230bb77e846899c6cdded52e7732f3.flv
+华视教育,https://flv3948069e.live.126.net/live/sytv_91030b1dae846205fdcdded56e773477.flv
+公视,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
+公视台语台,https://flv3948069e.live.126.net/live/sytv_b2c30b53ae84670a8b8dde5c2e7733db.flv
+公视3,https://flv3948069e.live.126.net/live/sytv_f8630b6a5e8461aca04dde1d5e773c81.flv
+东森幼幼,https://flv3948069e.live.126.net/live/sytv_af430bf86e846549a43dde18be773787.flv
+东森综合,https://flv3948069e.live.126.net/live/sytv_0f630b5d9e846b6ce81ddedcfe773eb1.flv
+东森戏剧,https://flv3948069e.live.126.net/live/sytv_ed630bae0e846d775dbdde1e9e773a71.flv
+东森超视,https://flv3948069e.live.126.net/live/sytv_e0c30bc8ee846a19f53dde422e773b0b.flv
+东森洋片,https://flv3948069e.live.126.net/live/sytv_02f30bf53e84628fcf0dde0bae773f6f.flv
+东森电影,https://flv3948069e.live.126.net/live/sytv_e8830b768e8469f6755dde403e773504.flv
+中天综合台,https://flv3948069e.live.126.net/live/sytv_acd30b276e846e42e1addec77e77314b.flv
+中天娱乐台,https://flv3948069e.live.126.net/live/sytv_a2130beebe8469b84c6dde06fe773b34.flv
+三立综合台,https://flv3948069e.live.126.net/live/sytv_68630ba2ae846bae3b0ddebcee773182.flv
+三立台湾台,https://flv3948069e.live.126.net/live/sytv_e4030b695e8468e6698dde658e7737fe.flv
+三立都会台,https://flv3948069e.live.126.net/live/sytv_df030be85e8465cba8bdde25ee7731f8.flv
+三立戏剧台,https://flv3948069e.live.126.net/live/sytv_12d30b786e84667f624dde7bae773b99.flv
+三立新闻台,https://flv3948069e.live.126.net/live/sytv_6aa30b0cbe8460a218addee46e773f2e.flv
+三立财经新闻台,https://flv3948069e.live.126.net/live/sytv_aa430bd4ce8464e8df8dde26ce77300e.flv
+MTV综合台,https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
+年代新闻,https://flv3948069e.live.126.net/live/sytv_42130b58fe846ad0680ddefd6e773390.flv
+年代MUCH,https://flv3948069e.live.126.net/live/sytv_29d30bed1e8460f70a0dde412e7737ff.flv
+JET综合,https://flv3948069e.live.126.net/live/sytv_95630b467e8461e8adedde4f4e7739ef.flv
+东风卫视,https://flv3948069e.live.126.net/live/sytv_f1130b7efe8468c2a48dde3d0e773b13.flv
+壹新闻,https://flv3948069e.live.126.net/live/sytv_dbc30bc81e846ceeb07dde0d7e773580.flv
+壹电影,https://flv3948069e.live.126.net/live/sytv_4e030b54de8467636b7dde257e7736cc.flv
+高点综合,https://flv3948069e.live.126.net/live/sytv_32630b02ce8468a2f27ddef1ae773d18.flv
+高点育乐,https://flv3948069e.live.126.net/live/sytv_2ec30b8dfe846e1ce5dddee84e7730f6.flv
+霹雳台湾台,https://flv3948069e.live.126.net/live/sytv_e3d30bd35e84661fc99dde3c7e773f89.flv
+Z频道,https://flv3948069e.live.126.net/live/sytv_68130b91ee8465fdeb3dde2c8e773a3f.flv
+卫视电影台,https://flv3948069e.live.126.net/live/sytv_72a30baf1e84656b6e2dde008e77399a.flv
 
 民視台灣台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
 民視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
