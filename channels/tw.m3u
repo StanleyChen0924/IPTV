@@ -904,3 +904,29 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 #EXTINF:-1 group-title="20211018新增測試",龍華經典
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+
+#EXTM3U
+#EXTINF:-1 group-title="影視輪播",SNH48劇場公演
+http://112.74.200.9:88/tv000000/m3u8.php?//617432328
+#EXTINF:-1 group-title="影視輪播",周潤發
+http://112.74.200.9:88/tv000000/m3u8.php?//639526984
+#EXTINF:-1 group-title="影視輪播",周星馳
+http://112.74.200.9:88/tv000000/m3u8.php?//623338112
+#EXTINF:-1 group-title="影視輪播",成龍
+http://112.74.200.9:88/tv000000/m3u8.php?//707671890
+#EXTINF:-1 group-title="影視輪播",張國榮
+http://112.74.200.9:88/tv000000/m3u8.php?//707689526
+#EXTINF:-1 group-title="影視輪播",郭富城
+http://112.74.200.9:88/tv000000/m3u8.php?//639528330
+#EXTINF:-1 group-title="影視輪播",吳京
+http://112.74.200.9:88/tv000000/m3u8.php?//625681368
+#EXTINF:-1 group-title="影視輪播",劉德華
+http://112.74.200.9:88/tv000000/m3u8.php?//659315648
+#EXTINF:-1 group-title="影視輪播",楊冪
+http://112.74.200.9:88/tv000000/m3u8.php?//625542372
+#EXTINF:-1 group-title="影視輪播",劉亦菲
+http://112.74.200.9:88/tv000000/m3u8.php?//639528386
+#EXTINF:-1 group-title="影視輪播",古天樂
+http://112.74.200.9:88/tv000000/m3u8.php?//627198610
+#EXTINF:-1 group-title="影視輪播",金庸頻道
+http://112.74.200.9:88/tv000000/m3u8.php?//625774640
