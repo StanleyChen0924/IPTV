@@ -167,6 +167,7 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8	
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
+MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森幼幼,http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
 東森幼幼,http://sytv.xtvants.fun/mytv.php?id=dsyy&token=qq3036107507&user=fmys
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
