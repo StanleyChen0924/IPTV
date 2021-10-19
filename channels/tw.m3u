@@ -729,7 +729,6 @@ https://git.io/JgkAy
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 
 
-#EXTM3U
 #EXTINF:-1 group-title="20211018新增測試",民視台灣台
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
 #EXTINF:-1 group-title="20211018新增測試",民視
@@ -905,28 +904,78 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 #EXTINF:-1 group-title="20211018新增測試",龍華經典
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 
-#EXTM3U
-#EXTINF:-1 group-title="影視輪播",SNH48劇場公演
-http://112.74.200.9:88/tv000000/m3u8.php?//617432328
-#EXTINF:-1 group-title="影視輪播",周潤發
-http://112.74.200.9:88/tv000000/m3u8.php?//639526984
-#EXTINF:-1 group-title="影視輪播",周星馳
-http://112.74.200.9:88/tv000000/m3u8.php?//623338112
-#EXTINF:-1 group-title="影視輪播",成龍
-http://112.74.200.9:88/tv000000/m3u8.php?//707671890
-#EXTINF:-1 group-title="影視輪播",張國榮
-http://112.74.200.9:88/tv000000/m3u8.php?//707689526
-#EXTINF:-1 group-title="影視輪播",郭富城
-http://112.74.200.9:88/tv000000/m3u8.php?//639528330
-#EXTINF:-1 group-title="影視輪播",吳京
-http://112.74.200.9:88/tv000000/m3u8.php?//625681368
-#EXTINF:-1 group-title="影視輪播",劉德華
-http://112.74.200.9:88/tv000000/m3u8.php?//659315648
-#EXTINF:-1 group-title="影視輪播",楊冪
-http://112.74.200.9:88/tv000000/m3u8.php?//625542372
-#EXTINF:-1 group-title="影視輪播",劉亦菲
-http://112.74.200.9:88/tv000000/m3u8.php?//639528386
-#EXTINF:-1 group-title="影視輪播",古天樂
-http://112.74.200.9:88/tv000000/m3u8.php?//627198610
+
+#EXTINF:-1 group-title="影視輪播",喜劇聯盟
+http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
+#EXTINF:-1 group-title="影視輪播",古天樂影院
+http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 group-title="影視輪播",成龍作品集
+http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 group-title="影視輪播",郭富城影院
+http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+#EXTINF:-1 group-title="影視輪播",張國榮影院
+http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+#EXTINF:-1 group-title="影視輪播",高分影院
+http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
+#EXTINF:-1 group-title="影視輪播",周潤發影院
+http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 group-title="影視輪播",懷舊老片
+http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+#EXTINF:-1 group-title="影視輪播",周星馳影院
+http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+#EXTINF:-1 group-title="影視輪播",午夜失眠劇場
+http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
+#EXTINF:-1 group-title="影視輪播",吳京作品集
+http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
+#EXTINF:-1 group-title="影視輪播",雲上電影院
+http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1 group-title="影視輪播",每日科幻電影
+http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
+#EXTINF:-1 group-title="影視輪播",葛優作品集
+http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
+#EXTINF:-1 group-title="影視輪播",劉德華影院
+http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1 group-title="影視輪播",殭屍劇場
+http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+#EXTINF:-1 group-title="影視輪播",劉亦菲影視展播
+http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+#EXTINF:-1 group-title="影視輪播",TVB劇場
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 #EXTINF:-1 group-title="影視輪播",金庸頻道
-http://112.74.200.9:88/tv000000/m3u8.php?//625774640
+http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
+#EXTINF:-1 group-title="影視輪播",新片放映廳
+http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
+#EXTINF:-1 group-title="影視輪播",盜墓方法論
+http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
+#EXTINF:-1 group-title="影視輪播",試膽大會
+http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+#EXTINF:-1 group-title="影視輪播",高能燒腦時刻
+http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
+#EXTINF:-1 group-title="影視輪播",楊冪作品集
+http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
+#EXTINF:-1 group-title="影視輪播",4K劇場
+http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
+#EXTINF:-1 group-title="影視輪播",愛情公寓
+http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
+#EXTINF:-1 group-title="影視輪播",軍旅劇場
+http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+#EXTINF:-1 group-title="影視輪播",SNH48劇場公演
+http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+#EXTINF:-1 group-title="影視輪播",紅色諜戰劇場
+http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
+#EXTINF:-1 group-title="影視輪播",少林劇場
+http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
+#EXTINF:-1 group-title="影視輪播",神探狄仁傑
+http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
+#EXTINF:-1 group-title="影視輪播",黃金劇場
+http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
+#EXTINF:-1 group-title="影視輪播",追劇少女
+http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+#EXTINF:-1 group-title="影視輪播",古龍作品集
+http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
+#EXTINF:-1 group-title="影視輪播",經典賀歲片
+http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+#EXTINF:-1 group-title="影視輪播",每日薦影
+http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+#EXTINF:-1 group-title="影視輪播",武俠劇場
+http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
