@@ -172,6 +172,16 @@ FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
 FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8	
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
+八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
+八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
+八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
+八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
+八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
+八大娛樂台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
+八大娛樂台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森幼幼,http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
@@ -183,6 +193,8 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森超視,http://sytv.xtvants.fun/mytv.php?id=dscs&token=qq3036107507&user=fmys
 東森超視,rtmp://59.124.75.136/sat/tv521
 東森超視,rtmp://161.202.204.248:1935/sat/tv521
+東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
+東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
 東森戲劇,http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
 東森戲劇,http://sytv.xtvants.fun/mytv.php?id=dsxj&token=qq3036107507&user=fmys
 東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
@@ -201,10 +213,14 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森財經,rtmp://59.124.75.136/sat/tv571
 東森財經,rtmp://161.202.204.248:1935/sat/tv571
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
+人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
 JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=qq3036107507&user=fmys
 JET綜合台,http://50.7.61.147:30080/Entry/jet
 JET綜合台,http://43.128.9.168/jjtv.php?id=52
+國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
+國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 緯來日本,rtmp://59.124.75.136/sat/tv771
 緯來日本,rtmp://161.202.204.248:1935/sat/tv771
 緯來日本,http://50.7.61.147:30080/Entry/vljp
@@ -306,6 +322,7 @@ AXN,http://50.7.61.148:30080/Entry/axn
 AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 AXN,http://iptv5.phoves.com.cn/api/mitv.php?id=80
 AXN,http://43.128.9.168/jjtv.php?id=80
+AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 影迷數位電影,http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free
@@ -410,7 +427,7 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=qq3036107507&user=fmys
-
+亞洲美食,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 
 
 🇹🇼港台1019,#genre#
@@ -3379,11 +3396,11 @@ CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 三立财经,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 三立都会台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
-八大戏剧台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
-八大综合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
-八大娱乐台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
-八大娱乐台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
+八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
+八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
+八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
+八大娛樂台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 纬来日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
 纬来戏剧,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
