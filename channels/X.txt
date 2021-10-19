@@ -10,6 +10,7 @@
 民視,rtmp://161.202.204.248:1935/sat/tv051
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
+民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 民視新聞台,https://git.io/JgkAb
 民視新聞台,http://43.128.9.168/jjtv.php?id=32
 民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
@@ -101,11 +102,13 @@
 三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
 三立台灣台,http://50.7.61.148:30080/Entry/settw-
 三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 三立都會台,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
 三立都會台,http://sytv.xtvants.fun/mytv.php?id=sldh&token=qq3036107507&user=fmys
+三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 三立綜合台,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
 三立綜合台,http://sytv.xtvants.fun/mytv.php?id=slzh&token=qq3036107507&user=fmys
@@ -122,8 +125,10 @@
 三立inews新聞,http://43.128.9.168/jjtv.php?id=43
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
+三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
+衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
 衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
 寰宇新聞全球台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
 寰宇新聞全球台,https://git.io/JgkpO
@@ -139,6 +144,7 @@ CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 年代MUCH,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 年代MUCH,http://sytv.xtvants.fun/mytv.php?id=much&token=qq3036107507&user=fmys
+年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 龍華日韓台,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
 龍華日韓台,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=qq3036107507&user=fmys
@@ -171,6 +177,7 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森幼幼,http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
 東森幼幼,http://sytv.xtvants.fun/mytv.php?id=dsyy&token=qq3036107507&user=fmys
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
+東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 東森幼幼點點名,https://git.io/JgYON
 東森超視,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
 東森超視,http://sytv.xtvants.fun/mytv.php?id=dscs&token=qq3036107507&user=fmys
@@ -180,6 +187,7 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森戲劇,http://sytv.xtvants.fun/mytv.php?id=dsxj&token=qq3036107507&user=fmys
 東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
 東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
 東森綜合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
 東森綜合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=qq3036107507&user=fmys
@@ -232,6 +240,7 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 中天新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,http://50.7.61.147:30080/Entry/ubnbus
 壹電視新聞台,http://50.7.61.147:30080/Entry/etv
@@ -276,6 +285,7 @@ TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 HBO,rtmp://104.149.188.82/channel/6162d414295d84395baff8bd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltIRIpDCasXRmMBqc%2FFlKmtshZwUrPqTRDzmRUL3HQxp
 HBO,http://50.7.61.148:30080/Entry/hbo
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
+HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
@@ -289,6 +299,7 @@ HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
 東森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
 東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
+FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,http://50.7.61.148:30080/Entry/axn
@@ -323,7 +334,9 @@ ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
 Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=qq3036107507&user=fmys
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
+CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 迪斯尼,http://125.227.210.55:14250/VideoInput/play.ts
@@ -357,6 +370,7 @@ tvN,http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/02.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 tvN,tvbus://5mQX2AnAV1rwQnqHabgh8odF6QhCieFaumRLyjLVy8b2z8zNpkVMtgoXXAa
+tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 tvNMOVIES,rtmp://104.149.191.182/channel/6162d733295d84395bb00220?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltIRIpDCasXRmMBqc%2FFlKmtshZwUrPqTRDzmRUL3HQxp
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
