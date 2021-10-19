@@ -995,7 +995,7 @@ CCTV17,http://cdnbn2.ynumc.com:8278/cctv17/playlist.m3u8
 CCTV-1综合,http://60.255.49.202/live/CCTV-1H265_4000.m3u8
 CCTV-1综合,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
-CCTV1综合,http://host496323.us.ooqr.com/pltv/gz.php?id=cctv-1
+CCTV-1综合,http://host496323.us.ooqr.com/pltv/gz.php?id=cctv-1
 CCTV-2财经,http://60.255.49.202/live/CCTV-2H265_4000.m3u8
 CCTV-2财经,http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 CCTV-3综艺,https://p4.weizan.cn/1228393605/270303707572166290/live.m3u8
@@ -2189,7 +2189,7 @@ TV9HD,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 
 🇲🇾馬來西亞,#genre#
-Astro 歡喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+
 Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 Astro IQIYI,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
@@ -2362,21 +2362,21 @@ FIGHTING TV サムライ,p5p://fccs.123178.top:9906/61302321000a162312bceb3f5534
 フジテレビＴＷＯ,p5p://fccs.123178.top:9906/613058a5000034b0138df45883905c5e
 
 🇻🇳越南頻道,#genre#
-VTV①HD,http://s4.nihontv.net:21585/vtv1/index.m3u8
-VTV③HD,http://s4.nihontv.net:21585/vtv3/index.m3u8
+VTV1 HD,http://s4.nihontv.net:21585/vtv1/index.m3u8
+VTV3 HD,http://s4.nihontv.net:21585/vtv3/index.m3u8
 VTV3 HD,http://marknas.duckdns.org:6878/ace/getstream?id=e91d570b565d1359fc3b5c1936203eb45782a657
 VTV3 HD,http://marknas.duckdns.org:6878/ace/getstream?id=dc3174387dd9c74da54ef0f0676264c96be81aec
 VTV3 HD,http://marknas.duckdns.org:6878/ace/getstream?id=f49689c618a1c31ac1e35e4451898b8ae3d89bec
 
-VTV⑤HD TâyNamBộ,https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
-VTV⑤TâyNguyên,https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+VTV5 HD TâyNamBộ,https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+VTV5 TâyNguyên,https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 VTV6 HD,http://marknas.duckdns.org:6878/ace/getstream?id=e2f68dc6f9a3a17cef317276d38153351837db99
 VTV6 HD,http://marknas.duckdns.org:6878/ace/getstream?id=d7f5cc18dcfe12cc1c8c91acd8c3b5b9bc7c42c7
 VTV6 HD,http://marknas.duckdns.org:6878/ace/getstream?id=336c7e3216143293ee1e5d612e0a6cb4328941b2
 
-VTV⑦HD,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-VTV⑧HD,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-VTV⑨HD,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+VTV7 HD,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+VTV8 HD,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+VTV9 HD,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 VTV9 HD,http://marknas.duckdns.org:6878/ace/getstream?id=bc92bbc45be12cf51706daf41ca9fc4212677455
 
 HA NOI①ᴴᴰ,https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8?
@@ -2570,14 +2570,10 @@ Fox Sport3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 Fox Sport2,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
+
 🏅體育頻道,#genre#
 CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
@@ -2750,20 +2746,35 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
 📺影視輪播,#genre#
-吳京,http://121.51.249.53/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
+
+SNH48剧场公演,http://112.74.200.9:88/tv000000/m3u8.php?//617432328
+周潤發,http://112.74.200.9:88/tv000000/m3u8.php?//639526984
+周星馳,http://112.74.200.9:88/tv000000/m3u8.php?//623338112
+成龍,http://112.74.200.9:88/tv000000/m3u8.php?//707671890
+張國榮,http://112.74.200.9:88/tv000000/m3u8.php?//707689526
+郭富城,http://112.74.200.9:88/tv000000/m3u8.php?//639528330
+吳京,http://112.74.200.9:88/tv000000/m3u8.php?//625681368
+劉德華,http://112.74.200.9:88/tv000000/m3u8.php?//659315648
+楊冪,http://112.74.200.9:88/tv000000/m3u8.php?//625542372
+劉亦菲,http://112.74.200.9:88/tv000000/m3u8.php?//639528386
+古天樂,http://112.74.200.9:88/tv000000/m3u8.php?//627198610
+金庸頻道,http://112.74.200.9:88/tv000000/m3u8.php?//625774640
+
+
 吳京,http://ws.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv
-劉德華,http://121.51.249.53/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+
 劉德華,http://ws.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv
-甄子丹,http://121.51.249.53/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
+
 甄子丹,http://ws.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.flv
-周潤發,http://121.51.249.53/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+
 周潤發,http://ws.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv
-沈騰,http://121.51.249.53/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
+
 沈騰,http://ws.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
-洪金寶,http://121.51.249.53/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
+
 洪金寶,http://ws.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
-徐崢,http://121.51.249.53/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
+
 徐崢,http://ws.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.flv
+
 鬥魚5,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 鬥魚6,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 鬥魚8,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
@@ -2791,113 +2802,113 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 鬥魚42,http://dyscdnali1.douyucdn.cn/live/3980787rVI3fG6Tv.flv?uuid=
 武林外傳,http://121.51.249.53/tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
 
-MIGU喜剧联盟,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
-MIGU古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-MIGU成龙作品集,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-MIGU郭富城影院,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
-MIGU张国荣影院,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
-MIGU高分影院,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-MIGU周润发影院,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
-MIGU怀旧老片,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-MIGU周星驰影院,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
-MIGU午夜失眠剧场,http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
-MIGU吴京作品集,http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
-MIGU云上电影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-MIGU每日科幻电影,http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
-MIGU葛优作品集,http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
-MIGU刘德华影院,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
-MIGU僵尸剧场,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
-MIGU刘亦菲影视展播,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
-MIGUTVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-MIGU金庸频道,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
-MIGU新片放映厅,http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
-MIGU盗墓方法论,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
-MIGU试胆大会,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
-MIGU高能烧脑时刻,http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
-MIGU杨幂作品集,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
-MIGU4K剧场,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
-MIGU爱情公寓,http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
-MIGU军旅剧场,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
-MIGUSNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
-MIGU红色谍战剧场,http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
-MIGU少林剧场,http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
-MIGU神探狄仁杰,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
-MIGU黄金剧场,http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
-MIGU追剧少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-MIGU古龙作品集,http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
-MIGU经典贺岁片,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
-MIGU每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
-MIGU武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
+喜剧联盟,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
+古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+成龙作品集,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+郭富城影院,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+张国荣影院,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+高分影院,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
+周润发影院,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+怀旧老片,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+周星驰影院,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+午夜失眠剧场,http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
+吴京作品集,http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
+云上电影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+每日科幻电影,http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
+葛优作品集,http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
+刘德华影院,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+僵尸剧场,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+刘亦菲影视展播,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+金庸频道,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
+新片放映厅,http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
+盗墓方法论,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
+试胆大会,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+高能烧脑时刻,http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
+杨幂作品集,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
+4K剧场,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
+爱情公寓,http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
+军旅剧场,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+红色谍战剧场,http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
+少林剧场,http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
+神探狄仁杰,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
+黄金剧场,http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
+追剧少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+古龙作品集,http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
+经典贺岁片,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
+每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 K K_经典好剧,http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
 K K_科幻怪兽,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
 K K_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 K K_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 K K_开心影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-migu_喜剧联盟,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5101097468/50/index.m3u8?ProgramID=&encrypt=
+喜剧联盟,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5101097468/50/index.m3u8?ProgramID=&encrypt=
 
-migu_经典频道,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179383/75/index.m3u8?ProgramID=&encrypt=
-migu_精品剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/2018/wasu/jpjc/350/index.m3u8?ProgramID=&encrypt=
-migu_精品剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/2018/wasu/jpjc/1000/index.m3u8?ProgramID=&encrypt=
-migu_高分影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/50/index.m3u8?ProgramID=&encrypt=
-migu_高分影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/75/index.m3u8?ProgramID=&encrypt=
-migu_新片放映厅,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd-virtuallive5100030975-50/index.m3u8?ProgramID=&encrypt=
-migu_新片放映厅,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd-virtuallive5100030975-75/index.m3u8?ProgramID=&encrypt=
-migu_华视火爆劲片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100168805/50/index.m3u8?ProgramID=&encrypt=
-migu_华视火爆劲片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100168805/75/index.m3u8?ProgramID=&encrypt=
-migu_成龙作品集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/50/index.m3u8?ProgramID=&encrypt=
-migu_成龙作品集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/75/index.m3u8?ProgramID=&encrypt=
-migu_周星驰影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100144102/75/index.m3u8?ProgramID=&encrypt=
-migu_吴京作品集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100180867/75/index.m3u8?ProgramID=&encrypt=
-migu_刘德华影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5102354855/75/index.m3u8?&ProgramID=&encrypt=
-migu_经典贺岁片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100181836/75/index.m3u8?ProgramID=&encrypt=
-migu_古天乐影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/75/index.m3u8?ProgramID=&encrypt=
-migu_郭富城影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5102010220/75/index.m3u8?ProgramID=&encrypt=
-migu_刘亦菲影视展播,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5102010221/75/index.m3u8?ProgramID=&encrypt=
-migu_高圆圆影视展播,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd-virtuallive5100002172-75/index.m3u8?ProgramID=&encrypt=
-migu_古力娜扎影视展播,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100170828/75/index.m3u8?ProgramID=&encrypt=
-migu_葛优作品集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5102354660/75/index.m3u8?ProgramID=&encrypt=
-migu_金庸频道,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/75/index.m3u8?ProgramID=&encrypt=
-migu_刘涛作品集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100178547/75/index.m3u8?ProgramID=&encrypt=
-migu_张国荣影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5102354727/75/index.m3u8?ProgramID=&encrypt=
-migu_神探狄仁杰,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179816/75/index.m3u8?ProgramID=&encrypt=
-migu_红楼剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100178536/75/index.m3u8?ProgramID=&encrypt=
-migu_爱情公寓,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100180868/75/index.m3u8?ProgramID=&encrypt=
-migu_包青天,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179054/75/index.m3u8?ProgramID=&encrypt=
-migu_天龙八部集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100180869/75/index.m3u8?ProgramID=&encrypt=
-migu_盗墓方法论,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179159/75/index.m3u8?ProgramID=&encrypt=
+经典频道,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179383/75/index.m3u8?ProgramID=&encrypt=
+精品剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/2018/wasu/jpjc/350/index.m3u8?ProgramID=&encrypt=
+精品剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/2018/wasu/jpjc/1000/index.m3u8?ProgramID=&encrypt=
+高分影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/50/index.m3u8?ProgramID=&encrypt=
+高分影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/75/index.m3u8?ProgramID=&encrypt=
+新片放映厅,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd-virtuallive5100030975-50/index.m3u8?ProgramID=&encrypt=
+新片放映厅,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd-virtuallive5100030975-75/index.m3u8?ProgramID=&encrypt=
+华视火爆劲片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100168805/50/index.m3u8?ProgramID=&encrypt=
+华视火爆劲片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100168805/75/index.m3u8?ProgramID=&encrypt=
+成龙作品集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/50/index.m3u8?ProgramID=&encrypt=
+成龙作品集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/75/index.m3u8?ProgramID=&encrypt=
+周星驰影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100144102/75/index.m3u8?ProgramID=&encrypt=
+吴京作品集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100180867/75/index.m3u8?ProgramID=&encrypt=
+刘德华影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5102354855/75/index.m3u8?&ProgramID=&encrypt=
+经典贺岁片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100181836/75/index.m3u8?ProgramID=&encrypt=
+古天乐影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/75/index.m3u8?ProgramID=&encrypt=
+郭富城影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5102010220/75/index.m3u8?ProgramID=&encrypt=
+刘亦菲影视展播,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5102010221/75/index.m3u8?ProgramID=&encrypt=
+高圆圆影视展播,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd-virtuallive5100002172-75/index.m3u8?ProgramID=&encrypt=
+古力娜扎影视展播,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100170828/75/index.m3u8?ProgramID=&encrypt=
+葛优作品集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5102354660/75/index.m3u8?ProgramID=&encrypt=
+金庸频道,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/75/index.m3u8?ProgramID=&encrypt=
+刘涛作品集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100178547/75/index.m3u8?ProgramID=&encrypt=
+张国荣影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5102354727/75/index.m3u8?ProgramID=&encrypt=
+神探狄仁杰,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179816/75/index.m3u8?ProgramID=&encrypt=
+红楼剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100178536/75/index.m3u8?ProgramID=&encrypt=
+爱情公寓,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100180868/75/index.m3u8?ProgramID=&encrypt=
+包青天,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179054/75/index.m3u8?ProgramID=&encrypt=
+天龙八部集,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100180869/75/index.m3u8?ProgramID=&encrypt=
+盗墓方法论,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179159/75/index.m3u8?ProgramID=&encrypt=
 
-migu_喜剧联盟,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5101097468/75/index.m3u8?ProgramID=&encrypt=
-migu_情感剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179837/50/index.m3u8?ProgramID=&encrypt=
-migu_情感剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179837/75/index.m3u8?ProgramID=&encrypt=
-migu_精英剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5102354627/50/index.m3u8?ProgramID=&encrypt=
-migu_精英剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5102354627/75/index.m3u8?ProgramID=&encrypt=
-migu_热剧联播,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/cctv/rejulianbo/350/index.m3u8?ProgramID=&encrypt=
-migu_热剧联播,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/cctv/rejulianbo/600/index.m3u8?ProgramID=&encrypt=
-migu_高清大片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/350/index.m3u8?ProgramID=&encrypt=
-migu_高清大片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/600/index.m3u8?ProgramID=&encrypt=
-migu_僵尸剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100192783/50/index.m3u8?ProgramID=&encrypt=
-migu_僵尸剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100192783/75/index.m3u8?ProgramID=&encrypt=
-migu_深夜失眠剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100181674/50/index.m3u8?ProgramID=&encrypt=
-migu_深夜失眠剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100181674/75/index.m3u8?ProgramID=&encrypt=
-migu_红色谍战剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5101079524/50/index.m3u8?ProgramID=&encrypt=
-migu_红色谍战剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5101079524/75/index.m3u8?ProgramID=&encrypt=
-migu_华视浪漫影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100172368/50/index.m3u8?ProgramID=&encrypt=
-migu_华视浪漫影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100172368/75/index.m3u8?ProgramID=&encrypt=
-migu_每日科幻电影,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/50/index.m3u8?ProgramID=&encrypt=
-migu_每日科幻电影,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/75/index.m3u8?ProgramID=&encrypt=
-migu_追剧少女,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd-virtuallive5100002089-50/index.m3u8?ProgramID=&encrypt=
-migu_追剧少女,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd-virtuallive5100002089-75/index.m3u8?ProgramID=&encrypt=
-migu_怀旧老片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100074916/50/index.m3u8?ProgramID=&encrypt=
-migu_怀旧老片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100074916/75/index.m3u8?ProgramID=&encrypt=
-migu_武侠剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/50/index.m3u8?ProgramID=&encrypt=
-migu_武侠剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/75/index.m3u8?ProgramID=&encrypt=
-migu_精品网剧,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000751/50/index.m3u8?ProgramID=&encrypt=
-migu_精品网剧,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000751/75/index.m3u8?ProgramID=&encrypt=
-migu_假期剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/50/index.m3u8?ProgramID=&encrypt=
-migu_假期剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/75/index.m3u8?ProgramID=&encrypt=
-migu_国际剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179386/50/index.m3u8?ProgramID=&encrypt=
-migu_国际剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179386/75/index.m3u8?ProgramID=&encrypt=
-migu_经典频道,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179383/50/index.m3u8?ProgramID=&encrypt=
+喜剧联盟,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5101097468/75/index.m3u8?ProgramID=&encrypt=
+情感剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179837/50/index.m3u8?ProgramID=&encrypt=
+情感剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179837/75/index.m3u8?ProgramID=&encrypt=
+精英剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5102354627/50/index.m3u8?ProgramID=&encrypt=
+精英剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5102354627/75/index.m3u8?ProgramID=&encrypt=
+热剧联播,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/cctv/rejulianbo/350/index.m3u8?ProgramID=&encrypt=
+热剧联播,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/cctv/rejulianbo/600/index.m3u8?ProgramID=&encrypt=
+高清大片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/350/index.m3u8?ProgramID=&encrypt=
+高清大片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/600/index.m3u8?ProgramID=&encrypt=
+僵尸剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100192783/50/index.m3u8?ProgramID=&encrypt=
+僵尸剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100192783/75/index.m3u8?ProgramID=&encrypt=
+深夜失眠剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100181674/50/index.m3u8?ProgramID=&encrypt=
+深夜失眠剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100181674/75/index.m3u8?ProgramID=&encrypt=
+红色谍战剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5101079524/50/index.m3u8?ProgramID=&encrypt=
+红色谍战剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5101079524/75/index.m3u8?ProgramID=&encrypt=
+华视浪漫影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100172368/50/index.m3u8?ProgramID=&encrypt=
+华视浪漫影院,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100172368/75/index.m3u8?ProgramID=&encrypt=
+每日科幻电影,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/50/index.m3u8?ProgramID=&encrypt=
+每日科幻电影,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/75/index.m3u8?ProgramID=&encrypt=
+追剧少女,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd-virtuallive5100002089-50/index.m3u8?ProgramID=&encrypt=
+追剧少女,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd-virtuallive5100002089-75/index.m3u8?ProgramID=&encrypt=
+怀旧老片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100074916/50/index.m3u8?ProgramID=&encrypt=
+怀旧老片,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100074916/75/index.m3u8?ProgramID=&encrypt=
+武侠剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/50/index.m3u8?ProgramID=&encrypt=
+武侠剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/75/index.m3u8?ProgramID=&encrypt=
+精品网剧,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000751/50/index.m3u8?ProgramID=&encrypt=
+精品网剧,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000751/75/index.m3u8?ProgramID=&encrypt=
+假期剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/50/index.m3u8?ProgramID=&encrypt=
+假期剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/75/index.m3u8?ProgramID=&encrypt=
+国际剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179386/50/index.m3u8?ProgramID=&encrypt=
+国际剧场,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179386/75/index.m3u8?ProgramID=&encrypt=
+经典频道,http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r3/virtuallive/5100179383/50/index.m3u8?ProgramID=&encrypt=
 
 📺兒童頻道,#genre#
 iHOT愛玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
