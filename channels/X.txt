@@ -326,6 +326,7 @@ AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 AXN,http://iptv5.phoves.com.cn/api/mitv.php?id=80
 AXN,http://43.128.9.168/jjtv.php?id=80
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
+Thrill,http://iptv5.phoves.com.cn/api/mitv.php?id=79
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 影迷數位電影,http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free
@@ -392,6 +393,7 @@ tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 tvN,tvbus://5mQX2AnAV1rwQnqHabgh8odF6QhCieFaumRLyjLVy8b2z8zNpkVMtgoXXAa
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
+tvNMOVIES,http://iptv5.phoves.com.cn/api/mitv.php?id=78
 tvNMOVIES,rtmp://104.149.191.182/channel/6162d733295d84395bb00220?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltIRIpDCasXRmMBqc%2FFlKmtshZwUrPqTRDzmRUL3HQxp
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/02.m3u8
