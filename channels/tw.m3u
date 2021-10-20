@@ -412,17 +412,17 @@ http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u
 #http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="526" tvg-name="美亚电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="電影" ,美亞電影台
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 
 #EXTINF:-1 tvg-id="526" tvg-name="卫视卡式台" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQwup.png" group-title="電影" ,衛視卡式台
-http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+#http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視電影中文
-http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
 
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視電影原音
 #http://107.167.5.66:80/mylive/102/2061/index.m3u8
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影中文
 #http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
@@ -469,8 +469,10 @@ http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
 #http://125.227.210.55:18685/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN
+http://iptv5.phoves.com.cn/api/mitv.php?id=80
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/80
-http://50.7.61.148:30080/Entry/axn
+#http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
+#http://50.7.61.148:30080/Entry/axn
 
 #EXTINF:-1 tvg-id="6089" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-language="Chinese" group-title="電影" ,CINEMAX
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
