@@ -428,11 +428,11 @@ http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影中文
-http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
-#http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
+#http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
+http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
 
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影原音
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 #http://107.167.5.66:80/mylive/102/2062/index.m3u8
 
 #EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="電影",緯來電影
