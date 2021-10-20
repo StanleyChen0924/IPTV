@@ -304,7 +304,6 @@ HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
 HBOHD,http://125.227.210.37:16027/VideoInput/play.ts
-好萊塢電影台,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c92?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltIRIpDCasXRmMBqc%2FFlKmtshZwUrPqTRDzmRUL3HQxp
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 衛視洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://sytv.xtvants.fun/mytv.php?id=dsyp&token=free&user=free
