@@ -274,6 +274,9 @@ TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 亞洲旅遊台,http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free
 亞洲旅遊台,http://sytv.xtvants.fun/mytv.php?id=yzly&token=qq3036107507&user=fmys
 亞洲旅遊台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn17
+CHC高清電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭電影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC動作電影,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 龍華電影台,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 龍華電影台,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=qq3036107507&user=fmys
 龍華電影台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
