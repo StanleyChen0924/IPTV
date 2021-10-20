@@ -250,6 +250,7 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
 中天综合台,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
 中天综合台,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=qq3036107507&user=fmys
+中天亞洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
 中天新聞,https://git.io/Jgkpy
 中天新聞,http://43.128.9.168/jjtv.php?id=36
 中天新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
