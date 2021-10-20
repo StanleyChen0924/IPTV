@@ -398,14 +398,13 @@ http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="電影",CHC高清電影
 #rtmp://58.200.131.2:1935/livetv/chchd
-
-#http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="電影",CHC家庭電影
 #rtmp://58.200.131.2:1935/livetv/chctv
-#http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
+http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="電影",CHC動作電影
 #rtmp://58.200.131.2:1935/livetv/chcatv
