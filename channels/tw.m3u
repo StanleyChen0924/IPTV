@@ -17,8 +17,8 @@ https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw
 #http://seb.sason.top/ptv/ftv.php?id=tw
 
 #EXTINF:-1 tvg-id="6071" tvg-logo="https://i.imgur.com/6jbjVNy.png" tvg-language="Chinese" group-title="新聞",民視新聞台
-https://git.io/JgkAb
-#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#https://git.io/JgkAb
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
 #EXTINF:-1 tvg-id="7133" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" tvg-language="Chinese" group-title="一般",民視第一
 https://4gtvfreemobile-mozai.4gtv.tv/BS0hPFwEmjNJQjj2oFSy1Z-XQ9JgkjaDBtZQBS7S6B4%3d/stream2.m3u8?token=25j77IK5TofuZcj-JuUCMQ&expires=1632735955&token1=vu3xx42dEIv86AGcv0C74g&expires1=1632764755&refer=ZGQ2ZmNkZTMtYzQyMS00NTYzLTg5MTgtM2RhMjBhZmFhM2Rj&y=0
@@ -59,12 +59,12 @@ https://git.io/Jgkxz
 #http://seb.sason.top/sc/zsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="7136" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87.png" group-title="一般", 中視菁采台
-http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
-#http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+#http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
+http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7172" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="一般", 中視經典台
-http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
-#http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+#http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
+http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",華視
 rtmp://59.124.75.136/sat/tv111
@@ -79,8 +79,8 @@ https://git.io/Jgkxa
 #http://seb.sason.top/sc/hsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.png" group-title="一般", 華視教育體育文化 HD
-http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
-#http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+#http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
+http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6031" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公視13台
 http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
@@ -104,10 +104,10 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&a
 #https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="6239" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/100px-SET_incorporated_logo.svg.png",三立綜合
-http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
 
 #EXTINF:-1 tvg-id="7221" tvg-logo="",三立戲劇
-http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
 
 #EXTINF:-1 tvg-id="6056" tvg-logo="",年代MUCH
 http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
@@ -123,25 +123,25 @@ http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/295
 
 #EXTINF:-1 tvg-id="" ,龍華卡通台
-http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
 
 #EXTINF:-1 tvg-id="" ,龍華卡通台
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/288
 
 #EXTINF:-1 tvg-id="7126" ,龍華偶像台
-http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
 
 #EXTINF:-1 tvg-id="7126" ,龍華偶像台
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/289
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
-http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
-#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
+#http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
+http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
+#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 #http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/290
 
@@ -150,7 +150,7 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/291
 
 #EXTINF:-1 tvg-id="7127" ,龍華戲劇台
-http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
 
 #EXTINF:-1 tvg-id="7127" ,龍華戲劇台
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
@@ -161,9 +161,8 @@ http://50.7.61.148:30080/Entry/starchinese
 
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立新聞
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/44
-三立新聞,
 #https://git.io/Jgkxp
-#http://125.227.210.55:15589/VideoInput/play.ts
+http://125.227.210.55:15589/VideoInput/play.ts
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
 #http://seb.sason.top/sc/sllive_fhd.m3u8
 
@@ -200,9 +199,6 @@ https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 rtmp://59.124.75.136/sat/tv761
 #rtmp://161.202.204.248:1935/sat/tv761
 #http://125.227.210.55:13498/VideoInput/play.ts
-
-#EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
-#https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-longturn11/4gtv-live-mid/index.m3u8?token=BgT55JdAo0BgRpSn_tmxkQ&expires=1632742015&token1=Gx8e05aI9MEMmIcKB8deTg&expires1=1632742015&_=1632711483943&vt=
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png" ,東森超視
 http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
@@ -255,15 +251,15 @@ rtmp://59.124.75.136/sat/tv701
 rtmp://59.124.75.136/sat/tv721
 #rtmp://161.202.204.248/sat/tv721
 
-#EXTINF:-1 tvg-id="7219" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",ELTA愛爾達綜合台
+#EXTINF:-1 tvg-id="7219" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",愛爾達綜合台
 #http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/53
 
-#EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png",ELTA愛爾達影劇台
+#EXTINF:-1 tvg-id="7201" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png",愛爾達影劇台
 #http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" ,愛爾達娛樂台
+#EXTINF:-1 tvg-id="7139" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/104.png",愛爾達娛樂台
 http://43.128.9.168/jjtv.php?id=53
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/296
 
@@ -317,8 +313,8 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mn
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6074"  tvg-logo="https://cc.tvbs.com.tw/portal/images/logo.png",TVBS
-#https://git.io/JgYl2
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
+https://git.io/JgYl2
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 
 #EXTINF:-1 tvg-id="6060"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png",TVBS歡樂台
 rtmp://59.124.75.136/sat/tv421
@@ -335,14 +331,15 @@ https://git.io/Jgkp1
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/253
 
 #EXTINF:-1 tvg-id="6054" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="一般",中天綜合台
-http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
 
 #EXTINF:-1 tvg-id="6057" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="一般",中天娛樂台
-http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
-#http://125.227.210.55:15796/VideoInput/play.ts
+#http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
+http://125.227.210.55:15796/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ya83Hn4c3MNM9KNIbni2RvVEIzC_2ghQuu8o3LniBFIwN6-GPC1oQ7nG4A&s" group-title="一般",中天亞洲
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
+http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
+#https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
 
 #EXTINF:-1 tvg-id="6070" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" tvg-language="Chinese" group-title="新聞",中天新聞
 https://git.io/Jgkpy
@@ -350,18 +347,18 @@ https://git.io/Jgkpy
 #http://seb.sason.top/sc/ztxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
-#http://125.227.210.55:11055/VideoInput/play.ts
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
+http://125.227.210.55:11055/VideoInput/play.ts
 #http://www.1314lm.com/mylive/102/2050/index.m3u8
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
 
 #EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-language="Chinese" group-title="新聞",非凡新聞
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
-#http://125.227.210.55:15078/VideoInput/play.ts
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
+http://125.227.210.55:15078/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6067" tvg-name="壹電視新闻台" tvg-logo="https://ppt.cc/fYmRdx" tvg-language="Chinese" group-title="新聞",壹電視新聞台
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
-#http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="新聞,彭博財經台  
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -370,6 +367,7 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 http://125.227.210.55:19020/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="一般",FOX
+http://125.227.210.55:13498/VideoInput/play.ts
 #https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",亞洲美食
