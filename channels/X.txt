@@ -13,6 +13,7 @@
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 民視新聞台,https://git.io/JgkAb
 民視新聞台,http://43.128.9.168/jjtv.php?id=32
+民視新聞台,http://iptv5.phoves.com.cn/api/mitv.php?id=32
 民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
