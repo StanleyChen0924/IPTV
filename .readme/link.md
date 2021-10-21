@@ -1,3 +1,3 @@
-- [¦w¨ôyoutubeµL¼s§i¤â¾÷ªO¥»](https://github.com/gtang8/FQTools/blob/6a4b28e439f44a5f6255e126249faae91e03c1ab/Pure_Tuber_2.14.8.103.21408103.apk)
+- [å®‰å“youtubeç„¡å»£å‘Šæ‰‹æ©Ÿæ¿æœ¬](https://github.com/gtang8/FQTools/blob/6a4b28e439f44a5f6255e126249faae91e03c1ab/Pure_Tuber_2.14.8.103.21408103.apk)
 
-- [¦w¨ôyoutubeµL¼s§iTV²°¤lªO¥»](https://github.com/yuliskov/SmartTubeNext/releases/download/12.24/STubeNext_ststable_v12.24_r.apk)
+- [å®‰å“youtubeç„¡å»£å‘ŠTVç›’å­æ¿æœ¬](https://github.com/yuliskov/SmartTubeNext/releases/download/12.24/STubeNext_ststable_v12.24_r.apk)
