@@ -399,8 +399,7 @@ ONE,http://210.210.155.35/uq2663/h/h143/01.m3u8
 ONE,http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 KPOP,https://git.io/JgYAE
 SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-tvN,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltIRIpDCasXRmMBqc%2FFlKmtshZwUrPqTRDzmRUL3HQxp
-tvN,rtmp://104.149.191.182/channel/6162d70f295d84395bb001a9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltIRIpDCasXRmMBqc%2FFlKmtshZwUrPqTRDzmRUL3HQxp
+tvN,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltPCBYDHIXmYjrIY%2Bci4%2FZ2I%2BzFhsrgICjthqQmp29ej
 tvN,http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/02.m3u8
