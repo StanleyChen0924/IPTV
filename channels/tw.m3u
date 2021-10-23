@@ -5,10 +5,10 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/programme-tv.net.guide.xml" tvg-shift=0 m3uautoload=5
 
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視
-rtmp://59.124.75.136/sat/tv051
+rtmp://59.124.75.138/sat/tv051
 #http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 #rtmp://161.202.204.248/sat/tv051
-#rtmp://59.124.75.136/sat/tv051
+#rtmp://59.124.75.138/sat/tv051
 #https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
 #http://seb.sason.top/ptv/ftv.php?id=ms
 
@@ -37,7 +37,7 @@ https://4gtvfreemobile-mozai.4gtv.tv/0df68Gf2eZZfeig9vWfaKfrjsVCG-GW-OCbyLHhoW0M
 #http://seb.sason.top/ptv/ftv.php?id=zy
 
 #EXTINF:-1 tvg-id="6026" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",台視HD
-rtmp://59.124.75.136/sat/tv071
+rtmp://59.124.75.138/sat/tv071
 #http://60.251.59.180:8543/xoxo.m3u8
 
 #EXTINF:-1 tvg-id="6145" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",台視綜合台
@@ -49,7 +49,7 @@ https://git.io/JgkxY
 #http://seb.sason.top/sc/tsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6028" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",中視
-rtmp://59.124.75.136/sat/tv091
+rtmp://59.124.75.138/sat/tv091
 #http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 #rtmp://161.202.204.248/sat/tv091
 
@@ -67,7 +67,7 @@ http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",華視
-rtmp://59.124.75.136/sat/tv111
+rtmp://59.124.75.138/sat/tv111
 #http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 #rtmp://161.202.204.248/sat/tv111
 
@@ -196,14 +196,14 @@ https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-live-mid/index.m3u8?token=VUX36LUdpgVG_ySSdeoTUQ&expires=1632758288&token1=HTzBuGbTfT7b0J9K-1F0ew&expires1=1632758288&_=1632711483940&vt=
 
 #EXTINF:-1 tvg-id="6190" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo綜合台
-rtmp://59.124.75.136/sat/tv761
+rtmp://59.124.75.138/sat/tv761
 #rtmp://161.202.204.248:1935/sat/tv761
 #http://125.227.210.55:13498/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png" ,東森超視
 http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
 #https://flv3948069e.live.126.net/live/sytv_e0c30bc8ee846a19f53dde422e773b0b.flv
-#rtmp://59.124.75.136/sat/tv521
+#rtmp://59.124.75.138/sat/tv521
 #rtmp://161.202.204.248:1935/sat/tv521
 
 #EXTINF:-1 tvg-id="6043" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" tvg-language="Chinese" group-title="兒童",東森幼幼
@@ -226,14 +226,14 @@ https://git.io/Jgkps
 #EXTINF:-1 tvg-id="6075" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森財經新聞
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/39
 https://git.io/Jgkpc
-#rtmp://59.124.75.136:1935/sat/tv571
+#rtmp://59.124.75.138:1935/sat/tv571
 #http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6063" tvg-logo="" group-title="一般",JET綜合台
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/52
 
 #EXTINF:-1 tvg-id="6095" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png",緯來日本
-rtmp://59.124.75.136/sat/tv771
+rtmp://59.124.75.138/sat/tv771
 #http://198.16.106.62:8278/streams/d/videolandjapan/playlist.m3u8
 #rtmp://161.202.204.248:1935/sat/tv771
 
@@ -244,11 +244,11 @@ rtmp://59.124.75.136/sat/tv771
 http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6088" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png",緯來育樂
-rtmp://59.124.75.136/sat/tv701
+rtmp://59.124.75.138/sat/tv701
 #rtmp://161.202.204.248/sat/tv701
 
 #EXTINF:-1 tvg-id="6090" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-language="Chinese" group-title="體育",緯來體育
-rtmp://59.124.75.136/sat/tv721
+rtmp://59.124.75.138/sat/tv721
 #rtmp://161.202.204.248/sat/tv721
 
 #EXTINF:-1 tvg-id="7219" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",愛爾達綜合台
@@ -268,42 +268,42 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/297
 
 #EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
-rtmp://59.124.75.136/sat/md011
-#rtmp://59.124.75.136/sat/md041
+rtmp://59.124.75.138/sat/md011
+#rtmp://59.124.75.138/sat/md041
 #rtmp://161.202.204.248/sat/md041
-#rtmp://59.124.75.136:1935/sat/md041
+#rtmp://59.124.75.138:1935/sat/md041
 #rtmp://161.202.204.248:1935/sat/md041
 
 #EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合2台
-rtmp://59.124.75.136/sat/md031
+rtmp://59.124.75.138/sat/md031
 #rtmp://161.202.204.248/sat/md031
-#rtmp://59.124.75.136:1935/sat/md031
+#rtmp://59.124.75.138:1935/sat/md031
 #rtmp://161.202.204.248:1935/sat/md031
 
 #EXTINF:-1 tvg-id="7213" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台
-rtmp://59.124.75.136:1935/sat/md051
+rtmp://59.124.75.138:1935/sat/md051
 #rtmp://161.202.204.248:1935/sat/md051
-#rtmp://59.124.75.136/sat/md051
+#rtmp://59.124.75.138/sat/md051
 #rtmp://161.202.204.248/sat/md051
 
 #EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" tvg-language="Chinese" group-title="體育",ELEVEN1體育
-rtmp://59.124.75.136/sat/tv731
+rtmp://59.124.75.138/sat/tv731
 #rtmp://161.202.204.248/sat/tv731
 
 #EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" tvg-language="Chinese" group-title="體育",ELEVEN2體育
-rtmp://59.124.75.136/sat/tv741
+rtmp://59.124.75.138/sat/tv741
 #rtmp://161.202.204.248/sat/tv741
 
 #EXTINF:-1 tvg-id="6180" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-language="Chinese" group-title="體育",博斯運動I
-rtmp://59.124.75.136/sat/md011
+rtmp://59.124.75.138/sat/md011
 
 #EXTINF:-1 tvg-id="6180" tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-language="Chinese" group-title="體育",博斯運動II
-rtmp://59.124.75.136/sat/md051
-#rtmp://59.124.75.136/sat/md011
+rtmp://59.124.75.138/sat/md051
+#rtmp://59.124.75.138/sat/md011
 #rtmp://161.202.204.248:1935/sat/md011
 
 #EXTINF:-1 tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-language="Chinese" group-title="體育",博斯網球
-rtmp://59.124.75.136/sat/md021
+rtmp://59.124.75.138/sat/md021
 #rtmp://161.202.204.248:1935/sat/md021
 
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-language="Chinese" group-title="體育",魅力足球
@@ -317,14 +317,14 @@ https://git.io/JgYl2
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 
 #EXTINF:-1 tvg-id="6060"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png",TVBS歡樂台
-rtmp://59.124.75.136/sat/tv421
+rtmp://59.124.75.138/sat/tv421
 #rtmp://161.202.204.248/sat/tv421
 
 #EXTINF:-1 tvg-id="6073" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1c/Tvbsnews.png/220px-Tvbsnews.png" tvg-language="Chinese" group-title="新聞",TVBS新聞台
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 #http://125.227.210.55:16329/VideoInput/play.ts
 https://git.io/Jgkp1
-#rtmp://59.124.75.136/sat/tv551
+#rtmp://59.124.75.138/sat/tv551
 #http://125.227.210.37:16329/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="" group-title="一般",TVBS精彩台
