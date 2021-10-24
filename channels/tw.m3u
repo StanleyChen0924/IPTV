@@ -418,19 +418,16 @@ http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u
 #EXTINF:-1 tvg-id="526" tvg-name="卫视卡式台" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQwup.png" group-title="電影" ,衛視卡式台
 #http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視電影中文
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視電影
 #http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
-
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視電影原音
+https://flv3948069e.live.126.net/live/sytv_72a30baf1e84656b6e2dde008e77399a.flv
 #http://107.167.5.66:80/mylive/102/2061/index.m3u8
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影中文
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影
 https://flv3948069e.live.126.net/live/sytv_e8830b768e8469f6755dde403e773504.flv
 #http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
 #http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
-
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影原音
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 #http://107.167.5.66:80/mylive/102/2062/index.m3u8
 
