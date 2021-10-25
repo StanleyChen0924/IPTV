@@ -117,8 +117,6 @@
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
 衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
-狼谷育樂台,p5p://fccs.123178.top:9906/6045b7460004ba730666cd212d07958d.ts
-狼谷育樂台,p5p://fccs.123178.top:9906/6045b7460004ba730666cd212d07958d.ts
 寰宇新聞全球台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
 寰宇新聞全球台,https://git.io/JgkpO
 寰宇新聞全球台,http://43.128.9.168/jjtv.php?id=35
