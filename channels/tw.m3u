@@ -471,8 +471,8 @@ http://125.227.210.55:18685/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN
 #http://iptv5.phoves.com.cn/api/mitv.php?id=80
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/80
-http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
+http://43.128.9.168/jjtv.php?id=80
+#http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 #http://50.7.61.148:30080/Entry/axn
 
 #EXTINF:-1 tvg-id="6089" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-language="Chinese" group-title="電影" ,CINEMAX
