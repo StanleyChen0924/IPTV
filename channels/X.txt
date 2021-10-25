@@ -2,7 +2,6 @@
 🇹🇼台灣頻道,#genre#
 民視,rtmp://59.124.75.138/sat/tv051
 民視,http://43.128.9.168/jjtv.php?id=24
-民視,http://iptv5.phoves.com.cn/api/mitv.php?id=24
 民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
 民視,https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
 民視,http://50.7.61.147:30080/Entry/ftv
@@ -21,7 +20,6 @@
 民視新聞台,http://210.61.56.23/hls/ftvtv/index.m3u8
 民視新聞台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
 民視新聞台,http://luyutv.com/hdtv.m3u8
-民視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
 民視台灣台,https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0
 民視台灣台,http://43.128.9.168/jjtv.php?id=26
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
@@ -50,7 +48,6 @@
 台視新聞,https://git.io/JgkxY
 台視新聞,http://v3948069e.live.126.net/live/ugdbeaya63838689/38.flv
 台視新聞,http://43.128.9.168/jjtv.php?id=34
-台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
 中視,rtmp://59.124.75.138/sat/tv091
@@ -59,17 +56,10 @@
 中視,http://50.7.61.148:30080/Entry/ctv
 中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視經典台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
-中視經典台,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
-中視經典台,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=qq3036107507&user=fmys
-中視經典台,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
 中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 中視菁采台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
-中視菁采台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
-中視菁采台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=qq3036107507&user=fmys
-中視菁采台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
 中視新聞,https://git.io/Jgkxz
 中視新聞,http://43.128.9.168/jjtv.php?id=33
-中視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 華視,http://50.7.61.147:30080/Entry/cts
@@ -238,8 +228,6 @@ JET綜合台,http://43.128.9.168/jjtv.php?id=52
 緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
 緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
 TVBS,https://git.io/JgYl2
-TVBS,http://sytv.xtvants.fun/mytv.php?id=tvbs&token=free&user=free
-TVBS,http://sytv.xtvants.fun/mytv.php?id=tvbs&token=qq3036107507&user=fmys
 TVBS,http://50.7.61.148:30080/Entry/tvbs
 TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 TVBS新聞台,https://git.io/Jgkp1
@@ -247,21 +235,14 @@ TVBS新聞台,rtmp://59.124.75.138/sat/tv551
 TVBS新聞台,http://43.128.9.168/jjtv.php?id=42
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
-TVBS精采台,http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free
-TVBS精采台,http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=qq3036107507&user=fmys
 TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
-中天娛樂台,http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
-中天娛樂台,http://sytv.xtvants.fun/mytv.php?id=ztyl&token=qq3036107507&user=fmys
 中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
 中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
-中天综合台,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
-中天综合台,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=qq3036107507&user=fmys
 中天亞洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
 中天新聞,https://git.io/Jgkpy
 中天新聞,http://43.128.9.168/jjtv.php?id=36
-中天新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
 年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
