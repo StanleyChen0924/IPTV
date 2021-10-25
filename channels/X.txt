@@ -64,6 +64,7 @@
 中視新聞,http://43.128.9.168/jjtv.php?id=33
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+華視,rtmp://59.124.75.157/sat/tv111
 華視,http://50.7.61.147:30080/Entry/cts
 華視,rtmp://59.124.75.138/sat/tv111
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
@@ -75,6 +76,7 @@
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+華視教育體育文化,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=qq3036107507&user=fmys
 公視,https://git.io/JVFGN#https://git.io/JVFBr
