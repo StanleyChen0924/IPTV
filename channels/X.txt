@@ -281,8 +281,8 @@ AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 Thrill,http://iptv5.phoves.com.cn/api/mitv.php?id=79
 Thrill,http://43.128.9.168/jjtv.php?id=79
-影迷數位電影,http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free
-影迷數位電影,http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=qq3036107507&user=fmys
+影迷數位電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
+影迷數位電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
 CATCHPLAY電影台,http://43.128.9.168/jjtv.php?id=76
 CATCHPLAY電影台,http://iptv5.phoves.com.cn/api/mitv.php?id=76
 CATCHPLAY電影台,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free
@@ -294,6 +294,7 @@ CATCHPLAY電影台,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=qq3036107
 天映經典HD,http://43.128.9.168/jjtv.php?id=64
 天映經典HD,http://iptv5.phoves.com.cn/api/mitv.php?id=63
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+幸福空間居家台,https://git.io/JgYYF
 幸福空間居家台,https://git.io/JgYYF
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
