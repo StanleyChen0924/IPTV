@@ -146,6 +146,7 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 MTV綜合台,https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
+MTV綜合台,https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
 龍華日韓台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 龍華日韓台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 龍華戲劇台,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts	
