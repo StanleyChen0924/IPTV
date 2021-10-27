@@ -464,6 +464,7 @@ CNA,http://v3948069e.live.126.net/live/xyptvspr68769369/56.flv
 JET综合,http://v3948069e.live.126.net/live/wakudnpz00430412/57.flv
 Thrill,http://v3948069e.live.126.net/live/wkcsulor10807304/84.flv
 AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
+
 台视综合,https://flv3948069e.live.126.net/live/sytv_a3230bb77e846899c6cdded52e7732f3.flv
 华视教育,https://flv3948069e.live.126.net/live/sytv_91030b1dae846205fdcdded56e773477.flv
 公视,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
