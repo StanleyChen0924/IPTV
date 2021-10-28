@@ -3872,156 +3872,727 @@ filmon,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 RUsskayanoch,http://93.189.224.117:9030/russkayanoch
 hustlerhd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlighthd,http://51.15.0.141:88/redlightHD/index.m3u8
-AdultPlayboyTV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
-AdultSensation1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
-AdultXtremeSatisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
-AdultPinko1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87441
-AdultPinko2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87442
-AdultParadise1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91592
-AdultParadise2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91593
-AdultParadise3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91594
-AdultParadise4,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91595
-AdultParadise,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91596
-AdultParadise6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91597
-AdultParadise7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
-AdultParadise8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
-AdultParadise9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
-BikiniTV,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-Visit-X,http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-Jasmin,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Nieuwesinds,http://93.189.224.117:9030/russkayanoch
-BARELY,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
---,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
-Rusland,http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
-PLAYBOY,http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
-Nieuwesinds,http://80.24.75.92:5555/udp/239.111.4.1:1234
-Penthouse,http://80.24.75.92:5555/udp/239.111.4.1:1234
-Penthouse,http://80.24.75.92:5555/udp/239.111.4.1:1234
-XXX2,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-XXX2,http://51.15.0.141:88/redlightHD/mpegts
---,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
-XXX1,http://51.15.0.141:88/hustlerhd/mpegts
-Nieuwesinds,http://5.255.90.184:2000/play/a03e
-SEXPRVE,http://200.194.238.229:8000/udp/227.0.0.64:1234
---,http://200.194.238.229:8000/udp/227.0.0.64:1234
-brazze2,http://ott3.gearhostpreview.com/xxav.php?id=191
-sloppy,http://ott3.gearhostpreview.com/xxav.php?id=190
-hot,http://ott3.gearhostpreview.com/xxav.php?id=189
-ana,http://ott3.gearhostpreview.com/xxav.php?id=188
-brazze1,http://ott3.gearhostpreview.com/xxav.php?id=187
-candy,http://ott3.gearhostpreview.com/xxav.php?id=186
-brazze,http://ott3.gearhostpreview.com/xxav.php?id=185
-w,http://ott3.gearhostpreview.com/xxav.php?id=184
-bang1,http://ott3.gearhostpreview.com/xxav.php?id=183
-bang,http://ott3.gearhostpreview.com/xxav.php?id=182
-心,http://ott3.gearhostpreview.com/xxav.php?id=180
-菊花,http://ott3.gearhostpreview.com/xxav.php?id=177
-dp,http://ott3.gearhostpreview.com/xxav.php?id=176
-jasmin,http://ott3.gearhostpreview.com/xxav.php?id=175
-Redlight,http://ott3.gearhostpreview.com/xxav.php?id=174
-Redlight,http://ott3.gearhostpreview.com/xxav.php?id=174
-penth,http://ott3.gearhostpreview.com/xxav.php?id=173
-brack,http://ott3.gearhostpreview.com/xxav.php?id=172
-Erox,http://ott3.gearhostpreview.com/xxav.php?id=171
-Erox,http://ott3.gearhostpreview.com/xxav.php?id=171
-花花,http://ott3.gearhostpreview.com/xxav.php?id=170
-Hustler,http://ott3.gearhostpreview.com/xxav.php?id=169
-Hustler,http://ott3.gearhostpreview.com/xxav.php?id=169
-VividRed,http://ott3.gearhostpreview.com/xxav.php?id=168
-VividRed,http://ott3.gearhostpreview.com/xxav.php?id=168
-EXTSY,http://ott3.gearhostpreview.com/xxav.php?id=315
-VLXEN,http://ott3.gearhostpreview.com/xxav.php?id=266
-EMAN,http://ott3.gearhostpreview.com/xxav.php?id=257
-LES,http://ott3.gearhostpreview.com/xxav.php?id=256
-MR,http://ott3.gearhostpreview.com/xxav.php?id=252
-HOT3,http://ott3.gearhostpreview.com/xxav.php?id=251
-BANE,http://ott3.gearhostpreview.com/xxav.php?id=250
-NELXX,http://ott3.gearhostpreview.com/xxav.php?id=249
-LEO,http://ott3.gearhostpreview.com/xxav.php?id=248
-PUR1,http://ott3.gearhostpreview.com/xxav.php?id=246
-PUR,http://ott3.gearhostpreview.com/xxav.php?id=245
-ERO8,http://ott3.gearhostpreview.com/xxav.php?id=244
-ERO7,http://ott3.gearhostpreview.com/xxav.php?id=243
-ERO6,http://ott3.gearhostpreview.com/xxav.php?id=242
-ERO5,http://ott3.gearhostpreview.com/xxav.php?id=241
-ERO4,http://ott3.gearhostpreview.com/xxav.php?id=240
-ERO3,http://ott3.gearhostpreview.com/xxav.php?id=239
-ERO2,http://ott3.gearhostpreview.com/xxav.php?id=238
-ERO,http://ott3.gearhostpreview.com/xxav.php?id=237
-VIVID1,http://ott3.gearhostpreview.com/xxav.php?id=236
-XXL5,http://ott3.gearhostpreview.com/xxav.php?id=235
-VEOHD,http://ott3.gearhostpreview.com/xxav.php?id=233
-VEO,http://ott3.gearhostpreview.com/xxav.php?id=233
-VEO,http://ott3.gearhostpreview.com/xxav.php?id=233
-HOT2,http://ott3.gearhostpreview.com/xxav.php?id=231
-VENUS,http://ott3.gearhostpreview.com/xxav.php?id=229
-HOT1,http://ott3.gearhostpreview.com/xxav.php?id=228
-RKTV,http://ott3.gearhostpreview.com/xxav.php?id=226
-HUSTLER,http://ott3.gearhostpreview.com/xxav.php?id=223
-USK,http://ott3.gearhostpreview.com/xxav.php?id=222
-XY,http://ott3.gearhostpreview.com/xxav.php?id=218
-XXL4,http://ott3.gearhostpreview.com/xxav.php?id=217
-BRAZZE5,http://ott3.gearhostpreview.com/xxav.php?id=215
-XXL3,http://ott3.gearhostpreview.com/xxav.php?id=213
-HOT,http://ott3.gearhostpreview.com/xxav.php?id=211
-HOT,http://ott3.gearhostpreview.com/xxav.php?id=211
-男,http://ott3.gearhostpreview.com/xxav.php?id=208
-brazze4,http://ott3.gearhostpreview.com/xxav.php?id=206
-xxl2,http://ott3.gearhostpreview.com/xxav.php?id=205
-xxl1,http://ott3.gearhostpreview.com/xxav.php?id=204
-mrtv,http://ott3.gearhostpreview.com/xxav.php?id=203
-bang2,http://ott3.gearhostpreview.com/xxav.php?id=198
-xxl,http://ott3.gearhostpreview.com/xxav.php?id=197
-girsdopp,http://ott3.gearhostpreview.com/xxav.php?id=196
-brazze3,http://ott3.gearhostpreview.com/xxav.php?id=195
-blackd,http://ott3.gearhostpreview.com/xxav.php?id=194
-ultrafil,http://ott3.gearhostpreview.com/xxav.php?id=193
-brrtv,http://ott3.gearhostpreview.com/xxav.php?id=192
-Miami,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-MiamiJenny,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-Miami,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
-FetishFactory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-Man2Man,http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
-Nieuwesinds,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-蘋果片,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
-Webstream,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-XXL,http://185.97.150.19:8082/360
-bluehustler,http://185.97.150.19:8082/363
-redlight,http://185.97.150.19:8082/365
-色情廣告,http://185.97.150.19:8082/427
-hustler,http://185.97.150.19:8082/578
-菊花台,http://185.97.150.19:8082/159
-erox,http://185.97.150.19:8082/158
-色情,http://185.97.150.19:8082/157
-户外,http://185.97.150.19:8082/156
-色情,http://185.97.150.19:8082/155
-3D,http://185.97.150.19:8082/154
-法國情人,http://185.97.150.19:8082/361
-直播720,http://cdn.adultiptv.net/livecams.m3u8
-肛交720,http://cdn.adultiptv.net/anal.m3u8
-巨尻720,http://cdn.adultiptv.net/bigass.m3u8
-大鸟720,http://cdn.adultiptv.net/bigdick.m3u8
-爆乳720,http://cdn.adultiptv.net/bigtits.m3u8
-金髮720,http://cdn.adultiptv.net/blonde.m3u8
-口交720,http://cdn.adultiptv.net/blowjob.m3u8
-褐髮720,http://cdn.adultiptv.net/brunette.m3u8
-合集720,http://cdn.adultiptv.net/compilation.m3u8
-绿帽720,http://cdn.adultiptv.net/cuckold.m3u8
-戀物720,http://cdn.adultiptv.net/fetish.m3u8
-群交720,http://cdn.adultiptv.net/gangbang.m3u8
-男同720,http://cdn.adultiptv.net/gay.m3u8
-硬核720,http://cdn.adultiptv.net/hardcore.m3u8
-異種720,http://cdn.adultiptv.net/interracial.m3u8
-拉丁720,http://cdn.adultiptv.net/latina.m3u8
-女同720,http://cdn.adultiptv.net/lesbian.m3u8
-少婦720,http://cdn.adultiptv.net/milf.m3u8
-色星720,http://cdn.adultiptv.net/pornstar.m3u8
-第一視角720,http://cdn.adultiptv.net/pov.m3u8
-粗暴720,http://cdn.adultiptv.net/rough.m3u8
-俄羅斯720,http://cdn.adultiptv.net/russian.m3u8
-少女720,http://cdn.adultiptv.net/teen.m3u8
-三人720,http://cdn.adultiptv.net/threesome.m3u8
+
+PINK EROTIC,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415590
+PINK EROTIC 2,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415591
+PINK EROTIC 3,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415592
+PINK EROTIC 4,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415593
+PINK EROTIC 5,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415594
+PINK EROTIC 6,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415595
+PINK EROTIC 7,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415596
+PINK EROTIC 8,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415597
+BALKAN EROTIC,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415598
+LESBIAN AFFAIR HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415599
+CZECH STREETS HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415600
+VIVID TV EUROPE,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415601
+SHALUN TV HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415603
+VIVID RED TV HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415604
+DORCEL HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415605
+DORCEL XXX HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415606
+HOT,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415607
+PINKO TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415608
+XDREAM 2 TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415609
+FAKE TAXI HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415610
+BANG U,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415611
+BARELY LEGAL TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415613
+BRAZZERS TV EUROPE,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415615
+BANGER Z,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415616
+HOT PLEASURE HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415618
+PASSION XXX,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415619
+PLAYBOY TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415623
+EROXXX HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415625
+PENTHOUSE QUICKIES HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415628
+SEXATION,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415629
+FAKE AGENT HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415630
+HUSTLER TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415632
+HUSTLER HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415633
+PLAYHOUSE HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415634
+REDLIGHT HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415635
+PRIVATE HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415636
+FRENCHLOVER TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415637
+X1,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415638
+FAST BOYZ,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415641
+BALKAN HOT,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415642
+BALKAN EROTIC HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415646
+XY PLUS,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415647
+MEGA XXX HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415652
+ADULT 7 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415654
+ADULT 6 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415655
+ADULT 5 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415656
+ADULT 4 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415657
+ADULT 3 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415658
+ADULT 2 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415659
+ADULT 1 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415660
+MILF TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415661
+SHEMALE TUBE 1 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415662
+PINK EROTIC,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415663
+PINK EROTIC 2,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415664
+PINK EROTIC 3,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415665
+PINK EROTIC 4,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415666
+PINK EROTIC 5,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415667
+PINK EROTIC 6,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415668
+PINK EROTIC 7,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415669
+PINK EROTIC 8,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415670
+BALKAN EROTIC,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415671
+LESBIAN AFFAIR HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415672
+CZECH STREETS HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415673
+VIVID TV EUROPE,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415674
+VIVID RED TV HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415677
+DORCEL HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415678
+DORCEL XXX HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415679
+HOT,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415680
+PINKO TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415681
+XDREAM 2 TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415682
+FAKE TAXI HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415683
+BANG U,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415684
+BARELY LEGAL TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415686
+BRAZZERS TV EUROPE,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415688
+BANGER Z,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415689
+HOT PLEASURE HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415691
+PASSION XXX,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415692
+PLAYBOY TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415696
+EROX HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415697
+EROXXX HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415698
+PENTHOUSE QUICKIES HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415701
+SEXATION,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415702
+FAKE AGENT HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415703
+HUSTLER TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415705
+HUSTLER HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415706
+PLAYHOUSE HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415707
+REDLIGHT HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415708
+PRIVATE HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415709
+FRENCHLOVER TV,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415710
+X1,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415711
+FAST BOYZ,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415714
+BALKAN HOT,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415715
+BALKAN EROTIC HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415719
+XY PLUS,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415720
+MEGA XXX HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415725
+ADULT 7 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415727
+ADULT 6 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415728
+ADULT 5 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415729
+ADULT 4 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415730
+ADULT 3 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415731
+ADULT 2 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415732
+ADULT 1 HD,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/415733
+Anonym TV Porn FullHD - 1,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391699
+Anonym TV Porn FullHD - 2,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391700
+Anonym TV Porn FullHD - 3,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391703
+Anonym TV Porn FullHD - 4,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391706
+Anonym TV Porn FullHD - 5,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391707
+Anonym TV Porn FullHD - 6,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391708
+Anonym TV Porn FullHD - 7,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391709
+Anonym TV Porn FullHD - 8,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391710
+Anonym TV Porn FullHD - 9,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391711
+Anonym TV Porn FullHD - 10,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391712
+Anonym TV Porn FullHD - 11,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391713
+Anonym TV Porn FullHD - 12,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391714
+Anonym TV Porn FullHD - 13,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391715
+Anonym TV Porn FullHD - 14,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391716
+Anonym TV Porn FullHD - 15,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391717
+Anonym TV Porn FullHD - 16,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391718
+Anonym TV Porn FullHD - 17,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391719
+Anonym TV Porn FullHD - 18,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391720
+Anonym TV Porn FullHD - 19,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391721
+Anonym TV Porn FullHD - 20,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391722
+Anonym TV Porn FullHD - 21,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391723
+Anonym TV Porn FullHD - 22,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391724
+Anonym TV Porn FullHD - 23,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391725
+Anonym TV Porn FullHD - 24,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391726
+Anonym TV Porn FullHD - 25,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391727
+Anonym TV Porn FullHD - 26,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391728
+Anonym TV Porn FullHD - 27,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391729
+Anonym TV Porn FullHD - 28,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391730
+Anonym TV Porn FullHD - 29,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391731
+Anonym TV Porn FullHD - 30,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391732
+Anonym TV PornFullHD - 31,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391733
+Anonym TV Porn FullHD - 32,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391782
+Anonym TV Porn FullHD - 33,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391783
+Anonym TV Porn FullHD - 34,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391784
+Anonym TV Porn FullHD - 35,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391785
+Anonym TV Porn FullHD -36,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391786
+Anonym TV Porn FullHD - 37,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391787
+Anonym TV Porn FullHD - 38,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391788
+Anonym TV Porn FullHD - 39,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391789
+Anonym TV Porn FullHD - 40,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391790
+Anonym TV Porn FullHD - 41,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391791
+Anonym TV Porn FullHD - 42,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391792
+Anonym TV Porn FullHD - 43,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391793
+Anonym TV Porn FullHD - 44,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391794
+Anonym TV Porn FullHD - 45,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391795
+Anonym TV Porn FullHD - 46,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391796
+Anonym TV Porn FullHD - 47,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391797
+Anonym TV Porn FullHD - 48,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391799
+Anonym TV Porn FullHD - 49,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/391800
+Anonym TV Alex Blake,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/267075
+Anonym TV Porn 4K - 1,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354470
+Anonym TV Porn 4K - 2,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354471
+Anonym TV Porn 4K - 3,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354472
+Anonym TV Porn 4K - 4,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354473
+Anonym TV Porn 4K - 5,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354474
+Anonym TV Porn 4K - 6,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354475
+Anonym TV Porn 4K - 7,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354476
+Anonym TV Porn 4K - 8,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354477
+Anonym TV Porn 4K - 9,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354479
+Anonym TV Porn 4K - 10,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354480
+Anonym TV Porn 4K - 11,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354481
+Anonym TV Porn 4K - 12,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354482
+Anonym TV Porn 4K - 13,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354483
+Anonym TV Porn 4K - 14,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354484
+Anonym TV Porn 4K - 15,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354485
+Anonym TV Porn 4K - 16,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354486
+Anonym TV Porn 4K - 17,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354487
+Anonym TV Porn 4K - 18,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354488
+Anonym TV Porn 4K - 19,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354489
+Anonym TV Porn 4K - 20,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354490
+Anonym TV Porn 4K - 21,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354491
+Anonym TV Porn 4K - 22,http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/354492
+
+
++18 Dorcel Tv 1,http://iptv.csserv.co:8000/live/clientr725/631739/4448.m3u8
++18 Alba XXX-HD2,http://iptv.csserv.co:8000/live/clientr725/631739/4447.m3u8
++18 Alba XXX-HD1,http://iptv.csserv.co:8000/live/clientr725/631739/4446.m3u8
++18 HUSTLER,http://iptv.csserv.co:8000/live/clientr725/631739/4444.m3u8
++18 Jasmin TV,http://iptv.csserv.co:8000/live/clientr725/631739/3766.m3u8
++18 PENTHOUSE,http://iptv.csserv.co:8000/live/clientr725/631739/2006.m3u8
++18 REDLIGHT HD,http://iptv.csserv.co:8000/live/clientr725/631739/2005.m3u8
++18 SCT HD,http://iptv.csserv.co:8000/live/clientr725/631739/1516.m3u8
++18 Adult_3,http://iptv.csserv.co:8000/live/clientr725/631739/1461.ts
++18 Adult_4,http://iptv.csserv.co:8000/live/clientr725/631739/1460.ts
++18 Adult_5,http://iptv.csserv.co:8000/live/clientr725/631739/1459.ts
++18 DORCEL TV HD,http://iptv.csserv.co:8000/live/clientr725/631739/1517.ts
++18 Brazzers HD,http://iptv.csserv.co:8000/live/clientr725/631739/2009.ts
++18 VENUS,http://iptv.csserv.co:8000/live/clientr725/631739/2008.ts
++18 Adult_7,http://iptv.csserv.co:8000/live/clientr725/631739/1998.ts
++18 playboyv,http://iptv.csserv.co:8000/live/clientr725/631739/1803.ts
++18 SESTO SENSO TV,http://iptv.csserv.co:8000/live/clientr725/631739/2002.ts
++18 DORCEL,http://iptv.csserv.co:8000/live/clientr725/631739/4451.ts
+
+
+VENUS HD,http://dns1.adns.site:80/janete2021/2021janete/771260
+SEXY HOT HD,http://dns1.adns.site:80/janete2021/2021janete/771261
+VENUS HD,http://dns1.adns.site:80/janete2021/2021janete/771263
+PLAYBOY TV HD,http://dns1.adns.site:80/janete2021/2021janete/771264
+
+
+|ADULT| PENTHOUSE QUICKIES HD,http://line.4k-iptv.com:80/samac/samac/18872
+|ADULT| PENTHOUSE GOLD HD,http://line.4k-iptv.com:80/samac/samac/18871
+|ADULT| PRIVATE TV HD,http://line.4k-iptv.com:80/samac/samac/18869
+|ADULT| VIVIDTV EUROPE,http://line.4k-iptv.com:80/samac/samac/18868
+|ADULT| BANG U,http://line.4k-iptv.com:80/samac/samac/18867
+|ADULT| BANGERZ,http://line.4k-iptv.com:80/samac/samac/18866
+|ADULT| BARELY LEGAL,http://line.4k-iptv.com:80/samac/samac/18865
+|ADULT| WERK,http://line.4k-iptv.com:80/samac/samac/18864
+|ADULT| HOT PLEASURE HD,http://line.4k-iptv.com:80/samac/samac/18863
+|ADULT| EROTIC3,http://line.4k-iptv.com:80/samac/samac/18862
+|ADULT| EROTIC,http://line.4k-iptv.com:80/samac/samac/18861
+|ADULT| EROTIC2,http://line.4k-iptv.com:80/samac/samac/18860
+|ADULT| CANDY HD,http://line.4k-iptv.com:80/samac/samac/18859
+|ADULT| NAUGHTY,http://line.4k-iptv.com:80/samac/samac/18858
+|ADULT| DORCEL HD,http://line.4k-iptv.com:80/samac/samac/18857
+|ADULT| DORCEL XXX HD,http://line.4k-iptv.com:80/samac/samac/18856
+|ADULT| RKTV,http://line.4k-iptv.com:80/samac/samac/18855
+|ADULT| EROXXX HD,http://line.4k-iptv.com:80/samac/samac/18854
+|ADULT| EVIL ANGEL HD,http://line.4k-iptv.com:80/samac/samac/18853
+|ADULT| PASSIEXXX ANAAL,http://line.4k-iptv.com:80/samac/samac/18852
+|ADULT| EXTREM,http://line.4k-iptv.com:80/samac/samac/18851
+|ADULT| PINK CLUB,http://line.4k-iptv.com:80/samac/samac/18850
+|ADULT| FREE X TV,http://line.4k-iptv.com:80/samac/samac/18849
+|ADULT| Pinko Club 2,http://line.4k-iptv.com:80/samac/samac/18848
+|ADULT| 	X-Dream TV,http://line.4k-iptv.com:80/samac/samac/18847
+|ADULT| HOT PLEASURE,http://line.4k-iptv.com:80/samac/samac/18846
+|ADULT| EROTIC4,http://line.4k-iptv.com:80/samac/samac/18845
+|ADULT| HUSTLER HD,http://line.4k-iptv.com:80/samac/samac/18844
+|ADULT| FASTBOY,http://line.4k-iptv.com:80/samac/samac/18843
+|ADULT| LEO TV,http://line.4k-iptv.com:80/samac/samac/18842
+|ADULT| LESBIAN AFFAIR,http://line.4k-iptv.com:80/samac/samac/18841
+|ADULT| EROTIC 8,http://line.4k-iptv.com:80/samac/samac/18840
+|ADULT| MILF TV,http://line.4k-iptv.com:80/samac/samac/18839
+|ADULT| EXXXOTICA,http://line.4k-iptv.com:80/samac/samac/18838
+|ADULT| NUART TV,http://line.4k-iptv.com:80/samac/samac/18837
+|ADULT| LOVER TV,http://line.4k-iptv.com:80/samac/samac/18836
+|ADULT| HOT,http://line.4k-iptv.com:80/samac/samac/18835
+|ADULT| OLDTIMER,http://line.4k-iptv.com:80/samac/samac/18834
+|ADULT| PLAYBOY EUROPE,http://line.4k-iptv.com:80/samac/samac/18833
+|ADULT| PLAYHOUSE,http://line.4k-iptv.com:80/samac/samac/18832
+|ADULT| SEXY HOT,http://line.4k-iptv.com:80/samac/samac/18831
+|ADULT| VENUS,http://line.4k-iptv.com:80/samac/samac/18830
+|ADULT| JASMIN TV,http://line.4k-iptv.com:80/samac/samac/18829
+|ADULT| REDLIGHT HD,http://line.4k-iptv.com:80/samac/samac/18828
+|ADULT| EXTREME HD,http://line.4k-iptv.com:80/samac/samac/18827
+|ADULT| SCT CLASSIC,http://line.4k-iptv.com:80/samac/samac/18826
+|ADULT| Cent & Cento,http://line.4k-iptv.com:80/samac/samac/18825
+|ADULT| MEIDEN HOLLAND,http://line.4k-iptv.com:80/samac/samac/18824
+|ADULT| EROTIC 6,http://line.4k-iptv.com:80/samac/samac/18823
+|ADULT| EROTIC 7,http://line.4k-iptv.com:80/samac/samac/18822
+|ADULT| EROX HD,http://line.4k-iptv.com:80/samac/samac/18821
+|ADULT| SUPER ONE HD,http://line.4k-iptv.com:80/samac/samac/18820
+|ADULT| O LA LA,http://line.4k-iptv.com:80/samac/samac/18819
+|ADULT| VENUS TV,http://line.4k-iptv.com:80/samac/samac/18818
+|ADULT| VIVID RED HD,http://line.4k-iptv.com:80/samac/samac/18817
+|ADULT| PASSIEXXX GROUPSEX,http://line.4k-iptv.com:80/samac/samac/18816
+|ADULT| PLAYBOY B,http://line.4k-iptv.com:80/samac/samac/18815
+|ADULT| PLAYBOY BLACK,http://line.4k-iptv.com:80/samac/samac/18814
+|ADULT| PLAYBOY RED,http://line.4k-iptv.com:80/samac/samac/18813
+|ADULT| BRAZZERS TV EUROPE,http://line.4k-iptv.com:80/samac/samac/18812
+|ADULT| HUSTLER TV,http://line.4k-iptv.com:80/samac/samac/18811
+|ADULT| XXL,http://line.4k-iptv.com:80/samac/samac/18810
+|ADULT| DUSK,http://line.4k-iptv.com:80/samac/samac/18809
+|ADULT| ZEST TV,http://line.4k-iptv.com:80/samac/samac/18808
+|ADULT| NUART,http://line.4k-iptv.com:80/samac/samac/18807
+|ADULT| SUPERONE,http://line.4k-iptv.com:80/samac/samac/18806
+|ADULT| TABOO,http://line.4k-iptv.com:80/samac/samac/18805
+|ADULT| PLAYBOY,http://line.4k-iptv.com:80/samac/samac/18804
+|ADULT| PINK EROTIC 2,http://line.4k-iptv.com:80/samac/samac/18803
+|ADULT| PINK EROTIC 3,http://line.4k-iptv.com:80/samac/samac/18802
+|ADULT| PINK EROTIC 4,http://line.4k-iptv.com:80/samac/samac/18801
+|ADULT| PINK EROTIC 5,http://line.4k-iptv.com:80/samac/samac/18800
+|ADULT| Common daisy,http://line.4k-iptv.com:80/samac/samac/18799
+|ADULT| BARELY LEGAL TV,http://line.4k-iptv.com:80/samac/samac/18798
+|ADULT| EXTREME,http://line.4k-iptv.com:80/samac/samac/18797
+|ADULT| EXX EXOTICA,http://line.4k-iptv.com:80/samac/samac/18796
+|ADULT| MEN ONLY,http://line.4k-iptv.com:80/samac/samac/18795
+|ADULT| BLUE HUSTLER EUROPE,http://line.4k-iptv.com:80/samac/samac/18794
+|ADULT| BLUE HUSTLER,http://line.4k-iptv.com:80/samac/samac/18793
+|ADULT| BALKAN EROTIC HD,http://line.4k-iptv.com:80/samac/samac/18792
+|ADULT| FAST BOYZ,http://line.4k-iptv.com:80/samac/samac/18791
+|ADULT| MAN-X,http://line.4k-iptv.com:80/samac/samac/18790
+|ADULT| P HD PRIVATE,http://line.4k-iptv.com:80/samac/samac/18789
+|ADULT| PASSIONXXX ANALSRETCHED,http://line.4k-iptv.com:80/samac/samac/18788
+|ADULT| EMANUELLE,http://line.4k-iptv.com:80/samac/samac/18787
+|ADULT| SEXCO BISEXUAL,http://line.4k-iptv.com:80/samac/samac/18786
+|ADULT| SEXCO CASTING,http://line.4k-iptv.com:80/samac/samac/18785
+|ADULT| SEXCO ANAL,http://line.4k-iptv.com:80/samac/samac/18784
+|ADULT| SEXCO HOMEMADE,http://line.4k-iptv.com:80/samac/samac/18783
+|ADULT| SEXCO MATURE,http://line.4k-iptv.com:80/samac/samac/18782
+|ADULT| SEXCO WORK,http://line.4k-iptv.com:80/samac/samac/18781
+|ADULT| SEXCO BLACK,http://line.4k-iptv.com:80/samac/samac/18780
+|ADULT| SEXCO BIG TITS,http://line.4k-iptv.com:80/samac/samac/18779
+|ADULT| SEXCO CUMSHOT,http://line.4k-iptv.com:80/samac/samac/18778
+|ADULT| SEXCO ASSIAN,http://line.4k-iptv.com:80/samac/samac/18777
+|ADULT| SEXCO BIG DICK,http://line.4k-iptv.com:80/samac/samac/18776
+|ADULT| SEXCO BDSM,http://line.4k-iptv.com:80/samac/samac/18775
+|ADULT| SEXCO LATIN,http://line.4k-iptv.com:80/samac/samac/18774
+|ADULT| SEXCO FETISH,http://line.4k-iptv.com:80/samac/samac/18773
+|ADULT| SEXCO GANGBANG,http://line.4k-iptv.com:80/samac/samac/18772
+|ADULT| SEXCO BLOWJOB,http://line.4k-iptv.com:80/samac/samac/18771
+|ADULT| SEXCO GROUP,http://line.4k-iptv.com:80/samac/samac/18770
+|ADULT| GAY TV HD,http://line.4k-iptv.com:80/samac/samac/18769
+|ADULT| LUXURE TV HD,http://line.4k-iptv.com:80/samac/samac/18768
+|ADULT| COUGARS TV HD,http://line.4k-iptv.com:80/samac/samac/18767
+|ADULT| EXEGIRLS TV HD,http://line.4k-iptv.com:80/samac/samac/18766
+|ADULT| PORNOX TV HD,http://line.4k-iptv.com:80/samac/samac/18765
+|ADULT| UNDERSEX TV HD,http://line.4k-iptv.com:80/samac/samac/18764
+|ADULT| PULSION TV HD,http://line.4k-iptv.com:80/samac/samac/18763
+|ADULT| LOVE TV HD,http://line.4k-iptv.com:80/samac/samac/18762
+|ADULT| APHRODITE TV HD,http://line.4k-iptv.com:80/samac/samac/18761
+|ADULT| PLAYSEX TV HD,http://line.4k-iptv.com:80/samac/samac/18760
+|ADULT| Pinko TV,http://line.4k-iptv.com:80/samac/samac/18759
+|ADULT| Reality Kings TV,http://line.4k-iptv.com:80/samac/samac/18758
+|ADULT| BIGASS,http://line.4k-iptv.com:80/samac/samac/18757
+|ADULT| SEX MEX CHANNEL,http://line.4k-iptv.com:80/samac/samac/18756
+|ADULT| XPLUS FETİSH  HD,http://line.4k-iptv.com:80/samac/samac/18755
+|ADULT| FAP TV 2,http://line.4k-iptv.com:80/samac/samac/18754
+|ADULT| FAP TV 3,http://line.4k-iptv.com:80/samac/samac/18753
+|ADULT| FAP TV 4,http://line.4k-iptv.com:80/samac/samac/18752
+|ADULT| FAP TV Anal,http://line.4k-iptv.com:80/samac/samac/18751
+|ADULT| FAP TV Parody,http://line.4k-iptv.com:80/samac/samac/18750
+|ADULT| FAP TV Compilation,http://line.4k-iptv.com:80/samac/samac/18748
+|ADULT| FAP TV BBW,http://line.4k-iptv.com:80/samac/samac/18747
+|ADULT| FAP TV Trans,http://line.4k-iptv.com:80/samac/samac/18746
+|ADULT| FAP TV Lesbian,http://line.4k-iptv.com:80/samac/samac/18745
+|ADULT| Tushy 2 TV FHD,http://line.4k-iptv.com:80/samac/samac/18744
+|ADULT| XY MIX HD,http://line.4k-iptv.com:80/samac/samac/18743
+|ADULT| XY MAX TV HD,http://line.4k-iptv.com:80/samac/samac/18741
+|ADULT| EXTASY HD,http://line.4k-iptv.com:80/samac/samac/18740
+|ADULT| PORSTAR,http://line.4k-iptv.com:80/samac/samac/18739
+|ADULT| Miami TV HD,http://line.4k-iptv.com:80/samac/samac/18738
+|ADULT| Destiny 2 TV +18 HD,http://line.4k-iptv.com:80/samac/samac/18737
+|ADULT| Casting Couch FHD,http://line.4k-iptv.com:80/samac/samac/18736
+|ADULT| Elegant RAW FHD,http://line.4k-iptv.com:80/samac/samac/18735
+|ADULT| Alba XXX HD,http://line.4k-iptv.com:80/samac/samac/18734
+|ADULT| MILF 2,http://line.4k-iptv.com:80/samac/samac/18733
+|ADULT| MILF 3,http://line.4k-iptv.com:80/samac/samac/18732
+|ADULT| Mature 2,http://line.4k-iptv.com:80/samac/samac/18731
+|ADULT| Red XXX,http://line.4k-iptv.com:80/samac/samac/18730
+|ADULT| Big Tits 3,http://line.4k-iptv.com:80/samac/samac/18729
+|ADULT| Lesbian 1,http://line.4k-iptv.com:80/samac/samac/18728
+|ADULT| SEXTREME,http://line.4k-iptv.com:80/samac/samac/18727
+|ADULT| Bunga Bunga,http://line.4k-iptv.com:80/samac/samac/18726
+|ADULT| Holed FHD,http://line.4k-iptv.com:80/samac/samac/18725
+|ADULT| Visit-X TV,http://line.4k-iptv.com:80/samac/samac/18724
+|ADULT| Cuckold,http://line.4k-iptv.com:80/samac/samac/18723
+|ADULT| BangBros UHD 4K,http://line.4k-iptv.com:80/samac/samac/18722
+|ADULT| Perv Mom Net XX HD,http://line.4k-iptv.com:80/samac/samac/18721
+|ADULT| Max XXX 2 HD,http://line.4k-iptv.com:80/samac/samac/18720
+|ADULT| Day With A Pornstar FHD,http://line.4k-iptv.com:80/samac/samac/18719
+|ADULT| Blacked Raw HD,http://line.4k-iptv.com:80/samac/samac/18718
+|ADULT| Deeper FHD,http://line.4k-iptv.com:80/samac/samac/18717
+|ADULT| PinkO Club HD,http://line.4k-iptv.com:80/samac/samac/18716
+|ADULT| AssParade FHD,http://line.4k-iptv.com:80/samac/samac/18715
+|ADULT| Fake Taxi FHD,http://line.4k-iptv.com:80/samac/samac/18714
+|ADULT| Hot Wife HD,http://line.4k-iptv.com:80/samac/samac/18713
+|ADULT| Pure Taboo FHD,http://line.4k-iptv.com:80/samac/samac/18712
+|ADULT| O-la-la,http://line.4k-iptv.com:80/samac/samac/18711
+|ADULT| Шалун,http://line.4k-iptv.com:80/samac/samac/18710
+|ADULT| Sct HD,http://line.4k-iptv.com:80/samac/samac/18708
+|ADULT| Sext6Senso,http://line.4k-iptv.com:80/samac/samac/18707
+|ADULT| Cento X Cento,http://line.4k-iptv.com:80/samac/samac/18706
+|ADULT| Bangbus FHD,http://line.4k-iptv.com:80/samac/samac/18705
+|ADULT| Mofos Lab HD,http://line.4k-iptv.com:80/samac/samac/18704
+|ADULT| SLTV Adult 1 HD,http://line.4k-iptv.com:80/samac/samac/18703
+|ADULT| SLTV Adult 2 HD,http://line.4k-iptv.com:80/samac/samac/18702
+|ADULT| SLTV Adult 3 HD,http://line.4k-iptv.com:80/samac/samac/18701
+|ADULT| SLTV Adult 4 HD,http://line.4k-iptv.com:80/samac/samac/18700
+|ADULT| SLTV Adult 5 HD,http://line.4k-iptv.com:80/samac/samac/18699
+|ADULT| SLTV Adult 6 HD,http://line.4k-iptv.com:80/samac/samac/18698
+|ADULT| SLTV Adult 7 HD,http://line.4k-iptv.com:80/samac/samac/18697
+|ADULT| SLTV Adult 8 HD,http://line.4k-iptv.com:80/samac/samac/18696
+|ADULT| SLTV Adult 9 HD,http://line.4k-iptv.com:80/samac/samac/18695
+|ADULT| SLTV Erotic HD,http://line.4k-iptv.com:80/samac/samac/18694
+|ADULT| GIRLS XXX 1,http://line.4k-iptv.com:80/samac/samac/18693
+|ADULT| GIRLS XXX 2,http://line.4k-iptv.com:80/samac/samac/18692
+|ADULT| GIRLS XXX 3,http://line.4k-iptv.com:80/samac/samac/18691
+|ADULT| GIRLS XXX 4,http://line.4k-iptv.com:80/samac/samac/18690
+|ADULT| HOT SEXY 1,http://line.4k-iptv.com:80/samac/samac/18689
+|ADULT| HOT SEXY 2,http://line.4k-iptv.com:80/samac/samac/18688
+|ADULT| HOT SEXY 3,http://line.4k-iptv.com:80/samac/samac/18687
+|ADULT| HOT SEXY 4,http://line.4k-iptv.com:80/samac/samac/18686
+|ADULT| HOT SEXY 5,http://line.4k-iptv.com:80/samac/samac/18685
+|ADULT| HOT SEXY 6,http://line.4k-iptv.com:80/samac/samac/18684
+|ADULT| HOT SEXY 7,http://line.4k-iptv.com:80/samac/samac/18683
+|ADULT| HOT SEXY 8,http://line.4k-iptv.com:80/samac/samac/18682
+|ADULT| HOT SEXY 9,http://line.4k-iptv.com:80/samac/samac/18681
+|ADULT| HOT SEXY 10,http://line.4k-iptv.com:80/samac/samac/18680
+|ADULT| HOT SEXY 11,http://line.4k-iptv.com:80/samac/samac/18679
+|ADULT| HOT SEXY 12,http://line.4k-iptv.com:80/samac/samac/18678
+|ADULT| HOT SEXY 13,http://line.4k-iptv.com:80/samac/samac/18677
+|ADULT| HOT SEXY 14,http://line.4k-iptv.com:80/samac/samac/18676
+|ADULT| HOT SEXY 15,http://line.4k-iptv.com:80/samac/samac/18675
+|ADULT| HOT SEXY 16,http://line.4k-iptv.com:80/samac/samac/18674
+|ADULT| Hot Club 1 FHD,http://line.4k-iptv.com:80/samac/samac/18673
+|ADULT| Hot Club 2 FHD,http://line.4k-iptv.com:80/samac/samac/18672
+|ADULT| Hot Club 4 FHD,http://line.4k-iptv.com:80/samac/samac/18671
+|ADULT| FRANCE A POİL3  HD,http://line.4k-iptv.com:80/samac/samac/18670
+|ADULT| FRANCE A POİL2  HD,http://line.4k-iptv.com:80/samac/samac/18669
+|ADULT| NEO Gay 2,http://line.4k-iptv.com:80/samac/samac/18668
+|ADULT| FAP TV Teens,http://line.4k-iptv.com:80/samac/samac/18749
+
+
+XXX_Penthouse Gold HD,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/1213
+XXX_VIXEN,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/1215
+XXX_Venus,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/1216
+XXX_RedLight HD,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/1218
+XXX_Playboy,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/1219
+XXX_Penthouse Gold HD,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/1220
+XXX_Private,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/1222
+XXX_Hustler TV,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/1224
+XXX_Hot,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/1225
+XXX_Venus,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/1231
+XXX_Jasmin.tv ,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29530
+XXX_RedLight HD,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29531
+XXX_Penthouse Gold HD,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29535
+XXX_Penthouse Quickies HD,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29536
+XXX_Erotic 07,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29539
+XXX_Erotic 06,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29540
+XXX_Erotic 04,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29542
+XXX_Erotic 03,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29543
+XXX_NAUGHTY,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29544
+XXX_VIVID TV,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29545
+XXX_HARDX,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29546
+XXX_Private,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29547
+XXX_VIXEN,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29548
+XXX_FAKEAGENT,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29549
+XXX_FAKEAGENT,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29558
+XXX_X Desire,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29529
+XXX_BRAZZER,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29528
+XXX_Hustler TV HD,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29526
+XXX_Nubiles Casting.com,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29524
+XXX_Private TV,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29522
+XXX_Venus TV,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29517
+XXX_ SINFULLXXX 01,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29514
+XXX_SINFULLXXX 02,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29513
+XXX_Alba XXX-1,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29512
+XXX_Alba XXX-2,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29511
+XXX_Alba XXX-3,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29510
+XXX_Alba XXX-4,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29509
+XXX_Alba XXX-6,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29507
+XXX_VIVID HD,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29479
+
+
+XXX: ANAL OVERDOZE FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61322
+XXX: ASSPARADE 2 FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61326
+XXX: ASSPARADE FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61327
+XXX: ASSYLUM 1 FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61328
+XXX: AUNT JUDYS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61330
+XXX: BABES TV HD (S),http://live.iptvtotaal.com:8000/6234122498/8329556324/61332
+XXX: BAD MILFS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61334
+XXX: BALKAN HOT TV (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61337
+XXX: BANG U (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61339
+XXX: BANGBUS 2 FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61343
+XXX: BANGBUS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61344
+XXX: BIGTITS ROUND ASS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61351
+XXX: BLACKED RAW 2 FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61353
+XXX: BLACKED RAW FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61354
+XXX: BLACKED RAW UHD 4K  [ONLY ON 4K DEVICES],http://live.iptvtotaal.com:8000/6234122498/8329556324/61355
+XXX: BLOWJOB FRIDAYS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61356
+XXX: CASTING COUCH FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61366
+XXX: CENTO CENTO,http://live.iptvtotaal.com:8000/6234122498/8329556324/61367
+XXX: CENTO X CENTO (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61368
+XXX: CUCKOLD CHANNEL,http://live.iptvtotaal.com:8000/6234122498/8329556324/61373
+XXX: CUM4K 1 FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61375
+XXX: DAY WITH A PORNSTAR FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61379
+XXX: DEEP LUSH FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61380
+XXX: DEEPER FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61381
+XXX: DIRTY MASSEUR FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61383
+XXX: DOCTORS ADVENTURES FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61385
+XXX: DP FANATICS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61390
+XXX: EMANUELLE HD (S),http://live.iptvtotaal.com:8000/6234122498/8329556324/61393
+XXX: EVIL ANGEL (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61397
+XXX: EVIL ANGEL TV FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61398
+XXX: EXTREME TV (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61402
+XXX: EXXXOTICA HD (S),http://live.iptvtotaal.com:8000/6234122498/8329556324/61403
+XXX: FAKE DRIVING SCHOOL FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61405
+XXX: FAMILYHOOKUPS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61410
+XXX: FREE-X TV (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61416
+XXX: FREE-X TV 2 (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61417
+XXX: FREE-X TV HQ (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61418
+XXX: FRENCH LOVER (S),http://live.iptvtotaal.com:8000/6234122498/8329556324/61419
+XXX: HOT,http://live.iptvtotaal.com:8000/6234122498/8329556324/61430
+XXX: HOT AND MEAN FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61431
+XXX: HOT HD (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61432
+XXX: HOT PLEASURE TV (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61433
+XXX: HOT TV (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61434
+XXX: HOT WIFE RIO FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61435
+XXX: HUSHPASS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61437
+XXX: HUSSIEPASS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61438
+XXX: HUSTLER EUROPE HD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61439
+XXX: HUSTLER TV 2 (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61441
+XXX: HUSTLER TV HD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61442
+XXX: I KNOW THAT GIRL FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61445
+XXX: IN THE CRACK 2 FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61446
+XXX: IN THE CRACK FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61448
+XXX: JAMES DEEN FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61451
+XXX: JAYS POV FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61454
+XXX: JESSE LOADS MONSTER FACIALS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61455
+XXX: LEO TV,http://live.iptvtotaal.com:8000/6234122498/8329556324/61461
+XXX: LEO TV (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61462
+XXX: LETS TRY ANAL FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61464
+XXX: Meiden Van Holland Hard,http://live.iptvtotaal.com:8000/6234122498/8329556324/61474
+XXX: MIA KHALIFA FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61476
+XXX: MMV FILMS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61480
+XXX: MOMS TEACH SEX HD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61482
+XXX: MY FAMILY PIES FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61485
+XXX: NUART TV (S),http://live.iptvtotaal.com:8000/6234122498/8329556324/61490
+XXX: PASSIE XXX (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61498
+XXX: PASSION XXX 3 (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61502
+XXX: PENTHOUSE GOLD FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61504
+XXX: PERV MOM FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61508
+XXX: PERVS ON PATROL FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61509
+XXX: PINK EROTIC 4 (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61514
+XXX: PINK EROTIC 8 (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61518
+XXX: PINK O CLUB 2 (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61520
+XXX: PLAYBOY TV (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61523
+XXX: PLAYBOY TV 2 (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61525
+XXX: PLAYBOY TV 2 HD (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61526
+XXX: PLAYHOUSE HD (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61529
+XXX: PUBLICBANG FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61535
+XXX: PURE MATURE 1 FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61537
+XXX: PURGATORY X FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61540
+XXX: RADICAL JIZZ LAM FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61541
+XXX: REALITY KINGS TV,http://live.iptvtotaal.com:8000/6234122498/8329556324/61543
+XXX: REDHOT,http://live.iptvtotaal.com:8000/6234122498/8329556324/61545
+XXX: REDLIGHT HD (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61547
+XXX: SECRET CIRCLE TV (S),http://live.iptvtotaal.com:8000/6234122498/8329556324/61559
+XXX: SHARE MY BF FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61569
+XXX: SL EROTIC HD (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61575
+XXX: SL HOT HD 4 (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61579
+XXX: STRANDED TEENS FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61587
+XXX: SUGARDADDY FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61588
+XXX: VENUS TV (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61598
+XXX: VINTAGE X FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61602
+XXX: VIVID RED FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61604
+XXX: WATCHING MY MOM GO BLACK FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61609
+XXX: X-DREAM 2 TV (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61610
+XXX: XTASY,http://live.iptvtotaal.com:8000/6234122498/8329556324/61612
+XXX: XXL,http://live.iptvtotaal.com:8000/6234122498/8329556324/61613
+XXX: XXL (H),http://live.iptvtotaal.com:8000/6234122498/8329556324/61614
+XXX: XXX MAX FHD,http://live.iptvtotaal.com:8000/6234122498/8329556324/61615
+XXX: ALBA XXX: 6,http://live.iptvtotaal.com:8000/6234122498/8329556324/45703
+XXX: SECRET CIRCLE,http://live.iptvtotaal.com:8000/6234122498/8329556324/45707
+XXX: FAST BOYZ GAY,http://live.iptvtotaal.com:8000/6234122498/8329556324/61712
+XXX: X-MO GAY,http://live.iptvtotaal.com:8000/6234122498/8329556324/61713
+XXX: Gay,http://live.iptvtotaal.com:8000/6234122498/8329556324/61715
+XXX: Anal,http://live.iptvtotaal.com:8000/6234122498/8329556324/61844
+XXX: Asian,http://live.iptvtotaal.com:8000/6234122498/8329556324/61846
+XXX: Big Ass,http://live.iptvtotaal.com:8000/6234122498/8329556324/61848
+XXX: Big Dick,http://live.iptvtotaal.com:8000/6234122498/8329556324/61849
+XXX: Big Tits,http://live.iptvtotaal.com:8000/6234122498/8329556324/61852
+XXX: Blonde,http://live.iptvtotaal.com:8000/6234122498/8329556324/61853
+XXX: Blowjob,http://live.iptvtotaal.com:8000/6234122498/8329556324/61854
+XXX: Brunette,http://live.iptvtotaal.com:8000/6234122498/8329556324/61856
+XXX: Compilation,http://live.iptvtotaal.com:8000/6234122498/8329556324/61857
+XXX: Cuckold,http://live.iptvtotaal.com:8000/6234122498/8329556324/61859
+XXX: Fetish,http://live.iptvtotaal.com:8000/6234122498/8329556324/61860
+XXX: Gangbang,http://live.iptvtotaal.com:8000/6234122498/8329556324/61863
+XXX: Gay,http://live.iptvtotaal.com:8000/6234122498/8329556324/61864
+XXX: Hardcore,http://live.iptvtotaal.com:8000/6234122498/8329556324/61865
+XXX: Interracial,http://live.iptvtotaal.com:8000/6234122498/8329556324/61868
+XXX: Latina,http://live.iptvtotaal.com:8000/6234122498/8329556324/61869
+XXX: Lesbian,http://live.iptvtotaal.com:8000/6234122498/8329556324/61872
+XXX: Live Cams,http://live.iptvtotaal.com:8000/6234122498/8329556324/61873
+XXX: MILF,http://live.iptvtotaal.com:8000/6234122498/8329556324/61874
+XXX: Pornstar,http://live.iptvtotaal.com:8000/6234122498/8329556324/61876
+XXX: POV,http://live.iptvtotaal.com:8000/6234122498/8329556324/61878
+XXX: Rough,http://live.iptvtotaal.com:8000/6234122498/8329556324/61880
+XXX: Russian,http://live.iptvtotaal.com:8000/6234122498/8329556324/61882
+XXX: Teen,http://live.iptvtotaal.com:8000/6234122498/8329556324/61883
+XXX: Threesome,http://live.iptvtotaal.com:8000/6234122498/8329556324/61885
+XXX: Woman,http://live.iptvtotaal.com:8000/6234122498/8329556324/61887
+
+
+XXX-Penthouse Quickies HD,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/6669
+XXX-Red,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/15971
+XXX-Hustler HD,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/15975
+XXX-Super One HD,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/15976
+XXX-Redlight HD,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/17987
+XXX-Passie,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/18535
+XXX-Jasmin TV,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/18536
+XXX-Sextosenso,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/24164
+XXX-Reality Kings TV,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/24289
+XXX-Private TV,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/28852
+XXX-Penthouse Gold,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/40411
+XXX-Blue Hustler TV,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/41143
+XXX-Visit-X TV,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/88605
+XXX-Vivid RED,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/88606
+XXX-Penthouse Passion HD,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/105894
+XXX-Xy MAX,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/105896
+XXX-Xy MIX,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/105895
+XXX-babes TV,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139307
+XXX-Erotic 01,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139308
+XXX-Erotic 02,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139309
+XXX-Erotic 03,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139310
+XXX-Erotic 05,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139312
+XXX-Erotic 06,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139313
+XXX-Erotic 07,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139314
+XXX-Fake Taxi,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139316
+XXX-EXTASY 4K,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139317
+XXX-Hot,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139318
+XXX-Hot Club,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139319
+XXX-jailsluts.com,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139320
+XXX-Porn,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139321
+XXX-teenfidelity,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139322
+XXX-COS PIMPS,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139323
+XXX-Venus TV,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139324
+XXX-DORCEL X HD,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139325
+XXX-SINFULLXXX-01,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139326
+XXX-SINFULLXXX-02,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139327
+XXX-Alba XXX-1v,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139328
+XXX-Alba XXX-2,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139329
+XXX-Alba XXX-3,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139330
+XXX-Alba XXX-4,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139331
+XXX-Alba XXX-5,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139332
+XXX-Alba XXX-6,http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/139333
+
+
+Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
+Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
+Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
+Aldult-4,http://125.227.210.55:9055/VideoInput/play.ts
+Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts
+
+
++18 Playboy TV,http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13410
++18 Sexy Hot,http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13414
+
+
+XXXc: Penthouse Passion HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/105894
+XXXc: Penthouse Gold,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/40411
+XXXc: Penthouse Quickies HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/6669
+XXXc: Private TV,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/28852
+XXXc: Reality Kings TV,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/24289
+XXXc: Redlight HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/17987
+XXXc: Super One HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/15976
+XXXc: Sextosenso,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/24164
+XXXc: Visit-X TV,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/88605
+XXXc: Vivid RED,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/88606
+XXXc: Xy MAX,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/105896
+XXXc: Xy MIX,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/105895
+XXXc: Erotic 01,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139308
+XXXc: Erotic 02,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139309
+XXXc: Erotic 03,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139310
+XXXc: Erotic 04,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139311
+XXXc: Fake Taxi,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139316
+XXXc: EXTASY 4K,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139317
+XXXc: Hot Club,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139319
+XXXc: teenfidelity,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139322
+XXXc: COS PIMPS,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139323
+XXXc: Venus TV,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139324
+XXXc: DORCEL X HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139325
+XXXc: SINFULLXXX 01,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139326
+XXXc: SINFULLXXX 02,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139327
+XXXc: Alba XXX-1,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139328
+XXXc: Alba XXX-2,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139329
+XXXc: Alba XXX-3,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139330
+XXXc: Alba XXX-4,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139331
+XXXc: Alba XXX-5,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139332
+XXXc: Alba XXX-6,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139333
+XXXc: Bangerz,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139334
+
+
+XXX Penthouse Quickies HD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/6669
+XXX Red,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/15971
+XXX Hustler HD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/15975
+XXX Super One HD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/15976
+XXX Redlight HD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/17987
+XXX Passie,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/18535
+XXX Reality Kings TV,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/24289
+XXX Private TV,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/28852
+XXX Penthouse Gold,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/40411
+XXX Blue Hustler TV,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/41143
+XXX Playboy,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/88592
+XXX Visit-X TV,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/88605
+XXX Vivid RED,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/88606
+XXX Penthouse Passion HD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/105894
+XXX Xy MIX,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/105895
+XXX Xy MAX,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/105896
+XXX Evil Angel,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139306
+XXX babes TV,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139307
+XXX Erotic 01,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139308
+XXX Erotic 02,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139309
+XXX Erotic 03,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139310
+XXX Erotic 04,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139311
+XXX Erotic 05,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139312
+XXX Erotic 06,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139313
+XXX Erotic 07,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139314
+XXX Erotic 08,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139315
+XXX Fake Taxi,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139316
+XXX EXTASY 4K,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139317
+XXX Hot,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139318
+XXX Hot Club,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139319
+XXX jailsluts,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139320
+XXX teenfidelity,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139322
+XXX COS PIMPS,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139323
+XXX Venus TV,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139324
+XXX DORCEL X HD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139325
+XXX SINFULLXXX 01,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139326
+XXX SINFULLXXX 02,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139327
+XXX Alba XXX-1,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139328
+XXX Alba XXX-2,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139329
+XXX Alba XXX-3,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139330
+XXX Alba XXX-4,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139331
+XXX Alba XXX-5,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139332
+XXX Alba XXX-6,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139333
+XXX Bangerz,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139334
+Primafila HOTCLUB 1 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140867
+Primafila HOTCLUB 2 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140868
+Primafila HOTCLUB 3 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140869
+Primafila HOTCLUB 4 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140870
+Primafila HOTCLUB 5 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140871
+Primafila HOTCLUB 6 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140872
+Primafila HOTCLUB 7 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140873
+Primafila HOTCLUB 8 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140874
+Primafila HOTCLUB 9 FHD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/140875
 
 🔞秒播測試_710924,#genre#
 101,https://2.ddyunbo.com/20190709/vsmhQlYK/index.m3u8
