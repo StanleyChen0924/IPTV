@@ -6,6 +6,7 @@
 
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視
 rtmp://59.124.75.138/sat/tv051
+#rtmp://59.124.75.157/sat/tv051
 #http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 #rtmp://161.202.204.248/sat/tv051
 #rtmp://59.124.75.138/sat/tv051
