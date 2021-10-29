@@ -175,8 +175,9 @@ ELTV英語學習台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-lon
 MoMo綜合台,rtmp://59.124.75.138/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-FX,http://125.227.210.55:13498/VideoInput/play.ts
-FX,http://125.227.210.55:13498/VideoInput/play.ts
+FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
+FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
+FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8	
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
