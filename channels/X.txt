@@ -3908,23 +3908,23 @@ AV女王,p9p://45.92.126.18:9906/612a26a3000db406153a775beb670d53.ts
 JStar极限台,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
 松视1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
 松视2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
-@HOT,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
-@HAPPY,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
-@彩虹E台,p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
-@松視2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
-@松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
-@K頻道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
-@潘朵拉完美台,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
-@彩虹电影,p5p://45.92.126.18:9906/60ed7489000054d11105e349a7f90727
-@LOOK-HD,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
-@潘朵拉粉红台,p5p://45.92.126.18:9906/60fd2d970005922100ecb55d2f333764
-@驚艷台,p5p://45.92.126.18:9906/60fd2dbc0002e8d300ed4537251ee06d
-@香蕉台,p5p://45.92.126.18:9906/60fd2ddd000096c200edc58716da3240
-@JSTAR極限台,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
-@香草天道,p5p://45.92.126.18:9906/612a231f000b7d44152cbb2ae557040e.ts
-@奶奶按摩店,p5p://45.92.126.18:9906/612a25f50003c7f71537cd217b087b71.ts
-@AV女王,p5p://45.92.126.18:9906/612a26a3000db406153a775beb670d53
-@櫻桃,p5p://45.92.126.18:9906/612b29d200070cb6192ee53f19487ff3
+HOT,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
+HAPPY,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+彩虹E台,p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
+松視2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
+K頻道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
+潘朵拉完美台,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
+彩虹电影,p5p://45.92.126.18:9906/60ed7489000054d11105e349a7f90727
+LOOK-HD,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+潘朵拉粉红台,p5p://45.92.126.18:9906/60fd2d970005922100ecb55d2f333764
+驚艷台,p5p://45.92.126.18:9906/60fd2dbc0002e8d300ed4537251ee06d
+香蕉台,p5p://45.92.126.18:9906/60fd2ddd000096c200edc58716da3240
+JSTAR極限台,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
+香草天道,p5p://45.92.126.18:9906/612a231f000b7d44152cbb2ae557040e.ts
+奶奶按摩店,p5p://45.92.126.18:9906/612a25f50003c7f71537cd217b087b71.ts
+AV女王,p5p://45.92.126.18:9906/612a26a3000db406153a775beb670d53
+櫻桃,p5p://45.92.126.18:9906/612b29d200070cb6192ee53f19487ff3
 松視1臺備,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
 松視2臺,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
 松視2臺備,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
@@ -3985,6 +3985,189 @@ HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 hls425,http://124.238.99.44:808/hls/425/index.m3u8
 hls414,http://124.238.99.44:808/hls/414/index.m3u8
 hls411,http://124.238.99.44:808/hls/411/index.m3u8
+
+松視➊臺備,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
+松視➊臺備,p8p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
+松視➊臺備,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
+松視➋臺備,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+松視➋臺備,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
+松視➋臺備,p8p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
+松視➋臺備,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+松視➋臺備,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
+松視➋臺備,p5p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視➌臺備,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+松視➌臺備,p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
+松視❹臺備,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
+潘多拉玩美台Perfect,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+潘多拉玩美台Perfect,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+潘多拉玩美台Perfect,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
+潘多拉玩美台Perfect,p8p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
+潘多拉玩美台Perfect,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
+潘多拉玩美台Perfect,p5p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296
+潘朵拉粉红台Pink,p5p://45.92.126.18:9906/60fd2d970005922100ecb55d2f333764
+潘朵拉粉红台Pink,p8p://fccs.123178.top:9906/60fd2d970005922100ecb55d2f333764
+彩虹電影,p8p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
+彩虹電影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
+彩虹電影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
+彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
+彩虹e台,p8p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
+彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹e台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
+彩虹e台,p5p://fccs.123178.top:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
+彩虹e台,p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
+香蕉台Banana,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
+香蕉台Banana,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+香蕉台Banana,p5p://45.92.126.18:9906/60fd2ddd000096c200edc58716da3240
+驚艷台AmazingTV,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
+驚艷台AmazingTV,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
+驚艷台AmazingTV,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
+驚艷台AmazingTV,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+驚艷台AmazingTV,p5p://45.92.126.18:9906/60fd2dbc0002e8d300ed4537251ee06d
+Happy頻道,p5p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+Happy頻道,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+HOT頻道,p5p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
+HOT頻道,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
+☆JSᴴᴰ極限電影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+☆JSᴴᴰ極限電影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
+☆JSᴴᴰ極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
+☆JSᴴᴰ極限電影,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
+BLTV,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
+K頻道,p5p://fccs.123178.top:9906/60e5c69c0007bf360cfd3979da394ad7
+HOT,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+HAPPY,rtmp://45.92.126.226/channel/60e5a862c47203d3a673d5ee?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+彩虹E台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+松視一,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+松視二,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+松視三,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+K頻道,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+潘朵拉完美台,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+Look HD,rtmp://45.88.148.122/channel/60ecdf7f020b42a2f634be25?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+彩虹电影台,rtmp://202.39.64.233/channel/60ed7124020b42a2f634bfe5?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+潘朵拉粉红台,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+驚艷台,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+香蕉台,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+JSTAR極限台,rtmp://45.92.126.226/channel/60fa6d9b8dfe8209677fdb20?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+香草天道,rtmp://118.163.221.79/channel/6130ff36c6f62a25d2da217d?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+性愛教主,rtmp://118.163.221.79/channel/6131004fc6f62a25d2da2185?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+VENUS,rtmp://118.163.221.79/channel/61310094c6f62a25d2da2187?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+做愛特教班,rtmp://118.163.221.79/channel/613100d2c6f62a25d2da2189?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+奶奶按摩店,rtmp://118.163.221.79/channel/6131010cc6f62a25d2da218b?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+AV女王,rtmp://118.163.221.79/channel/61310232c6f62a25d2da218d?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+人妻不倫,rtmp://118.163.221.79/channel/6131027ac6f62a25d2da218f?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+水多多,rtmp://118.163.221.79/channel/613102e2c6f62a25d2da2191?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+近親相姦,rtmp://118.163.221.79/channel/61319ab6c6f62a25d2da21b6?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+彩虹通道,rtmp://118.163.221.79/channel/61319b25c6f62a25d2da21b8?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+PLAYBOY,rtmp://118.163.221.79/channel/61319b62c6f62a25d2da21ba?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+KMP,rtmp://118.163.221.79/channel/61319ba0c6f62a25d2da21bd?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+午夜蓝,rtmp://118.163.221.79/channel/61319c1cc6f62a25d2da21bf?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
+
+
+彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+观台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+潘朵拉玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+极限电影台,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
+彩虹E台,p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
+K频道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
+LookTV,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+潘朵拉玩美,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
+极限电影台,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
+松视1台,p5p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
+松视2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松视3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
+热,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
+快乐,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+松视2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+彩虹E台,p5p://fccs.123178.top:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
+K频道,p5p://fccs.123178.top:9906/60e5c69c0007bf360cfd3979da394ad7
+LookTV,p5p://fccs.123178.top:9906/60ed753e0003e9cf1108a73c5ad48fc9
+潘朵拉玩美,p5p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296
+极限电影台,p5p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4f
+松视1台,p5p://fccs.123178.top:9906/60e5c60e000509400cfb0e18dd7b20e2
+松视2台,p5p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松视3台,p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
+热,p5p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
+快乐,p5p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98
+彩虹电影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c
+演出台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e
+潘朵拉玩美,p5p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2
+极限电影台,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e
+松视1台,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04
+松视2台,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a
+彩虹E台,p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8
+彩虹电影,p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3
+LookTV,p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771
+观台,p3p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b
+香蕉台,p3p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3
+潘多拉完美,p3p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6
+潘多拉粉红,p3p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1
+松视1台,p3p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140
+松视2台,p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f
+热,p3p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1
+日本J-Girl,p3p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67
+日本PPV-1,p3p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823
+日本日本无码,p3p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4
+日本东京热无码,p3p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c
+日本一本道无码,p3p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6
+日本天热素人无码,p3p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1
+中字有码1,p3p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505
+中字有码2,p3p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2
+彩虹E台,p8p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
+彩虹电影,p8p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
+演出台,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
+潘朵拉玩美,p8p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
+极限电影台,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
+松视1台,p8p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
+松视2台,p8p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
+彩虹E台,p9p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
+彩虹电影,p9p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
+LookTV,p9p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
+观台,p9p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b.ts
+香蕉台,p9p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3.ts
+潘多拉完美,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
+潘多拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
+松视1台,p9p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
+松视2台,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
+热,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
+日本J-Girl,p9p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67.ts
+日本PPV-1,p9p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823.ts
+日本日本无码,p9p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4.ts
+日本东京热无码,p9p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c.ts
+日本一本道无码,p9p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6.ts
+日本天热素人无码,p9p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1.ts
+中字有码1,p9p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505.ts
+中字有码2,p9p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2.ts
+AV女王,p9p://45.92.126.18:9906/612a26a3000db406153a775beb670d53.ts
+樱桃,p9p://45.92.126.18:9906/612b29d200070cb6192ee53f19487ff3.ts
+奶奶按摩店,p9p://45.92.126.18:9906/612a25f50003c7f71537cd217b087b71.ts
+迪浦天道,p9p://45.92.126.18:9906/612a231f000b7d44152cbb2ae557040e.ts
+彩虹E台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
+彩虹电影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
+观台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
+潘朵拉玩美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
+极限电影台,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+松视1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
+松视2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
+
+Hot,http://185.236.229.21:9981/play/a03p
+SuperOne,http://185.96.176.139:8080/superone/index.m3u8
+Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+XXL,http://82.42.140.103:8001/1:0:1:1d4:26ac:13f:820000:0:0:0:
+Blue Hustler HD,http://82.42.140.103:8001/1:0:16:4221:2f44:13E:820000:0:0:0:
+Vivid Touch,http://82.42.140.103:8001/1:0:1:1CBB:1CE8:71:820000:0:0:0:
+Redlight,http://82.42.140.103:8001/1:0:1:4224:3DB8:13E:820000:0:0:0:
+Dorcel TV,http://82.42.140.103:8001/1:0:1:4205:2F44:13E:820000:0:0:0:
+Hustler HD,http://82.42.140.103:8001/1:0:19:4223:2f44:13E:820000:0:0:0:
+Hustler HD,http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
+Vivid Red HD,http://82.42.140.103:8001/1:0:1:4267:3db8:13E:820000:0:0:0:
 
 🔞測試_710924,#genre#
 EXTASYHD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
