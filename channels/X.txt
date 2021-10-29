@@ -88,6 +88,7 @@
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視,https://stream5.woniuzfb.com/live/gs/HGbvhjpI.m3u8
 公視2,https://flv3948069e.live.126.net/live/sytv_b2c30b53ae84670a8b8dde5c2e7733db.flv
+公視2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視2,http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
 公視2,http://sytv.xtvants.fun/mytv.php?id=gs2&token=qq3036107507&user=fmys
 公視三台,https://flv3948069e.live.126.net/live/sytv_f8630b6a5e8461aca04dde1d5e773c81.flv
