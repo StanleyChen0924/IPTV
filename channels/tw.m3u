@@ -981,14 +981,26 @@ http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 #EXTINF:-1 group-title="影視輪播",武俠劇場
 http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 
-#EXTINF:-1 group-title="斯卡羅",斯卡羅01
+#EXTINF:-1 group-title="斯卡羅",第01集
 https://sod.bunediy.com/20210815/7bXsm2tv/index.m3u8
-#EXTINF:-1 group-title="斯卡羅",斯卡羅02
+#EXTINF:-1 group-title="斯卡羅",第02集
 https://sod.bunediy.com/20210815/IsQt5c4I/index.m3u8
-#EXTINF:-1 group-title="斯卡羅",斯卡羅03
+#EXTINF:-1 group-title="斯卡羅",第03集
 https://sod.bunediy.com/20210822/aQPOv2dA/index.m3u8
-#EXTINF:-1 group-title="斯卡羅",斯卡羅04
+#EXTINF:-1 group-title="斯卡羅",第04集
 https://sod.bunediy.com/20210822/3mykOnMO/index.m3u8
+#EXTINF:-1 group-title="斯卡羅",第05集
+https://vod.bunediy.com/20210829/T8i5bHVg/index.m3u8
+#EXTINF:-1 group-title="斯卡羅",第06集
+https://vod.bunediy.com/20210829/3j1JDeaN/index.m3u8
+#EXTINF:-1 group-title="斯卡羅",第07集
+https://sod.bunediy.com/20210905/2OLVd7Xa/index.m3u8
+#EXTINF:-1 group-title="斯卡羅",第08集
+https://sod.bunediy.com/20210905/rOGxIn7U/index.m3u8
+#EXTINF:-1 group-title="斯卡羅",第09集
+https://sod.bunediy.com/20210912/jhG7nSRT/index.m3u8
+#EXTINF:-1 group-title="斯卡羅",第10集
+https://sod.bunediy.com/20210912/Kif9zEtP/index.m3u8
 
 #EXTINF:-1 group-title="電影珍藏",哥吉拉大戰金剛
 https://n1.szjal.cn/20210401/qAnwsalQ/index.m3u8
