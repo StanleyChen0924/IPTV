@@ -731,6 +731,12 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 #EXTINF:-1 tvg-id="" group-title="音樂",FM 107.7 Radio
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FM107.m3u8
 
+
+#EXTINF:-1 group-title="20211101YT測試",中天新聞台
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
+#EXTINF:-1 group-title="20211101YT測試",KPOPLive
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCPde4guD9yFBRzkxk2PatoA/live
+
 #EXTINF:-1 group-title="20211018新增測試",民視台灣台
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
 #EXTINF:-1 group-title="20211018新增測試",民視
