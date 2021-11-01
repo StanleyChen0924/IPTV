@@ -736,6 +736,8 @@ https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FM107.m3u8
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
 #EXTINF:-1 group-title="20211101YT測試",KPOP
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
+#EXTINF:-1 group-title="20211101YT測試",網路流行音樂電台
+http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=wrYF0HX7Kzc
 
 #EXTINF:-1 group-title="20211018新增測試",民視台灣台
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
