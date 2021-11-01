@@ -738,6 +738,8 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIg
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
 #EXTINF:-1 group-title="20211101YT測試",網路流行音樂電台
 http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=wrYF0HX7Kzc
+#EXTINF:-1 group-title="20211101YT測試",華視新聞
+http://free.fullspeed.tv/query?url=http://www.youtube.com/channel/UCA_hK5eRICBdSOLlXKESvEg/live
 
 #EXTINF:-1 group-title="20211018新增測試",民視台灣台
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
