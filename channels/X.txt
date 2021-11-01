@@ -73,6 +73,7 @@
 華視,rtmp://161.202.204.248/sat/tv111
 華視,rtmp://161.202.204.248:1935/sat/tv111
 華視新聞資訊,https://git.io/Jgkxa
+華視新聞資訊,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hsxw.m3u8
 華視新聞資訊,http://43.128.9.168/jjtv.php?id=41
 華視新聞資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
@@ -609,6 +610,7 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 中視新聞,https://git.io/Jgkxz
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 華視新聞資訊,https://git.io/Jgkxa
+華視新聞資訊,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hsxw.m3u8
 華視新聞資訊,http://43.128.9.168/jjtv.php?id=41
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
