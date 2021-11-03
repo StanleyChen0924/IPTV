@@ -533,10 +533,10 @@ https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv-pro.github.io/logo/animax.png" ,ANIMAX
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv-pro.github.io/logo/Discovery%20Asia.png" ,Discovery HD
-https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+#https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="一般",Discovery
 http://125.227.210.55:10388/VideoInput/play.ts
@@ -544,103 +544,146 @@ http://125.227.210.55:10388/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg" ,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="兒童",CN卡通
 http://125.227.210.55:16671/VideoInput/play.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="KAKU少兒" tvg-logo="" group-title="兒童",KAKU少兒
-http://113.64.147.150:808/hls/66/index.m3u8?times=0
+#http://113.64.147.150:808/hls/66/index.m3u8?times=0
+
 #EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="兒童" ,Nickelodeon
-http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="兒童" ,Nick Jr
 #http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="兒童" ,Baby TV Eng
 #http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/MY-KIDS%20TV.png" group-title="兒童",Kids TV
 #http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6187" tvg-name="CBeebies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png"  group-title="兒童",CBeebies
 #http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="兒童",Disney
 http://125.227.210.55:14250/VideoInput/play.ts
+
 #EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png"  group-title="兒童",Disney1
 #http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="679" tvg-name="DisneyJunior" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png"  group-title="兒童",Disney Junior
 #http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6134" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" tvg-language="Chinese" group-title="一般",大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
 #EXTINF:-1 tvg-id="6034" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" tvg-language="Chinese" group-title="一般",原住民電視
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+
 #EXTINF:-1 tvg-id="7229" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" tvg-language="Chinese" group-title="一般",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
 #EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="韓國" ,韓國娛樂台KMTV
 http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韓國" ,韓國阿里郎
 #https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,ONE
 #http://210.210.155.35/uq2663/h/h143/01.m3u8
 #http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",tvN 中文
 rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltPCBYDHIXmYjrIY%2Bci4%2FZ2I%2BzFhsrgICjthqQmp29ej
+
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",tvN 英文
 #http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國女團
 http://tx2play1.douyucdn.cn/live/17732rtara.flv
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·TBS
 http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·TBS
 http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·SBS TJB
 http://1.245.74.5:1935/live/tv/.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·SBS PLUS
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·KBC SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·SBS综合頻道
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·MBC综合頻道
 https://5ddfd163bd00d.streamlock.net:443/nHDTV/nHDTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·EBS第一頻道
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·EBS第二頻道
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·EBS加一頻道
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·日常電視
 http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·韓國中央
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·EBS第一頻道
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·KCTV
 http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·KOREA YTN
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國" ,韓國·lKTV·韓國電視
 http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="韓國",韓國·CGNTV韓國
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="音樂",KPOP
 https://git.io/JgYAE
+
 #EXTINF:-1 tvg-id="" group-title="音樂",Sexy K-Pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="音樂",K-POP LIVE STREAMING
 https://git.io/JgP6P
+
 #EXTINF:-1 tvg-id="" group-title="音樂",2021華語流行歌曲
 https://git.io/JgYR5
+
 #EXTINF:-1 tvg-id="" group-title="音樂",網路流行音樂電台
 https://git.io/JgkA6
+
 #EXTINF:-1 tvg-id="" group-title="音樂",日文動漫音樂電台
 https://git.io/JgkA1
+
 #EXTINF:-1 tvg-id="" group-title="音樂",西洋流行音樂電台
 https://git.io/JgkAy
+
 #EXTINF:-1 tvg-id="" group-title="音樂",時尚運動X
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/277
+
 #EXTINF:-1 tvg-id="" group-title="音樂",FM 96.3 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="音樂",FM 107.7 Radio
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FM107.m3u8
 
