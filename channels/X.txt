@@ -414,8 +414,6 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
-MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=qq3036107507&user=fmys
 亞洲美食,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
