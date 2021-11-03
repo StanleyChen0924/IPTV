@@ -395,8 +395,14 @@ http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="一般",ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道电影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映頻道電影 (480p)
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道电影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映頻道電影
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道电影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映頻道
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映經典" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映經典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 tvg-language="Chinese" tvg-logo="https://iptv-pro.github.io/logo/Thrill.png" group-title="電影",thrill
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
@@ -414,7 +420,6 @@ http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="電影",CHC動作電影
 #rtmp://58.200.131.2:1935/livetv/chcatv
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="526" tvg-name="美亚电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="電影" ,美亞電影台
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
@@ -424,7 +429,7 @@ http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u
 
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視電影
 #http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
-https://flv3948069e.live.126.net/live/sytv_72a30baf1e84656b6e2dde008e77399a.flv
+#https://flv3948069e.live.126.net/live/sytv_72a30baf1e84656b6e2dde008e77399a.flv
 #http://107.167.5.66:80/mylive/102/2061/index.m3u8
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 
