@@ -450,9 +450,6 @@ http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
 #http://107.167.5.66/mylive/102/2064/index.m3u8
 
 #EXTINF:-1 tvg-id="7128" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="電影",龍華電影台
-#http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
-
-#EXTINF:-1 tvg-id="7128" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="電影",龍華電影台
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/262
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
@@ -460,7 +457,7 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
 #EXTINF:-1 tvg-id="7132" group-title="電影",龍華洋片台
 #http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
 
-#EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO
+#EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO HD
 http://125.227.210.55:16027/VideoInput/play.ts
 #http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #http://107.167.5.66/mylive/102/2065/index.m3u8
@@ -495,97 +492,19 @@ http://43.128.9.168/jjtv.php?id=80
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
 
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" tvg-logo="https://iptv-pro.github.io/logo/FX.png" group-title="一般" ,FOX HD
-#http://125.227.210.55:13498/VideoInput/play.ts
+http://125.227.210.55:13498/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="" group-title="一般",影迷數位電影台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/260
+#EXTINF:-1 tvg-id="6138" tvg-name="幸福空间居家台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png" group-title="一般",幸福空間
+https://git.io/JgYYF
 
-#EXTINF:-1 tvg-id="" group-title="一般",CATCHPLAY電影台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/261
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="一般",HGTV居家樂活
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="一般",靖天映畫
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/264
+#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="一般",Channel V
+#http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="一般",采昌影劇台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/256
-
-#EXTINF:-1 tvg-id="" group-title="一般",視納華仁紀實頻道
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/258
-
-#EXTINF:-1 tvg-id="" group-title="一般",Fashion one
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/274
-
-#EXTINF:-1 tvg-id="" group-title="一般",TRACE Sport Stars
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/276
-
-#EXTINF:-1 tvg-id="" group-title="一般",時尚運動X
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/277
-
-#EXTINF:-1 tvg-id="" group-title="一般",GINX Esports TV
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/278
-
-#EXTINF:-1 tvg-id="" group-title="一般",靖天卡通台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/279
-
-#EXTINF:-1 tvg-id="" group-title="一般",靖天戲劇台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/280
-
-#EXTINF:-1 tvg-id="" group-title="一般",靖天日本台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/281
-
-#EXTINF:-1 tvg-id="" group-title="一般",靖天綜合台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/282
-
-#EXTINF:-1 tvg-id="" group-title="一般",靖天歡樂台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/283
-
-#EXTINF:-1 tvg-id="" group-title="一般",靖天資訊台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/284
-
-#EXTINF:-1 tvg-id="" group-title="一般",靖天育樂台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/285
-
-#EXTINF:-1 tvg-id="" group-title="一般",靖洋卡通Nice Bingo
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/286
-
-#EXTINF:-1 tvg-id="" group-title="一般",i-Fun動漫台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/287
-
-#EXTINF:-1 tvg-id="" group-title="一般",靖洋戲劇台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/292
-
-#EXTINF:-1 tvg-id="" group-title="一般",韓國娛樂台 KMTV
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/293
-
-#EXTINF:-1 tvg-id="" group-title="一般",KLT-靖天國際台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/294
-
-#EXTINF:-1 tvg-id="" group-title="一般",好消息
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/299
-
-#EXTINF:-1 tvg-id="" group-title="一般",好消息2台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/300
-
-#EXTINF:-1 tvg-id="" group-title="一般",Medici Arts
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/301
-
-#EXTINF:-1 tvg-id="" group-title="一般",TRACE Urban
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/302
-
-#EXTINF:-1 tvg-id="" group-title="一般",Mezzo Live HD
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/303
-
-#EXTINF:-1 tvg-id="" group-title="一般",CLASSICA 古典樂
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/304
-
-#EXTINF:-1 tvg-id="" group-title="一般",客家電視台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/308
-
-#EXTINF:-1 tvg-id="" group-title="一般",達文西頻道
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/309
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Hua%20Hee%20Dai.png" group-title="一般",Astro 歡喜
-#http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="一般",國家地理
+http://125.227.210.55:16408/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20AEC.png" group-title="一般",Astro AEC
 http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
@@ -604,18 +523,6 @@ http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Xiao%20Tai%20Yang.png" group-title="兒童",Astro 小太陽
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-
-#EXTINF:-1 tvg-id="6138" tvg-name="幸福空间居家台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png" group-title="一般",幸福空間
-https://git.io/JgYYF
-
-#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="一般",HGTV居家樂活
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="一般",Channel V
-#http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="一般",國家地理
-http://125.227.210.55:16408/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" ,翡翠台高清
 #https://cdn.hkdtmb.com/hls/81/index.m3u8
