@@ -275,14 +275,14 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/297
 
 #EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
-rtmp://59.124.75.138/sat/md011
+rtmp://59.124.75.138/sat/md041
 #rtmp://59.124.75.138/sat/md041
 #rtmp://161.202.204.248/sat/md041
 #rtmp://59.124.75.138:1935/sat/md041
 #rtmp://161.202.204.248:1935/sat/md041
 
 #EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合2台
-rtmp://59.124.75.138/sat/md031
+rtmp://59.124.75.138/sat/md011
 #rtmp://161.202.204.248/sat/md031
 #rtmp://59.124.75.138:1935/sat/md031
 #rtmp://161.202.204.248:1935/sat/md031
@@ -314,14 +314,13 @@ rtmp://59.124.75.138/sat/md021
 #rtmp://161.202.204.248:1935/sat/md021
 
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" tvg-language="Chinese" group-title="體育",魅力足球
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="智林体育" tvg-name="智林體育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%99%BA%E6%9E%97%E4%BD%93%E8%82%B2%E5%8F%B0.png" group-title="一般",智林體育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6074"  tvg-logo="https://cc.tvbs.com.tw/portal/images/logo.png",TVBS
 https://git.io/JgYl2
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 
 #EXTINF:-1 tvg-id="6060"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png",TVBS歡樂台
 rtmp://59.124.75.138/sat/tv421
@@ -329,8 +328,8 @@ rtmp://59.124.75.138/sat/tv421
 
 #EXTINF:-1 tvg-id="6073" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1c/Tvbsnews.png/220px-Tvbsnews.png" tvg-language="Chinese" group-title="新聞",TVBS新聞台
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
-#http://125.227.210.55:16329/VideoInput/play.ts
-https://git.io/Jgkp1
+http://125.227.210.55:16329/VideoInput/play.ts
+#https://git.io/Jgkp1
 #rtmp://59.124.75.138/sat/tv551
 #http://125.227.210.37:16329/VideoInput/play.ts
 
