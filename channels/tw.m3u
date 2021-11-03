@@ -42,7 +42,7 @@ rtmp://59.124.75.138/sat/tv071
 #http://60.251.59.180:8543/xoxo.m3u8
 
 #EXTINF:-1 tvg-id="6145" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",台視綜合台
-http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
 
 #EXTINF:-1 tvg-id="6143" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-language="Chinese" group-title="新聞",台視新聞
 https://git.io/JgkxY
@@ -61,11 +61,11 @@ https://git.io/Jgkxz
 
 #EXTINF:-1 tvg-id="7136" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87.png" group-title="一般", 中視菁采台
 #http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
-http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+#http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7172" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="一般", 中視經典台
 #http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
-http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+#http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",華視
 rtmp://59.124.75.138/sat/tv111
@@ -81,7 +81,7 @@ https://git.io/Jgkxa
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.png" group-title="一般", 華視教育體育文化 HD
 #http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
-http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+#http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6031" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公視13台
 http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
@@ -90,10 +90,10 @@ http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 #https://git.io/JgkxM
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公視台語台
-http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
 
 #EXTINF:-1 tvg-id="6022" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公視三台
-http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
 
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台灣
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
@@ -111,7 +111,7 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&a
 #http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
 
 #EXTINF:-1 tvg-id="6056" tvg-logo="",年代MUCH
-http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
+#http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 
 #EXTINF:-1 tvg-id="6133" tvg-name="八大娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="一般",GTV八大娛樂台
 #http://198.16.106.62:8278/streams/d/badaentertain/playlist.m3u8
@@ -154,8 +154,6 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 
 #EXTINF:-1 tvg-id="7127" ,龍華戲劇台
 #http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
-
-#EXTINF:-1 tvg-id="7127" ,龍華戲劇台
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/248
 
@@ -168,6 +166,10 @@ http://50.7.61.148:30080/Entry/starchinese
 http://125.227.210.55:15589/VideoInput/play.ts
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
 #http://seb.sason.top/sc/sllive_fhd.m3u8
+
+#EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立LIVE新聞
+#http://api.hstv.me:8080/chuntian1229/xiaoli152/44
+https://git.io/Jgkxp
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png" tvg-language="Chinese" group-title="新聞",三立inews新聞
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/43
