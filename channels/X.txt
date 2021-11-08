@@ -57,12 +57,11 @@
 中視菁采台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
 中視菁采台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
 中視新聞,https://git.io/Jgkxz
-中視新聞,http://43.128.9.168/jjtv.php?id=33
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 華視,rtmp://59.124.75.157/sat/tv111
-華視,http://50.7.61.147:30080/Entry/cts
 華視,rtmp://59.124.75.138/sat/tv111
+華視,http://50.7.61.147:30080/Entry/cts
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 華視,rtmp://161.202.204.248/sat/tv111
 華視,rtmp://161.202.204.248:1935/sat/tv111
@@ -79,7 +78,6 @@
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視,https://stream5.woniuzfb.com/live/gs/HGbvhjpI.m3u8
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
-公視三台,http://sytv.xtvants.fun/mytv.php?id=gs3&token=qq3036107507&user=fmys
 公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 大愛一台,https://git.io/Jgkx9
@@ -314,8 +312,6 @@ FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
 FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
 CATCHPLAY電影台,http://43.128.9.168/jjtv.php?id=76
 CATCHPLAY電影台,http://iptv5.phoves.com.cn/api/mitv.php?id=76
-CATCHPLAY電影台,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free
-CATCHPLAY電影台,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=qq3036107507&user=fmys
 天映電影,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映電影,http://43.128.9.168/jjtv.php?id=63
 天映電影,http://iptv5.phoves.com.cn/api/mitv.php?id=63
@@ -334,15 +330,8 @@ NHKWorldJapan,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u
 NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 NHKWorldJapan,http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-高點綜合,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
-高點綜合,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=qq3036107507&user=fmys
-高點育樂,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
-高點育樂,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=qq3036107507&user=fmys
 采昌影劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv049
 采昌影劇台,http://sytv.xtvants.fun/mytv.php?id=ccyj&token=qq3036107507&user=fmys
-Z頻道,https://flv3948069e.live.126.net/live/sytv_68130b91ee8465fdeb3dde2c8e773a3f.flv
-Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
-Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=qq3036107507&user=fmys
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
