@@ -334,7 +334,7 @@ ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 高點綜合,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=qq3036107507&user=fmys
 高點育樂,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
 高點育樂,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=qq3036107507&user=fmys
-采昌影劇台,http://sytv.xtvants.fun/mytv.php?id=ccyj&token=free&user=free
+采昌影劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv049
 采昌影劇台,http://sytv.xtvants.fun/mytv.php?id=ccyj&token=qq3036107507&user=fmys
 Z頻道,https://flv3948069e.live.126.net/live/sytv_68130b91ee8465fdeb3dde2c8e773a3f.flv
 Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
