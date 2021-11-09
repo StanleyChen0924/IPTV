@@ -78,6 +78,8 @@
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視,https://stream5.woniuzfb.com/live/gs/HGbvhjpI.m3u8
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+公視,p2p://fccs.123178.top:9806/60448ebb000b822801e06fe5cbe82807.ts
+公視2,p2p://fccs.123178.top:9806/60448f540003197f01e2c366b8927af8.ts
 公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 大愛一台,https://git.io/Jgkx9
@@ -203,6 +205,13 @@ JET綜合台,http://50.7.61.147:30080/Entry/jet
 JET綜合台,http://43.128.9.168/jjtv.php?id=52
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
+國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
+國興衛視,p5p://0198.02686.cc:16871/5f37c744000be418425b91f78d7bfb6d
+國興衛視,P2p://lino.homeunix.com:6007/59fd0565000d04390229912232d21634.ts
+國興衛視,p8p://0198.02686.cc:16871/5f37c744000be418425b91f78d7bfb6d.ts
+國興衛視,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP
+國興衛視,tvbus://6x2Yzz6FVhE8wKiZLeieNzdCiAoQDR6brsJ7zu4cjL7N7mWjq6
+國興衛視,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP
 緯來日本,rtmp://59.124.75.138/sat/tv771
 緯來日本,http://50.7.61.147:30080/Entry/vljp
 緯來育樂,rtmp://59.124.75.138/sat/tv701
