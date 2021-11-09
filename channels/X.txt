@@ -948,7 +948,23 @@ CCTV-14HD,http://223.110.241.137:6610/gitv/live1/G_CCTV-14/G_CCTV-14/.m3u8
 CCTV-15HD,http://223.110.241.137:6610/gitv/live1/G_CCTV-15/G_CCTV-15/.m3u8
 CCTV-17HD,http://223.110.241.137:6610/gitv/live1/G_CCTV-17/G_CCTV-17/.m3u8
 CGTN-国际,http://223.110.241.206:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/.m3u8
-
+CCTV1,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-1hd/1.m3u8
+CCTV2,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-2hd/1.m3u8
+CCTV3,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-3hd/1.m3u8
+CCTV4,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-4sd/1.m3u8
+CCTV5,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-5hd/1.m3u8
+CCTV5+,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-tysshd/1.m3u8
+CCTV6,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-6hd/1.m3u8
+CCTV7,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-7hd/1.m3u8
+CCTV8,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-8hd/1.m3u8
+CCTV9,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-9hd/1.m3u8
+CCTV10,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-10hd/1.m3u8
+CCTV11,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-11sd/1.m3u8
+CCTV12,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-12hd/1.m3u8
+CCTV13,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-newssd/1.m3u8
+CCTV14,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-14hd/1.m3u8
+CCTV15,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-yysd/1.m3u8
+CCTV17,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-17hd/1.m3u8
 CETV1,http://117.136.156.37/PLTV/88888888/224/3221225701/index.m3u8
 CETV1,http://111.63.117.13:6060/030000001000/G_CETV-1/G_CETV-1.m3u8
 CETV2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
@@ -2767,6 +2783,7 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 
 📺影視輪播,#genre#
 
+鬼吹燈,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=7701735
 SNH48劇場公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 周潤發,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
 周星馳,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
