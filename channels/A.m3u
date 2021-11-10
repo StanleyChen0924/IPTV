@@ -1,9 +1,6 @@
 #EXTM3U
 #__20210915__#
 
-
-#EXTINF:-1 group-title="Onlive",HOT
-rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
 #EXTINF:-1 group-title="Onlive",彩虹e台
 rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
 #EXTINF:-1 group-title="Onlive",松视1台
