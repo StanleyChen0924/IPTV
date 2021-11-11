@@ -1658,6 +1658,95 @@ CETV1,http://39.135.34.142:8080/000000001000/1000000002000027253/1.m3u8?
 CGTV,http://39.135.34.142:8080/000000001000/8428799834696888424/1.m3u8?
 
 🇭🇰港澳頻道,#genre#
+
+设置原生解码，
+翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
+翡翠台E,https://cdn-cn.hkdtmb.com/hls/81b/index.m3u8
+J2,https://cdn-cn.hkdtmb.com/hls/82/index.m3u8
+J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
+明珠台,https://cdn-cn.hkdtmb.com/hls/84/index.m3u8
+明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+明珠台Y,https://cdn-cn.hkdtmb.com/hls/84b/index.m3u8
+无线新闻,https://cdn-cn.hkdtmb.com/hls/83/index.m3u8
+无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8
+无线财经,https://cdn-cn.hkdtmb.com/hls/85/index.m3u8
+无线财经,https://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV,https://cdn-cn.hkdtmb.com/hls/99/index.m3u8
+ViuTV6,https://cdn-cn.hkdtmb.com/hls/96/index.m3u8
+RHK31,https://cdn-cn.hkdtmb.com/hls/31/index.m3u8
+RHK32,https://cdn-cn.hkdtmb.com/hls/32/index.m3u8
+香港开电视,https://cdn-cn.hkdtmb.com/hls/77/index.m3u8
+TVB翡翠,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+TVB翡翠,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=0000000
+TVB翡翠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv
+TVB明珠,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+TVB明珠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
+明珠台,http://nettvpro.live/hls/zjkp.php?id=12
+
+明珠台,http://124.238.99.44:808/hls/355/index.m3u8
+有线18台,http://124.238.99.44:808/hls/356/index.m3u8
+澳门macau,http://124.238.99.44:808/hls/357/index.m3u8
+澳亚卫视,http://124.238.99.44:808/hls/360/index.m3u8
+香港卫视,http://124.238.99.44:808/hls/352/index.m3u8
+
+星空卫视,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空卫视,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
+
+
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://124.238.99.44:808/hls/349/index.m3u8
+凤凰资讯,https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8	
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS	
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P	
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8	
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS	
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P	
+凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8	
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8	
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS	
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
+经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
+TVB18台[1280*720],http://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
+港版美亚,http://v3948069e.live.126.net/live/hod300.flv
+港版美亚2,http://v3948069e.live.126.net/live/hodtv4003.flv
+美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
+C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+
+香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+星影卫视,http://data.3g.yy.com/live/hls/29900720/29900720
+美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+龙翔时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
+东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
+东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
+TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+私人影院,http://gxfrg007.8800.org:8282/tsfile/live/1061_1.m3u8
+凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+凤凰资讯,http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8
 翡翠台,http://host496323.us.ooqr.com/pltv/gz.php?id=tvbfc
 翡翠台,http://113.64.147.240:808/hls/36/index.m3u8?times=0
 翡翠台,https://r2.weizan.cn/v/1646497941_13205559193952310.flv
