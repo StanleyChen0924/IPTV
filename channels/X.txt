@@ -261,7 +261,7 @@ CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.t
 CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
 靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
 靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
-CHC高清電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC高清電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://ye23.win/iptv/saxyd.php?id=G_CHCGQDY
 CHC家庭電影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC動作電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 龍華電影台,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts	
