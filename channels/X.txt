@@ -303,6 +303,7 @@ HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
 東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 FoxMovies,http://60.251.59.178:8527/http/192.168.77.7:8088/hls/105/startwest89.m3u8
 FoxMovies,http://60.251.59.178:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
+FoxMovies,http://60.251.59.178:8527/.m3u8
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
@@ -639,6 +640,8 @@ TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
 中天新聞,http://43.128.9.168/jjtv.php?id=36
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
+年代新聞,p5p://fccs.123178.top:9906/60434d73000091e406d956c8607013df.ts
+年代新聞,p5p://fccs.123178.top:9906/60434d73000091e406d956c8607013df
 年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,http://50.7.61.147:30080/Entry/ubnbus
