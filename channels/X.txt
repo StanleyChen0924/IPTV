@@ -870,6 +870,24 @@ ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:ar
 
 🇨🇳央視頻道,#genre#
 
+CCTV1,http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
+CCTV2,http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
+CCTV3,http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1
+CCTV4,http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1
+CCTV5,http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1
+CCTV5+,http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1
+CCTV6,http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1
+CCTV7,http://219.150.217.47:6610/PLTV1/160/index.m3u8?icpid=dxrm1
+CCTV8,http://219.150.217.47:6610/PLTV1/180/index.m3u8?icpid=dxrm1
+CCTV9,http://219.150.217.47:6610/PLTV1/200/index.m3u8?icpid=dxrm1
+CCTV10,http://219.150.217.47:6610/PLTV1/220/index.m3u8?icpid=dxrm1
+CCTV11,http://219.150.217.47:6610/PLTV1/240/index.m3u8?icpid=dxrm1
+CCTV12,http://219.150.217.47:6610/PLTV1/260/index.m3u8?icpid=dxrm1
+CCTV13,http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
+CCTV14,http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
+CCTV15,http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
+CCTV17,http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
+
 CCTV1HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV1HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 CCTV2HD,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
