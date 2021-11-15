@@ -429,7 +429,133 @@ afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.t
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 
 
-🇹🇼港台1019,#genre#
+🇹🇼港台1115,#genre#
+美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
+
+HBO原创,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
+
+CNBC亚洲财经,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
+
+ELEVEN2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
+
+TVB星河(粤语),rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
+
+HBO强档,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
+
+国家地理,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
+
+探索频道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
+
+华藏,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c56
+
+靖天映画,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
+
+thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
+
+海豚综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
+
+无信号,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd2
+
+BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
+
+纬来育乐,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
+
+博斯高球2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
+
+中视新闻,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
+
+台视财经,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
+
+靖天综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
+
+民视,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
+
+FOX MOVIES,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
+
+探索科学,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
+
+好消息2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82
+
+靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
+
+HOT(屏蔽),rtmp://45.92.126.226/channel/
+
+动物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
+
+客家频道,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
+
+无信号,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd6
+
+台视台语台,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
+
+冠军电视台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
+
+靖天电影台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
+
+东森戏剧,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
+
+MOD桌面,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
+
+台视新闻,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
+
+TV5MONDE ASIE,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
+
+寰宇财经台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
+
+KIX,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
+
+NHK,rtmp://45.88.148.178/channel/60c2f4fb961593122ebaf8d0
+
+探索动力,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
+
+JET综合,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
+
+星卫娱乐台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
+
+DW,rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
+
+公视3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
+
+凤凰中文,rtmp://45.88.148.178/channel/60c2f428961593122ebaf8c9
+
+凤凰香港,rtmp://45.88.148.178/channel/60c2f331961593122ebaf8c7
+
+中视经典,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
+
+TVBS精采台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
+
+Z频道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
+
+靖天欢乐台,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
+
+无信号,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d02
+
+好消息,rtmp://45.88.148.178/channel/60c31888961593122ebaf912
+
+华视教育体育文化,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
+
+CNA,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
+
+天映经典频道,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
+
+光影欧洲,rtmp://45.88.148.178/channel/60c2f712961593122ebaf8de
+
+凤凰资讯,rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb
+
+私人影院,rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
+
+靖洋卡通台,rtmp://45.88.148.178/channel/60c344bf961593122ebaf9a0
+
+NHK WORLD JAPAN,rtmp://45.88.148.178/channel/60c2f52d961593122ebaf8d2
+
+CATCHPLAY电影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2
+
+BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42 
+
+euro news,rtmp://45.92.126.226/channel/61002dbef0618408855f370f 
+
+爱尔达体育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
+
 中天新聞台,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
 KPOP,http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
 網路流行音樂電台,http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=wrYF0HX7Kzc
