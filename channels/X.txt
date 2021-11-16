@@ -818,8 +818,7 @@ FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 AXN,http://43.128.9.168/jjtv.php?id=80
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,http://50.7.61.148:30080/Entry/axn
-美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
-美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+美亞高清電影台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
 影迷數電影,http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free
 CATCHPLAY電影,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free
 天映電影,http://43.128.9.168/jjtv.php?id=63
@@ -1793,6 +1792,8 @@ CGTV,http://39.135.34.142:8080/000000001000/8428799834696888424/1.m3u8?
 🇭🇰港澳頻道,#genre#
 
 设置原生解码，
+翡翠台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=1
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
 翡翠台E,https://cdn-cn.hkdtmb.com/hls/81b/index.m3u8
 J2,https://cdn-cn.hkdtmb.com/hls/82/index.m3u8
@@ -3078,6 +3079,15 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 
 📺影視輪播,#genre#
 
+河北爆笑喜剧,http://111.63.77.70/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
+河北劲爆动作,http://111.63.77.70/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
+河北热门动画,http://111.63.77.70/gitv_live/GITV-HB-3/GITV-HB-3.m3u8?p=GITV&area=HBYD
+河北热播综艺,http://111.63.77.70/gitv_live/GITV-HB-4/GITV-HB-4.m3u8?p=GITV&area=HBYD
+河北情感地图,http://111.63.77.70/gitv_live/GITV-HB-5/GITV-HB-5.m3u8?p=GITV&area=HBYD
+河北真人秀场,http://111.63.77.70/gitv_live/GITV-HB-6/GITV-HB-6.m3u8?p=GITV&area=HBYD
+河北战争风云,http://111.63.77.70/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
+河北银河电影,http://111.63.77.70/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
+河北大咖影视,http://111.63.77.70/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
 鬼吹燈,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=7701735
 SNH48劇場公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 周潤發,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
