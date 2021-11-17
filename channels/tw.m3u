@@ -779,11 +779,11 @@ rtmp://45.88.148.178/channel/60c2f4fb961593122ebaf8d0
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 #EXTINF:-1 tvg-id="6063" tvg-name="JET综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" group-title="20211018新增測試",JET综合
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
-#EXTINF:-1 group-title="20211018新增測試",星卫娱乐台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" tvg-id="7203" tvg-name="星卫娱乐" group-title="20211018新增測試",星卫娱乐台
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 #EXTINF:-1 group-title="20211018新增測試",DW
 rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
-#EXTINF:-1 group-title="20211018新增測試",公视3
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png" tvg-id="6022" tvg-name="公视三台" group-title="20211018新增測試",公视3
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
 #EXTINF:-1 group-title="20211018新增測試",凤凰中文
 rtmp://45.88.148.178/channel/60c2f428961593122ebaf8c9
