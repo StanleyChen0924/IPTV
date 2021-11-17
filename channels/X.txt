@@ -35,6 +35,7 @@
 中視,rtmp://59.124.75.138/sat/tv091
 中視,rtmp://161.202.204.248/sat/tv091
 中視,http://50.7.61.148:30080/Entry/ctv
+中視經典台,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
 中視經典台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/sjpSVejeGwg/4gtv-4gtv080-avc1_2000000=1-mp4a_129000_zho=2.m3u8
 中視經典台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
 中視經典台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
