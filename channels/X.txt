@@ -274,8 +274,10 @@ HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
 HBOHD,http://125.227.210.37:16027/VideoInput/play.ts
+HBO原創,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
 HBO原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
 HBO原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
+HBO Hits HD,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
 HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
 HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
@@ -299,7 +301,7 @@ AXN,http://50.7.61.148:30080/Entry/axn
 AXN,http://43.128.9.168/jjtv.php?id=80
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
-Thrill,http://iptv5.phoves.com.cn/api/mitv.php?id=79
+Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
 Thrill,http://43.128.9.168/jjtv.php?id=79
 影迷數位電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
 影迷數位電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
@@ -316,10 +318,12 @@ CATCHPLAY電影台,http://iptv5.phoves.com.cn/api/mitv.php?id=76
 天映經典HD,http://iptv5.phoves.com.cn/api/mitv.php?id=63
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
 幸福空間居家台,https://git.io/JgYYF
 幸福空間居家台,https://git.io/JgYYF
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+國家地理,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 國家地理,http://125.227.210.55:16408/VideoInput/play.ts
 國家地理,http://125.227.210.37:16408/VideoInput/play.ts
 NHKWorldJapan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
@@ -340,6 +344,7 @@ CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 迪斯尼,http://125.227.210.55:14250/VideoInput/play.ts
 迪斯尼,http://125.227.210.37:14250/VideoInput/play.ts
 DiscoveryHD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 Discovery,http://125.227.210.55:10388/VideoInput/play.ts
 Discovery,http://125.227.210.37:10388/VideoInput/play.ts
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
@@ -392,6 +397,7 @@ ELEVEN體育一台,http://125.227.210.55:10677/VideoInput/play.ts
 ELEVEN體育一台,rtmp://161.202.204.248/sat/tv731
 ELEVEN體育二台,rtmp://59.124.75.138/sat/tv741
 ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
+ELEVEN體育二台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
 博斯網球,rtmp://59.124.75.138/sat/md011
 博斯魅力,rtmp://59.124.75.138/sat/md021
 博斯魅力,rtmp://161.202.204.248/sat/md021
@@ -411,7 +417,7 @@ ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
-
+美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
 
 🇹🇼港台1115,#genre#
 美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
