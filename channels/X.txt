@@ -65,6 +65,7 @@
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視,p2p://fccs.123178.top:9806/60448ebb000b822801e06fe5cbe82807.ts
 公視2,p2p://fccs.123178.top:9806/60448f540003197f01e2c366b8927af8.ts
+公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e,
 公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 大愛一台,https://git.io/Jgkx9
