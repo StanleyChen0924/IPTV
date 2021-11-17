@@ -5,7 +5,7 @@
 #EXTM3U url-tvg="https://files.3y1.xyz/static/sitemap/ott_xmltv.xml" tvg-shift=0 m3uautoload=4
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/programme-tv.net.guide.xml" tvg-shift=0 m3uautoload=5
 
-#EXTINF:-1 tvg-id="7135" tvg-id="4037" tvg-name="民視" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視
+#EXTINF:-1 tvg-id="7135" tvg-name="民視" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-language="Chinese" group-title="一般",民視
 rtmp://59.124.75.138/sat/tv051
 #rtmp://59.124.75.157/sat/tv051
 #http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
