@@ -690,15 +690,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FM107.m3u8
 
 
-#EXTINF:-1 group-title="20211101YT測試",中天新聞台
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live
-#EXTINF:-1 group-title="20211101YT測試",KPOP
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
-#EXTINF:-1 group-title="20211101YT測試",網路流行音樂電台
-http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=wrYF0HX7Kzc
-#EXTINF:-1 group-title="20211101YT測試",華視新聞
-http://free.fullspeed.tv/query?url=http://www.youtube.com/channel/UCA_hK5eRICBdSOLlXKESvEg/live
-
 #EXTINF:-1 group-title="20211018新增測試",美食星球
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
 #EXTINF:-1 group-title="20211018新增測試",HBO原创
