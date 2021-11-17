@@ -26,7 +26,7 @@ https://git.io/JgkAb
 https://4gtvfreemobile-mozai.4gtv.tv/BS0hPFwEmjNJQjj2oFSy1Z-XQ9JgkjaDBtZQBS7S6B4%3d/stream2.m3u8?token=25j77IK5TofuZcj-JuUCMQ&expires=1632735955&token1=vu3xx42dEIv86AGcv0C74g&expires1=1632764755&refer=ZGQ2ZmNkZTMtYzQyMS00NTYzLTg5MTgtM2RhMjBhZmFhM2Rj&y=0
 #http://seb.sason.top/ptv/ftv.php?id=dy
 
-#EXTINF:-1 tvg-logo="http://liveq.tv/liveq.tv/img/tw-%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87%E5%8F%B0.jpg" tvg-language="Chinese" group-title="影劇",民視影劇
+#EXTINF:-1 tvg-name="民視影劇台" tvg-logo="http://liveq.tv/liveq.tv/img/tw-%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87%E5%8F%B0.jpg" tvg-language="Chinese" group-title="影劇",民視影劇
 https://4gtvfreemobile-mozai.4gtv.tv/2rqbIbRqglryu8IiI0qxjrccv7fDS-G13j9voZQySdk%3d/stream2.m3u8?token=7_GvS2I7i2XhcMTApCqRsQ&expires=1632735997&token1=7amtPD5YIAjhQAZSQ1eijQ&expires1=1632764797&refer=MWRkZGE1NmMtYjk2My00MGQ5LTlhOGQtOTA3NjQ2MDg5ZDU0&y=0
 #http://seb.sason.top/ptv/ftv.php?id=yj
 
@@ -38,7 +38,7 @@ https://4gtvfreemobile-mozai.4gtv.tv/5aKpM4LBCCkSNY-NDqu_QuK_2b__ckfU6MnG55DANMI
 https://4gtvfreemobile-mozai.4gtv.tv/0df68Gf2eZZfeig9vWfaKfrjsVCG-GW-OCbyLHhoW0M%3d/stream2.m3u8?token=kZe4eLTn9CRCt4byOtfzpQ&expires=1628316954&refer=ZDRjZGQzODAtOTUyMi00ZDAxLTgyMzktZTMyMzFiZWUwZGIz&token1=kHxHRFjqciiDO5a-uaorqw&expires1=1628345754&y=0&vt=
 #http://seb.sason.top/ptv/ftv.php?id=zy
 
-#EXTINF:-1 tvg-id="6026" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",台視HD
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",台視HD
 rtmp://59.124.75.138/sat/tv071
 #http://60.251.59.180:8543/xoxo.m3u8
 
