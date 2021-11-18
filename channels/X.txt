@@ -30,9 +30,11 @@
 台視,http://50.7.61.148:30080/Entry/ttv
 台視,rtmp://161.202.204.248/sat/tv071
 台視,rtmp://161.202.204.248:1935/sat/tv071
+台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
 台視新聞,https://git.io/JgkxY
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
+台視財經,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
 中視,rtmp://59.124.75.138/sat/tv091
 中視,rtmp://161.202.204.248/sat/tv091
 中視,http://50.7.61.148:30080/Entry/ctv
@@ -44,6 +46,7 @@
 中視菁采台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
 中視菁采台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
 中視新聞,https://git.io/Jgkxz
+中視新聞,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 華視,rtmp://59.124.75.157/sat/tv111
@@ -54,6 +57,7 @@
 華視,rtmp://161.202.204.248:1935/sat/tv111
 華視新聞資訊,https://git.io/J1zPH
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
+華視體育文化教育,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
 公視,https://git.io/JVFGN
 公視,https://git.io/JVFBr
 公視,https://git.io/JgkxM
@@ -63,6 +67,7 @@
 公視,p2p://211.75.214.186:9906/57a709d7000306563cfe4e85f05fe033.ts
 公視,p2p://220.128.236.118:6001/53a03a960006b1ef065776e556163446.ts
 公視,p2p://220.128.236.118:6001/53a03645000e1fbb06469c5e324f0af1.ts
+公視2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 公視2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 公視2,p2p://fccs.123178.top:9806/60448f540003197f01e2c366b8927af8.ts
 公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
@@ -102,11 +107,7 @@
 衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
 寰宇新聞全球台,https://git.io/JgkpO
 寰宇新聞全球台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
-寰宇新聞全球台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
-寰宇新聞全球台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
-寰宇新聞全球台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-寰宇新聞台灣台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
-寰宇新聞台灣台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
+寰宇財經台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
@@ -301,15 +302,13 @@ Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
 FOX 頻道,http://125.227.210.55:13498/VideoInput/play.ts
 FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
 FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
-CATCHPLAY電影台,http://iptv5.phoves.com.cn/api/mitv.php?id=76
+CatchPlay電影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
 天映電影,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映電影,http://iptv5.phoves.com.cn/api/mitv.php?id=63
 天映電影,http://113.64.147.240:808/hls/62/index.m3u8?times=0
 天映經典HD,http://iptv5.phoves.com.cn/api/mitv.php?id=63
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
-靖天综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
 ETtoday綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 幸福空間居家台,https://git.io/JgYYF
 幸福空間居家台,https://git.io/JgYYF
@@ -325,10 +324,13 @@ NHKWorldJapan,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u
 NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-采昌影劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv049
-采昌影劇台,http://sytv.xtvants.fun/mytv.php?id=ccyj&token=qq3036107507&user=fmys
+采昌影劇台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd4
+靖天映畫台,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
+靖天综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
+靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
 靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
 靖天歡樂台,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
+靖天映畫台,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
@@ -343,6 +345,8 @@ DiscoveryHD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 Discovery亞洲,http://125.227.210.55:10388/VideoInput/play.ts
 Discovery亞洲,http://125.227.210.37:10388/VideoInput/play.ts
+探索科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
+探索動力頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
 國家人文,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 WAKUWAKU,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d38
@@ -350,6 +354,7 @@ Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+冠軍電視台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 東風衛視,http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
