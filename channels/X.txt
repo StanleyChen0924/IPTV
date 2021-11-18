@@ -13,6 +13,7 @@
 民視,rtmp://59.124.75.138/sat/tv051,民视
 民視,rtmp://59.124.75.157/sat/tv051
 民視新聞台,https://git.io/JgkAb
+民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
 民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
 民視台灣台,https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
@@ -51,9 +52,8 @@
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 華視,rtmp://161.202.204.248/sat/tv111
 華視,rtmp://161.202.204.248:1935/sat/tv111
-華視新聞資訊,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hsxw.m3u8
+華視新聞資訊,https://git.io/J1zPH
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
-華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 公視,https://git.io/JVFGN
 公視,https://git.io/JVFBr
 公視,https://git.io/JgkxM
@@ -215,6 +215,7 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,http://50.7.61.147:30080/Entry/ubnbus
+壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8
 壹電視新聞台,http://50.7.61.147:30080/Entry/etv
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
