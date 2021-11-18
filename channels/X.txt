@@ -313,7 +313,8 @@ HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 國家地理,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 國家地理,http://125.227.210.55:16408/VideoInput/play.ts
 國家地理,http://125.227.210.37:16408/VideoInput/play.ts
-
+JET綜合,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
+星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHKWorldJapan,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
