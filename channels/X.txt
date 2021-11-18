@@ -172,8 +172,8 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
 東森綜合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
+東森新聞,rtmp://45.88.148.178/channel/6100144cf0618408855f36e1
 東森新聞,https://git.io/Jgkps
-東森新聞,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森財經,https://git.io/Jgkpc
 東森財經,rtmp://59.124.75.138/sat/tv571
@@ -195,6 +195,7 @@ JET綜合台,http://50.7.61.147:30080/Entry/jet
 國興衛視,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP
 緯來日本,rtmp://59.124.75.138/sat/tv771
 緯來日本,http://50.7.61.147:30080/Entry/vljp
+緯來育樂,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
 緯來育樂,rtmp://59.124.75.138/sat/tv701
 緯來體育,rtmp://59.124.75.138/sat/tv721
 緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
@@ -216,8 +217,9 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 中天亞洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
 中天新聞,https://git.io/Jgkpy
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
-年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
+年代新聞台,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
+年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
+年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,http://50.7.61.147:30080/Entry/ubnbus
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8
@@ -288,8 +290,7 @@ FoxMovies,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
-AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
-AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
+AXN,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
@@ -326,6 +327,8 @@ NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3
 ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 采昌影劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv049
 采昌影劇台,http://sytv.xtvants.fun/mytv.php?id=ccyj&token=qq3036107507&user=fmys
+靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
+靖天歡樂台,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
@@ -343,6 +346,7 @@ Discovery亞洲,http://125.227.210.37:10388/VideoInput/play.ts
 動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
 國家人文,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 WAKUWAKU,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d38
+Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -385,8 +389,10 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 愛爾達體育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
 愛爾達體育1,rtmp://59.124.75.138/sat/md041
 愛爾達體育1,rtmp://161.202.204.248/sat/md041
+愛爾達體育2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb6
 愛爾達體育2,rtmp://59.124.75.138/sat/md051
 愛爾達體育2,rtmp://161.202.204.248:1935/sat/md051
+愛爾達體育3,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb8
 愛爾達體育3,rtmp://59.124.75.138/sat/md031
 ELEVEN體育一台,rtmp://59.124.75.138/sat/tv731
 ELEVEN體育一台,http://125.227.210.37:10677/VideoInput/play.ts
@@ -995,10 +1001,9 @@ TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
 中天新聞,https://git.io/Jgkpy
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
-年代新聞,p5p://fccs.123178.top:9906/60434d73000091e406d956c8607013df.ts
-年代新聞,p5p://fccs.123178.top:9906/60434d73000091e406d956c8607013df
-年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
+年代新聞台,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
+年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
+年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,http://50.7.61.147:30080/Entry/ubnbus
 壹電視新聞台,http://50.7.61.147:30080/Entry/etv
