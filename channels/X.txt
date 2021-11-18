@@ -1,6 +1,6 @@
 ﻿
 🇹🇼台灣頻道,#genre#
-民視,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a,民视
+民視,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
 民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
 民視,https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
 民視,http://50.7.61.147:30080/Entry/ftv
@@ -66,8 +66,7 @@
 公視2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 公視2,p2p://fccs.123178.top:9806/60448f540003197f01e2c366b8927af8.ts
 公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
-公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
-公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
+客家電視台,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
 大愛一台,https://git.io/Jgkx9
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二台,https://git.io/JgYms
@@ -157,11 +156,14 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 MOMO親子台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
+東森幼幼,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
+東森幼幼,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
 東森超視,https://flv3948069e.live.126.net/live/sytv_e0c30bc8ee846a19f53dde422e773b0b.flv
+東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
 東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
 東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
@@ -340,6 +342,8 @@ Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 Discovery亞洲,http://125.227.210.55:10388/VideoInput/play.ts
 Discovery亞洲,http://125.227.210.37:10388/VideoInput/play.ts
 動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
+國家人文,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
+WAKUWAKU,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d38
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
