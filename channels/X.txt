@@ -182,8 +182,7 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
 人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
-JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
-JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=qq3036107507&user=fmys
+JET綜合台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
 JET綜合台,http://50.7.61.147:30080/Entry/jet
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
