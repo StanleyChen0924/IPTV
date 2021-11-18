@@ -474,12 +474,9 @@ BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
 euro news,rtmp://45.92.126.226/channel/61002dbef0618408855f370f
 爱尔达体育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
 
-
-
 🆕新聞頻道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
-
 民視新聞台,https://git.io/JgkAb
 民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
@@ -597,7 +594,6 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 🎵音樂頻道,#genre#
 KPOP,https://git.io/JgYAE
-K-POPLIVESTREAMING,https://git.io/JgP6P
 SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 2021華語流行歌曲,https://git.io/JgYR5
 網路流行音樂電台,https://git.io/JgkA6
@@ -618,7 +614,7 @@ MTVWMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/maste
 🇰🇷韓國頻道,#genre#
 
 ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-tvN,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltIRIpDCasXRmMBqc%2FFlKmtshZwUrPqTRDzmRUL3HQxp
+tvN,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d1c
 tvN,http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/02.m3u8
