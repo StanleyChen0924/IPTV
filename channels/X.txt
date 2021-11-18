@@ -375,6 +375,7 @@ tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/02.m3u8
 韓國阿里郎,http://125.227.210.37:8933/VideoInput/play.ts
 Astro愛奇藝,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+愛爾達體育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
 愛爾達體育1,rtmp://59.124.75.138/sat/md041
 愛爾達體育1,rtmp://161.202.204.248/sat/md041
 愛爾達體育2,rtmp://59.124.75.138/sat/md051
