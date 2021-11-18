@@ -234,6 +234,7 @@ EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
 CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
+靖天電影台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
 靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
 靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
 CHC高清電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://ye23.win/iptv/saxyd.php?id=G_CHCGQDY
@@ -278,9 +279,7 @@ HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
 東森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
 東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
-FoxMovies,http://60.251.59.178:8527/http/192.168.77.7:8088/hls/105/startwest89.m3u8
-FoxMovies,http://60.251.59.178:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
-FoxMovies,http://60.251.59.178:8527/.m3u8
+FoxMovies,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
@@ -4023,12 +4022,34 @@ DIYP,
 
 🔞p5p_710924,#genre#
 
-彩虹e台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
-松视1台,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
-松视2台,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
-松视3台,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
-K频道,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
-潘朵啦玩美台,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
+彩虹E台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
+松視一,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
+松視二,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
+松視三,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
+K頻道,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
+潘朵拉完美台,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
+Look HD,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
+彩虹电影台,rtmp://45.92.126.226/channel/60ed7124020b42a2f634bfe5
+潘朵拉粉红台,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
+驚艷台,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c
+香蕉台,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e
+JSTAR極限台,rtmp://104.149.131.118/channel/60fa6d9b8dfe8209677fdb20
+香草天道,rtmp://45.92.126.114/channel/6130ff36c6f62a25d2da217d
+性愛教主,rtmp://45.92.126.114/channel/6131004fc6f62a25d2da2185
+VENUS,rtmp://45.92.126.114/channel/61310094c6f62a25d2da2187
+做愛特教班,rtmp://45.92.126.114/channel/613100d2c6f62a25d2da2189
+奶奶按摩店,rtmp://45.92.126.114/channel/6131010cc6f62a25d2da218b
+AV女王,rtmp://45.92.126.114/channel/61310232c6f62a25d2da218d
+人妻不倫,rtmp://45.92.126.114/channel/6131027ac6f62a25d2da218f
+水多多,rtmp://45.92.126.114/channel/613102e2c6f62a25d2da2191
+近親相姦,rtmp://45.92.126.114/channel/61319ab6c6f62a25d2da21b6
+彩虹通道,rtmp://45.92.126.114/channel/61319b25c6f62a25d2da21b8
+PLAYBOY,rtmp://45.92.126.114/channel/61319b62c6f62a25d2da21ba
+KMP,rtmp://45.92.126.114/channel/61319ba0c6f62a25d2da21bd
+午夜蓝,rtmp://45.92.126.114/channel/61319c1cc6f62a25d2da21bf
+櫻桃,rtmp://45.92.126.114/channel/61319cdfc6f62a25d2da21c3
+大學女援交妹,rtmp://45.92.126.114/channel/613221dbc6f62a25d2da21d0
+做愛輸入,rtmp://45.88.148.114/channel/613229bec6f62a25d2da21e2
 LOOK TV,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
