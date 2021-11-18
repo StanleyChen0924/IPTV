@@ -473,6 +473,479 @@ BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
 euro news,rtmp://45.92.126.226/channel/61002dbef0618408855f370f
 爱尔达体育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
 
+國家人文,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
+WAKUWAKU,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d38
+BBC Lifestyle,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cba
+History歷史,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cee
+History 歷史2,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cec
+FRANCE24,rtmp://45.88.148.122/channel/611c85843e4da143c01598f3
+民視HD,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
+好消息2,rtmp://104.149.141.122/channel/61000cf1f0618408855f36c2
+台視HD,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c44
+大愛,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c7a
+中視HD,rtmp://45.92.126.114/channel/60c3166c961593122ebaf8fe
+霹靂台灣台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c72
+華視HD,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c4c
+公視,rtmp://45.92.126.114/channel/60c3176f961593122ebaf906
+人間衛視,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c52
+好消息,rtmp://45.88.148.178/channel/60c31888961593122ebaf912
+原民台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c42
+客家電視台,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
+國家地理高畫質,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d1e
+探索,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
+TLC,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cfa
+動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
+CN卡通頻道,rtmp://104.149.130.142/channel/60f451628dfe8209677fda46
+迪士尼 ,rtmp://104.149.131.118/channel/60f451968dfe8209677fda48
+MOMO親子,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8
+東森幼幼,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
+緯來綜合,rtmp://104.149.131.118/channel/60c312b7961593122ebaf8f1
+八大第一,rtmp://104.149.131.118/channel/60c31d07961593122ebaf92d
+八大綜合,rtmp://45.83.118.242/channel/60c31c5a961593122ebaf92b
+三立台灣,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
+三立都會台,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
+衛視中文,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc4
+信吉電視,rtmp://104.149.131.118/channel/611a83ad3e4da143c0159880
+東森綜合,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d86
+東森超視,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d8e
+國家野生,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d22
+龍華偶像,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d48
+探索旅遊生活,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
+中天綜合,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d90
+探索亞洲,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d70
+中天娛樂,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c94
+年代MUCH,rtmp://104.149.131.118/channel/611a835f3e4da143c015987e
+東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
+靖天戲劇,rtmp://104.149.131.118/channel/60c343f1961593122ebaf998
+東風衛視,rtmp://104.149.141.122/channel/610ab00d3e4da143c01581ce
+八大戲劇,rtmp://45.83.118.242/channel/60c31d53961593122ebaf92f
+TVBS精彩,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
+緯來戲劇,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910c9a
+高點綜合,rtmp://45.88.148.122/channel/6100120ff0618408855f36dd
+JET 綜合,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
+華藝綜合,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cfe
+ETtoday綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
+BLUE ANT Entertainment,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910cc2
+寰宇綜合,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d24
+壹新聞,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910c76
+年代新聞台,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
+東森新聞,rtmp://45.88.148.178/channel/6100144cf0618408855f36e1
+中天新聞,rtmp://104.149.131.118/channel/60c0817583c8fd233ad0a1f4
+星衛娛樂,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
+民視新聞台,rtmp://45.83.118.242/channel/60c461de961593122ebafa2c
+三立新聞,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c7c
+TVBS新聞,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c7e
+TVBS HD,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c90
+東森財經,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c84
+非凡新聞,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910c86
+法國時裝,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c5c
+Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
+中天亞洲,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d94
+NHK world NEWS,rtmp://45.88.148.178/channel/60c2f4fb961593122ebaf8d0
+衛視電影,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cc6
+EYETV戲劇,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cbc
+緯來育樂,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
+東森洋片,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d8c
+AXN,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c
+八大娛樂,rtmp://45.88.148.122/channel/60c31db1961593122ebaf931
+好萊塢,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c92
+FOX,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910ca0
+靖天育樂,rtmp://104.149.131.118/channel/60c34368961593122ebaf992
+緯來精采,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d2e
+緯來體育,rtmp://104.149.131.118/channel/60c3138a961593122ebaf8fa
+Eleven Sports1,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d60
+狼谷育樂,rtmp://104.149.141.122/channel/61002279f0618408855f36f1
+Eleven Sports2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
+愛爾達體育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
+博斯運動一台,rtmp://104.149.141.122/channel/610a2b8503524b0155f2346a
+EYE旅遊台,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cf8
+緯來日本,rtmp://45.92.126.114/channel/60c312ed961593122ebaf8f3
+國興衛視,rtmp://104.149.130.142/channel/60c31c32961593122ebaf929
+ChannelV,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910ce6
+亞洲旅遊,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d0e
+CNN,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c6e
+愛爾達體育2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb6
+愛爾達綜合,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d46
+靖天綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
+EVE探索家庭,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cf4
+寰宇新聞,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d08
+寰宇新聞二台,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d26
+BBC World News,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
+愛爾達體育3,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb8
+香港有線新聞,rtmp://45.88.148.122/channel/60c2d2bd961593122ebaf8b7
+新加坡亞洲新聞,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
+卡達半島,rtmp://45.88.148.178/channel/60c2f52d961593122ebaf8d2
+TV-5,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
+DW-TV,rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
+TV5 Monde,rtmp://104.149.141.122/channel/60c30e75961593122ebaf8ed
+sky-news,rtmp://104.149.130.142/channel/60c31287961593122ebaf8ef
+三立綜合台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d28
+三立戲劇台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d30
+靖天資訊,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d5a
+歐洲新聞,rtmp://45.92.126.226/channel/61002dbef0618408855f370f
+靖洋戲劇台,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d1a
+靖天歡樂,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
+三立財經,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d04
+MTV LIVE,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cde
+CNBC,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
+寰宇財經,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
+FOOD美食,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd6
+亞洲美食,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d00
+博斯高球2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
+靖天日本,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
+NEWS24,rtmp://45.92.126.114/channel/6130ffd5c6f62a25d2da2181
+FIGHTING TV サムライ 124 H,rtmp://45.92.126.114/channel/61310016c6f62a25d2da2183
+Outdoor,rtmp://45.92.126.114/channel/60c2f692961593122ebaf8da
+CLASSICA HD,rtmp://104.149.141.122/channel/60c30ac7961593122ebaf8e2
+GOLF,rtmp://45.92.126.114/channel/60c30afc961593122ebaf8e4
+龍華影劇,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cc0
+FIGHT,rtmp://45.88.148.122/channel/60c30e2d961593122ebaf8ea
+美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
+勁爆體育,rtmp://45.88.148.178/channel/60ecda94020b42a2f634be05
+博斯高球1,rtmp://104.149.131.118/channel/610a2ac603524b0155f23466
+博斯網球,rtmp://104.149.131.118/channel/610a2b2f03524b0155f23468
+Disney XD Japan,rtmp://45.92.126.114/channel/61310363c6f62a25d2da2197
+博斯運動二台,rtmp://104.149.141.122/channel/610a2bdf03524b0155f2346c
+博斯魅力,rtmp://45.88.148.122/channel/610a3b7e03524b0155f23475
+鉄道チャンネル,rtmp://45.92.126.114/channel/6130ff85c6f62a25d2da217f
+靖天卡通,rtmp://45.88.148.122/channel/60c344f6961593122ebaf9a2
+探索科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
+MTV音樂台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82
+采昌戲劇,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd4
+中視新聞HD,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
+LUXE TV,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910ce2
+澳門蓮花衛視,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c5a
+明珠台,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c62
+星河频道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
+法國時尚瘋,rtmp://45.88.148.114/channel/61004184f0618408855f3758
+有線18台,rtmp://45.88.148.122/channel/60c2d2f9961593122ebaf8b9
+有線財經資訊,rtmp://45.88.148.122/channel/60c2d336961593122ebaf8bb
+有線603高清,rtmp://45.88.148.122/channel/60c2d3a9961593122ebaf8bd
+スーパー！ドラマＴＶ ＨＤ,rtmp://45.92.126.114/channel/61319c6ec6f62a25d2da21c1
+福克斯電影,rtmp://45.88.148.122/channel/60c2d575961593122ebaf8bf
+MONDO TV HD,rtmp://45.92.126.114/channel/61319d21c6f62a25d2da21c5
+有線綜合娛樂,rtmp://45.88.148.122/channel/60c2f289961593122ebaf8c1
+ゴルフネットワーク,rtmp://45.92.126.114/channel/6132218dc6f62a25d2da21ce
+Sport Plus 1 HD（奥运602),rtmp://45.88.148.122/channel/60c2f2c0961593122ebaf8c3
+アニマルプラネット,rtmp://45.92.126.114/channel/6131031fc6f62a25d2da2195
+ＢＢＣワールドニュース,rtmp://45.92.126.114/channel/6132224ac6f62a25d2da21d2
+鳳凰衛視中文,rtmp://45.88.148.178/channel/60c2f331961593122ebaf8c7
+CNN/US HD,rtmp://45.92.126.114/channel/6132238ec6f62a25d2da21d4
+鳳凰衛視香港,rtmp://45.88.148.178/channel/60c2f428961593122ebaf8c9
+スターチャンネル１,rtmp://45.92.126.114/channel/613103a6c6f62a25d2da2199
+Music Japan TV,rtmp://45.92.126.114/channel/613223d7c6f62a25d2da21d6
+鳳凰衛視資訊,rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb
+スターチャンネル２,rtmp://45.92.126.114/channel/61310410c6f62a25d2da219b
+MTV HD,rtmp://45.92.126.114/channel/61322427c6f62a25d2da21d8
+星空衛視,rtmp://45.92.126.226/channel/60ecda6b020b42a2f634be03
+スターチャンネル３,rtmp://45.92.126.114/channel/6131044fc6f62a25d2da219d
+MUSIC ON! TV,rtmp://45.92.126.114/channel/6132246bc6f62a25d2da21da
+ヒストリーチャンネル™ HD,rtmp://45.92.126.114/channel/613224aec6f62a25d2da21dc
+AXN ＨＤ 海外ドラマ,rtmp://45.92.126.114/channel/61322915c6f62a25d2da21de
+釣りビジョン,rtmp://45.92.126.114/channel/61322958c6f62a25d2da21e0
+AXNミステリー HD,rtmp://45.88.148.114/channel/61322a00c6f62a25d2da21e4
+ナショナル ジオグラフィック チャンネル,rtmp://45.88.148.114/channel/61322a43c6f62a25d2da21e6
+KBS World,rtmp://45.88.148.114/channel/61322a7dc6f62a25d2da21e8
+FOX HD,rtmp://45.88.148.114/channel/61322ac7c6f62a25d2da21ea
+東映チャンネル,rtmp://45.88.148.114/channel/61322b7dc6f62a25d2da21ec
+女性チャンネル♪LaLa TV(HD),rtmp://45.88.148.114/channel/61322cc4c6f62a25d2da21ee
+ムービープラスＨＤ,rtmp://45.88.148.114/channel/61322cfcc6f62a25d2da21f0
+私人影院,rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
+日テレG+ HD,rtmp://45.88.148.114/channel/61322d3dc6f62a25d2da21f2
+衛星劇場ＨＤ,rtmp://45.88.148.114/channel/61322d9cc6f62a25d2da21f4
+ＧＡOＲＡ　ＨＤ,rtmp://45.88.148.114/channel/61322dd5c6f62a25d2da21f6
+ザ・シネマＨＤ,rtmp://45.88.148.114/channel/61322e18c6f62a25d2da21f8
+スカイ・A sports＋ ＨＤ,rtmp://45.88.148.114/channel/61322e4dc6f62a25d2da21fa
+緯來電影,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910c8c
+ディスカバリーチャンネル,rtmp://45.88.148.114/channel/61322e7fc6f62a25d2da21fc
+旅チャンネルＨＤ,rtmp://45.88.148.114/channel/61322f91c6f62a25d2da21fe
+ＷＯＷＯＷシネマ,rtmp://45.88.148.114/channel/61322fcfc6f62a25d2da2200
+ＷＯＷＯＷライブ,rtmp://45.88.148.114/channel/61323005c6f62a25d2da2202
+壹電影台,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cf6
+ＷＯＷＯＷプライム,rtmp://45.88.148.114/channel/61323038c6f62a25d2da2204
+星衛電影,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d36
+テレ朝チャンネル２,rtmp://45.88.148.114/channel/61323075c6f62a25d2da2206
+龍華電影,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d4c
+テレ朝チャンネル１,rtmp://45.88.148.114/channel/613230b1c6f62a25d2da2208
+靖天電影,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
+ミュージック・エア,rtmp://45.88.148.114/channel/613230ebc6f62a25d2da220a
+東森電影,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d8a
+ＴＢＳチャンネル１,rtmp://45.88.148.114/channel/61323121c6f62a25d2da220c
+龍祥時代電影,rtmp://45.88.148.122/channel/60c2474a961593122ebaf7b5
+銀河,rtmp://45.88.148.114/channel/613231dac6f62a25d2da220e
+フジテレビＮＥＸＴ,rtmp://45.88.148.114/channel/6132323ec6f62a25d2da2210
+天映电影,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
+フジテレビＯＮＥ スポーツ・バラエティ,rtmp://45.88.148.114/channel/61323275c6f62a25d2da2212
+フジテレビＴＷＯ ドラマ・アニメ,rtmp://45.88.148.114/channel/613232c2c6f62a25d2da2214
+J SPORTS 1,rtmp://45.88.148.114/channel/613232fec6f62a25d2da2216
+J SPORTS 2,rtmp://45.88.148.114/channel/61323335c6f62a25d2da2218
+J SPORTS 3,rtmp://45.88.148.114/channel/61323377c6f62a25d2da221a
+FOX MOVIES優質電影,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
+J SPORTS 4,rtmp://45.88.148.114/channel/613233a8c6f62a25d2da221c
+CINEMAX HD,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cac
+HBO家庭,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910caa
+HBO HIT,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
+BBC Earth,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d3e
+HBO signature,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910ccc
+影迷數位電影,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910ce8
+影迷數位紀實台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910cea
+Boomerang,rtmp://104.149.138.98/channel/6161652a295d84395bad66f5
+CinemaWorld,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910cf0
+BLUE ANT Extreme,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cf2
+tvN,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d1c
+Star Movies,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d20
+韓國娛樂KMTV,rtmp://45.88.148.114/channel/60c2d183961593122ebaf8ae
+CatchPlay電影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
+阿里郎,rtmp://45.88.148.122/channel/61002c00f0618408855f370a
+Outdoor Channel,rtmp://104.149.138.98/channel/616166cd295d84395bad6953
+TV5 Monde,rtmp://104.149.138.98/channel/61616807295d84395bad6b8f
+龍華洋片,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d40
+France 24,rtmp://104.149.138.98/channel/61617574295d84395bad896d
+華納電影,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d68
+Da Vinci Learning,rtmp://104.149.138.98/channel/616175a0295d84395bad89cd
+Asian Food Network,rtmp://104.149.138.98/channel/616175d9295d84395bad8a56
+福斯家庭,rtmp://45.88.148.122/channel/60c2f660961593122ebaf8d8
+KIX,rtmp://104.149.138.98/channel/61617616295d84395bad8ae1
+福斯動作,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
+Blue Ant Extreme,rtmp://104.149.138.98/channel/6161763a295d84395bad8b4d
+Blue Ant Entertainment,rtmp://104.149.138.98/channel/61617680295d84395bad8c01
+HBO,rtmp://45.88.148.122/channel/60c2f77a961593122ebaf8e0
+HTVC Thuần Việt,rtmp://104.149.138.98/channel/616176b1295d84395bad8c96
+HTVC Thuần Việt,rtmp://104.149.138.98/channel/616176e4295d84395bad8d16
+HTVC Plus,rtmp://104.149.138.98/channel/61617733295d84395bad8dd8
+HTVC Phụ Nữ,rtmp://104.149.184.98/channel/616179cc295d84395bad943f
+HTVC Gia Đình,rtmp://104.149.184.98/channel/61617a5d295d84395bad9589
+HTVC Du Lịch,rtmp://104.149.184.98/channel/61617a8c295d84395bad95ea
+HTVC Phim,rtmp://104.149.184.98/channel/61617ab5295d84395bad9644
+HTV1,rtmp://104.149.184.98/channel/61617b24295d84395bad973d
+HTV2,rtmp://104.149.184.98/channel/6161882a295d84395badbf34
+HTV3,rtmp://104.149.184.98/channel/61618857295d84395badbfca
+HTV4,rtmp://104.149.184.98/channel/6161888b295d84395badc064
+VTV1,rtmp://104.149.184.98/channel/616188bd295d84395badc116
+靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
+探索動力頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
+VTV4,rtmp://104.149.184.98/channel/61618947295d84395badc2d3
+靖天國際,rtmp://45.83.118.242/channel/60c34331961593122ebaf990
+VTV5,rtmp://104.149.184.98/channel/61618978295d84395badc37b
+幸福空間居家台,rtmp://45.83.118.242/channel/611c88f93e4da143c01598fc
+MezzoLive,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cdc
+VTV7,rtmp://104.149.184.98/channel/61618c6d295d84395badce4b
+古典音樂,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910ce4
+VTV8,rtmp://104.149.186.246/channel/61618c9f295d84395badcf0f
+CCTV-1,rtmp://104.149.130.142/channel/60ecd4db020b42a2f634bdb7
+VTV9,rtmp://104.149.186.246/channel/61618d03295d84395badd06c
+愛爾達影劇,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cbe
+CCTV-3,rtmp://104.149.130.142/channel/60ecd53b020b42a2f634bdbb
+Hậu Giang,rtmp://104.149.186.246/channel/61618f59295d84395badda01
+CCTV-4,rtmp://104.149.130.142/channel/60ecd562020b42a2f634bdbd
+Đồng Tháp,rtmp://104.149.186.246/channel/61618f89295d84395baddac7
+CCTV-5,rtmp://104.149.130.142/channel/60ecd580020b42a2f634bdbf
+ANTV HD,rtmp://104.149.186.246/channel/61618fbe295d84395baddbb5
+CCTV-6,rtmp://104.149.130.142/channel/60ecd5a0020b42a2f634bdc1
+Vĩnh Long 1,rtmp://104.149.186.246/channel/61618fef295d84395baddc85
+CCTV-7,rtmp://104.149.130.142/channel/60ecd5ce020b42a2f634bdc3
+Vĩnh Long 2,rtmp://104.149.186.246/channel/6161901f295d84395baddd51
+CCTV-8,rtmp://104.149.130.142/channel/60ecd618020b42a2f634bdc5
+Vĩnh Long 3,rtmp://104.149.186.246/channel/6161904d295d84395badde22
+CCTV-9,rtmp://104.149.130.142/channel/60ecd638020b42a2f634bdc7
+Bạc Liêu,rtmp://104.149.186.246/channel/6161907f295d84395baddedc
+CCTV-10,rtmp://104.149.130.142/channel/60ecd662020b42a2f634bdc9
+Bắc Giang,rtmp://104.149.186.246/channel/616190ac295d84395baddfb5
+CCTV-11,rtmp://104.149.130.142/channel/60ecd67e020b42a2f634bdcb
+Bà Rịa-Vũng Tàu,rtmp://104.149.186.246/channel/616190d4295d84395bade092
+CCTV-12,rtmp://104.149.130.142/channel/60ecd761020b42a2f634bdcd
+An Giang,rtmp://104.149.186.246/channel/616190fc295d84395bade13a
+CCTV-13,rtmp://104.149.130.142/channel/60ecd786020b42a2f634bdcf
+YouTV,rtmp://104.149.186.246/channel/61619123295d84395bade1d8
+CCTV-14,rtmp://104.149.130.142/channel/60ecd7a2020b42a2f634bdd1
+Truyền Hình Nhân Dân,rtmp://104.149.186.246/channel/61619772295d84395badfed4
+CCTV-15,rtmp://104.149.130.142/channel/60ecd7bf020b42a2f634bdd3
+Thông Tấn Xã Việt Nam,rtmp://104.149.187.154/channel/616197a3295d84395badffa9
+湖南衛視,rtmp://104.149.130.142/channel/60ecd7f5020b42a2f634bdd5
+Quốc Phòng VN,rtmp://104.149.187.154/channel/616197d5295d84395bae0046
+浙江衛視,rtmp://104.149.130.142/channel/60ecd855020b42a2f634bded
+Quốc Hội,rtmp://104.149.187.154/channel/61619800295d84395bae00c7
+東方衛視,rtmp://104.149.130.142/channel/60ecd881020b42a2f634bdef
+VTV Hyundai Homeshopping,rtmp://104.149.187.154/channel/6161982a295d84395bae0156
+江蘇衛視,rtmp://104.149.130.142/channel/60ecd8ac020b42a2f634bdf1
+VOVTV,rtmp://104.149.187.154/channel/6161985b295d84395bae0213
+澳亞衛視,rtmp://104.149.130.142/channel/60ecd8dc020b42a2f634bdf3
+FBNC,rtmp://104.149.187.154/channel/61619889295d84395bae0290
+河南衛視,rtmp://104.149.130.142/channel/60ecd916020b42a2f634bdf5
+NCM,rtmp://104.149.187.154/channel/616198b6295d84395bae0300
+北京衛視,rtmp://104.149.130.142/channel/60ecd962020b42a2f634bdf7
+BTV6,rtmp://104.149.187.154/channel/616198de295d84395bae036a
+湖北衛視,rtmp://104.149.130.142/channel/60ecd98e020b42a2f634bdf9
+BTV11,rtmp://104.149.187.154/channel/6161990e295d84395bae03e2
+廣東衛視,rtmp://104.149.130.142/channel/60ecd9b6020b42a2f634bdfb
+iMovie,rtmp://104.149.187.154/channel/61619939295d84395bae0458
+深圳衛視,rtmp://104.149.130.142/channel/60ecd9f1020b42a2f634bdfd
+VTC2,rtmp://104.149.187.154/channel/61619961295d84395bae04bc
+南方衛視,rtmp://104.149.130.142/channel/60ecda1b020b42a2f634bdff
+VTC4,rtmp://104.149.187.154/channel/6161998c295d84395bae0525
+星空衛視,rtmp://104.149.130.142/channel/60ecda40020b42a2f634be01
+VTC5,rtmp://104.149.187.154/channel/616199b8295d84395bae05a0
+VTC6,rtmp://104.149.187.154/channel/616199e4295d84395bae0610
+東南衛視,rtmp://104.149.130.142/channel/60ecdab7020b42a2f634be07
+VTC7,rtmp://104.149.187.154/channel/61619b4a295d84395bae0a55
+廣東體育,rtmp://104.149.130.142/channel/60ecdae3020b42a2f634be09
+VTC8,rtmp://104.149.188.82/channel/61619b79295d84395bae0aee
+廣東珠江,rtmp://104.149.130.142/channel/60ecdb04020b42a2f634be0b
+Lâm Đồng,rtmp://104.149.188.82/channel/61619e82295d84395bae12df
+山東衛視,rtmp://104.149.130.142/channel/6100349af0618408855f372f
+Sơn La,rtmp://104.149.188.82/channel/61619eb2295d84395bae1347
+衛視音樂台,rtmp://104.149.130.142/channel/61003572f0618408855f3732
+Thái Bình,rtmp://104.149.188.82/channel/61619ee5295d84395bae13c1
+J5,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c64
+Thanh Hóa,rtmp://104.149.188.82/channel/61619f13295d84395bae1440
+J2,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c66
+Thừa Thiên Huế,rtmp://104.149.188.82/channel/61619f43295d84395bae14b7
+Viu TV,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c68
+Vĩnh Phúc,rtmp://104.149.188.82/channel/6161a15d295d84395bae1bf2
+罪案,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d34
+VIUSIX,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c5e
+Yên Bái,rtmp://104.149.188.82/channel/6161a18a295d84395bae1c91
+明珠,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c6a
+Vĩnh Long 4,rtmp://104.149.188.82/channel/6161a1b2295d84395bae1d1b
+互動新聞,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c6c
+Travel & Living,rtmp://104.149.188.82/channel/6161a1d9295d84395bae1d79
+翡翠,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c60
+Animal Planet,rtmp://104.149.188.82/channel/6161a1fe295d84395bae1de1
+公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
+Discovery Asia,rtmp://104.149.188.82/channel/6161a22b295d84395bae1e5b
+TVBS歡樂台,rtmp://45.83.118.242/channel/611a81c23e4da143c0159876
+Discovery,rtmp://104.149.188.82/channel/6161a261295d84395bae1ee0
+信大,rtmp://104.149.141.122/channel/611a823b3e4da143c0159878
+ABC Australia,rtmp://104.149.188.82/channel/6161a2ce295d84395bae1ffb
+台視綜合,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c4a
+Bloomberg,rtmp://104.149.188.82/channel/6161a330295d84395bae212f
+Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
+台視財經,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
+BBC Lifestyle,rtmp://104.149.191.182/channel/6161a5b8295d84395bae2802
+華視體育文化教育,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
+BBC News,rtmp://104.149.191.182/channel/6161a66f295d84395bae2a3b
+公視2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
+BBC Earth,rtmp://104.149.191.182/channel/6161a69d295d84395bae2ab7
+華視資訊,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c50
+CNN,rtmp://104.149.191.182/channel/6161a6d4295d84395bae2b28
+中視經典,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
+Baby First,rtmp://104.149.191.182/channel/6161a774295d84395bae2cb2
+全大電視台,rtmp://104.149.130.142/channel/611a82af3e4da143c015987a
+Bắc Ninh,rtmp://104.149.191.182/channel/6161a7a7295d84395bae2d41
+華藝影劇,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910cfc
+SBTN,rtmp://104.149.191.182/channel/6161a7d6295d84395bae2dce
+中視菁采,rtmp://45.88.148.122/channel/60c3173a961593122ebaf904
+FILM24H,rtmp://104.149.191.182/channel/6161a80d295d84395bae2e51
+冠軍電視台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
+HONVIE TV,rtmp://104.149.191.182/channel/6161a840295d84395bae2eca
+龍華戲劇,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d18
+S Channel,rtmp://104.149.191.182/channel/6161a873295d84395bae2f57
+Tviet Network,rtmp://104.149.191.182/channel/6161a8a6295d84395bae2fea
+民視第一台,rtmp://104.149.141.122/channel/60c317e8961593122ebaf90c
+VGN TV,rtmp://104.149.191.182/channel/6161a901295d84395bae30e4
+民視台灣台,rtmp://45.92.126.114/channel/60c31843961593122ebaf910
+國會頻道1,rtmp://45.92.126.226/channel/60c3452b961593122ebaf9a4
+Vien Thao TV,rtmp://104.149.191.182/channel/6161a92e295d84395bae3178
+國會頻道2,rtmp://45.92.126.226/channel/60c34558961593122ebaf9a6
+Vietface TV,rtmp://104.149.191.182/channel/6161a95c295d84395bae31fc
+VIE TV,rtmp://104.149.191.182/channel/6161a98b295d84395bae328b
+台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
+生命電視臺,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c54
+華藏衛星電視臺,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c56
+大愛2,rtmp://45.88.148.122/channel/60c3441b961593122ebaf99a
+Trans7,rtmp://104.149.138.98/channel/6162961c295d84395baf862c
+RTV,rtmp://104.149.138.98/channel/6162963b295d84395baf865d
+EWTN,rtmp://104.149.138.98/channel/61629661295d84395baf8696
+MNC TV,rtmp://104.149.138.98/channel/616296a5295d84395baf86f7
+TransTV,rtmp://104.149.138.98/channel/616296cf295d84395baf8724
+RCTI,rtmp://104.149.138.98/channel/61629711295d84395baf877b
+TV One,rtmp://104.149.138.98/channel/61629751295d84395baf87ce
+ANTV,rtmp://104.149.138.98/channel/61629781295d84395baf8824
+IDX,rtmp://104.149.138.98/channel/616297a5295d84395baf8881
+MY-Useesport1,rtmp://104.149.138.98/channel/616297c8295d84395baf88ce
+MNC Sport,rtmp://104.149.138.98/channel/616297ef295d84395baf891a
+Champions 2,rtmp://104.149.138.98/channel/61629825295d84395baf897e
+Champions 1,rtmp://104.149.138.98/channel/616298ee295d84395baf8adb
+Celestial Movies,rtmp://104.149.138.98/channel/61629917295d84395baf8b1a
+CNN,rtmp://104.149.138.98/channel/6162993c295d84395baf8b5b
+KBS World,rtmp://104.149.184.98/channel/6162c0c4295d84395bafd06b
+Hits Movies,rtmp://104.149.184.98/channel/6162c0ee295d84395bafd0b5
+BBC Lifestyle,rtmp://104.149.184.98/channel/6162c110295d84395bafd0ef
+Waku-Waku,rtmp://104.149.184.98/channel/6162c136295d84395bafd139
+Bali TV,rtmp://104.149.184.98/channel/6162c1a8295d84395bafd203
+TV9 NU,rtmp://104.149.184.98/channel/6162c1cd295d84395bafd24a
+Tawaf TV,rtmp://104.149.184.98/channel/6162c1f8295d84395bafd298
+Dunia anak,rtmp://104.149.184.98/channel/6162c21e295d84395bafd2cb
+Flik,rtmp://104.149.184.98/channel/6162c245295d84395bafd31e
+TVMu,rtmp://104.149.184.98/channel/6162c26e295d84395bafd369
+Entertainment,rtmp://104.149.184.98/channel/6162c294295d84395bafd3b8
+TLC,rtmp://45.88.148.122/channel/6162c2b6295d84395bafd3fb
+Infotainment,rtmp://104.149.184.98/channel/6162c2d9295d84395bafd432
+Dunia Lain,rtmp://104.149.184.98/channel/6162c302295d84395bafd4ab
+Fox Movies Action,rtmp://104.149.184.98/channel/6162c327295d84395bafd4da
+FOX Movie,rtmp://104.149.186.246/channel/6162c3f2295d84395bafd642
+SCM,rtmp://104.149.186.246/channel/6162c41a295d84395bafd68d
+Crime Investigation,rtmp://104.149.186.246/channel/6162c43e295d84395bafd6d0
+Nat Geo,rtmp://104.149.186.246/channel/6162c491295d84395bafd785
+MNC Sports 2,rtmp://104.149.186.246/channel/6162c4d2295d84395bafd819
+Hits,rtmp://104.149.186.246/channel/6162c501295d84395bafd862
+MNC Shop Smart,rtmp://104.149.186.246/channel/6162c521295d84395bafd8ab
+Cartoon Network,rtmp://104.149.186.246/channel/6162c548295d84395bafd8e4
+Animal palnet,rtmp://104.149.186.246/channel/6162c9d7295d84395bafe1d1
+Daai TV,rtmp://104.149.186.246/channel/6162c9fd295d84395bafe222
+CCM,rtmp://104.149.186.246/channel/6162ca27295d84395bafe28d
+Zee Bioskop,rtmp://104.149.186.246/channel/6162ca4a295d84395bafe2d6
+NET,rtmp://104.149.186.246/channel/6162ca6f295d84395bafe325
+FOXLife,rtmp://104.149.186.246/channel/6162ca91295d84395bafe37c
+ABC Australia,rtmp://104.149.186.246/channel/6162cab5295d84395bafe3cb
+SCTV,rtmp://104.149.187.154/channel/6162cbaa295d84395bafe594
+MNC Shop Trendy,rtmp://104.149.187.154/channel/6162cbd4295d84395bafe5dc
+Jak TV,rtmp://104.149.187.154/channel/6162cbfc295d84395bafe628
+Besmart,rtmp://104.149.187.154/channel/6162cc2e295d84395bafe690
+Berita Satu,rtmp://104.149.187.154/channel/6162cc72295d84395bafe6fe
+Lifetime,rtmp://104.149.187.154/channel/6162cc92295d84395bafe730
+Discovery Channel,rtmp://104.149.187.154/channel/6162ccb5295d84395bafe75d
+Kompastv,rtmp://104.149.187.154/channel/6162ccd8295d84395bafe793
+Metrotv,rtmp://104.149.187.154/channel/6162ccf6295d84395bafe7cd
+MY-FOX Family Mov,rtmp://104.149.187.154/channel/6162cd18295d84395bafe811
+Fox Crime Mov,rtmp://104.149.187.154/channel/6162cd47295d84395bafe862
+Disney Junior,rtmp://104.149.187.154/channel/6162cdbb295d84395bafe976
+FMN,rtmp://104.149.187.154/channel/6162cde8295d84395bafe9bf
+Fight Sports,rtmp://104.149.187.154/channel/6162ce07295d84395bafe9f5
+HBO Hits,rtmp://104.149.187.154/channel/6162ce29295d84395bafea30
+HBO Singature,rtmp://104.149.188.82/channel/6162cec7295d84395bafeb73
+HBO Family,rtmp://104.149.188.82/channel/6162ceef295d84395bafebcf
+OKTV,rtmp://104.149.188.82/channel/6162cf14295d84395bafec20
+Vision Prime,rtmp://104.149.188.82/channel/6162d071295d84395bafef55
+MNC News,rtmp://104.149.188.82/channel/6162d095295d84395bafefa1
+AXN,rtmp://104.149.188.82/channel/6162d0c6295d84395baff01b
+History,rtmp://104.149.188.82/channel/6162d0f2295d84395baff088
+HGTV,rtmp://104.149.188.82/channel/6162d2ae295d84395baff4ee
+iNews,rtmp://104.149.188.82/channel/6162d2d6295d84395baff566
+Indosiar,rtmp://104.149.188.82/channel/6162d309295d84395baff5ee
+Muslin,rtmp://104.149.188.82/channel/6162d33a295d84395baff65f
+Cbeebies,rtmp://104.149.188.82/channel/6162d377295d84395baff705
+France 24,rtmp://104.149.188.82/channel/6162d3b5295d84395baff7b2
+Thrill,rtmp://104.149.188.82/channel/6162d3df295d84395baff820
+HBO,rtmp://104.149.188.82/channel/6162d414295d84395baff8bd
+Sky News,rtmp://104.149.191.182/channel/6162d5ad295d84395baffcee
+GTV,rtmp://104.149.191.182/channel/6162d5de295d84395baffd81
+Music TV,rtmp://104.149.191.182/channel/6162d60f295d84395baffe01
+CINEMAX,rtmp://104.149.191.182/channel/6162d63d295d84395baffed0
+Bein Sport 1,rtmp://104.149.191.182/channel/6162d678295d84395bafffab
+Natgeo Wild,rtmp://104.149.191.182/channel/6162d6a2295d84395bb00029
+Warner TV,rtmp://104.149.191.182/channel/6162d6da295d84395bb000d5
+TVN,rtmp://104.149.191.182/channel/6162d70f295d84395bb001a9
+TVNM,rtmp://104.149.191.182/channel/6162d733295d84395bb00220
+Al Quran Al Karem,rtmp://104.149.191.182/channel/6162d759295d84395bb00291
+Al Quran Al Karem,rtmp://104.149.191.182/channel/6162d783295d84395bb00307
+KIX,rtmp://104.149.191.182/channel/6162d7ab295d84395bb00387
+BBC Earth,rtmp://104.149.191.182/channel/6162d7cf295d84395bb003e1
+Cinema World,rtmp://104.149.191.182/channel/6162d7f4295d84395bb00451
+ZEE TV,rtmp://104.149.153.106/channel/6162d841295d84395bb0054e
+Kix,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
+
+
 🆕新聞頻道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
