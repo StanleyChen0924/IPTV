@@ -333,8 +333,8 @@ CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 迪斯尼,http://125.227.210.37:14250/VideoInput/play.ts
 DiscoveryHD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
-Discovery,http://125.227.210.55:10388/VideoInput/play.ts
-Discovery,http://125.227.210.37:10388/VideoInput/play.ts
+Discovery亞洲,http://125.227.210.55:10388/VideoInput/play.ts
+Discovery亞洲,http://125.227.210.37:10388/VideoInput/play.ts
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -422,7 +422,6 @@ HBO强档,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
 靖天映画,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
 thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
 海豚综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
-无信号,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd2
 BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
 纬来育乐,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
 博斯高球2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
@@ -436,7 +435,6 @@ FOX MOVIES,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
 靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
 动物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
 客家频道,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
-无信号,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd6
 台视台语台,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 冠军电视台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
 靖天电影台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
