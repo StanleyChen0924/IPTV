@@ -305,6 +305,7 @@ CATCHPLAY電影台,http://iptv5.phoves.com.cn/api/mitv.php?id=76
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
 靖天综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
+ETtoday綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 幸福空間居家台,https://git.io/JgYYF
 幸福空間居家台,https://git.io/JgYYF
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
@@ -361,6 +362,8 @@ tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 tvN,tvbus://5mQX2AnAV1rwQnqHabgh8odF6QhCieFaumRLyjLVy8b2z8zNpkVMtgoXXAa
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
+tvN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
+tvN,p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
 tvNMOVIES,http://iptv5.phoves.com.cn/api/mitv.php?id=78
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/02.m3u8
