@@ -74,6 +74,7 @@
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛海外,https://git.io/J2GSu
 大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+三立台灣台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
@@ -81,6 +82,7 @@
 三立台灣台,http://50.7.61.148:30080/Entry/settw-
 三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+三立都會台,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
@@ -94,6 +96,7 @@
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
+衛視中文台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc4
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
@@ -151,6 +154,7 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
 八大娛樂台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
 八大娛樂台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
+MOMO親子台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
@@ -335,6 +339,7 @@ DiscoveryHD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 Discovery亞洲,http://125.227.210.55:10388/VideoInput/play.ts
 Discovery亞洲,http://125.227.210.37:10388/VideoInput/play.ts
+動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
