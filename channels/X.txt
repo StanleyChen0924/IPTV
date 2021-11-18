@@ -60,12 +60,14 @@
 公視,https://git.io/JVFBr
 公視,https://git.io/JgkxM
 公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
-公視,https://stream5.woniuzfb.com/live/gs/HGbvhjpI.m3u8
-公視,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 公視,p2p://fccs.123178.top:9806/60448ebb000b822801e06fe5cbe82807.ts
+公視,p2p://211.75.214.186:9906/57a7063b000c5c8c3cf03789cdbdde31.ts
+公視,p2p://211.75.214.186:9906/57a709d7000306563cfe4e85f05fe033.ts
+公視,p2p://220.128.236.118:6001/53a03a960006b1ef065776e556163446.ts
+公視,p2p://220.128.236.118:6001/53a03645000e1fbb06469c5e324f0af1.ts
 公視2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 公視2,p2p://fccs.123178.top:9806/60448f540003197f01e2c366b8927af8.ts
-公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e,
+公視3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
 公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 大愛一台,https://git.io/Jgkx9
