@@ -52,8 +52,6 @@
 華視,rtmp://161.202.204.248/sat/tv111
 華視,rtmp://161.202.204.248:1935/sat/tv111
 華視新聞資訊,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hsxw.m3u8
-華視新聞資訊,http://43.128.9.168/jjtv.php?id=41
-華視新聞資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞資訊,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 公視,https://git.io/JVFGN
@@ -83,20 +81,16 @@
 三立台灣台,http://50.7.61.148:30080/Entry/settw-
 三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-三立台灣台,http://43.128.9.168/jjtv.php?id=129
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-三立都會台,http://43.128.9.168/jjtv.php?id=131
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
 三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立LIVE新聞,https://git.io/Jgkxp
-三立LIVE新聞,http://43.128.9.168/jjtv.php?id=44
 三立inews新聞,https://git.io/Jgkxj
-三立inews新聞,http://43.128.9.168/jjtv.php?id=43
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
@@ -105,7 +99,6 @@
 衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
 衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
 寰宇新聞全球台,https://git.io/JgkpO
-寰宇新聞全球台,http://43.128.9.168/jjtv.php?id=35
 寰宇新聞全球台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 寰宇新聞全球台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
 寰宇新聞全球台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
@@ -138,7 +131,6 @@ FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
 ELTV英語學習台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 ELTV英語學習台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 愛爾達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
-愛爾達娛樂台,http://43.128.9.168/jjtv.php?id=53
 愛爾達娛樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
 愛爾達娛樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
 MoMo綜合台,rtmp://59.124.75.138/sat/tv761
@@ -176,11 +168,8 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
 東森新聞,https://git.io/Jgkps
 東森新聞,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
-東森新聞,http://43.128.9.168/jjtv.php?id=38
-東森新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森財經,https://git.io/Jgkpc
-東森財經,http://43.128.9.168/jjtv.php?id=39
 東森財經,rtmp://59.124.75.138/sat/tv571
 東森財經,rtmp://161.202.204.248:1935/sat/tv571
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
@@ -190,7 +179,6 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=qq3036107507&user=fmys
 JET綜合台,http://50.7.61.147:30080/Entry/jet
-JET綜合台,http://43.128.9.168/jjtv.php?id=52
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
@@ -210,7 +198,6 @@ TVBS,https://git.io/JgYl2
 TVBS,http://50.7.61.148:30080/Entry/tvbs
 TVBS新聞台,https://git.io/Jgkp1
 TVBS新聞台,rtmp://59.124.75.138/sat/tv551
-TVBS新聞台,http://43.128.9.168/jjtv.php?id=42
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
 TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
@@ -223,14 +210,12 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 中天亞洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
 中天亞洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
 中天新聞,https://git.io/Jgkpy
-中天新聞,http://43.128.9.168/jjtv.php?id=36
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
 年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,http://50.7.61.147:30080/Entry/ubnbus
 壹電視新聞台,http://50.7.61.147:30080/Entry/etv
-壹電視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -298,28 +283,22 @@ FoxMovies,http://60.251.59.178:8527/.m3u8
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
 FoxMovies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
-AXN,http://43.128.9.168/jjtv.php?id=80
 AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,http://50.7.61.148:30080/Entry/axn
-AXN,http://43.128.9.168/jjtv.php?id=80
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
-Thrill,http://43.128.9.168/jjtv.php?id=79
 影迷數位電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
 影迷數位電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
 FOX 頻道,http://125.227.210.55:13498/VideoInput/play.ts
 FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
 FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
-CATCHPLAY電影台,http://43.128.9.168/jjtv.php?id=76
 CATCHPLAY電影台,http://iptv5.phoves.com.cn/api/mitv.php?id=76
 天映電影,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
-天映電影,http://43.128.9.168/jjtv.php?id=63
 天映電影,http://iptv5.phoves.com.cn/api/mitv.php?id=63
 天映電影,http://113.64.147.240:808/hls/62/index.m3u8?times=0
-天映經典HD,http://43.128.9.168/jjtv.php?id=64
 天映經典HD,http://iptv5.phoves.com.cn/api/mitv.php?id=63
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -369,8 +348,6 @@ CNBC,http://125.227.210.55:16415/VideoInput/play.ts
 CNBC,http://125.227.210.37:16415/VideoInput/play.ts
 GEN,http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 GEN,http://210.210.155.35:80/uq2663/h/h19/02.m3u8
-ONE,http://43.128.9.168/jjtv.php?id=81
-ONE,http://iptv5.phoves.com.cn/api/mitv.php?id=81
 ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 ONE,http://210.210.155.35/uq2663/h/h143/01.m3u8
 ONE,http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
@@ -711,34 +688,27 @@ ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 
-民視新聞台,http://43.128.9.168/jjtv.php?id=32
 民視新聞台,https://git.io/JgkAb
 民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 台視新聞,https://git.io/JgkxY
 台視新聞,http://v3948069e.live.126.net/live/ugdbeaya63838689/38.flv
-台視新聞,http://43.128.9.168/jjtv.php?id=34
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
-中視新聞,http://43.128.9.168/jjtv.php?id=33
 中視新聞,https://git.io/Jgkxz
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 華視新聞資訊,https://git.io/Jgkxa
 華視新聞資訊,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hsxw.m3u8
-華視新聞資訊,http://43.128.9.168/jjtv.php?id=41
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
 三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立LIVE新聞,https://git.io/Jgkxp
-三立LIVE新聞,http://43.128.9.168/jjtv.php?id=44
 三立inews新聞,https://git.io/Jgkxj
-三立inews新聞,http://43.128.9.168/jjtv.php?id=43
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 寰宇新聞全球台,https://git.io/JgkpO
-寰宇新聞全球台,http://43.128.9.168/jjtv.php?id=35
 寰宇新聞全球台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 寰宇新聞全球台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
 寰宇新聞全球台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
@@ -747,21 +717,16 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 寰宇新聞台灣台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
 東森新聞,https://git.io/Jgkps
 東森新聞,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
-東森新聞,http://43.128.9.168/jjtv.php?id=38
-東森新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森財經,https://git.io/Jgkpc
-東森財經,http://43.128.9.168/jjtv.php?id=39
 東森財經,rtmp://59.124.75.138/sat/tv571
 東森財經,rtmp://161.202.204.248:1935/sat/tv571
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 TVBS新聞台,https://git.io/Jgkp1
 TVBS新聞台,rtmp://59.124.75.138/sat/tv551
-TVBS新聞台,http://43.128.9.168/jjtv.php?id=42
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
 中天新聞,https://git.io/Jgkpy
-中天新聞,http://43.128.9.168/jjtv.php?id=36
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞,http://125.227.210.55:11055/VideoInput/play.ts
 年代新聞,p5p://fccs.123178.top:9906/60434d73000091e406d956c8607013df.ts
@@ -769,9 +734,7 @@ TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
 年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,http://50.7.61.147:30080/Entry/ubnbus
-壹電視新聞台,http://43.128.9.168/jjtv.php?id=46
 壹電視新聞台,http://50.7.61.147:30080/Entry/etv
-壹電視新聞台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -790,14 +753,10 @@ HK03_電影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 天映電影,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映電影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
-衛視電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 衛視電影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
-東森電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
-緯來電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 緯來電影台,http://107.167.5.66:80/mylive/102/2063/index.m3u8
-龍祥時代電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 龍祥時代電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
 龍華電影台,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
 龍華電影台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
@@ -807,14 +766,10 @@ HK03_電影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 衛視電影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
-衛視電影台原音,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
 東森電影台,http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
-東森電影台原音,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
-緯來電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 緯來電影台,http://107.167.5.66:80/mylive/102/2063/index.m3u8
-龍祥時代電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 龍祥時代電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
 HBO,http://50.7.61.148:30080/Entry/hbo
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
@@ -829,23 +784,15 @@ HBOHD,http://125.227.210.37:16027/VideoInput/play.ts
 東森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 東森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
-AXN,http://43.128.9.168/jjtv.php?id=80
 AXN,http://50.7.61.148:30080/Entry/axn
 AXN,http://50.7.61.148:30080/Entry/axn
 美亞高清電影台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
 影迷數電影,http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free
 CATCHPLAY電影,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free
-天映電影,http://43.128.9.168/jjtv.php?id=63
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映電影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-靖天電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
-靖天電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
-美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
-美亞高清電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
-龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
-龍華電影台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy&vt=
 電影5_鬥魚,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 電影6_鬥魚,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 電影8_鬥魚,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
@@ -879,7 +826,6 @@ MTVWMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/maste
 🇰🇷韓國頻道,#genre#
 
 ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-ONE,http://43.128.9.168/jjtv.php?id=33
 tvN,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltIRIpDCasXRmMBqc%2FFlKmtshZwUrPqTRDzmRUL3HQxp
 tvN,http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
@@ -1925,7 +1871,6 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 翡翠台,http://host496323.us.ooqr.com/pltv/gz.php?id=tvbfc
 翡翠台,http://113.64.147.240:808/hls/36/index.m3u8?times=0
 翡翠台,https://r2.weizan.cn/v/1646497941_13205559193952310.flv
-翡翠台,http://43.128.9.168/jjtv.php?id=22
 翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
@@ -1953,7 +1898,6 @@ HKC有線18台,rtmp://161.202.204.248/sat/hk041
 無線財經,http://cdn.hkdtmb.com/hls/85/index.m3u8
 TVB星河粤語,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB星河粤語,http://113.64.147.240:808/hls/35/index.m3u8?times=0
-TVB星河國語http://43.128.9.168/jjtv.php?id=4
 TVB星河國語,http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8
 TVB劇場,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?
 TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
@@ -1962,10 +1906,8 @@ J2,rtmp://125.227.67.184:1935/live/ViuTVSix
 ViuTV,rtmp://125.227.67.184:1935/live/ViuV
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
-RHK31,http://43.128.9.168/jjtv.php?id=10
 RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK32,http://43.128.9.168/jjtv.php?id=11
 RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
@@ -1992,24 +1934,6 @@ NowSportsPrime,http://livetv.dnsfor.me/channel.12.m3u8
 天映頻道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映電影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-翡翠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
-有線新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxxw
-無線新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkinews83
-無線財經,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
-有線電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy
-明珠台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkpearl84
-TVBJ2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
-VIUtv,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviutv99
-VIUtv6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696
-有線電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy
-香港電台31,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3131
-香港電台32,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3232
-鳳凰中文,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw
-鳳凰資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
-鳳凰電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhdy
-天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
-天映頻道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
-
 翡翠台,https://r2.weizan.cn/v/1646497941_13205559193952309.flv
 高清603,https://r2.weizan.cn/v/1646497941_983713851238420989.flv
 J2,https://r2.weizan.cn/v/1646497941_939801511891437526.flv
@@ -2159,11 +2083,6 @@ AstroPrima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 AstroOasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 AstroCitra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 AstroAwani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-Astrosupersport,http://43.128.9.168/jjtv.php?id=108
-Astrosupersport2,http://43.128.9.168/jjtv.php?id=109
-Astrosupersport3,http://43.128.9.168/jjtv.php?id=110
-Astrosupersport4,http://43.128.9.168/jjtv.php?id=111
-Astrosupersport5,http://43.128.9.168/jjtv.php?id=112
 NauraHD,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 8TV,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 BernamaTV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
@@ -3823,9 +3742,7 @@ BBCworldHD,http://125.227.210.55:10246/VideoInput/play.ts
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 東風衛視,http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 中視新聞HD,http://seb.sason.top/sc/zsxw_fhd.m3u8
-華視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
 華視新聞資訊HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
-台視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
 台視新聞HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視HD,http://seb.sason.top/ptv/ftv.php?id=ms
 民視第一台HD,http://seb.sason.top/ptv/ftv.php?id=dy
