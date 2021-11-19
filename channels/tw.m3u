@@ -56,8 +56,9 @@ rtmp://59.124.75.138/sat/tv091
 #rtmp://161.202.204.248/sat/tv091
 
 #EXTINF:-1 tvg-id="7176" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" tvg-language="Chinese" group-title="新聞",中視新聞
-https://git.io/Jgkxz
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
+#https://git.io/Jgkxz
+rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
+#http://seb.sason.top/sc/zsxw_fhd.m3u8
 #http://seb.sason.top/sc/zsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="7136" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87.png" group-title="一般", 中視菁采台
@@ -65,6 +66,7 @@ https://git.io/Jgkxz
 #http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7172" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="一般", 中視經典台
+rtmp://45.88.148.178/channel/60c31708961593122ebaf902
 #http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
 #http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 
@@ -81,26 +83,31 @@ https://git.io/Jgkxa
 #http://seb.sason.top/sc/hsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.png" group-title="一般", 華視教育體育文化 HD
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
 #http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
 #http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6031" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公視13台
-http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
-#https://git.io/JVFGN
+#http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
+https://git.io/JVFGN
 #https://git.io/JVFBr
 #https://git.io/JgkxM
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公視台語台
-#http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
+rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 
 #EXTINF:-1 tvg-id="6022" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公視三台
-#http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
 
+#EXTINF:-1 tvg-id="6047" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台灣
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台灣
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #http://125.227.210.55:15714/VideoInput/play.ts
 #https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-id="6048" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都會
+rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
 #EXTINF:-1 tvg-id="6048" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都會
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
