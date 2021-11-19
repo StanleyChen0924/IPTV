@@ -166,13 +166,13 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/248
 
 #EXTINF:-1 tvg-id="6049" tvg-mame="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87.png",衛視中文台
-http://50.7.61.148:30080/Entry/starchinese
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc4
+#http://50.7.61.148:30080/Entry/starchinese
 
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立新聞
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/44
 #https://git.io/Jgkxp
-http://125.227.210.55:15589/VideoInput/play.ts
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
+#http://125.227.210.55:15589/VideoInput/play.ts
 #http://seb.sason.top/sc/sllive_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立LIVE新聞
@@ -194,14 +194,15 @@ https://git.io/JgkpO
 http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6027" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" tvg-language="Chinese" group-title="一般",大愛一台
-https://git.io/Jgkx9
-#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#https://git.io/Jgkx9
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
 #EXTINF:-1 tvg-id="6142" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" tvg-language="Chinese" group-title="一般",大愛二台
-https://git.io/JgYms
-#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#https://git.io/JgYms
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 #EXTINF:-1 tvg-id="6027" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="一般" , 大愛海外台
+#https://git.io/J2GSu
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 
 #EXTINF:-1 tvg-id="6042" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo親子台
