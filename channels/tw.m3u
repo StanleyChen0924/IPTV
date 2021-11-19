@@ -93,10 +93,10 @@ https://git.io/JVFGN
 #https://git.io/JVFBr
 #https://git.io/JgkxM
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公視台語台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" tvg-id="565" tvg-name="公视2" group-title="一般",公視台語台
 rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 
-#EXTINF:-1 tvg-id="6022" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公視三台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png" tvg-id="6022" tvg-name="公视三台" group-title="一般",公視三台
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
 
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台灣
@@ -137,19 +137,19 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
 #http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
 
 #EXTINF:-1 tvg-id="" ,龍華卡通台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
+#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/288
 
 #EXTINF:-1 tvg-id="7126" ,龍華偶像台
 #http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
 
 #EXTINF:-1 tvg-id="7126" ,龍華偶像台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
+#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/289
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
 #http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
+#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
@@ -157,17 +157,19 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/290
 
 #EXTINF:-1 tvg-id="7130" ,龍華經典台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/291
 
 #EXTINF:-1 tvg-id="7127" ,龍華戲劇台
 #http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
+#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/248
 
 #EXTINF:-1 tvg-id="6049" tvg-mame="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87.png",衛視中文台
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc4
-#http://50.7.61.148:30080/Entry/starchinese
+
+#EXTINF:-1 tvg-id="6049" tvg-mame="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87.png",衛視中文台
+http://50.7.61.148:30080/Entry/starchinese
 
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立新聞
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/44
@@ -250,8 +252,10 @@ https://git.io/Jgkpc
 #rtmp://59.124.75.138:1935/sat/tv571
 #http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
-#EXTINF:-1 tvg-id="6063" tvg-logo="" group-title="一般",JET綜合台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" tvg-id="6063" tvg-name="JET综合台" group-title="一般",JET綜合台
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" tvg-id="6063" tvg-name="JET综合台" group-title="一般",JET綜合台
 http://50.7.61.147:30080/Entry/jet
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/52
 
@@ -293,20 +297,23 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/297
 
 #EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
-rtmp://59.124.75.138/sat/md041
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
+#rtmp://59.124.75.138/sat/md041
 #rtmp://59.124.75.138/sat/md041
 #rtmp://161.202.204.248/sat/md041
 #rtmp://59.124.75.138:1935/sat/md041
 #rtmp://161.202.204.248:1935/sat/md041
 
 #EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合2台
-rtmp://59.124.75.138/sat/md011
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb6
+#rtmp://59.124.75.138/sat/md011
 #rtmp://161.202.204.248/sat/md031
 #rtmp://59.124.75.138:1935/sat/md031
 #rtmp://161.202.204.248:1935/sat/md031
 
 #EXTINF:-1 tvg-id="7213" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台
-rtmp://59.124.75.138:1935/sat/md051
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb8
+#rtmp://59.124.75.138:1935/sat/md051
 #rtmp://161.202.204.248:1935/sat/md051
 #rtmp://59.124.75.138/sat/md051
 #rtmp://161.202.204.248/sat/md051
@@ -401,10 +408,14 @@ http://125.227.210.55:19020/VideoInput/play.ts
 #http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7216" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="一般", 美食星球
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
 #http://198.16.106.62:8278/streams/d/foodplanet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6172" tvg-name="亞洲旅遊台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="一般",亞洲旅遊台
 http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png" tvg-id="6035" tvg-name="客家电视台" group-title="一般",客家電視台
+rtmp://45.92.126.226/channel/61003b23f0618408855f3748
 
 #EXTINF:-1 tvg-id="6147" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" , BBC lifestyle
 #http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
