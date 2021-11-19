@@ -326,12 +326,10 @@ Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
 冠軍電視台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-東風衛視,http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
-東風衛視,http://sytv.xtvants.fun/mytv.php?id=dfws&token=qq3036107507&user=fmys
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亞旅衛視,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 亞旅衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-時尚運動,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv014
+
 CNBC,http://125.227.210.55:16415/VideoInput/play.ts
 CNBC,http://125.227.210.37:16415/VideoInput/play.ts
 GEN,http://210.210.155.35:80/uq2663/h/h19/01.m3u8
