@@ -83,6 +83,7 @@
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
+三立台灣台,http://125.227.210.37:15714/VideoInput/play.ts
 三立台灣台,http://50.7.61.148:30080/Entry/settw-
 三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
@@ -120,9 +121,9 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 MoMo綜合台,rtmp://59.124.75.138/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248:1935/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
-FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
 FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
+FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
+FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
 海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8	
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
@@ -146,8 +147,8 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
 東森超視,https://flv3948069e.live.126.net/live/sytv_e0c30bc8ee846a19f53dde422e773b0b.flv
 東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
-東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
 東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
 東森綜合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
@@ -180,28 +181,27 @@ JET綜合台,http://50.7.61.147:30080/Entry/jet
 緯來育樂,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
 緯來育樂,rtmp://59.124.75.138/sat/tv701
 緯來體育,rtmp://59.124.75.138/sat/tv721
-緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
 緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
+緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
 TVBS,https://git.io/JgYl2
 TVBS,http://50.7.61.148:30080/Entry/tvbs
-TVBS新聞台,http://125.227.210.55:15589/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.37:15589/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.55:15589/VideoInput/play.ts
 TVBS新聞台,https://git.io/Jgkp1
 TVBS新聞台,rtmp://59.124.75.138/sat/tv551
-TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
-TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
 TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
-中天綜合台,http://125.227.210.55:14583/VideoInput/play.ts
 中天綜合台,http://125.227.210.37:14583/VideoInput/play.ts
-中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
+中天綜合台,http://125.227.210.55:14583/VideoInput/play.ts
 中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
+中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
 中天新聞,https://git.io/Jgkpy
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞台,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
-年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
 年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
+年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
+非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,http://50.7.61.147:30080/Entry/ubnbus
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
@@ -210,11 +210,11 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
+TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://50.7.61.147:30080/Entry/tlc
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
-TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
-TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
@@ -244,18 +244,18 @@ CHC動作電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 HBO,http://50.7.61.148:30080/Entry/hbo
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
-HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
 HBOHD,http://125.227.210.37:16027/VideoInput/play.ts
+HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO原創,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
 HBO原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
 HBO原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
 HBO Hits HD,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
 HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
 HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
-衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 衛視洋片,http://125.227.210.37:18789/VideoInput/play.ts
-東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
+衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
 東森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
 東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
@@ -269,6 +269,7 @@ AXN,http://50.7.61.148:30080/Entry/axn
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
+FOX 頻道,http://125.227.210.37:13498/VideoInput/play.ts
 FOX 頻道,http://125.227.210.55:13498/VideoInput/play.ts
 FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
 FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
@@ -285,8 +286,8 @@ ETtoday綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 國家地理,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
-國家地理,http://125.227.210.55:16408/VideoInput/play.ts
 國家地理,http://125.227.210.37:16408/VideoInput/play.ts
+國家地理,http://125.227.210.55:16408/VideoInput/play.ts
 JET綜合,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -304,16 +305,16 @@ Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
+CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-迪斯尼,http://125.227.210.55:14250/VideoInput/play.ts
 迪斯尼,http://125.227.210.37:14250/VideoInput/play.ts
+迪斯尼,http://125.227.210.55:14250/VideoInput/play.ts
 DiscoveryHD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
-Discovery亞洲,http://125.227.210.55:10388/VideoInput/play.ts
 Discovery亞洲,http://125.227.210.37:10388/VideoInput/play.ts
+Discovery亞洲,http://125.227.210.55:10388/VideoInput/play.ts
 探索科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
 探索動力頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
@@ -330,8 +331,8 @@ Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
 亞旅衛視,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 亞旅衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 
-CNBC,http://125.227.210.55:16415/VideoInput/play.ts
 CNBC,http://125.227.210.37:16415/VideoInput/play.ts
+CNBC,http://125.227.210.55:16415/VideoInput/play.ts
 GEN,http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 GEN,http://210.210.155.35:80/uq2663/h/h19/02.m3u8
 ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
@@ -355,8 +356,8 @@ tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/02.m3u8
 韓國女團,http://tx2play1.douyucdn.cn/live/17732rtara.flv
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts
 韓國阿里郎,http://125.227.210.37:8933/VideoInput/play.ts
+韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts
 Astro愛奇藝,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 愛爾達體育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
@@ -939,8 +940,8 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 華視新聞資訊,https://git.io/Jgkxa
 華視新聞資訊,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hsxw.m3u8
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
-三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
+三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立LIVE新聞,https://git.io/Jgkxp
 三立inews新聞,https://git.io/Jgkxj
@@ -963,13 +964,14 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 TVBS新聞台,https://git.io/Jgkp1
 TVBS新聞台,rtmp://59.124.75.138/sat/tv551
-TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 中天新聞,https://git.io/Jgkpy
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞台,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
-年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
 年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
+年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
+非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,http://50.7.61.147:30080/Entry/ubnbus
 壹電視新聞台,http://50.7.61.147:30080/Entry/etv
@@ -1012,13 +1014,13 @@ HK03_電影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 HBO,http://50.7.61.148:30080/Entry/hbo
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
-HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
 HBOHD,http://125.227.210.37:16027/VideoInput/play.ts
-衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
+HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
 衛視洋片,http://125.227.210.37:18789/VideoInput/play.ts
+衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
 東森洋片,http://sytv.xtvants.fun/mytv.php?id=dsyp&token=free&user=free
-東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+東森洋片,http://125.227.210.55:18685/VideoInput/play.ts
 東森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 東森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 FOXMOVIES,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
@@ -1079,11 +1081,11 @@ SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 韓國女團,http://tx2play1.douyucdn.cn/live/17732rtara.flv
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts
 韓國阿里郎,http://125.227.210.37:8933/VideoInput/play.ts
+韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts
 韓國阿里郎,http://125.227.210.37:8933/VideoInput/play.ts
+韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts
 Arirang[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Arirang[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang[1920*1080],http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
@@ -3872,48 +3874,47 @@ CHC高清電影8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/000
 
 
 📺台灣125,#genre#
-鳳凰衛視,http://125.227.210.37:8935/VideoInput/play.ts
-CNNHD,http://125.227.210.37:10677/VideoInput/play.ts
-eleven體育1,http://125.227.210.37:10677/VideoInput/play.ts
-探索亞洲,http://125.227.210.37:10388/VideoInput/play.ts
-年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
-TVBS新聞,http://125.227.210.37:16329/VideoInput/play.ts
-國家地理,http://125.227.210.37:16408/VideoInput/play.ts
-東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
-衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
-東森洋片,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
-年代新聞,http://125.227.210.55:11055/VideoInput/play.ts#http://125.227.210.37:11055/VideoInput/play.ts
-FX HD,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
-迪士尼,http://125.227.210.55:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
-中天綜合,http://125.227.210.55:14583/VideoInput/play.ts#http://125.227.210.37:14583/VideoInput/play.ts
-非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts#http://125.227.210.37:15078/VideoInput/play.ts
-三立新聞,http://125.227.210.55:15589/VideoInput/play.ts#http://125.227.210.37:15589/VideoInput/play.ts
-三立台灣,http://125.227.210.55:15714/VideoInput/play.ts#http://125.227.210.37:15714/VideoInput/play.ts
-中天娛樂,http://125.227.210.55:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
-CN卡通,http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
-緯來體育,http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
-TLC旅遊,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
-彭博財經,http://125.227.210.55:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
-Arirang,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
-NHKworld,http://125.227.210.55:8931/VideoInput/play.ts#http://125.227.210.37:8931/VideoInput/play.ts
-YTN,http://125.227.210.55:8932/VideoInput/play.ts#http://125.227.210.37:8932/VideoInput/play.ts
-HBO,http://125.227.210.55:16027/VideoInput/play.ts#http://125.227.210.37:16027/VideoInput/play.ts
-CNBC,http://125.227.210.55:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
-DW,http://125.227.210.55:8934/VideoInput/play.ts#http://125.227.210.37:8934/VideoInput/play.ts
-DW德語,http://125.227.210.55:8935/VideoInput/play.ts#http://125.227.210.37:8935/VideoInput/play.ts
-RT,http://125.227.210.55:8936/VideoInput/play.ts#http://125.227.210.37:8936/VideoInput/play.ts
-TV5亞洲,http://125.227.210.55:8937/VideoInput/play.ts#http://125.227.210.37:8937/VideoInput/play.ts
-半島新聞,http://125.227.210.55:8938/VideoInput/play.ts#http://125.227.210.37:8938/VideoInput/play.ts
-NHKbs1,http://125.227.210.55:8939/VideoInput/play.ts#http://125.227.210.37:8939/VideoInput/play.ts
-NHKbsp,http://125.227.210.55:8940/VideoInput/play.ts#http://125.227.210.37:8940/VideoInput/play.ts
-BBCworld,http://125.227.210.55:10246/VideoInput/play.ts#http://125.227.210.37:10246/VideoInput/play.ts
-CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts
-Discovery,http://125.227.210.37:10388/VideoInput/play.ts
-ELEVEN,http://125.227.210.37:10677/VideoInput/play.ts
-年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
-FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
-迪斯尼,http://125.227.210.37:14250/VideoInput/play.ts
-非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
+鳳凰衛視,http://125.227.210.37:8935/VideoInput/play.ts#http://125.227.210.55:8935/VideoInput/play.ts
+CNNHD,http://125.227.210.37:10677/VideoInput/play.ts#http://125.227.210.55:10677/VideoInput/play.ts
+eleven體育1,http://125.227.210.37:10677/VideoInput/play.ts#http://125.227.210.55:10677/VideoInput/play.ts
+探索亞洲,http://125.227.210.37:10388/VideoInput/play.ts#http://125.227.210.55:10388/VideoInput/play.ts
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts#http://125.227.210.55:11055/VideoInput/play.ts
+TVBS新聞,http://125.227.210.37:16329/VideoInput/play.ts#http://125.227.210.55:16408/VideoInput/play.ts
+東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts#http://125.227.210.55:17524/VideoInput/play.ts
+衛視洋片,http://125.227.210.37:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts#http://125.227.210.37:11055/VideoInput/play.ts
+FX HD,http://125.227.210.37:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
+迪士尼,http://125.227.210.37:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
+中天綜合,http://125.227.210.37:14583/VideoInput/play.ts#http://125.227.210.37:14583/VideoInput/play.ts
+非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts#http://125.227.210.37:15078/VideoInput/play.ts
+三立新聞,http://125.227.210.37:15589/VideoInput/play.ts#http://125.227.210.37:15589/VideoInput/play.ts
+三立台灣,http://125.227.210.37:15714/VideoInput/play.ts#http://125.227.210.37:15714/VideoInput/play.ts
+中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
+CN卡通,http://125.227.210.37:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
+緯來體育,http://125.227.210.37:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
+TLC旅遊,http://125.227.210.37:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
+彭博財經,http://125.227.210.37:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
+Arirang,http://125.227.210.37:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
+NHKworld,http://125.227.210.37:8931/VideoInput/play.ts#http://125.227.210.37:8931/VideoInput/play.ts
+YTN,http://125.227.210.37:8932/VideoInput/play.ts#http://125.227.210.37:8932/VideoInput/play.ts
+HBO,http://125.227.210.37:16027/VideoInput/play.ts#http://125.227.210.37:16027/VideoInput/play.ts
+CNBC,http://125.227.210.37:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
+DW,http://125.227.210.37:8934/VideoInput/play.ts#http://125.227.210.37:8934/VideoInput/play.ts
+DW德語,http://125.227.210.37:8935/VideoInput/play.ts#http://125.227.210.37:8935/VideoInput/play.ts
+RT,http://125.227.210.37:8936/VideoInput/play.ts#http://125.227.210.37:8936/VideoInput/play.ts
+TV5亞洲,http://125.227.210.37:8937/VideoInput/play.ts#http://125.227.210.37:8937/VideoInput/play.ts
+半島新聞,http://125.227.210.37:8938/VideoInput/play.ts#http://125.227.210.37:8938/VideoInput/play.ts
+NHKbs1,http://125.227.210.37:8939/VideoInput/play.ts#http://125.227.210.37:8939/VideoInput/play.ts
+NHKbsp,http://125.227.210.37:8940/VideoInput/play.ts#http://125.227.210.37:8940/VideoInput/play.ts
+BBCworld,http://125.227.210.37:10246/VideoInput/play.ts#http://125.227.210.37:10246/VideoInput/play.ts
+CNN,http://125.227.210.37:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts
+Discovery,http://125.227.210.37:10388/VideoInput/play.ts#http://125.227.210.37:10388/VideoInput/play.ts
+ELEVEN,http://125.227.210.37:10677/VideoInput/play.ts#http://125.227.210.37:10677/VideoInput/play.ts
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts#http://125.227.210.37:11055/VideoInput/play.ts
+FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
+迪斯尼,http://125.227.210.37:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
+非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts#http://125.227.210.37:15078/VideoInput/play.ts
 三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
 三立台灣,http://125.227.210.37:15714/VideoInput/play.ts
 中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
