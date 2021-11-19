@@ -206,6 +206,7 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 
 #EXTINF:-1 tvg-id="6042" tvg-logo="http://nettv.live/uploads/allimg/19/1-1911191932380-L.jpg",MoMo親子台
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8
 #https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-live-mid/720.m3u8?token=6hLnB1wCcva30I6pE0Ofpg&expires=1632936655&token1=XAgP_zXe-dPDwWC6FD7GXw&expires1=1632936655
 #https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live107/4gtv-live-mid/index.m3u8?token=VUX36LUdpgVG_ySSdeoTUQ&expires=1632758288&token1=HTzBuGbTfT7b0J9K-1F0ew&expires1=1632758288&_=1632711483940&vt=
 
@@ -221,6 +222,7 @@ http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
 #rtmp://161.202.204.248:1935/sat/tv521
 
 #EXTINF:-1 tvg-id="6043" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" tvg-language="Chinese" group-title="兒童",東森幼幼
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
 #http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
 
 #EXTINF:-1 tvg-id="6043" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" tvg-language="Chinese" group-title="兒童",東森幼幼點點名
@@ -230,6 +232,11 @@ http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
 #http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
 http://125.227.210.55:17524/VideoInput/play.ts
 #http://125.227.210.37:17524/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",東森戲劇
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
+
+#EXTINF:-1 tvg-id="7203" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",星衛娛樂
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 
 #EXTINF:-1 tvg-id="6069" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森新聞
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/38
