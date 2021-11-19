@@ -1096,6 +1096,10 @@ http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
 http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
 #EXTINF:-1 group-title="影視輪播",成龍作品集
 http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 group-title="影視輪播",成龍作品集
+http://ye23.win/iptv/youku.php?id=8021901
+#EXTINF:-1 group-title="影視輪播",成龍作品集
+http://ye23.win/iptv/yk2020.php?id=cl
 #EXTINF:-1 group-title="影視輪播",郭富城影院
 http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
 #EXTINF:-1 group-title="影視輪播",張國榮影院
@@ -1120,8 +1124,10 @@ http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
 http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
 #EXTINF:-1 group-title="影視輪播",劉德華影院
 http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1 group-title="影視輪播",劉德華影院
+http://ye23.win/iptv/youku.php?id=8021902
 #EXTINF:-1 group-title="影視輪播",殭屍劇場
-http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+#http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
 #EXTINF:-1 group-title="影視輪播",劉亦菲影視展播
 http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
 #EXTINF:-1 group-title="影視輪播",TVB劇場
