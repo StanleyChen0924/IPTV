@@ -545,6 +545,19 @@ rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd4
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映画.png" tvg-id="6116" tvg-name="靖天映画" group-title="一般",靖天映畫台
 rtmp://45.92.126.226/channel/60c34395961593122ebaf994
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天综合.png" tvg-id="6098" tvg-name="靖天综合台" group-title="一般",靖天综合台
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" tvg-id="6157" tvg-name="靖天日本台" group-title="一般",靖天日本台
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
+
+靖天綜合台
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天欢乐.png" tvg-id="6150" tvg-name="靖天欢乐台" group-title="一般",靖天歡樂台
+rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20AEC.png" group-title="一般",Astro AEC
 http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 
