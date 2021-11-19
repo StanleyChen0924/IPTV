@@ -235,7 +235,7 @@ http://125.227.210.55:17524/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",東森戲劇
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
 
-#EXTINF:-1 tvg-id="7203" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",星衛娛樂
+#EXTINF:-1 tvg-id="7203" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" tvg-name="星卫娱乐" tvg-language="Chinese" group-title="影劇",星衛娛樂
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 
 #EXTINF:-1 tvg-id="6069" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森新聞
@@ -251,6 +251,7 @@ https://git.io/Jgkpc
 #http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6063" tvg-logo="" group-title="一般",JET綜合台
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
 http://50.7.61.147:30080/Entry/jet
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/52
 
@@ -268,6 +269,7 @@ rtmp://59.124.75.138/sat/tv771
 
 #EXTINF:-1 tvg-id="6088" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png",緯來育樂
 rtmp://59.124.75.138/sat/tv701
+#rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
 #rtmp://161.202.204.248/sat/tv701
 
 #EXTINF:-1 tvg-id="6090" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-language="Chinese" group-title="體育",緯來體育
@@ -368,8 +370,9 @@ https://git.io/Jgkpy
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
 #http://seb.sason.top/sc/ztxw_fhd.m3u8
 
-#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞台
+rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞台
 http://125.227.210.55:11055/VideoInput/play.ts
 #http://www.1314lm.com/mylive/102/2050/index.m3u8
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
