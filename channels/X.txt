@@ -92,7 +92,6 @@
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立LIVE新聞,https://git.io/Jgkxp
 三立inews新聞,https://git.io/Jgkxj
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
