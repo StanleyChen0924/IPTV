@@ -1,6 +1,7 @@
 ﻿
 🇹🇼台灣頻道,#genre#
 民視,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
+民視,rtmp://9wv7.mine.nu/sat/tv051
 民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
 民視,https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
 民視,http://50.7.61.147:30080/Entry/ftv
@@ -10,7 +11,7 @@
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
-民視,rtmp://59.124.75.138/sat/tv051,民视
+民視,rtmp://59.124.75.138/sat/tv051
 民視,rtmp://59.124.75.157/sat/tv051
 民視新聞台,https://git.io/JgkAb
 民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
@@ -49,6 +50,7 @@
 中視新聞,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+華視,rtmp://9wv7.mine.nu/sat/tv111
 華視,rtmp://59.124.75.157/sat/tv111
 華視,rtmp://59.124.75.138/sat/tv111
 華視,http://50.7.61.147:30080/Entry/cts
@@ -181,6 +183,8 @@ JET綜合台,http://50.7.61.147:30080/Entry/jet
 緯來育樂,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
 緯來育樂,rtmp://59.124.75.138/sat/tv701
 緯來體育,rtmp://59.124.75.138/sat/tv721
+緯來體育,rtmp://9wv7.mine.nu/sat/tv721
+緯來體育,rtmp://9wv7.mine.nu/sat/tv721
 緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
 緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
 TVBS,https://git.io/JgYl2
