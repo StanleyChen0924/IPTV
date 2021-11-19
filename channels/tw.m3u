@@ -291,12 +291,12 @@ http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 #http://198.16.106.62:8278/streams/d/eltadrama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7139" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/104.png",愛爾達娛樂台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
+#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
 #http://43.128.9.168/jjtv.php?id=53
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/296
 
 #EXTINF:-1 tvg-id="" ,ELTV英語學習
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
+#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/297
 
 #EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
