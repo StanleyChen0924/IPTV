@@ -204,7 +204,8 @@ TVBS歡樂台,rtmp://161.202.204.248/sat/tv421
 年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新聞,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞,http://50.7.61.147:30080/Entry/ubnbus
-壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://stream.nexttv.com.tw/n001/playlist.m3u8
+壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
 壹電視新聞台,http://50.7.61.147:30080/Entry/etv
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
