@@ -104,6 +104,7 @@ rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台灣
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #http://125.227.210.55:15714/VideoInput/play.ts
+#http://125.227.210.37:15714/VideoInput/play.ts
 #https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="6048" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都會
@@ -175,6 +176,7 @@ http://50.7.61.148:30080/Entry/starchinese
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/44
 #https://git.io/Jgkxp
 #http://125.227.210.55:15589/VideoInput/play.ts
+#http://125.227.210.37:15589/VideoInput/play.ts
 #http://seb.sason.top/sc/sllive_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立LIVE新聞
@@ -235,8 +237,8 @@ rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
 
 #EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",東森戲劇
 #http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
-http://125.227.210.55:17524/VideoInput/play.ts
-#http://125.227.210.37:17524/VideoInput/play.ts
+#http://125.227.210.55:17524/VideoInput/play.ts
+http://125.227.210.37:17524/VideoInput/play.ts
 #EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",東森戲劇
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
 
@@ -356,10 +358,10 @@ rtmp://59.124.75.138/sat/tv421
 
 #EXTINF:-1 tvg-id="6073" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1c/Tvbsnews.png/220px-Tvbsnews.png" tvg-language="Chinese" group-title="新聞",TVBS新聞台
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
-http://125.227.210.55:16329/VideoInput/play.ts
+#http://125.227.210.55:16329/VideoInput/play.ts
 #https://git.io/Jgkp1
 #rtmp://59.124.75.138/sat/tv551
-#http://125.227.210.37:16329/VideoInput/play.ts
+http://125.227.210.37:16329/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="" group-title="一般",TVBS精彩台
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/253
@@ -369,7 +371,8 @@ http://125.227.210.55:16329/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6057" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="一般",中天娛樂台
 #http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
-http://125.227.210.55:15796/VideoInput/play.ts
+http://125.227.210.37:15796/VideoInput/play.ts
+#http://125.227.210.55:15796/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ya83Hn4c3MNM9KNIbni2RvVEIzC_2ghQuu8o3LniBFIwN6-GPC1oQ7nG4A&s" group-title="一般",中天亞洲
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
@@ -383,13 +386,15 @@ https://git.io/Jgkpy
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞台
 rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" tvg-language="Chinese" group-title="新聞",年代新聞台
-http://125.227.210.55:11055/VideoInput/play.ts
+#http://125.227.210.55:11055/VideoInput/play.ts
+http://125.227.210.37:11055/VideoInput/play.ts
 #http://www.1314lm.com/mylive/102/2050/index.m3u8
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
 
 #EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-language="Chinese" group-title="新聞",非凡新聞
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
-http://125.227.210.55:15078/VideoInput/play.ts
+#http://125.227.210.55:15078/VideoInput/play.ts
+http://125.227.210.37:15078/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6067" tvg-name="壹電視新闻台" tvg-logo="https://ppt.cc/fYmRdx" tvg-language="Chinese" group-title="新聞",壹電視新聞台
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
@@ -399,9 +404,11 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="一般",TLC旅遊生活頻道
-http://125.227.210.55:19020/VideoInput/play.ts
+http://125.227.210.37:19020/VideoInput/play.ts
+#http://125.227.210.55:19020/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="一般",FOX
+http://125.227.210.37:13498/VideoInput/play.ts
 #http://125.227.210.55:13498/VideoInput/play.ts
 #https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 
@@ -489,7 +496,8 @@ http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
 #http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
 
 #EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO HD
-http://125.227.210.55:16027/VideoInput/play.ts
+http://125.227.210.37:13498/VideoInput/play.ts
+#http://125.227.210.55:16027/VideoInput/play.ts
 #http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #http://107.167.5.66/mylive/102/2065/index.m3u8
 
@@ -501,11 +509,13 @@ rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
 #https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="卫视洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視洋片
-http://125.227.210.55:18789/VideoInput/play.ts
+http://125.227.210.37:18789/VideoInput/play.ts
+#http://125.227.210.55:18789/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-language="Chinese" group-title="電影",東森洋片
 #http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
-http://125.227.210.55:18685/VideoInput/play.ts
+http://125.227.210.37:18685/VideoInput/play.ts
+#http://125.227.210.55:18685/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN
 #http://iptv5.phoves.com.cn/api/mitv.php?id=80
@@ -531,7 +541,8 @@ rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
 
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" tvg-logo="https://iptv-pro.github.io/logo/FX.png" group-title="一般" ,FOX HD
-http://125.227.210.55:13498/VideoInput/play.ts
+#http://125.227.210.37:13498/VideoInput/play.ts
+#http://125.227.210.55:13498/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/etoday.png" tvg-id="7198" tvg-name="Ettoday" group-title="一般",ETtoday综合台
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
@@ -548,7 +559,8 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="一般",國家地理
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="一般",國家地理
-http://125.227.210.55:16408/VideoInput/play.ts
+http://125.227.210.37:16408/VideoInput/play.ts
+#http://125.227.210.55:16408/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/采昌影剧.png" tvg-id="7180" tvg-name="采昌影剧" group-title="一般",采昌
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd4
@@ -602,7 +614,8 @@ https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="一般",Discovery
-http://125.227.210.55:10388/VideoInput/play.ts
+http://125.227.210.37:10388/VideoInput/play.ts
+#http://125.227.210.55:10388/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="一般",探索科學
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
@@ -630,7 +643,8 @@ rtmp://45.92.126.226/channel/611a83133e4da143c015987c
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="兒童",CN卡通
-http://125.227.210.55:16671/VideoInput/play.ts
+#http://125.227.210.55:16671/VideoInput/play.ts
+http://125.227.210.37:16671/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="KAKU少兒" tvg-logo="" group-title="兒童",KAKU少兒
 #http://113.64.147.150:808/hls/66/index.m3u8?times=0
@@ -651,7 +665,8 @@ http://125.227.210.55:16671/VideoInput/play.ts
 #http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="兒童",Disney
-http://125.227.210.55:14250/VideoInput/play.ts
+#http://125.227.210.55:14250/VideoInput/play.ts
+http://125.227.210.37:14250/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png"  group-title="兒童",Disney1
 #http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
