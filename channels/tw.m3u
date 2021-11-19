@@ -540,10 +540,6 @@ rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" tvg-id="7206" tvg-name="CatchPlay电影" group-title="電影" ,CatchPlay電影台
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
 
-#EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" tvg-logo="https://iptv-pro.github.io/logo/FX.png" group-title="一般" ,FOX HD
-#http://125.227.210.37:13498/VideoInput/play.ts
-#http://125.227.210.55:13498/VideoInput/play.ts
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/etoday.png" tvg-id="7198" tvg-name="Ettoday" group-title="一般",ETtoday综合台
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 
