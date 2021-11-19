@@ -927,17 +927,23 @@ Kix,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
 
 
 🆕新聞頻道,#genre#
-CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
+CCTV13,http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
+CCTV13,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+CCTV13,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-newssd/1.m3u8
 民視新聞台,https://git.io/JgkAb
+民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
 民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
-民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
 台視新聞,https://git.io/JgkxY
-台視新聞,http://v3948069e.live.126.net/live/ugdbeaya63838689/38.flv
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
+台視財經,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
 中視新聞,https://git.io/Jgkxz
+中視新聞,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+華視新聞資訊,https://git.io/J1zPH
+華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞資訊,https://git.io/Jgkxa
 華視新聞資訊,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hsxw.m3u8
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
