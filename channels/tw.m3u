@@ -609,6 +609,9 @@ rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d38
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ZChannel.png" tvg-id="6122" tvg-name="Z频道" group-title="一般",Z頻道
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChampionTV1.png" tvg-id="6104" tvg-name="冠军电视台" group-title="一般",冠軍電視台
+rtmp://45.92.126.226/channel/611a83133e4da143c015987c
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg" ,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 
