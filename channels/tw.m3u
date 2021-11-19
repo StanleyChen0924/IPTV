@@ -392,6 +392,7 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 http://125.227.210.55:19020/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="一般",FOX
+#http://125.227.210.55:13498/VideoInput/play.ts
 #https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="一般",亞洲美食
@@ -469,7 +470,7 @@ http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
 #http://107.167.5.66/mylive/102/2064/index.m3u8
 
 #EXTINF:-1 tvg-id="7128" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="電影",龍華電影台
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
+#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/262
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
 
@@ -481,8 +482,11 @@ http://125.227.210.55:16027/VideoInput/play.ts
 #http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #http://107.167.5.66/mylive/102/2065/index.m3u8
 
+#EXTINF:-1 tvg-id="6154" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" tvg-language="Chinese" group-title="電影" ,HBO原創
+rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
+
 #EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/60
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
 #https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="卫视洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視洋片
@@ -494,7 +498,7 @@ http://125.227.210.55:18685/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN
 #http://iptv5.phoves.com.cn/api/mitv.php?id=80
-http://43.128.9.168/jjtv.php?id=80
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c
 #http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 #http://50.7.61.148:30080/Entry/axn
 
@@ -502,17 +506,24 @@ http://43.128.9.168/jjtv.php?id=80
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="電影" ,FOX電影
-http://60.251.59.178:8527/http/192.168.77.7:8088/hls/105/startwest89.m3u8
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
+#http://60.251.59.178:8527/http/192.168.77.7:8088/hls/105/startwest89.m3u8
 #http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 #http://60.251.59.179:8527/xoxo.m3u8
 #http://60.251.59.179:8504/xoxo.m3u8
 
 #EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1.png" tvg-language="Chinese" group-title="電影" ,靖天電影台
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/263
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
+
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" tvg-id="7206" tvg-name="CatchPlay电影" group-title="電影" ,CatchPlay電影台
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
 
 #EXTINF:-1 tvg-id="711" tvg-logo="https://ppt.cc/fWvHfx" tvg-language="Chinese" tvg-logo="https://iptv-pro.github.io/logo/FX.png" group-title="一般" ,FOX HD
 http://125.227.210.55:13498/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/etoday.png" tvg-id="7198" tvg-name="Ettoday" group-title="一般",ETtoday综合台
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 
 #EXTINF:-1 tvg-id="6138" tvg-name="幸福空间居家台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png" group-title="一般",幸福空間
 https://git.io/JgYYF
