@@ -277,6 +277,9 @@ rtmp://59.124.75.138/sat/tv771
 #http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6088" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png",緯來育樂
+rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
+
+#EXTINF:-1 tvg-id="6088" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png",緯來育樂
 rtmp://59.124.75.138/sat/tv701
 #rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
 #rtmp://161.202.204.248/sat/tv701
