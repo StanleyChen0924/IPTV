@@ -353,7 +353,8 @@ rtmp://59.124.75.138/sat/md021
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6074"  tvg-logo="https://cc.tvbs.com.tw/portal/images/logo.png",TVBS
-https://git.io/JgYl2
+https://cn9.9cxz.com/1/tvbs56/index.m3u8
+#https://git.io/JgYl2
 
 #EXTINF:-1 tvg-id="6060"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png",TVBS歡樂台
 rtmp://59.124.75.138/sat/tv421
