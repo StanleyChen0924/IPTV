@@ -499,8 +499,8 @@ http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
 #http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
 
 #EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO HD
-http://125.227.210.37:13498/VideoInput/play.ts
-#http://125.227.210.55:16027/VideoInput/play.ts
+http://125.227.210.37:16027/VideoInput/play.ts
+http://125.227.210.55:16027/VideoInput/play.ts
 #http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #http://107.167.5.66/mylive/102/2065/index.m3u8
 
