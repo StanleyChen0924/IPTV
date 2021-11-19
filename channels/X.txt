@@ -380,6 +380,7 @@ ELEVEN體育二台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
 博斯魅力,rtmp://161.202.204.248/sat/md021
 博斯運動二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+博斯高球2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 亞洲美食,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
