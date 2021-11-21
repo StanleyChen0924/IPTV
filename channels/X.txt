@@ -4485,6 +4485,7 @@ DIYP,
 🔞p5p_710924,#genre#
 
 HOT,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
+HOT,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
 彩虹E台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
 松視一,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
 松視二,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
