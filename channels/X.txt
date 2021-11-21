@@ -301,6 +301,8 @@ ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 靖天歡樂台,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
+Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
+Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
@@ -310,23 +312,36 @@ CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 迪斯尼,http://125.227.210.37:14250/VideoInput/play.ts
 迪斯尼,http://125.227.210.55:14250/VideoInput/play.ts
 DiscoveryHD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+DiscoveryHD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 Discovery亞洲,http://125.227.210.37:10388/VideoInput/play.ts
 Discovery亞洲,http://125.227.210.55:10388/VideoInput/play.ts
 探索科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
+探索科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
+探索動力頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 探索動力頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
+動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
+國家人文,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 國家人文,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 WAKUWAKU,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d38
-Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
+WAKUWAKU,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d38
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+冠軍電視台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
 冠軍電視台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亞旅衛視,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
+亞旅衛視,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
+亞旅衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亞旅衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 
 CNBC,http://125.227.210.37:16415/VideoInput/play.ts
@@ -337,6 +352,8 @@ ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 ONE,http://210.210.155.35/uq2663/h/h143/01.m3u8
 ONE,http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 KPOP,https://git.io/JgYAE
+KPOP,https://git.io/JgYAE
+SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 tvN,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplpAo5wYLW6fr%2FeSjoCpFoykKmIJJqfqi2c7I4zIb%2B7cK
 tvN,http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
@@ -352,11 +369,14 @@ tvNMOVIES,http://iptv5.phoves.com.cn/api/mitv.php?id=78
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/02.m3u8
 韓國女團,http://tx2play1.douyucdn.cn/live/17732rtara.flv
+韓國女團,http://tx2play1.douyucdn.cn/live/17732rtara.flv
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 韓國阿里郎,http://125.227.210.37:8933/VideoInput/play.ts
 韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts
 Astro愛奇藝,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+Astro愛奇藝,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 愛爾達體育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
 愛爾達體育1,rtmp://59.124.75.138/sat/md041
@@ -382,9 +402,11 @@ ELEVEN體育二台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 亞洲美食,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
+亞洲美食,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
+美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
 美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
 
 
