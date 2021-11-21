@@ -160,8 +160,10 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森財經,rtmp://161.202.204.248:1935/sat/tv571
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
+星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
 人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
+JET綜合台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
 JET綜合台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
 JET綜合台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
 JET綜合台,http://50.7.61.147:30080/Entry/jet
@@ -282,8 +284,6 @@ HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 國家地理,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 國家地理,http://125.227.210.37:16408/VideoInput/play.ts
 國家地理,http://125.227.210.55:16408/VideoInput/play.ts
-JET綜合,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
-星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHKWorldJapan,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
