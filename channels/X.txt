@@ -290,10 +290,14 @@ NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3
 NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 采昌影劇台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd4
+采昌影劇台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd4
 靖天映畫台,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
-靖天综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
-靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
+靖天映畫台,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
 靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
+靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
+靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
+靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
+靖天歡樂台,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
 靖天歡樂台,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
