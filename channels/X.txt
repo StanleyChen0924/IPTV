@@ -961,15 +961,15 @@ Kix,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
 
 
 🆕新聞頻道,#genre#
-CCTV13,http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
-CCTV13,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
-CCTV13,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-newssd/1.m3u8
+
 CCTV13,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 CCTV13,http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 CCTV13,http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 CCTV13,http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 CCTV13,http://223.110.241.137:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8
 CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+CCTV13,http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-newssd/1.m3u8
 民視新聞台,https://git.io/JgkAb
 民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
 民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
