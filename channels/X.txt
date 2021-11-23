@@ -485,7 +485,7 @@ CATCHPLAY电影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2
 BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
 euro news,rtmp://45.92.126.226/channel/61002dbef0618408855f370f
 爱尔达体育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
-
+testB,
 國家人文,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 WAKUWAKU,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d38
 BBC Lifestyle,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cba
@@ -3112,6 +3112,7 @@ ETtoday综合 HD,p5p://fccs.123178.top:9906/6043494d000e362406c925d66b8448c9.ts
 寰宇財經新聞新聞,p5p://fccs.123178.top:9906/60434e97000581d106ddccac446ea89d
 寰宇財經新聞新聞,p5p://fccs.123178.top:9906/60434e97000581d106ddccac446ea89d.ts
 寰宇综合,p5p://fccs.123178.top:9906/60434cfa0008763606d78025a8321e46.ts
+東森幼幼,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 東森新聞,p5p://fccs.123178.top:9906/60e382fe000d9e21042519ca9bf23e95
 東森財經,p5p://fccs.123178.top:9906/60435ba7000123740710d20d0fa4a082.ts
