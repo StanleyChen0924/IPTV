@@ -204,6 +204,7 @@ TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
 中天新聞,https://cn9.9cxz.com/1/qq/hls/index.m3u8
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞台,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
+年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
 年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
 非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
@@ -1112,6 +1113,7 @@ TVBS新聞台,http://125.227.210.55:15589/VideoInput/play.ts
 中天新聞,https://git.io/Jgkpy
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 年代新聞台,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
+年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
 年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
 非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
