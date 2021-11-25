@@ -445,13 +445,13 @@ rtmp://45.92.126.226/channel/61003b23f0618408855f3748
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/96
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道电影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映頻道電影
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映頻道电影" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映頻道
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映經典" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映經典
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 tvg-language="Chinese" tvg-logo="https://iptv-pro.github.io/logo/Thrill.png" group-title="電影",thrill
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
@@ -510,8 +510,9 @@ http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 #http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
 
 #EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO HD
-http://125.227.210.37:16027/VideoInput/play.ts
-http://125.227.210.55:16027/VideoInput/play.ts
+http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+#http://125.227.210.37:16027/VideoInput/play.ts
+#http://125.227.210.55:16027/VideoInput/play.ts
 #http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #http://107.167.5.66/mylive/102/2065/index.m3u8
 
