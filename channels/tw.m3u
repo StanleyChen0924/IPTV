@@ -122,20 +122,26 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&a
 #EXTINF:-1 tvg-id="6056" tvg-logo="",年代MUCH
 #http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" tvg-id="6045" tvg-name="八大第一台" group-title="一般",八大第一台
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+
 #EXTINF:-1 tvg-id="6133" tvg-name="八大娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="一般",GTV八大娛樂台
 #http://198.16.106.62:8278/streams/d/badaentertain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="八大綜合台" ,八大綜合台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" tvg-id="6046" tvg-name="八大综合台" group-title="一般",八大綜合台
 #http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/245
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
+http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="八大精彩台" ,八大精彩台
+#EXTINF:-1 tvg-id="" tvg-name="八大精彩台" group-title="一般" ,八大精彩台
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/295
-http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
+#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" tvg-id="6059" tvg-name="八大戏剧台" group-title="一般",八大戲劇台
+http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 
 #EXTINF:-1 tvg-id="" ,龍華卡通台
-#http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
+http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
 
 #EXTINF:-1 tvg-id="" ,龍華卡通台
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
@@ -146,10 +152,10 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
 
 #EXTINF:-1 tvg-id="7126" ,龍華偶像台
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
-#http://api.hstv.me:8080/chuntian1229/xiaoli152/289
+http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
-#http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
+http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓
@@ -162,7 +168,7 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/291
 
 #EXTINF:-1 tvg-id="7127" ,龍華戲劇台
-#http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
+http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/248
 
@@ -270,11 +276,12 @@ rtmp://59.124.75.138/sat/tv771
 #rtmp://161.202.204.248:1935/sat/tv771
 
 #EXTINF:-1 tvg-id="6044" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png",緯來綜合
+http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
 #http://198.16.106.62:8278/streams/d/videolandzonghe/playlist.m3u8
 #http://93.190.139.36:8278/streams/d/videolandzonghe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6061" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png",緯來戲劇
-#http://198.16.106.62:8278/streams/d/videolandxiju/playlist.m3u8
+http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 
 #EXTINF:-1 tvg-id="6088" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png",緯來育樂
 rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
@@ -470,10 +477,13 @@ http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u
 #http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視電影
-#http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
+http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 #https://flv3948069e.live.126.net/live/sytv_72a30baf1e84656b6e2dde008e77399a.flv
 #http://107.167.5.66:80/mylive/102/2061/index.m3u8
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" tvg-id="6086" tvg-name="好莱坞电影台" group-title="電影",好萊塢電影台
+http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
 
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影
 #https://flv3948069e.live.126.net/live/sytv_e8830b768e8469f6755dde403e773504.flv
@@ -483,7 +493,7 @@ http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
 #http://107.167.5.66:80/mylive/102/2062/index.m3u8
 
 #EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="電影",緯來電影
-#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
+http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 #http://198.16.106.62:8278/streams/d/videolandmovie/playlist.m3u8
 #http://107.167.5.66:80/mylive/102/2063/index.m3u8
 
@@ -492,7 +502,7 @@ http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
 #http://107.167.5.66/mylive/102/2064/index.m3u8
 
 #EXTINF:-1 tvg-id="7128" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="電影",龍華電影台
-#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
+http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/262
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
 
@@ -528,7 +538,7 @@ rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c
 #http://50.7.61.148:30080/Entry/axn
 
 #EXTINF:-1 tvg-id="6089" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-language="Chinese" group-title="電影" ,CINEMAX
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="電影" ,FOX電影
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
@@ -609,6 +619,7 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv-pro.github.io/logo/animax.png" ,ANIMAX
+http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 #https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv-pro.github.io/logo/Discovery%20Asia.png" ,Discovery HD
