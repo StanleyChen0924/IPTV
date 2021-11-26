@@ -204,6 +204,7 @@ JET綜合台,http://50.7.61.147:30080/Entry/jet
 緯來育樂,rtmp://59.124.75.138/sat/tv701
 緯來育樂,rtmp://9wv7.mine.nu/sat/tv701
 緯來體育,rtmp://59.124.75.138/sat/tv721
+緯來體育,rtmp://59.124.75.157/sat/tv721
 緯來體育,rtmp://9wv7.mine.nu/sat/tv721
 緯來體育,rtmp://9wv7.mine.nu/sat/tv721
 緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
