@@ -229,7 +229,8 @@ rtmp://59.124.75.138/sat/tv761
 #http://125.227.210.55:13498/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6051" tvg-logo="https://supertv.ebc.net.tw/Images/footer-logo.png" ,東森超視
-http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
+http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+#http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
 #https://flv3948069e.live.126.net/live/sytv_e0c30bc8ee846a19f53dde422e773b0b.flv
 #rtmp://59.124.75.138/sat/tv521
 #rtmp://161.202.204.248:1935/sat/tv521
