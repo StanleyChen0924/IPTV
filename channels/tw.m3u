@@ -575,7 +575,8 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="一般",國家地理
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="一般",國家地理
-http://125.227.210.37:16408/VideoInput/play.ts
+http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+#http://125.227.210.37:16408/VideoInput/play.ts
 #http://125.227.210.55:16408/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/采昌影剧.png" tvg-id="7180" tvg-name="采昌影剧" group-title="一般",采昌
