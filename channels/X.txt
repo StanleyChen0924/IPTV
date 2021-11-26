@@ -4334,7 +4334,6 @@ TVBS新聞台HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 📺台灣p5p,#genre#
 
 1126BT,
-港台p5pfccs123,#genre#
 影迷數位電影台,p5p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
 HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO原创,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
