@@ -162,6 +162,7 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森綜合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
 東森綜合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
 東森新聞,rtmp://45.88.148.178/channel/6100144cf0618408855f36e1
+東森新聞,http://live96.kglink.xyz:8080/live/tw_dsxw/dsxw.m3u8
 東森新聞,https://cn9.9cxz.com/1/dsxw/hls/index.m3u8
 東森新聞,https://git.io/Jgkps
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
@@ -224,6 +225,7 @@ TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+TLC旅遊生活頻道,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
