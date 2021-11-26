@@ -415,7 +415,8 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="一般",TLC旅遊生活頻道
-http://125.227.210.37:19020/VideoInput/play.ts
+http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
+#http://125.227.210.37:19020/VideoInput/play.ts
 #http://125.227.210.55:19020/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="一般",FOX
