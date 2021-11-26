@@ -57,6 +57,7 @@
 華視新聞資訊,https://git.io/J1zPH
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視體育文化教育,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
+公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 公視,https://git.io/JVFGN
 公視,https://git.io/JVFBr
 公視,https://git.io/JgkxM
@@ -406,14 +407,17 @@ Astro愛奇藝,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 愛爾達體育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
+愛爾達體育1,http://50.7.61.148:30080/Entry/eltasport1
 愛爾達體育1,rtmp://59.124.75.138/sat/md041
 愛爾達體育1,rtmp://9wv7.mine.nu/sat/md041
 愛爾達體育1,rtmp://161.202.204.248/sat/md041
 愛爾達體育2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb6
+愛爾達體育2,http://50.7.61.148:30080/Entry/eltasport2
 愛爾達體育2,rtmp://59.124.75.138/sat/md051
 愛爾達體育2,rtmp://9wv7.mine.nu/sat/md051
 愛爾達體育2,rtmp://161.202.204.248:1935/sat/md051
 愛爾達體育3,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb8
+愛爾達體育3,http://50.7.61.148:30080/Entry/eltasport3
 愛爾達體育3,rtmp://59.124.75.138/sat/md031
 愛爾達體育3,rtmp://9wv7.mine.nu/sat/md031
 ELEVEN體育一台,rtmp://59.124.75.138/sat/tv731
