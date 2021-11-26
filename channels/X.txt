@@ -80,6 +80,7 @@
 大愛海外,https://git.io/J2GSu
 大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 三立台灣台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
+三立台灣台,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
@@ -88,6 +89,7 @@
 三立台灣台,http://50.7.61.148:30080/Entry/settw-
 三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+三立都會台,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立都會台,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -103,6 +105,7 @@
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 三立inews新聞,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
+衛視中文台,http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
 衛視中文台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc4
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
@@ -154,20 +157,26 @@ FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
 八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
 八大娛樂台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
 八大娛樂台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
+龍華卡通台,http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
+龍華卡通台,http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
 MoMo親子台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
+東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 東森幼幼,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
 東森幼幼,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
+東森超視,http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
 東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
 東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
 東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
+東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
 東森綜合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
@@ -184,6 +193,7 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森財經,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
+人間衛視,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
 人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
 人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
 JET綜合台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
@@ -220,8 +230,10 @@ TVBS歡樂台,http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.
 TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
+中天綜合台,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天綜合台,http://125.227.210.37:14583/VideoInput/play.ts
 中天綜合台,http://125.227.210.55:14583/VideoInput/play.ts
+中天娛樂台,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
 中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
 中天新聞,https://git.io/Jgkpy
@@ -247,6 +259,7 @@ TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://50.7.61.147:30080/Entry/tlc
+亞洲旅遊台,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 HBO HD,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
@@ -326,6 +339,7 @@ ETtoday綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 幸福空間居家台,https://git.io/JgYYF
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
 國家地理,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
 國家地理,http://125.227.210.37:16408/VideoInput/play.ts
@@ -355,10 +369,12 @@ CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+迪斯尼,http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
 迪斯尼,http://125.227.210.37:14250/VideoInput/play.ts
 迪斯尼,http://125.227.210.55:14250/VideoInput/play.ts
 DiscoveryHD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 DiscoveryHD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 Discovery,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 Discovery亞洲,http://125.227.210.37:10388/VideoInput/play.ts
@@ -367,6 +383,7 @@ Discovery亞洲,http://125.227.210.55:10388/VideoInput/play.ts
 探索科學,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
 探索動力頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 探索動力頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
+動物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
 動物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
 國家人文,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
@@ -389,7 +406,7 @@ WAKUWAKU,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d38
 亞旅衛視,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 亞旅衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亞旅衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-
+好消息,http://211.23.114.106:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8
 CNBC,http://125.227.210.37:16415/VideoInput/play.ts
 CNBC,http://125.227.210.55:16415/VideoInput/play.ts
 GEN,http://210.210.155.35:80/uq2663/h/h19/01.m3u8
