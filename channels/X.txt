@@ -517,6 +517,17 @@ Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 
 🇹🇼港台1126,#genre#
 
+20211130BT,
+HBO原创,p8p://fccs.ggboxtv.tw:9806/604339520007991f068ab7ad0427275f.ts
+HBO强档 HD,p8p://fccs.ggboxtv.tw:9806/60442428000dc9020040224339113352.ts	
+HBO 家庭,p8p://fccs.ggboxtv.tw:9806/604339d800036fb3068cc20c2898df9c.ts		
+HBO-HD,p8p://fccs.ggboxtv.tw:9806/604338a40001163206880e5297cc95ab.ts#p8p://fccs.ggboxtv.tw:9806/604340b2000af04c06a787875d674b81.ts
+CatchPlay電影台,p8p://fccs.ggboxtv.tw:9806/6044191d000d8b620014ff3bef2f4594%20.ts
+CinemaWorld,p8p://fccs.ggboxtv.tw:9806/604415aa00054259000783e434297e54.ts
+Cinemax,p8p://fccs.ggboxtv.tw:9806/60463f7d000802da087ae4d0305dfcaf.ts
+FOX CRIME福斯警匪,p8p://fccs.ggboxtv.tw:9806/60440e1600029d1f09c9d406f98d5158.ts
+FOX 頻道,p8p://fccs.ggboxtv.tw:9806/60440eb10006690c09cc32777254e90a.ts
+20211130ET,
 20211126BT,
 台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
 中视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
