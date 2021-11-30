@@ -520,10 +520,10 @@ http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 #http://107.167.5.66/mylive/102/2065/index.m3u8
 
 #EXTINF:-1 tvg-id="6154" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" tvg-language="Chinese" group-title="電影" ,HBO原創
-rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
+#rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
 
 #EXTINF:-1 tvg-id="6153" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-language="Chinese" group-title="電影" ,HBO Hits
-rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
+#rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
 #https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="卫视洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="電影",衛視洋片
@@ -537,7 +537,7 @@ http://125.227.210.37:18685/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="電影" ,AXN
 #http://iptv5.phoves.com.cn/api/mitv.php?id=80
-rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c
+http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 #http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 #http://50.7.61.148:30080/Entry/axn
 
@@ -545,7 +545,7 @@ rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c
 http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" tvg-language="Chinese" group-title="電影" ,FOX電影
-rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
+http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 #http://60.251.59.178:8527/http/192.168.77.7:8088/hls/105/startwest89.m3u8
 #http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 #http://60.251.59.179:8527/xoxo.m3u8
