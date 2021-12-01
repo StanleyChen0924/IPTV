@@ -331,7 +331,7 @@ FOX頻道,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
 FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
 FOX頻道,mitv://ns2.hellotvvod.com:9906/f769b6fdc80742349bd8214c8839d9d3
-z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
+Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017
 Animax,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
