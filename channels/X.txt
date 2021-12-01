@@ -429,7 +429,9 @@ afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.t
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 
 晴天TV-台灣,#genre#
+
 1201BT,
+JMusic,http://61.216.1.24:5021/live/495.m3u8
 SCTV,http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 Indosiar,http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 TransTV,http://45.126.83.51/qwr9ew/s/s05/01.m3u8
