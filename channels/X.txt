@@ -392,9 +392,9 @@ TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e
 博斯無限二台,mitv://ns2.hellotvvod.com:9906/3367cde8bd924944b2b7bbbaef5be87e
 博斯運動,mitv://ns2.hellotvvod.com:9906/b57a5306d5da4dcea75af2d436968097
 博斯運動,p5p://fccs.123178.top:9906/604478f0000e964f018b4fb7c6ee22b4.ts
-智林體育台,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
 博斯運動二台,mitv://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
 博斯運動二台,p5p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
+智林體育台,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
 Outdoor,mitv://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
 Outdoor,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 Outdoor,p5p://fccs.123178.top:9906/60434713000a12a206c07237b306369a
@@ -770,10 +770,6 @@ Discovery Asia,http://125.227.210.55:10388/VideoInput/play.ts
 星空衛視,http://live.scuec.edu.cn:8080/hls/startv.m3u8
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-亞旅衛視,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
-亞旅衛視,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
-亞旅衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-亞旅衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 好消息,http://211.23.114.106:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8
 
 愛爾達體育1,http://50.7.61.148:30080/Entry/eltasport1
