@@ -21,7 +21,8 @@
 民視,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 民視,rtmp://59.124.75.157/sat/tv051
 民視,rtmp://9wv7.mine.nu/sat/tv051
-CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
+民視台灣台,https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 台視,rtmp://59.124.75.138/sat/tv071
 台視,rtmp://9wv7.mine.nu/sat/tv071
 台視,http://50.7.61.148:30080/Entry/ttv
@@ -414,6 +415,7 @@ BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 Discovery Asia,http://125.227.210.37:10388/VideoInput/play.ts
 Discovery Asia,http://125.227.210.55:10388/VideoInput/play.ts
+CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 
 #__#
 
