@@ -429,6 +429,22 @@ afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.t
 afc亞洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
 
 晴天TV-台灣,#genre#
+1201BT,
+SCTV,http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+Indosiar,http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+TransTV,http://45.126.83.51/qwr9ew/s/s05/01.m3u8
+ANTV,http://45.126.83.51/qwr9ew/s/s07/01.m3u8
+NET.,http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+ELSHINTA TV,http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+
+CCTV4,http://45.126.83.51/qwr9ew/s/s19/01.m3u8
+CGTN,http://45.126.83.51/qwr9ew/s/s20/01.m3u8
+鳳凰中文,http://45.126.83.51/qwr9ew/s/s21/01.m3u8
+哈哈炫動,http://45.126.83.51/qwr9ew/s/s50/01.m3u8
+CHANNEL NEWS ASIA,http://45.126.83.51/uq2663/h/h29/index2.m3u8
+AXN,http://45.126.83.51/uq2663/h/h141/01.m3u8
+AXN,http://45.126.83.51/uq2663/h/h141/index.m3u8
+1201ET,
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 人間衛視,mitv://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
 台視,mitv://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
