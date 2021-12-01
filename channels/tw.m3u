@@ -466,17 +466,20 @@ http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="電影",CHC高清電影
 #rtmp://58.200.131.2:1935/livetv/chchd
-http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://live.scuec.edu.cn:8080/hls/chchd.m3u8
+#http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="電影",CHC家庭電影
 #rtmp://58.200.131.2:1935/livetv/chctv
-http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+http://live.scuec.edu.cn:8080/hls/chctv.m3u8
+#http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="電影",CHC動作電影
 #rtmp://58.200.131.2:1935/livetv/chcatv
-http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+http://live.scuec.edu.cn:8080/hls/chcatv.m3u8
+#http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
 #EXTINF:-1 tvg-id="526" tvg-name="美亚电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="電影" ,美亞電影台
 http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
@@ -1800,3 +1803,38 @@ http://api.phoves.com.cn/iptv/huya.php?id=17204307
 http://api.phoves.com.cn/iptv/huya.php?id=16859944
 #EXTINF:-1 group-title="虎牙直播",這劇很火
 http://api.phoves.com.cn/iptv/huya.php?id=19811530
+
+#EXTINF:-1 group-title="央視",CCTV1
+http://live.scuec.edu.cn:8080/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV2
+http://live.scuec.edu.cn:8080/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV3
+http://live.scuec.edu.cn:8080/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV4
+http://live.scuec.edu.cn:8080/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV5
+http://live.scuec.edu.cn:8080/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV5+
+http://live.scuec.edu.cn:8080/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="央視",CCTV6
+http://live.scuec.edu.cn:8080/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV7
+http://live.scuec.edu.cn:8080/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV8
+http://live.scuec.edu.cn:8080/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV9
+http://live.scuec.edu.cn:8080/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV10
+http://live.scuec.edu.cn:8080/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV11
+http://live.scuec.edu.cn:8080/hls/cctv11hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV12
+http://live.scuec.edu.cn:8080/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV13
+http://live.scuec.edu.cn:8080/hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV14
+http://live.scuec.edu.cn:8080/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV15
+http://live.scuec.edu.cn:8080/hls/cctv15hd.m3u8
+#EXTINF:-1 group-title="央視",CCTV17
+http://live.scuec.edu.cn:8080/hls/cctv17hd.m3u8
