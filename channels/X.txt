@@ -234,9 +234,6 @@ TLC旅遊生活頻道,http://50.7.61.147:30080/Entry/tlc
 亞洲旅遊台,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-HBO HD,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
-HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
-HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 Cinemax,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
 CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
@@ -273,6 +270,9 @@ CHC動作電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 HBO,http://50.7.61.148:30080/Entry/hbo
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
+HBO,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+HBOHD,http://125.227.210.37:16027/VideoInput/play.ts
+HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
 HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
 HBOHD,http://125.227.210.37:16027/VideoInput/play.ts
 HBO原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
