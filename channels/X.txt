@@ -604,14 +604,14 @@ JET綜合台,http://50.7.61.147:30080/Entry/jet
 緯來日本,rtmp://9wv7.mine.nu/sat/tv771
 緯來日本,http://50.7.61.147:30080/Entry/vljp
 緯來綜合台,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
-緯來育樂,rtmp://59.124.75.138/sat/tv701
-緯來育樂,rtmp://9wv7.mine.nu/sat/tv701
-緯來體育,rtmp://59.124.75.138/sat/tv721
-緯來體育,rtmp://59.124.75.157/sat/tv721
-緯來體育,rtmp://9wv7.mine.nu/sat/tv721
-緯來體育,rtmp://9wv7.mine.nu/sat/tv721
-緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
-緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
+緯來育樂台,rtmp://59.124.75.138/sat/tv701
+緯來育樂台,rtmp://9wv7.mine.nu/sat/tv701
+緯來體育台,rtmp://59.124.75.138/sat/tv721
+緯來體育台,rtmp://59.124.75.157/sat/tv721
+緯來體育台,rtmp://9wv7.mine.nu/sat/tv721
+緯來體育台,rtmp://9wv7.mine.nu/sat/tv721
+緯來體育台,http://125.227.210.37:18358/VideoInput/play.ts
+緯來體育台,http://125.227.210.55:18358/VideoInput/play.ts
 TVBS,http://50.7.61.148:30080/Entry/tvbs
 TVBS新聞台,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 TVBS新聞台,https://git.io/Jgkp1
@@ -734,10 +734,10 @@ ChannelV,http://live.scuec.edu.cn:8080/hls/channelv.m3u8
 幸福空間居家台,https://git.io/JgYYF
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
-國家地理,http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8
-國家地理,http://125.227.210.37:16408/VideoInput/play.ts
-國家地理,http://125.227.210.55:16408/VideoInput/play.ts
+國家地理頻道,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+國家地理頻道,http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8
+國家地理頻道,http://125.227.210.37:16408/VideoInput/play.ts
+國家地理頻道,http://125.227.210.55:16408/VideoInput/play.ts
 NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHKWorldJapan,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
@@ -2669,7 +2669,7 @@ J2,https://r2.weizan.cn/v/1646497941_939801511891437526.flv
 星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 TVB-星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 星空音樂,rtmp://58.200.131.3:1935/livetv/channelv
-國家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+國家地理頻道,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 探索頻道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#rtmp://58.200.131.3:1935/livetv/discovery
 
 凤凰中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8	
@@ -3123,7 +3123,7 @@ Outdoor,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.
 AFC,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 FOX,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 索尼動畫,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-國家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+國家地理頻道,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 DWNews,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -3622,7 +3622,7 @@ TVBS歡樂,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1
 緯來綜合,p5p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418
 緯來戲劇台,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1
 緯來電影台,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509
-緯來體育,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e
+緯來體育台,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e
 龍華戲劇,p5p://0198.02686.cc:16871/5f380947000effbb435d6e7b21bc4ac1
 NBA體育,p5p://0198.02686.cc:16871/5f37fa45000952ee4322cd372e7f83d7
 Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017
@@ -3741,7 +3741,7 @@ TVBS歡樂台,p5p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts
 緯來精彩,p5p://fccs.123178.top:9906/6044a30800006812022fb9d6202c684d.ts
 緯來日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
 緯來戲劇台,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+緯來育樂台,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
 緯來體育HD,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 JET综合,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
@@ -3815,8 +3815,8 @@ HBO 家庭,p5p://fccs.123178.top:9906/610b3ea6000bd4a6041b158a2a02ace5
 探索科學,p5p://fccs.123178.top:9906/6043456f00065dec06ba08a499663c96
 探索動力 DMAX,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731
 探索家庭 EVE,p5p://fccs.123178.top:9906/60689d110008d7a31345719a76b95329
-國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
-國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
+國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
+國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
 國家地理人文,p5p://fccs.123178.top:9906/6043ffe3000c6f3709925f52585be323.ts
 國家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
 動物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
@@ -4692,7 +4692,7 @@ FX HD,http://125.227.210.37:13498/VideoInput/play.ts#http://125.227.210.37:13498
 三立台灣,http://125.227.210.37:15714/VideoInput/play.ts#http://125.227.210.37:15714/VideoInput/play.ts
 中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
 CN卡通頻道,http://125.227.210.37:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
-緯來體育,http://125.227.210.37:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
+緯來體育台,http://125.227.210.37:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
 TLC旅遊,http://125.227.210.37:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
 彭博財經,http://125.227.210.37:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
 Arirang,http://125.227.210.37:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
@@ -4721,12 +4721,12 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts#http://125.227.210.37:1
 HBO,http://125.227.210.37:16027/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.37:16329/VideoInput/play.ts
 CNBC,http://125.227.210.37:16415/VideoInput/play.ts
-國家地理,http://125.227.210.37:16408/VideoInput/play.ts
+國家地理頻道,http://125.227.210.37:16408/VideoInput/play.ts
 CN卡通頻道,http://125.227.210.37:16671/VideoInput/play.ts
 東森戲劇台,http://125.227.210.37:17524/VideoInput/play.ts
 NEWS,http://125.227.210.37:18184/VideoInput/play.ts
 衛視洋片,http://125.227.210.37:18789/VideoInput/play.ts
-緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
+緯來體育台,http://125.227.210.37:18358/VideoInput/play.ts
 東森洋片台,http://125.227.210.37:18685/VideoInput/play.ts
 TLC,http://125.227.210.37:19020/VideoInput/play.ts
 YTNHD,http://125.227.210.37:8932/VideoInput/play.ts
@@ -4755,12 +4755,12 @@ FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
 HBO,http://125.227.210.55:16027/VideoInput/play.ts
 TVBS新聞台,http://125.227.210.55:16329/VideoInput/play.ts
 CNBC,http://125.227.210.55:16415/VideoInput/play.ts
-國家地理,http://125.227.210.55:16408/VideoInput/play.ts
+國家地理頻道,http://125.227.210.55:16408/VideoInput/play.ts
 CN卡通頻道,http://125.227.210.55:16671/VideoInput/play.ts
 東森戲劇台,http://125.227.210.55:17524/VideoInput/play.ts
 NEWS,http://125.227.210.55:18184/VideoInput/play.ts
 衛視洋片,http://125.227.210.55:18789/VideoInput/play.ts
-緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
+緯來體育台,http://125.227.210.55:18358/VideoInput/play.ts
 東森洋片台,http://125.227.210.55:18685/VideoInput/play.ts
 TLC,http://125.227.210.55:19020/VideoInput/play.ts
 YTNHD,http://125.227.210.55:8932/VideoInput/play.ts
@@ -5107,9 +5107,9 @@ TVBS歡樂台,p5p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts
 緯來日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
 緯來戲劇台,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
 緯來戲劇台,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+緯來育樂台,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+緯來育樂台,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+緯來育樂台,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
 緯來體育HD,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
 緯來體育HD,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
 緯來體育HD,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
@@ -5260,10 +5260,10 @@ HBO 家庭,p5p://fccs.123178.top:9906/610b3ea6000bd4a6041b158a2a02ace5
 探索動力 DMAX,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731
 探索家庭 EVE,p5p://fccs.123178.top:9906/60689d110008d7a31345719a76b95329
 探索家庭 EVE,p5p://fccs.123178.top:9906/60689d110008d7a31345719a76b95329
-國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
-國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
-國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
-國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
+國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
+國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
+國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
+國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
 國家地理人文,p5p://fccs.123178.top:9906/6043ffe3000c6f3709925f52585be323.ts
 國家地理人文,p5p://fccs.123178.top:9906/6043ffe3000c6f3709925f52585be323.ts
 國家地理人文,p5p://fccs.123178.top:9906/6043ffe3000c6f3709925f52585be323.ts
@@ -5458,9 +5458,9 @@ TVBS精彩台,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 緯來日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
 緯來戲劇台,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
 緯來戲劇台,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+緯來育樂台,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+緯來育樂台,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+緯來育樂台,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
@@ -5686,9 +5686,9 @@ CN卡通頻道,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 緯來日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
 緯來戲劇台,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
 緯來戲劇台,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+緯來育樂台,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+緯來育樂台,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+緯來育樂台,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
