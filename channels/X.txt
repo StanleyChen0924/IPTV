@@ -301,11 +301,14 @@ FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
 FOX 頻道,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
 FOX 頻道,http://125.227.210.37:13498/VideoInput/play.ts
 FOX 頻道,http://125.227.210.55:13498/VideoInput/play.ts
+天映電影,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映電影,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映電影,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映電影,http://113.64.147.240:808/hls/62/index.m3u8?times=0
+天映經典HD,http://45.126.83.51/qwr9ew/s/s31/01.m3u8
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+thrill,http://45.126.83.51/qwr9ew/s/s34/01.m3u8
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 ChannelV,http://live.scuec.edu.cn:8080/hls/channelv.m3u8
 幸福空間居家台,https://git.io/JgYYF
@@ -769,6 +772,7 @@ CINEMAX,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 武林外傳,http://121.51.249.53/tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
 
 🎵音樂頻道,#genre#
+ChannelV,http://live.scuec.edu.cn:8080/hls/channelv.m3u8
 KPOP,https://git.io/JgYAE
 SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 2021華語流行歌曲,https://git.io/JgYR5
