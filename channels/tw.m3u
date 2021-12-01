@@ -56,8 +56,8 @@ rtmp://59.124.75.138/sat/tv091
 #rtmp://161.202.204.248/sat/tv091
 
 #EXTINF:-1 tvg-id="7176" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" tvg-language="Chinese" group-title="新聞",中視新聞
-#https://git.io/Jgkxz
-rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
+https://git.io/Jgkxz
+#rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
 #http://seb.sason.top/sc/zsxw_fhd.m3u8
 #http://seb.sason.top/sc/zsxw_fhd.m3u8
 
@@ -66,7 +66,7 @@ rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
 #http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7172" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="一般", 中視經典台
-rtmp://45.88.148.178/channel/60c31708961593122ebaf902
+#rtmp://45.88.148.178/channel/60c31708961593122ebaf902
 #http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
 #http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 
@@ -101,6 +101,7 @@ http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台灣
 http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台灣
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #http://125.227.210.55:15714/VideoInput/play.ts
@@ -109,6 +110,7 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&
 
 #EXTINF:-1 tvg-id="6048" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都會
 http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+
 #EXTINF:-1 tvg-id="6048" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都會
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 #https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -120,7 +122,6 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&a
 #http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代MUCH.png" tvg-id="6056" tvg-name="年代MUCH" group-title="一般",年代MUCH
-#EXTINF:-1 tvg-id="6056" tvg-logo="",年代MUCH
 http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" tvg-id="6045" tvg-name="八大第一台" group-title="一般",八大第一台
@@ -181,8 +182,7 @@ http://50.7.61.148:30080/Entry/starchinese
 
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-language="Chinese" group-title="新聞",三立新聞
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/44
-#https://git.io/Jgkxp
-#http://125.227.210.55:15589/VideoInput/play.ts
+http://125.227.210.55:15589/VideoInput/play.ts
 #http://125.227.210.37:15589/VideoInput/play.ts
 #http://seb.sason.top/sc/sllive_fhd.m3u8
 
@@ -205,7 +205,7 @@ https://git.io/JgkpO
 http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyucaijing.png" tvg-id="7204" tvg-name="寰宇财经" group-title="新聞", 寰宇財經
-rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
+#rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
 
 #EXTINF:-1 tvg-id="6027" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" tvg-language="Chinese" group-title="一般",大愛一台
 #https://git.io/Jgkx9
@@ -247,11 +247,12 @@ http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 #http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
 #http://125.227.210.55:17524/VideoInput/play.ts
 http://125.227.210.37:17524/VideoInput/play.ts
+
 #EXTINF:-1 tvg-id="6058" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" tvg-language="Chinese" group-title="影劇",東森戲劇
-rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
+#rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
 
 #EXTINF:-1 tvg-id="7203" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" tvg-name="星卫娱乐" tvg-language="Chinese" group-title="影劇",星衛娛樂
-rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
+#rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 
 #EXTINF:-1 tvg-id="6069" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" tvg-language="Chinese" group-title="新聞",東森新聞
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/38
