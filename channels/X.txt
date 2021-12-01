@@ -944,6 +944,24 @@ CCTV14,http://live.scuec.edu.cn:8080/hls/cctv14hd.m3u8
 CCTV15,http://live.scuec.edu.cn:8080/hls/cctv15hd.m3u8
 CCTV17,http://live.scuec.edu.cn:8080/hls/cctv17hd.m3u8
 
+CCTV1,http://iptv.tvfix.org/hls/cctv1hd.m3u8
+CCTV2,http://iptv.tvfix.org/hls/cctv2hd.m3u8
+CCTV3,http://iptv.tvfix.org/hls/cctv3hd.m3u8
+CCTV4,http://iptv.tvfix.org/hls/cctv4hd.m3u8
+CCTV5,http://iptv.tvfix.org/hls/cctv5hd.m3u8
+CCTV5+,http://iptv.tvfix.org/hls/cctv5phd.m3u8
+CCTV6,http://iptv.tvfix.org/hls/cctv6hd.m3u8
+CCTV7,http://iptv.tvfix.org/hls/cctv7hd.m3u8
+CCTV8,http://iptv.tvfix.org/hls/cctv8hd.m3u8
+CCTV9,http://iptv.tvfix.org/hls/cctv9hd.m3u8
+CCTV10,http://iptv.tvfix.org/hls/cctv10hd.m3u8
+CCTV11,http://iptv.tvfix.org/hls/cctv11hd.m3u8
+CCTV12,http://iptv.tvfix.org/hls/cctv12hd.m3u8
+CCTV13,http://iptv.tvfix.org/hls/cctv13hd.m3u8
+CCTV14,http://iptv.tvfix.org/hls/cctv14hd.m3u8
+CCTV15,http://iptv.tvfix.org/hls/cctv15hd.m3u8
+CCTV17,http://iptv.tvfix.org/hls/cctv17hd.m3u8
+
 CCTV1,http://live.scuec.edu.cn:8080/hls/cctv1.m3u8
 CCTV2,http://live.scuec.edu.cn:8080/hls/cctv2.m3u8
 CCTV3,http://live.scuec.edu.cn:8080/hls/cctv3.m3u8
