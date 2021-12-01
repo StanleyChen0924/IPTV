@@ -28,7 +28,8 @@ CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 台視,rtmp://161.202.204.248/sat/tv071
 台視,rtmp://161.202.204.248:1935/sat/tv071
 台視,mitv://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
-公用頻道,
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 中視,rtmp://59.124.75.138/sat/tv091
 中視,rtmp://9wv7.mine.nu/sat/tv091
 中視,mitv://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
@@ -156,8 +157,9 @@ MOMO親子台,mitv://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
 東森超視,http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
 東森超視,mitv://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
-東森溝物2台,
-MOMO2台,
+CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 中天綜合台,http://125.227.210.37:14583/VideoInput/play.ts
 中天綜合台,http://125.227.210.55:14583/VideoInput/play.ts
 中天綜合台,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
@@ -191,9 +193,12 @@ TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/b4b85eca20d7462fae595d8033c6a9ce
 高點綜合台,p5p://fccs.123178.top:9906/604640070003e1f8087cfed268004b6c.ts
 JET綜合台,http://50.7.61.147:30080/Entry/jet
 JET綜合台,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
-東森購物3台,
-東森購物1台,
-MOMO2台,
+彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+寰宇新聞全球台,http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
+寰宇新聞全球台,https://git.io/JgkpO
+寰宇新聞全球台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 壹電視新聞台,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8
@@ -242,8 +247,8 @@ TVBS,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
 非凡新聞台,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞台,http://50.7.61.147:30080/Entry/ubnbus
 非凡新聞台,mitv://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
-ViVa1台,
-東森購物5台,
+美亞高清電影台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 衛視電影台,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
