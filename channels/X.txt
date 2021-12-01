@@ -310,6 +310,7 @@ ELEVEN體育二台,rtmp://59.124.75.138/sat/tv741
 ELEVEN體育二台,rtmp://9wv7.mine.nu/sat/tv741
 ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 ELEVEN體育二台,mitv://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
+優視頻道,https://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 MoMo綜合台,rtmp://59.124.75.138/sat/tv761
 MoMo綜合台,rtmp://9wv7.mine.nu/sat/tv761
