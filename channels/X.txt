@@ -235,6 +235,8 @@ TLC旅遊生活頻道,http://50.7.61.147:30080/Entry/tlc
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 HBO HD,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
+HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 Cinemax,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
 CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
@@ -242,8 +244,11 @@ CatchPlay電影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
 靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
 靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
 CHC高清電影,http://live.scuec.edu.cn:8080/hls/chchd.m3u8
-CHC高清電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://ye23.win/iptv/saxyd.php?id=G_CHCGQDY
+CHC高清電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC高清電影,http://ye23.win/iptv/saxyd.php?id=G_CHCGQDY
+CHC家庭電影,http://live.scuec.edu.cn:8080/hls/chctv.m3u8
 CHC家庭電影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC動作電影,http://live.scuec.edu.cn:8080/hls/chcatv.m3u8
 CHC動作電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 龍華電影台,http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龍華電影台,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
@@ -899,6 +904,41 @@ ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:ar
 
 🇨🇳央視頻道,#genre#
 
+CCTV1,http://live.scuec.edu.cn:8080/hls/cctv1hd.m3u8
+CCTV2,http://live.scuec.edu.cn:8080/hls/cctv2hd.m3u8
+CCTV3,http://live.scuec.edu.cn:8080/hls/cctv3hd.m3u8
+CCTV4,http://live.scuec.edu.cn:8080/hls/cctv4hd.m3u8
+CCTV5,http://live.scuec.edu.cn:8080/hls/cctv5hd.m3u8
+CCTV5+,http://live.scuec.edu.cn:8080/hls/cctv5phd.m3u8
+CCTV6,http://live.scuec.edu.cn:8080/hls/cctv6hd.m3u8
+CCTV7,http://live.scuec.edu.cn:8080/hls/cctv7hd.m3u8
+CCTV8,http://live.scuec.edu.cn:8080/hls/cctv8hd.m3u8
+CCTV9,http://live.scuec.edu.cn:8080/hls/cctv9hd.m3u8
+CCTV10,http://live.scuec.edu.cn:8080/hls/cctv10hd.m3u8
+CCTV11,http://live.scuec.edu.cn:8080/hls/cctv11hd.m3u8
+CCTV12,http://live.scuec.edu.cn:8080/hls/cctv12hd.m3u8
+CCTV13,http://live.scuec.edu.cn:8080/hls/cctv13hd.m3u8
+CCTV14,http://live.scuec.edu.cn:8080/hls/cctv14hd.m3u8
+CCTV15,http://live.scuec.edu.cn:8080/hls/cctv15hd.m3u8
+CCTV17,http://live.scuec.edu.cn:8080/hls/cctv17hd.m3u8
+
+CCTV1,http://live.scuec.edu.cn:8080/hls/cctv1.m3u8
+CCTV2,http://live.scuec.edu.cn:8080/hls/cctv2.m3u8
+CCTV3,http://live.scuec.edu.cn:8080/hls/cctv3.m3u8
+CCTV4,http://live.scuec.edu.cn:8080/hls/cctv4.m3u8
+CCTV5,http://live.scuec.edu.cn:8080/hls/cctv5.m3u8
+CCTV6,http://live.scuec.edu.cn:8080/hls/cctv6.m3u8
+CCTV7,http://live.scuec.edu.cn:8080/hls/cctv7.m3u8
+CCTV8,http://live.scuec.edu.cn:8080/hls/cctv8.m3u8
+CCTV9,http://live.scuec.edu.cn:8080/hls/cctv9.m3u8
+CCTV10,http://live.scuec.edu.cn:8080/hls/cctv10.m3u8
+CCTV11,http://live.scuec.edu.cn:8080/hls/cctv11.m3u8
+CCTV12,http://live.scuec.edu.cn:8080/hls/cctv12.m3u8
+CCTV13,http://live.scuec.edu.cn:8080/hls/cctv13.m3u8
+CCTV14,http://live.scuec.edu.cn:8080/hls/cctv14.m3u8
+CCTV15,http://live.scuec.edu.cn:8080/hls/cctv15.m3u8
+CCTV17,http://live.scuec.edu.cn:8080/hls/cctv17.m3u8
+CCTN,http://live.scuec.edu.cn:8080/hls/cctv16.m3u8
 CCTV1,http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
 CCTV1,http://host496323.us.ooqr.com/pltv/gz.php?id=138
 CCTV2,http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
@@ -3697,11 +3737,15 @@ CIBN朵丫樂園,http://iptv.inewya.com/qq494937337/others/cibn.php?id=5
 動漫秀場,http://117.136.154.94/PLTV/88888888/224/3221225845/index.m3u8
 哈哈炫動,http://117.136.154.98/PLTV/88888888/224/3221225790/index.m3u8
 PTV淘BABY,HTTP：//39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+卡酷少兒,http://live.scuec.edu.cn:8080/hls/btv10.m3u8
 卡酷少兒,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 卡酷少兒,http://ott.js.chinamobile.com/PLTV/4/224/3221226305/index.m3u8#http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 新科動漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
+新科動漫,http://live.scuec.edu.cn:8080/hls/xdmtv.m3u8
 金鷹卡通,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+金鷹卡通,http://live.scuec.edu.cn:8080/hls/jykttv.m3u8
 優漫卡通,http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+優漫卡通,http://live.scuec.edu.cn:8080/hls/ymkttv.m3u8
 
 黑莓動画,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/1.m3u8
 卡酷少兒,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
