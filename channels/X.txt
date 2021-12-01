@@ -309,10 +309,7 @@ ELEVEN體育二台,rtmp://59.124.75.138/sat/tv741
 ELEVEN體育二台,rtmp://9wv7.mine.nu/sat/tv741
 ELEVEN體育二台,rtmp://161.202.204.248/sat/tv741
 ELEVEN體育二台,mitv://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
-MoMo綜合,rtmp://9wv7.mine.nu/sat/tv761
-MoMo綜合,rtmp://59.124.75.138/sat/tv761
-MoMo綜合,rtmp://9wv7.mine.nu/sat/tv761
-MoMo綜合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 MoMo綜合台,rtmp://59.124.75.138/sat/tv761
 MoMo綜合台,rtmp://9wv7.mine.nu/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
@@ -407,7 +404,7 @@ HBO Family,mitv://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
 HBO Hits,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
 HBO Hits,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
 HBO Hits,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
-HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
+HBO原創,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
 HBO原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
 HBO原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
 國家野生,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
