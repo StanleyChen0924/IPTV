@@ -2001,6 +2001,7 @@ TVB明珠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 
 
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+鳳凰中文,http://iptv.tvfix.org//hls/fhzw.m3u8
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -5551,6 +5552,7 @@ Happy
 惹火台
 冰火頻道
 成人極品台
+天美傳媒,https://video2.51daao.com/btt1/2021/01/20210131/OB3WS438/index.m3u8
 
 彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
 彩虹電影台,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
