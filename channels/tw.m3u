@@ -314,23 +314,26 @@ http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/297
 
 #EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合1台
+http://50.7.61.148:30080/Entry/eltasport1
 #rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
-rtmp://59.124.75.138/sat/md041
+#rtmp://59.124.75.138/sat/md041
 #rtmp://59.124.75.138/sat/md041
 #rtmp://161.202.204.248/sat/md041
 #rtmp://59.124.75.138:1935/sat/md041
 #rtmp://161.202.204.248:1935/sat/md041
 
 #EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合2台
+http://50.7.61.148:30080/Entry/eltasport2
 #rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb6
-rtmp://59.124.75.138/sat/md011
+#rtmp://59.124.75.138/sat/md011
 #rtmp://161.202.204.248/sat/md031
 #rtmp://59.124.75.138:1935/sat/md031
 #rtmp://161.202.204.248:1935/sat/md031
 
 #EXTINF:-1 tvg-id="7213" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101.png" tvg-language="Chinese" group-title="體育",ELTA愛爾體育合3台
+http://50.7.61.148:30080/Entry/eltasport3
 #rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb8
-rtmp://59.124.75.138:1935/sat/md051
+#rtmp://59.124.75.138:1935/sat/md051
 #rtmp://161.202.204.248:1935/sat/md051
 #rtmp://59.124.75.138/sat/md051
 #rtmp://161.202.204.248/sat/md051
