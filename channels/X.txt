@@ -234,8 +234,6 @@ TVBS新聞台,https://git.io/Jgkp1
 TVBS新聞台,rtmp://59.124.75.138/sat/tv551
 TVBS新聞台,rtmp://9wv7.mine.nu/sat/tv551
 TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
-TVBS,https://cn9.9cxz.com/1/tvbs56/index.m3u8
-TVBS,https://git.io/JgYl2
 TVBS,http://50.7.61.148:30080/Entry/tvbs
 TVBS,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
 東森財經新聞台,https://git.io/Jgkpc
