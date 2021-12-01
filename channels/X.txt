@@ -398,7 +398,7 @@ TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e
 智林體育台,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
 博斯運動二台,mitv://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
 博斯運動二台,p5p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
-OUTDOOR,mitv://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
+Outdoor,mitv://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
 Outdoor,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 Outdoor,p5p://fccs.123178.top:9906/60434713000a12a206c07237b306369a
 Outdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3.ts
