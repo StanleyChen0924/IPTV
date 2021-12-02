@@ -841,10 +841,8 @@ tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/02.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
-🇹🇼港台1126,#genre#
+1202測試,#genre#
 
-2021201BT,
-http://live.scuec.edu.cn:8080/来源网络，时效未知,
 高清频道,
 CCTV-1高清,http://live.scuec.edu.cn:8080/hls/cctv1hd.m3u8
 CCTV-2高清,http://live.scuec.edu.cn:8080/hls/cctv2hd.m3u8
@@ -1011,7 +1009,6 @@ CHC动作电影,http://live.scuec.edu.cn:8080/hls/chcatv.m3u8
 北京戏曲,http://live.scuec.edu.cn:8080/hls/bjxqgb.m3u8
 北京欢乐时光,http://live.scuec.edu.cn:8080/hls/bjhlsggb.m3u8
 北京怀旧金曲,http://live.scuec.edu.cn:8080/hls/bjhjjqgb.m3u8
-20211201ET,
 20211126BT,
 台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
 中视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
@@ -1106,8 +1103,6 @@ FOX频道,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
 博斯运动2,http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
 ELEVEN SPORTS 1,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-20211126ET,
-
 
 🆕新聞頻道,#genre#
 
