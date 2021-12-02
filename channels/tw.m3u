@@ -118,7 +118,7 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&a
 #EXTINF:-1 tvg-id="6239" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/100px-SET_incorporated_logo.svg.png",三立綜合
 #http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
 
-#EXTINF:-1 tvg-id="7221" tvg-logo="",三立戲劇
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" tvg-id="7221" tvg-name="三立戏剧" group-title="一般",三立戲劇
 #http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代MUCH.png" tvg-id="6056" tvg-name="年代MUCH" group-title="一般",年代MUCH
@@ -142,34 +142,34 @@ http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" tvg-id="6059" tvg-name="八大戏剧台" group-title="一般",八大戲劇台
 http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 
-#EXTINF:-1 tvg-id="" ,龍華卡通台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/longhuadonghua.png" tvg-id="7188" tvg-name="龙华动画" group-title="一般",龍華卡通台
 http://211.23.114.106:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
 
-#EXTINF:-1 tvg-id="" ,龍華卡通台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/longhuadonghua.png" tvg-id="7188" tvg-name="龙华动画" group-title="一般",龍華卡通台
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/288
 
-#EXTINF:-1 tvg-id="7126" ,龍華偶像台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" tvg-id="7126" tvg-name="龙华偶像" group-title="一般",龍華偶像台
 #http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
 
-#EXTINF:-1 tvg-id="7126" ,龍華偶像台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" tvg-id="7126" tvg-name="龙华偶像" group-title="一般",龍華偶像台
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
 http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
 
-#EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" tvg-id="7158" tvg-name="龙华日韩台" group-title="一般",龍華日韓台
 http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 
-#EXTINF:-1 tvg-id="6051" tvg-logo="http://www.nettv.live/uploads/allimg/21/1-2102161KQ10-L.jpg" ,龍華日韓台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" tvg-id="7158" tvg-name="龙华日韩台" group-title="一般",龍華日韓台
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 #http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/290
 
-#EXTINF:-1 tvg-id="7130" ,龍華經典台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华经典.png" tvg-id="7130" tvg-name="龙华经典" group-title="一般",龍華經典台
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/291
 
-#EXTINF:-1 tvg-id="7127" ,龍華戲劇台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" tvg-id="7127" tvg-name="龙华戏剧" group-title="一般",龍華戲劇台
 http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/248
@@ -310,7 +310,7 @@ rtmp://59.124.75.138/sat/tv721
 #http://43.128.9.168/jjtv.php?id=53
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/296
 
-#EXTINF:-1 tvg-id="" ,ELTV英語學習
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eltv.png" tvg-id="7186" tvg-name="ELTV" group-title="一般",ELTV生活英語台
 #http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/297
 
@@ -380,7 +380,7 @@ rtmp://59.124.75.138/sat/tv421
 #rtmp://59.124.75.138/sat/tv551
 http://125.227.210.37:16329/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="" group-title="一般",TVBS精彩台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS精采.png" tvg-id="7138" tvg-name="TVBS精采台" group-title="一般",TVBS精彩台
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/253
 
 #EXTINF:-1 tvg-id="6054" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="一般",中天綜合台
@@ -465,22 +465,22 @@ http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="天映經典" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-language="Chinese" group-title="電影",天映經典
 #http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Chinese" tvg-logo="https://iptv-pro.github.io/logo/Thrill.png" group-title="電影",thrill
+#EXTINF:-1 tvg-name="thrill" tvg-logo="https://iptv-pro.github.io/logo/Thrill.png" group-title="電影",thrill
 #http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="電影",CHC高清電影
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" tvg-id="6241" tvg-name="CHC高清电影" group-title="電影",CHC高清電影
 #rtmp://58.200.131.2:1935/livetv/chchd
 http://live.scuec.edu.cn:8080/hls/chchd.m3u8
 #http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="電影",CHC家庭電影
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" tvg-id="6246" tvg-name="CHC家庭电影" group-title="電影",CHC家庭電影
 #rtmp://58.200.131.2:1935/livetv/chctv
 http://live.scuec.edu.cn:8080/hls/chctv.m3u8
 #http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="電影",CHC動作電影
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" tvg-id="6245" tvg-name="CHC动作电影" group-title="電影",CHC動作電影
 #rtmp://58.200.131.2:1935/livetv/chcatv
 http://live.scuec.edu.cn:8080/hls/chcatv.m3u8
 #http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
@@ -521,7 +521,7 @@ http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 #http://api.hstv.me:8080/chuntian1229/xiaoli152/262
 #https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
 
-#EXTINF:-1 tvg-id="7132" group-title="電影",龍華洋片台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" tvg-id="7132" tvg-name="龙华洋片" group-title="電影",龍華洋片台
 #http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
 
 #EXTINF:-1 tvg-id="6083" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" tvg-language="Chinese" group-title="電影" ,HBO HD
@@ -615,19 +615,19 @@ http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
 #http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20AOD%20311.png" group-title="一般",Astro AOD
-http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+#http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E7%88%B1%E5%A5%87%E8%89%BA.png" group-title="一般",Astro 愛奇藝
-http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+#http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Shuang%20Xing.png" group-title="一般",Astro 雙星
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Quan%20Jia.png" group-title="一般",Astro 全佳
 #http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Xiao%20Tai%20Yang.png" group-title="兒童",Astro 小太陽
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" ,翡翠台高清
 #https://cdn.hkdtmb.com/hls/81/index.m3u8
@@ -645,7 +645,7 @@ http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 #https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="一般",Discovery
-#rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
+http://live.scuec.edu.cn:8080/hls/discovery.m3u8
 
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="一般",Discovery
 http://125.227.210.37:10388/VideoInput/play.ts
@@ -658,6 +658,7 @@ http://125.227.210.37:10388/VideoInput/play.ts
 #rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="一般",ANIMAL PLANET
+http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 #http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
 
@@ -704,6 +705,7 @@ http://125.227.210.37:16671/VideoInput/play.ts
 http://125.227.210.37:14250/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png"  group-title="兒童",Disney1
+http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
 #http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="679" tvg-name="DisneyJunior" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png"  group-title="兒童",Disney Junior
@@ -719,7 +721,7 @@ http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
 #EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="韓國" ,韓國娛樂台KMTV
-http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+#http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韓國" ,韓國阿里郎
 #https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -731,7 +733,7 @@ http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",tvN 中文
-rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplgtPlWeigAg8%2FyAhSH7WhXSaOdmRl1M3MpicwuEzP%2B2Y
+#rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplgtPlWeigAg8%2FyAhSH7WhXSaOdmRl1M3MpicwuEzP%2B2Y
 
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韓國",tvN 英文
 #http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
@@ -842,7 +844,7 @@ http://211.23.114.106:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8
 http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
 #EXTINF:-1 group-title="20211125測試",Discovery
 http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
-#EXTINF:-1 group-title="20211125測試",旅游生活
+#EXTINF:-1 group-title="20211125測試",TLC旅游生活
 http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
 #EXTINF:-1 group-title="20211125測試",动物星球
 http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
