@@ -1841,21 +1841,21 @@ http://live.scuec.edu.cn:8080/hls/cctv15hd.m3u8
 http://live.scuec.edu.cn:8080/hls/cctv17hd.m3u8
 
 
-#EXTINF:-1 組標題="20211205TEST",天映頻道
+#EXTINF:-1 group-title="20211205TEST",天映頻道
 mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
-#EXTINF:-1 組標題="20211205TEST",天映經典
+#EXTINF:-1 group-title="20211205TEST",天映經典
 mitv://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
-#EXTINF:-1 組標題="20211205TEST",FOX 電影高清
+#EXTINF:-1 group-title="20211205TEST",FOX 電影高清
 mitv://ns2.hellotvvod.com:9906/831f0c768aa44f38954b00d61d88ecdf
-#EXTINF:-1 組標題="20211205TEST",FOX 動作電影高清
+#EXTINF:-1 group-title="20211205TEST",FOX 動作電影高清
 mitv://ns2.hellotvvod.com:9906/2aad65d4beaa499cb89ab1e0360d12df
-#EXTINF:-1 組標題="20211205TEST",FOX CRIME
+#EXTINF:-1 group-title="20211205TEST",FOX CRIME
 mitv://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
-#EXTINF:-1 組標題="20211205TEST",FOX 家族
+#EXTINF:-1 group-title="20211205TEST",FOX 家族
 mitv://ns2.hellotvvod.com:9906/f500497b96b1458a8f9f5da38c6e02d7
-#EXTINF:-1 組標題="20211205TEST",tvN 電影高清
+#EXTINF:-1 group-title="20211205TEST",tvN 電影高清
 mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
-#EXTINF:-1 組標題="20211205TEST",衛視電影
+#EXTINF:-1 group-title="20211205TEST",衛視電影
 mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
 #EXTINF:-1 group-title="20211205TEST" ,東森電影
 mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
@@ -1941,15 +1941,15 @@ mitv://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
 mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
 #EXTINF:-1 group-title="20211205TEST" ,BBC Earth
 mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
-#EXTINF:-1 組標題="20211205TEST",發現亞洲
+#EXTINF:-1 group-title="20211205TEST",發現亞洲
 mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
-#EXTINF:-1 組標題="20211205TEST",發現科學
+#EXTINF:-1 group-title="20211205TEST",發現科學
 mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
-#EXTINF:-1 組標題="20211205TEST",DMAX
+#EXTINF:-1 group-title="20211205TEST",DMAX
 mitv://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
-#EXTINF:-1 組標題="20211205TEST",EVE
+#EXTINF:-1 group-title="20211205TEST",EVE
 mitv://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
-#EXTINF:-1 組標題="20211205TEST",歷史記錄 2
+#EXTINF:-1 group-title="20211205TEST",歷史記錄 2
 mitv://ns2.hellotvvod.com:9906/d13e7bea35dd4c01bf258f127a01b393
 #EXTINF:-1 組-title="20211205TEST",歷史頻道
 mitv://ns2.hellotvvod.com:9906/8282b66d64db4dd884b125ce6a43d7cf
