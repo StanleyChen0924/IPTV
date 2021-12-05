@@ -143,6 +143,7 @@ MOMO親子台,mitv://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 三立都會台,mitv://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
+三立都會台,http://ai7499003.va1.aihost10.top/live/iptv_49.m3u8
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 衛視中文台,http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
 衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
@@ -843,9 +844,10 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
 🇹🇼港台1126,#genre#
 
+1205BT,
+
+1205ET,
 2021201BT,
-http://live.scuec.edu.cn:8080/来源网络，时效未知,
-高清频道,
 CCTV-1高清,http://live.scuec.edu.cn:8080/hls/cctv1hd.m3u8
 CCTV-2高清,http://live.scuec.edu.cn:8080/hls/cctv2hd.m3u8
 CCTV-3高清,http://live.scuec.edu.cn:8080/hls/cctv3hd.m3u8
