@@ -844,14 +844,12 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
 1202測試,#genre#
 
-<<<<<<< HEAD
+
 1205BT,
 
 1205ET,
 2021201BT,
-=======
 高清频道,
->>>>>>> e1e0ff5f67393f16f085688df6f0e51a84e9099f
 CCTV-1高清,http://live.scuec.edu.cn:8080/hls/cctv1hd.m3u8
 CCTV-2高清,http://live.scuec.edu.cn:8080/hls/cctv2hd.m3u8
 CCTV-3高清,http://live.scuec.edu.cn:8080/hls/cctv3hd.m3u8
