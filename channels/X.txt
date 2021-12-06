@@ -733,6 +733,7 @@ Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 ChannelV,http://live.scuec.edu.cn:8080/hls/channelv.m3u8
 幸福空間居家台,https://git.io/JgYYF
 幸福空間居家台,https://git.io/JgYYF
+HGTV居家樂活,http://58.65.171.202:8000/play/4334/index.m3u8
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 國家地理頻道,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
@@ -1577,6 +1578,7 @@ SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 FM96.3Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 FM 107.7 Radio,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FM107.m3u8
 kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
+熊貓音樂,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/491471/live_583833401_70191453.m3u8
 MTV,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 MTVYo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 MTVBiggestPop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -2802,6 +2804,7 @@ CGTV,http://39.135.34.142:8080/000000001000/8428799834696888424/1.m3u8?
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
 翡翠台E,https://cdn-cn.hkdtmb.com/hls/81b/index.m3u8
+J2,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 J2,https://cdn-cn.hkdtmb.com/hls/82/index.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 明珠台,https://cdn-cn.hkdtmb.com/hls/84/index.m3u8
@@ -7652,6 +7655,8 @@ PsychopornTW,p9p://45.86.67.154:9906/608c037b0005e54c03a7705dc4f2e0d2.ts
 果冻传媒,p9p://45.86.67.154:9906/608c0435000affe303aa483b0c83ac05.ts
 
 🔞測試_710924,#genre#
+
+58,http://145.239.0.5:20102/live/d73ebd1a9c374f888279ea035efc2c95/88293991bfdd49d38c63fba3b36b8d58/58.m3u8
 EXTASYHD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 filmon,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 RUsskayanoch,http://93.189.224.117:9030/russkayanoch
