@@ -958,222 +958,79 @@ Travel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
 
 1206測試,#genre#
 
-1206ananB,
-港|中视,http://anan.jxin122.top/cj.php?id=18&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|中视,http://anan.jxin122.top/cj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|华视,http://anan.jxin122.top/cj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|民视,http://anan.jxin122.top/cj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|公视,http://anan.jxin122.top/cj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|三立台湾台,http://anan.jxin122.top/cj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|三立都会台,http://anan.jxin122.top/cj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|三立综合台,http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|三立综合台,http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|民视新闻,http://anan.jxin122.top/cj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|非凡新闻,http://anan.jxin122.top/cj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|年代新闻,http://anan.jxin122.top/cj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|纬来体育,http://anan.jxin122.top/cj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|龙祥年代,http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|東森洋片,http://anan.jxin122.top/cj.php?id=28&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|東森电影,http://anan.jxin122.top/cj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|中天娱乐,http://anan.jxin122.top/cj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|中天综合,http://anan.jxin122.top/cj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|中天新闻,http://anan.jxin122.top/cj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|中天亚洲台,http://anan.jxin122.top/cj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|東森综合,http://anan.jxin122.top/cj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|東森新闻,http://anan.jxin122.top/cj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|TVBS欢乐,http://anan.jxin122.top/cj.php?id=36&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-港|TVBS,http://anan.jxin122.top/cj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
- 
-1206E,
-1206mitvBT,
-m天映頻道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
-m天映經典,mitv://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
-mFOX 電影高清,mitv://ns2.hellotvvod.com:9906/831f0c768aa44f38954b00d61d88ecdf
-mFOX 動作電影高清,mitv://ns2.hellotvvod.com:9906/2aad65d4beaa499cb89ab1e0360d12df
-mFOX CRIME,mitv://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
-mFOX 家族,mitv://ns2.hellotvvod.com:9906/f500497b96b1458a8f9f5da38c6e02d7
-mtvN 電影高清,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
-m衛視電影,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
-m東森電影,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
-m緯來電影,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
-m龍祥時代電影台,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
-m東森洋片,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
-mAXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
-m好萊塢電影,mitv://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
-mCINEMAX,mitv://ns2.hellotvvod.com:9906/3d4d75d8f386474d8dbb84c7a3704a7f
-m緯來育樂,mitv://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
-mHBO,mitv://ns2.hellotvvod.com:9906/dd98f44a969642fd9887c0f14c027977
-mHBO,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
-mHBO強檔巨獻,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
-mHBO原創巨獻,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
-m美亞電影,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
-m龍華電影,mitv://ns2.hellotvvod.com:9906/cda4c0d5e8df4d49bb51fa6b71b5d19b
-m星衛HD電影,mitv://ns2.hellotvvod.com:9906/bdb2a4266251451a918d42ec44667801
-m靖天映畫,mitv://ns2.hellotvvod.com:9906/0a08a213ff34484ebba095598ffed323
-m靖天電影,mitv://ns2.hellotvvod.com:9906/86533153a6a741d3af531f8efa6054f6
-mWARNER TV,mitv://ns2.hellotvvod.com:9906/bf10e7821b5744d3aed911a956e6cdfe
-mStar Movies,mitv://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
-mAMC最愛電影,mitv://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
-mCatchPlay電影,mitv://ns2.hellotvvod.com:9906/c4eeae79ede24dd3baf9226ec992dbe4
-mCinemaWorld,mitv://ns2.hellotvvod.com:9906/e37bdcc69e4f403f9fc52c6817c367f6
-m壹電視電影,mitv://ns2.hellotvvod.com:9906/4726fe8fb7e748659fac6cf64370a205
-m採昌影劇,mitv://ns2.hellotvvod.com:9906/fa78b19b455148e3b2b00b5bf648c3fc
-m東森戲劇,mitv://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
-m八大戲劇,mitv://ns2.hellotvvod.com:9906/ea7f77bf68254477b2a29793cf65f55a
-m緯來戲劇,mitv://ns2.hellotvvod.com:9906/c4d3341645874d9fab6329a7f83f5121
-mMOMO追劇,mitv://147.135.39.171:9906/5e5a0c1500031eca3b4f80701a63557e
-m公視3台,mitv://ns2.hellotvvod.com:9906/6ba6fe3a051e4113b82eb6d32fbb7114
-m三立戲劇,mitv://ns2.hellotvvod.com:9906/c5251859faa14a0b9ba00a3bbe4ec0fa
-m龍華戲劇,mitv://ns2.hellotvvod.com:9906/b3fdf7edaf724fffb49a1bb3e5ba36c0
-m靖天戲劇,mitv://ns2.hellotvvod.com:9906/dc313d1f150f4e32a241408a4dddb55a
-m靖洋戲劇,mitv://ns2.hellotvvod.com:9906/453a034ff3884c0f889f89332a61cb3b
-m國家地理,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
-m探索頻道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
-mTLC旅遊,mitv://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b645812
-m動物星球,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
-mNat Geo Wild,mitv://ns2.hellotvvod.com:9906/3a0602f78e5e4c368fbf0d056436ee5d
-mELTV生活英語,mitv://ns2.hellotvvod.com:9906/fd64478e967b43f79c151425ad75030f
-m達文西,mitv://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
-m國家地理野生,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
-mBBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
-m發現亞洲,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
-m發現科學,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
-mDMAX,mitv://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
-mEVE,mitv://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
-m歷史記錄 2,mitv://ns2.hellotvvod.com:9906/d13e7bea35dd4c01bf258f127a01b393
-m歷史頻道,mitv://ns2.hellotvvod.com:9906/8282b66d64db4dd884b125ce6a43d7cf
-m罪案偵緝頻道,mitv://ns2.hellotvvod.com:9906/969d3da0dc624b599160cda58bd5daa2
-mBBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
-m國家地理悠人,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc
-mLUXE TV,mitv://ns2.hellotvvod.com:9906/a6a73818f9aa4fd992d966aac4b49c20
-mLifetime,mitv://ns2.hellotvvod.com:9906/698e4db64e93463a814fc462cb15b1f4
-m靖天國際,mitv://ns2.hellotvvod.com:9906/92963da196424063a1f58303dc21da2e
-mHGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/3ae6806990ac44dbbd5a83eea77fef7e
-mLove Nature,mitv://ns2.hellotvvod.com:9906/5b4aa7c53c974767aad85f24fc19d550
-m美食星球,mitv://ns2.hellotvvod.com:9906/045aa067f54a4a5bb2f5dc17190417cf
-m亞洲美食,mitv://ns2.hellotvvod.com:9906/c0c700a32db94ca281b74e44d84b5b66
-mFood Network,mitv://ns2.hellotvvod.com:9906/9590a6420c3d45649e9d2251f0fcf1d0
-m亞洲旅遊,mitv://ns2.hellotvvod.com:9906/b52d03f4997a48b88d4ff3a86d2fa8de
-mEYE TV旅遊,mitv://ns2.hellotvvod.com:9906/5512ec54a1254879b4e39f92b63565ab
-mTravel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
-m時尚頻道,mitv://ns2.hellotvvod.com:9906/a6cb54e5bd294cc98064df05ad1b3fc1
-1205mitvET,
-
-2021206tvfixBT,
-ttvN,http://iptv.tvfix.org/hls/tvn.m3u8
-ttvN,http://iptv.tvfix.org/hls/tvN.m3u8
-tCHC高清電影,http://iptv.tvfix.org/hls/chchd.m3u8
-tCHC動作電影,http://iptv.tvfix.org/hls/chcatv.m3u8
-tCHC家庭電影,http://iptv.tvfix.org/hls/chctv.m3u8
-tCCTV-1綜合,http://iptv.tvfix.org/hls/cctv1hd.m3u8
-tCCTV-2財經,http://iptv.tvfix.org/hls/cctv2hd.m3u8
-tCCTV-3綜藝,http://iptv.tvfix.org/hls/cctv3hd.m3u8
-tCCTV-4中文國際,http://iptv.tvfix.org/hls/cctv4hd.m3u8
-tCCTV-5體育,http://iptv.tvfix.org/hls/cctv5hd.m3u8
-tCCTV-5+體育賽事,http://iptv.tvfix.org/hls/cctv5phd.m3u8
-tCCTV-6電影,http://iptv.tvfix.org/hls/cctv6hd.m3u8
-tCCTV-7國防軍事,http://iptv.tvfix.org/hls/cctv7hd.m3u8
-tCCTV-8電視劇,http://iptv.tvfix.org/hls/cctv8hd.m3u8
-tCCTV-9紀錄,http://iptv.tvfix.org/hls/cctv9hd.m3u8
-tCCTV-10科教,http://iptv.tvfix.org/hls/cctv10hd.m3u8
-tCCTV-11戲曲,http://iptv.tvfix.org/hls/cctv11.m3u8
-tCCTV-12社會與法,http://iptv.tvfix.org/hls/cctv12hd.m3u8
-tCCTV-13新聞,http://iptv.tvfix.org/hls/cctv13hd.m3u8
-tCCTV-14少兒,http://iptv.tvfix.org/hls/cctv14hd.m3u8
-tCCTV-15音樂,http://iptv.tvfix.org/hls/cctv15.m3u8
-tCCTV-17農村農業,http://iptv.tvfix.org/hls/cctv17hd.m3u8
-tCGTN,http://iptv.tvfix.org/hls/cctv16.m3u8
-tCGTN-紀錄,http://iptv.tvfix.org/hls/cgtnhd.m3u8
-tTVBS,http://iptv.tvfix.org/hls/tvbs.m3u8
-tTVBS,http://iptv.tvfix.org/hls/tvbs_v.m3u8
-tTVBS新聞台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
-tTVBS新聞台,http://iptv.tvfix.org/hls/tvbsnews_v.m3u8
-tDiscovery,http://iptv.tvfix.org/hls/discovery.m3u8
-tDiscovery,http://iptv.tvfix.org/hls/discovery_v.m3u8
-t動物星球,http://iptv.tvfix.org/hls/animal.m3u8
-t動物星球,http://iptv.tvfix.org/hls/animal_v.m3u8
-t國家地理,http://iptv.tvfix.org/hls/natlgeo.m3u8
-t國家地理,http://iptv.tvfix.org/hls/natlgeo_v.m3u8
-tchannelv,http://iptv.tvfix.org/hls/channelv.m3u8
-tchannelv,http://iptv.tvfix.org/hls/channelv_v.m3u8
-tthrill,http://iptv.tvfix.org/hls/thrill.m3u8
-tthrill,http://iptv.tvfix.org/hls/thrill_v.m3u8
-tAnimax,http://iptv.tvfix.org/hls/animax.m3u8
-tAnimax,http://iptv.tvfix.org/hls/animax_v.m3u8
-
 1206p5p,
-p民视 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
-p台视综合,p5p://fccs.123178.top:9906/6044936700021fe101f2ad5ea50e836e.ts
-pMoMo亲子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
-pCN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-p迪斯尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
-p卫视中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
-p寰宇新闻台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
-p东森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
-p东森超视,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
-p东森综合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
-p东森综合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
-p东森戏剧,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
-p东森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
-p中天新闻,p5p://fccs.123178.top:9906/6108751d000ce82f133327c1075ab46a.ts
-p三立财经,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
-p三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-p三立都会台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-p八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
-p八大戏剧台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
-p八大综合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
-p八大娱乐台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
-p八大娱乐台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
-p龍華戲劇台,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts	
-p龍華偶像台,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
-pCatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
-p靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
-p龍華電影台,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
-p衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
-p星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
-p星衛HD電影,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
-pHBO原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f.ts
-pHBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352.ts
-ptvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
-p年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
-p纬来日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
-p纬来戏剧,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-p纬来育乐,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-p国兴卫视,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
-pAXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
-p龙祥时代电影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-p龙祥时代电影台,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
-p东风卫视,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
-p卫视中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
-p光影欧洲,p5p://fccs.123178.top:9906/604420030008e014002ff07922c6f89b.ts
-pthrill电影台,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
-pKIX电影台,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
-pFox Movies,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
-pFox Movies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
-pOutdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3.ts
-pHBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab.ts
-p探索频道,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
-p探索动力 DMAX,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731.ts
-p动物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
-p狼谷育乐,p5p://fccs.123178.top:9906/6045b7460004ba730666cd212d07958d.ts
-pTLC旅游,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
-p亚洲旅游,p5p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
-pafn亚洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
-p法国时装,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950.ts
-p时尚疯高清频道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e.ts
-pEleven运动台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
-pZ 频道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
-p美国高尔夫球,p5p://fccs.123178.top:9906/60447654000dbd4101811e203ac3ee9f.ts
-p博斯高球1,p5p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
-p博斯网球,p5p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
-p人间卫视,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
-pBBC World News,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-pBBC World News,p5p://45.92.126.18:9906/6044382f0001bdea008e5a851f8cf009.ts
-pHD电影,p5p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
-p龙华电影,p5p://45.92.126.18:9906/604426fa000c13eb004b26236e73affa.ts
-p龙华洋片,p5p://45.92.126.18:9906/6044287d000e2bb500510e64fec426ab.ts
-p龙华戏剧,p5p://45.92.126.18:9906/60442a110002751300573584bb335a71.ts
-pNHK World HD,p5p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
+民视 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
+台视综合,p5p://fccs.123178.top:9906/6044936700021fe101f2ad5ea50e836e.ts
+MoMo亲子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
+CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+迪斯尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
+卫视中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
+寰宇新闻台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
+东森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
+东森超视,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
+东森综合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
+东森综合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
+东森戏剧,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
+东森洋片台,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
+中天新闻,p5p://fccs.123178.top:9906/6108751d000ce82f133327c1075ab46a.ts
+三立财经,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
+三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+三立都会台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
+八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
+八大戏剧台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
+八大综合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+八大娱乐台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
+八大娱乐台,p5p://45.92.126.18:9906/6044d70900008dea02faddc78bf8a126.ts
+龍華戲劇台,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts	
+龍華偶像台,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.ts
+靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
+龍華電影台,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
+衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
+星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
+星衛HD電影,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
+HBO原創,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f.ts
+HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352.ts
+tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
+年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
+纬来日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
+纬来戏剧,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
+纬来育乐,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
+国兴卫视,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
+AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
+龙祥时代电影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龙祥时代电影台,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
+东风卫视,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
+卫视中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
+光影欧洲,p5p://fccs.123178.top:9906/604420030008e014002ff07922c6f89b.ts
+thrill电影台,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
+KIX电影台,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
+Fox Movies,p5p://fccs.123178.top:9906/60440eb10006690c09cc32777254e90a.ts
+Fox Movies,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
+Outdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3.ts
+HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab.ts
+探索频道,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
+探索动力 DMAX,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731.ts
+动物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
+狼谷育乐,p5p://fccs.123178.top:9906/6045b7460004ba730666cd212d07958d.ts
+TLC旅游,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
+亚洲旅游,p5p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
+afn亚洲美食 HD,p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
+法国时装,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950.ts
+时尚疯高清频道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e.ts
+Eleven运动台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
+Z 频道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
+美国高尔夫球,p5p://fccs.123178.top:9906/60447654000dbd4101811e203ac3ee9f.ts
+博斯高球1,p5p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
+博斯网球,p5p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
+人间卫视,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
+BBC World News,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+BBC World News,p5p://45.92.126.18:9906/6044382f0001bdea008e5a851f8cf009.ts
+HD电影,p5p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
+龙华电影,p5p://45.92.126.18:9906/604426fa000c13eb004b26236e73affa.ts
+龙华洋片,p5p://45.92.126.18:9906/6044287d000e2bb500510e64fec426ab.ts
+龙华戏剧,p5p://45.92.126.18:9906/60442a110002751300573584bb335a71.ts
+NHK World HD,p5p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
 
 🆕新聞頻道,#genre#
 
