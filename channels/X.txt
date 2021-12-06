@@ -38,9 +38,9 @@
 大愛一台,https://git.io/Jgkx9
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛一台,mitv://ns2.hellotvvod.com:9906/47e0000522814c6aac7d54c8bec91445
-華視,rtmp://9wv7.mine.nu/sat/tv111
 華視,rtmp://59.124.75.157/sat/tv111
 華視,rtmp://59.124.75.138/sat/tv111
+華視,rtmp://9wv7.mine.nu/sat/tv111
 華視,http://50.7.61.147:30080/Entry/cts
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 華視,rtmp://161.202.204.248/sat/tv111
