@@ -992,6 +992,7 @@ http://212.95.133.2/ub.php?id=67
 http://212.95.133.2/ub.php?id=68
 http://212.95.133.2/ub.php?id=69
 http://212.95.133.2/ub.php?id=70
+http://212.95.133.2/ub.php?id=71
 1206E,
 1205BT,
 天映頻道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
@@ -1587,13 +1588,13 @@ MTVWMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/maste
 🇰🇷韓國頻道,#genre#
 
 ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
 tvN,http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 tvN,http://playlist.urfan.web.id/dr9445/h/h20/02.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 tvN,tvbus://5mQX2AnAV1rwQnqHabgh8odF6QhCieFaumRLyjLVy8b2z8zNpkVMtgoXXAa
-tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 tvNMOVIES,rtmp://104.149.191.182/channel/6162d733295d84395bb00220?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpltIRIpDCasXRmMBqc%2FFlKmtshZwUrPqTRDzmRUL3HQxp
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 tvNMOVIES,http://playlist.urfan.web.id/dr9445/h/h21/02.m3u8
