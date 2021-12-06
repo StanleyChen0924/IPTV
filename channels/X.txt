@@ -956,7 +956,7 @@ Travel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
 
 1202測試,#genre#
 
-1206B,
+1206ananB,
 港|中视,http://anan.jxin122.top/cj.php?id=18&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 港|中视,http://anan.jxin122.top/cj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 港|华视,http://anan.jxin122.top/cj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
@@ -983,7 +983,7 @@ Travel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
 港|TVBS,http://anan.jxin122.top/cj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 1206E,
-1205BT,
+1205mitvBT,
 天映頻道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
 天映經典,mitv://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
 FOX 電影高清,mitv://ns2.hellotvvod.com:9906/831f0c768aa44f38954b00d61d88ecdf
@@ -1056,9 +1056,11 @@ Food Network,mitv://ns2.hellotvvod.com:9906/9590a6420c3d45649e9d2251f0fcf1d0
 EYE TV旅遊,mitv://ns2.hellotvvod.com:9906/5512ec54a1254879b4e39f92b63565ab
 Travel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
 時尚頻道,mitv://ns2.hellotvvod.com:9906/a6cb54e5bd294cc98064df05ad1b3fc1
-1205ET,
+1205mitvET,
 
-2021206BT,
+2021206tvfixBT,
+tvN,http://iptv.tvfix.org/hls/tvn.m3u8
+tvN,http://iptv.tvfix.org/hls/tvN.m3u8
 CHC高清電影,http://iptv.tvfix.org/hls/chchd.m3u8
 CHC動作電影,http://iptv.tvfix.org/hls/chcatv.m3u8
 CHC家庭電影,http://iptv.tvfix.org/hls/chctv.m3u8
