@@ -954,6 +954,80 @@ EYE TV旅遊,mitv://ns2.hellotvvod.com:9906/5512ec54a1254879b4e39f92b63565ab
 Travel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
 時尚頻道,mitv://ns2.hellotvvod.com:9906/a6cb54e5bd294cc98064df05ad1b3fc1
 
+$c_start測試$c_end
+民視,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=26
+台視,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=27
+中視,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=333
+華視,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=32
+公視,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=86
+三立LIVE新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=4
+東森新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1016
+中天新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=3
+民視新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=13
+民視新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=317
+TVBS新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=2
+華視新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=6
+iNEWS,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=8
+台視新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1
+中視新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=7
+年代新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1099
+三立国際,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=2285
+非凡新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=314
+寰宇新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=304
+寰宇臺灣,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=87
+壹電視新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=303
+八大第一,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=318
+八大綜合,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=325
+東風衛視,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=2152
+三立臺灣,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=21
+衛視中文,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=342
+TVBS歡樂,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=40
+八大精彩,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1024
+TVBS,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=2282
+TVBS綜合,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=16
+民視第一台,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=34
+民視台灣,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=36
+中視經典,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=185
+中視菁采,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=74
+TVBS精采,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=66
+TVB翡翠,http://flv3948069e.live.126.net/live/20f0e9933bd13a10192a27d8b0ee8aed.flv
+TVB翡翠,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=390
+TVB翡翠,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=30
+TVB明珠,http://yjmcyy1.usa7.345888.xyz/ub.php?id=391
+無線新聞,http://flv3948069e.live.126.net/live/da8a91b5a4a667a01b022bbe671c7714.flv
+無線新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=394
+有線新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=395
+Viutv,http://yjmcyy1.usa7.345888.xyz/ub.php?id=72
+Viu TV,http://yjmcyy1.usa7.345888.xyz/ub.php?id=2334
+TVB無線財經,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=393
+有線603,http://flv3948069e.live.126.net/live/qa603dffdqqa123.flv
+18台,http://flv3948069e.live.126.net/live/qa18sfsseeqqa123.flv
+TVB J2,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=392
+J2,http://flv3948069e.live.126.net/live/qaj2sdfssdsqqa123.flv
+NOW新聞,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=396
+NOW直播,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=400
+鳳凰香港,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=358
+鳳凰香港,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=2290
+鳳凰衛視,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=357
+鳳凰衛視,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=2291
+鳳凰資訊,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=359
+鳳凰资讯,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=2292
+星空衛視,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=56
+港台電視32,http://113.255.161.76:9981/stream/channelid/1002192968
+港臺31,http://yjmcyy1.usa7.345888.xyz/ub.php?id=353
+港臺32,http://yjmcyy1.usa7.345888.xyz/ub.php?id=397
+香港開電視,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=17
+HKC娛樂,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=2293
+HKC電影,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=354
+澳視澳門,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=23
+澳視葡語,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=24
+澳門Macau,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=364
+TVB JADE,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1868
+TVB 星河,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1872
+TVB經典,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1083
+TVB Jade,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1084
+衛視卡式臺,http://yjmhstv.usa7.345888.xyz/dly/hstv.php?id=1085
+
 1202測試,#genre#
 
 1206ananB,
