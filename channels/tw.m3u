@@ -1060,7 +1060,9 @@ http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
 http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
 #EXTINF:-1 group-title="影視輪播",劉德華影院
 http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
-#EXTINF:-1 group-title="影視輪播",劉德華影院
+#EXTINF:-1 group-title="影視輪播",劉德華影院1
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
+#EXTINF:-1 group-title="影視輪播",劉德華影院2
 http://ye23.win/iptv/youku.php?id=8021902
 
 #EXTINF:-1,周润发影院[859*480][859*480][859*480]
