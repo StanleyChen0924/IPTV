@@ -1431,6 +1431,25 @@ ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:ar
 
 🇨🇳央視頻道,#genre#
 
+
+CCTV1,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
+CCTV2,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
+CCTV3,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
+CCTV4,http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
+CCTV5,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
+CCTV5+,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
+CCTV6,http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
+CCTV7,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
+CCTV8,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
+CCTV9,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
+CCTV10,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
+CCTV11,http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
+CCTV12,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
+CCTV13,http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
+CCTV14,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+CCTV15,http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
+CCTV17,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+
 CCTV1,http://live.scuec.edu.cn:8080/hls/cctv1hd.m3u8
 CCTV2,http://live.scuec.edu.cn:8080/hls/cctv2hd.m3u8
 CCTV3,http://live.scuec.edu.cn:8080/hls/cctv3hd.m3u8
