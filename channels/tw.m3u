@@ -1819,41 +1819,6 @@ http://api.phoves.com.cn/iptv/huya.php?id=16859944
 #EXTINF:-1 group-title="虎牙直播",這劇很火
 http://api.phoves.com.cn/iptv/huya.php?id=19811530
 
-#EXTINF:-1 group-title="央視",CCTV1
-http://live.scuec.edu.cn:8080/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV2
-http://live.scuec.edu.cn:8080/hls/cctv2hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV3
-http://live.scuec.edu.cn:8080/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV4
-http://live.scuec.edu.cn:8080/hls/cctv4hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV5
-http://live.scuec.edu.cn:8080/hls/cctv5hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV5+
-http://live.scuec.edu.cn:8080/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="央視",CCTV6
-http://live.scuec.edu.cn:8080/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV7
-http://live.scuec.edu.cn:8080/hls/cctv7hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV8
-http://live.scuec.edu.cn:8080/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV9
-http://live.scuec.edu.cn:8080/hls/cctv9hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV10
-http://live.scuec.edu.cn:8080/hls/cctv10hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV11
-http://live.scuec.edu.cn:8080/hls/cctv11hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV12
-http://live.scuec.edu.cn:8080/hls/cctv12hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV13
-http://live.scuec.edu.cn:8080/hls/cctv13hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV14
-http://live.scuec.edu.cn:8080/hls/cctv14hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV15
-http://live.scuec.edu.cn:8080/hls/cctv15hd.m3u8
-#EXTINF:-1 group-title="央視",CCTV17
-http://live.scuec.edu.cn:8080/hls/cctv17hd.m3u8
-
 #EXTINF:-1 group-title="20211206Test",民視
 http://66.90.88.132:8080/hls/ph00302/index.m3u8
 #EXTINF:-1 group-title="20211206Test",中視
