@@ -77,7 +77,7 @@
 客家電視台,mitv://ns2.hellotvvod.com:9906/bcf16a66476d4c88a5ea6b7d40a56e7c
 客家電視台,p5p://fccs.123178.top:9906/604494f1000344c901f8b0b9b9276851.ts
 國家地理頻道,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
-國家地理頻道,http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8
+國家地理頻道,http://iptv.tvfix.org/hls/natlgeo.m3u8
 國家地理頻道,http://125.227.210.37:16408/VideoInput/play.ts
 國家地理頻道,http://125.227.210.55:16408/VideoInput/play.ts
 國家地理頻道,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -85,6 +85,7 @@
 國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
 國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
 國家地理頻道,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
+Discovery,http://iptv.tvfix.org/hls/discovery.m3u8
 Discovery,p5p://fccs.123178.top:9906/60433c22000c069b0695b54fa99695c8
 Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a
 Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
@@ -96,6 +97,7 @@ TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
 TLC旅遊生活頻道,mitv://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b645812
+動物星球,http://iptv.tvfix.org/hls/animal.m3u8
 動物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 動物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
 動物星球,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
@@ -355,6 +357,7 @@ Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017
 Animax,http://66.90.88.132:8080/hls/ph00309/index.m3u8
+Animax,http://iptv.tvfix.org/hls/animax.m3u8
 Animax,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Animax,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
 霹靂台灣台,mitv://ns2.hellotvvod.com:9906/85d6caf44ce4449e8600dc86d1c7be21
@@ -567,6 +570,8 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 MoMo綜合台,rtmp://59.124.75.138/sat/tv761
 MoMo綜合台,rtmp://9wv7.mine.nu/sat/tv761
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+Animax,http://66.90.88.132:8080/hls/ph00309/index.m3u8
+Animax,http://iptv.tvfix.org/hls/animax.m3u8
 Animax,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 Animax,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 FOX頻道,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
@@ -755,7 +760,7 @@ FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
 天映經典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 thrill,http://45.126.83.51/qwr9ew/s/s34/01.m3u8
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-ChannelV,http://live.scuec.edu.cn:8080/hls/channelv.m3u8
+Channelv,http://iptv.tvfix.org/hls/channelv.m3u8
 幸福空間居家台,https://git.io/JgYYF
 幸福空間居家台,https://git.io/JgYYF
 HGTV居家樂活,http://58.65.171.202:8000/play/4334/index.m3u8
@@ -1115,171 +1120,23 @@ Travel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
 
 2021201BT,
 高清频道,
-CCTV-1高清,http://live.scuec.edu.cn:8080/hls/cctv1hd.m3u8
-CCTV-2高清,http://live.scuec.edu.cn:8080/hls/cctv2hd.m3u8
-CCTV-3高清,http://live.scuec.edu.cn:8080/hls/cctv3hd.m3u8
-CCTV-4高清,http://live.scuec.edu.cn:8080/hls/cctv4hd.m3u8
-CCTV-5高清,http://live.scuec.edu.cn:8080/hls/cctv5hd.m3u8
-CCTV-5+高清,http://live.scuec.edu.cn:8080/hls/cctv5phd.m3u8
-CCTV-6高清,http://live.scuec.edu.cn:8080/hls/cctv6hd.m3u8
-CCTV-7高清,http://live.scuec.edu.cn:8080/hls/cctv7hd.m3u8
-CCTV-8高清,http://live.scuec.edu.cn:8080/hls/cctv8hd.m3u8
-CCTV-9高清,http://live.scuec.edu.cn:8080/hls/cctv9hd.m3u8
-CCTV-10高清,http://live.scuec.edu.cn:8080/hls/cctv10hd.m3u8
-CCTV-12高清,http://live.scuec.edu.cn:8080/hls/cctv12hd.m3u8
-CCTV-13高清,http://live.scuec.edu.cn:8080/hls/cctv13hd.m3u8
-CCTV-14高清,http://live.scuec.edu.cn:8080/hls/cctv14hd.m3u8
-CCTV-17高清,http://live.scuec.edu.cn:8080/hls/cctv17hd.m3u8
-CHC高清电影,http://live.scuec.edu.cn:8080/hls/chchd.m3u8
-北京卫视高清,http://live.scuec.edu.cn:8080/hls/btv1hd.m3u8
-北京文艺高清,http://live.scuec.edu.cn:8080/hls/btv2hd.m3u8
-Kaku少儿高清,http://live.scuec.edu.cn:8080/hls/btv10hd.m3u8
-北京冬奥纪实高清,http://live.scuec.edu.cn:8080/hls/btv11hd.m3u8
-北京影视高清,http://live.scuec.edu.cn:8080/hls/btv4hd.m3u8
-北京新闻高清,http://live.scuec.edu.cn:8080/hls/btv9hd.m3u8
-湖南卫视高清,http://live.scuec.edu.cn:8080/hls/hunanhd.m3u8
-浙江卫视高清,http://live.scuec.edu.cn:8080/hls/zjhd.m3u8
-江苏卫视高清,http://live.scuec.edu.cn:8080/hls/jshd.m3u8
-东方卫视高清,http://live.scuec.edu.cn:8080/hls/dfhd.m3u8
-安徽卫视高清,http://live.scuec.edu.cn:8080/hls/ahhd.m3u8
-黑龙江卫视高清,http://live.scuec.edu.cn:8080/hls/hljhd.m3u8
-辽宁卫视高清,http://live.scuec.edu.cn:8080/hls/lnhd.m3u8
-深圳卫视高清,http://live.scuec.edu.cn:8080/hls/szhd.m3u8
-广东卫视高清,http://live.scuec.edu.cn:8080/hls/gdhd.m3u8
-天津卫视高清,http://live.scuec.edu.cn:8080/hls/tjhd.m3u8
-湖北卫视高清,http://live.scuec.edu.cn:8080/hls/hbhd.m3u8
-山东卫视高清,http://live.scuec.edu.cn:8080/hls/sdhd.m3u8
-重庆卫视高清,http://live.scuec.edu.cn:8080/hls/cqhd.m3u8
-纪实人文高清,http://live.scuec.edu.cn:8080/hls/docuchina.m3u8
-金鹰纪实高清,http://live.scuec.edu.cn:8080/hls/gedocu.m3u8
-福建东南卫视高清,http://live.scuec.edu.cn:8080/hls/dnhd.m3u8
-四川卫视高清,http://live.scuec.edu.cn:8080/hls/schd.m3u8
-河北卫视高清,http://live.scuec.edu.cn:8080/hls/hebhd.m3u8
-江西卫视高清,http://live.scuec.edu.cn:8080/hls/jxhd.m3u8
-河南卫视高清,http://live.scuec.edu.cn:8080/hls/hnhd.m3u8
-广西卫视高清,http://live.scuec.edu.cn:8080/hls/gxhd.m3u8
-吉林卫视高清,http://live.scuec.edu.cn:8080/hls/jlhd.m3u8
-中国教育电视台1高清,http://live.scuec.edu.cn:8080/hls/cetv1hd.m3u8
-海南卫视高清,http://live.scuec.edu.cn:8080/hls/lyhd.m3u8
-贵州卫视高清,http://live.scuec.edu.cn:8080/hls/gzhd.m3u8
-卡通剧场高清,http://live.scuec.edu.cn:8080/hls/ktjchd.m3u8
-大众影视高清,http://live.scuec.edu.cn:8080/hls/dzyshd.m3u8
-家庭影院高清,http://live.scuec.edu.cn:8080/hls/jtyyhd.m3u8
-家庭剧场高清,http://live.scuec.edu.cn:8080/hls/jtjchd.m3u8
-CGTN纪实高清,http://live.scuec.edu.cn:8080/hls/cgtndochd.m3u8
-足球频道,http://live.scuec.edu.cn:8080/hls/zqhd.m3u8
-特色频道,
-凤凰资讯高清,http://live.scuec.edu.cn:8080/hls/fhzxhd.m3u8
-凤凰中文高清,http://live.scuec.edu.cn:8080/hls/fhzwhd.m3u8
-凤凰中文,http://live.scuec.edu.cn:8080/hls/fhzw.m3u8
-凤凰资讯,http://live.scuec.edu.cn:8080/hls/fhzx.m3u8
-凤凰电影,http://live.scuec.edu.cn:8080/hls/fhdy.m3u8
-Discovery,http://live.scuec.edu.cn:8080/hls/discovery.m3u8
-国家地理,http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8
-ChannelV,http://live.scuec.edu.cn:8080/hls/channelv.m3u8
-星空卫视,http://live.scuec.edu.cn:8080/hls/startv.m3u8
-StarSports,http://live.scuec.edu.cn:8080/hls/starsports.m3u8
-央视标清,
-CCTV-1综合,http://live.scuec.edu.cn:8080/hls/cctv1.m3u8
-CCTV-2财经,http://live.scuec.edu.cn:8080/hls/cctv2.m3u8
-CCTV-3综艺,http://live.scuec.edu.cn:8080/hls/cctv3.m3u8
-CCTV-4中文国际,http://live.scuec.edu.cn:8080/hls/cctv4.m3u8
-CCTV-5体育,http://live.scuec.edu.cn:8080/hls/cctv5.m3u8
-CCTV-6电影,http://live.scuec.edu.cn:8080/hls/cctv6.m3u8
-CCTV-7国防军事,http://live.scuec.edu.cn:8080/hls/cctv7.m3u8
-CCTV-8电视剧,http://live.scuec.edu.cn:8080/hls/cctv8.m3u8
-CCTV-9纪录,http://live.scuec.edu.cn:8080/hls/cctv9.m3u8
-CCTV-10科教,http://live.scuec.edu.cn:8080/hls/cctv10.m3u8
-CCTV-11戏曲,http://live.scuec.edu.cn:8080/hls/cctv11.m3u8
-CCTV-12社会与法,http://live.scuec.edu.cn:8080/hls/cctv12.m3u8
-CCTV-13新闻,http://live.scuec.edu.cn:8080/hls/cctv13.m3u8
-CCTV-14少儿,http://live.scuec.edu.cn:8080/hls/cctv14.m3u8
-CCTV-15音乐,http://live.scuec.edu.cn:8080/hls/cctv15.m3u8
-CGTN,http://live.scuec.edu.cn:8080/hls/cctv16.m3u8
-CCTV-17农业农村,http://live.scuec.edu.cn:8080/hls/cctv17.m3u8
-文化精品,http://live.scuec.edu.cn:8080/hls/whjptv.m3u8
-老故事,http://live.scuec.edu.cn:8080/hls/lgstv.m3u8
-其他标清,
-北京卫视,http://live.scuec.edu.cn:8080/hls/btv1.m3u8
-北京文艺,http://live.scuec.edu.cn:8080/hls/btv2.m3u8
-北京科教,http://live.scuec.edu.cn:8080/hls/btv3.m3u8
-北京影视,http://live.scuec.edu.cn:8080/hls/btv4.m3u8
-北京财经,http://live.scuec.edu.cn:8080/hls/btv5.m3u8
-北京生活,http://live.scuec.edu.cn:8080/hls/btv7.m3u8
-北京青年,http://live.scuec.edu.cn:8080/hls/btv8.m3u8
-北京新闻,http://live.scuec.edu.cn:8080/hls/btv9.m3u8
-北京卡酷少儿,http://live.scuec.edu.cn:8080/hls/btv10.m3u8
-北京冬奥纪实,http://live.scuec.edu.cn:8080/hls/btv11.m3u8
-浙江卫视,http://live.scuec.edu.cn:8080/hls/zjtv.m3u8
-湖南卫视,http://live.scuec.edu.cn:8080/hls/hunantv.m3u8
-江苏卫视,http://live.scuec.edu.cn:8080/hls/jstv.m3u8
-东方卫视,http://live.scuec.edu.cn:8080/hls/dftv.m3u8
-深圳卫视,http://live.scuec.edu.cn:8080/hls/sztv.m3u8
-安徽卫视,http://live.scuec.edu.cn:8080/hls/ahtv.m3u8
-河南卫视,http://live.scuec.edu.cn:8080/hls/hntv.m3u8
-陕西卫视,http://live.scuec.edu.cn:8080/hls/sxtv.m3u8
-吉林卫视,http://live.scuec.edu.cn:8080/hls/jltv.m3u8
-广东卫视,http://live.scuec.edu.cn:8080/hls/gdtv.m3u8
-山东卫视,http://live.scuec.edu.cn:8080/hls/sdtv.m3u8
-湖北卫视,http://live.scuec.edu.cn:8080/hls/hbtv.m3u8
-广西卫视,http://live.scuec.edu.cn:8080/hls/gxtv.m3u8
-河北卫视,http://live.scuec.edu.cn:8080/hls/hebtv.m3u8
-西藏卫视,http://live.scuec.edu.cn:8080/hls/xztv.m3u8
-内蒙古卫视,http://live.scuec.edu.cn:8080/hls/nmtv.m3u8
-青海卫视,http://live.scuec.edu.cn:8080/hls/qhtv.m3u8
-四川卫视,http://live.scuec.edu.cn:8080/hls/sctv.m3u8
-天津卫视,http://live.scuec.edu.cn:8080/hls/tjtv.m3u8
-山西卫视,http://live.scuec.edu.cn:8080/hls/sxrtv.m3u8
-辽宁卫视,http://live.scuec.edu.cn:8080/hls/lntv.m3u8
-厦门卫视,http://live.scuec.edu.cn:8080/hls/xmtv.m3u8
-新疆卫视,http://live.scuec.edu.cn:8080/hls/xjtv.m3u8
-黑龙江卫视,http://live.scuec.edu.cn:8080/hls/hljtv.m3u8
-云南卫视,http://live.scuec.edu.cn:8080/hls/yntv.m3u8
-江西卫视,http://live.scuec.edu.cn:8080/hls/jxtv.m3u8
-福建东南卫视,http://live.scuec.edu.cn:8080/hls/dntv.m3u8
-贵州卫视,http://live.scuec.edu.cn:8080/hls/gztv.m3u8
-宁夏卫视,http://live.scuec.edu.cn:8080/hls/nxtv.m3u8
-甘肃卫视,http://live.scuec.edu.cn:8080/hls/gstv.m3u8
-重庆卫视,http://live.scuec.edu.cn:8080/hls/cqtv.m3u8
-兵团卫视,http://live.scuec.edu.cn:8080/hls/bttv.m3u8
-延边卫视,http://live.scuec.edu.cn:8080/hls/ybtv.m3u8
-三沙卫视,http://live.scuec.edu.cn:8080/hls/sstv.m3u8
-海南卫视,http://live.scuec.edu.cn:8080/hls/lytv.m3u8
-CHC家庭影院,http://live.scuec.edu.cn:8080/hls/chctv.m3u8
-CHC动作电影,http://live.scuec.edu.cn:8080/hls/chcatv.m3u8
-金鹰卡通,http://live.scuec.edu.cn:8080/hls/jykttv.m3u8
-优漫卡通,http://live.scuec.edu.cn:8080/hls/ymkttv.m3u8
-新动漫,http://live.scuec.edu.cn:8080/hls/xdmtv.m3u8
-探案剧场,http://live.scuec.edu.cn:8080/hls/tajctv.m3u8
-辽宁影视剧,http://live.scuec.edu.cn:8080/hls/lnysjtv.m3u8
-辽宁体育,http://live.scuec.edu.cn:8080/hls/lntytv.m3u8
-中国教育电视台1,http://live.scuec.edu.cn:8080/hls/cetv1.m3u8
-中国教育电视台3,http://live.scuec.edu.cn:8080/hls/cetv3.m3u8
-中国教育电视台4,http://live.scuec.edu.cn:8080/hls/cetv4.m3u8
-山东教育电视台,http://live.scuec.edu.cn:8080/hls/sdetv.m3u8
-广播,
-央广中国之声,http://live.scuec.edu.cn:8080/hls/cnrzgzsgb.m3u8
-央广经济之声,http://live.scuec.edu.cn:8080/hls/cnrjjzsgb.m3u8
-央广音乐之声,http://live.scuec.edu.cn:8080/hls/cnryyzsgb.m3u8
-央广都市之声,http://live.scuec.edu.cn:8080/hls/cnrdszsgb.m3u8
-央广文艺之声,http://live.scuec.edu.cn:8080/hls/cnrwyzsgb.m3u8
-央广娱乐广播,http://live.scuec.edu.cn:8080/hls/cnrylgb.m3u8
-央广交通广播,http://live.scuec.edu.cn:8080/hls/cnrjtgb.m3u8
-央广香港广播,http://live.scuec.edu.cn:8080/hls/cnrxgzsgb.m3u8
-北京新闻,http://live.scuec.edu.cn:8080/hls/bjxwgb.m3u8
-北京故事广播,http://live.scuec.edu.cn:8080/hls/bjgsgb.m3u8
-北京文艺广播,http://live.scuec.edu.cn:8080/hls/bjwygb.m3u8
-北京城市,http://live.scuec.edu.cn:8080/hls/bjcsgb.m3u8
-北京体育,http://live.scuec.edu.cn:8080/hls/bjtygb.m3u8
-北京交通,http://live.scuec.edu.cn:8080/hls/bjjtgb.m3u8
-北京音乐,http://live.scuec.edu.cn:8080/hls/bjyygb.m3u8
-北京古典音乐,http://live.scuec.edu.cn:8080/hls/bjgdyygb.m3u8
-北京外语,http://live.scuec.edu.cn:8080/hls/bjwaiyugb.m3u8
-北京教学,http://live.scuec.edu.cn:8080/hls/bjjxgb.m3u8
-北京长书,http://live.scuec.edu.cn:8080/hls/bjchangshugb.m3u8
-北京戏曲,http://live.scuec.edu.cn:8080/hls/bjxqgb.m3u8
-北京欢乐时光,http://live.scuec.edu.cn:8080/hls/bjhlsggb.m3u8
-北京怀旧金曲,http://live.scuec.edu.cn:8080/hls/bjhjjqgb.m3u8
+cctv1,http://iptv.tvfix.org/hls/cctv1.m3u8
+cctv2,http://iptv.tvfix.org/hls/cctv2.m3u8
+cctv3,http://iptv.tvfix.org/hls/cctv3.m3u8
+cctv4,http://iptv.tvfix.org/hls/cctv4.m3u8
+cctv5,http://iptv.tvfix.org/hls/cctv5.m3u8
+cctv6,http://iptv.tvfix.org/hls/cctv6.m3u8
+cctv7,http://iptv.tvfix.org/hls/cctv7.m3u8
+cctv8,http://iptv.tvfix.org/hls/cctv8.m3u8
+cctv9,http://iptv.tvfix.org/hls/cctv9.m3u8
+cctv10,http://iptv.tvfix.org/hls/cctv10.m3u8
+cctv11,http://iptv.tvfix.org/hls/cctv11.m3u8
+cctv12,http://iptv.tvfix.org/hls/cctv12.m3u8
+cctv13,http://iptv.tvfix.org/hls/cctv13.m3u8
+cctv14,http://iptv.tvfix.org/hls/cctv14.m3u8
+cctv15,http://iptv.tvfix.org/hls/cctv15.m3u8
+cctv17,http://iptv.tvfix.org/hls/cctv17.m3u8
+channelv,http://iptv.tvfix.org/hls/channelv.m3u8
 20211126BT,
 台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
 中视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
@@ -1767,7 +1624,22 @@ JTBC GOLF,mitv://ns2.hellotvvod.com:9906/a16d5e5357444665ae91388cfab7eaf9
 
 🇨🇳央視頻道,#genre#
 
-
+cctv1,http://iptv.tvfix.org/hls/cctv1.m3u8
+cctv2,http://iptv.tvfix.org/hls/cctv2.m3u8
+cctv3,http://iptv.tvfix.org/hls/cctv3.m3u8
+cctv4,http://iptv.tvfix.org/hls/cctv4.m3u8
+cctv5,http://iptv.tvfix.org/hls/cctv5.m3u8
+cctv6,http://iptv.tvfix.org/hls/cctv6.m3u8
+cctv7,http://iptv.tvfix.org/hls/cctv7.m3u8
+cctv8,http://iptv.tvfix.org/hls/cctv8.m3u8
+cctv9,http://iptv.tvfix.org/hls/cctv9.m3u8
+cctv10,http://iptv.tvfix.org/hls/cctv10.m3u8
+cctv11,http://iptv.tvfix.org/hls/cctv11.m3u8
+cctv12,http://iptv.tvfix.org/hls/cctv12.m3u8
+cctv13,http://iptv.tvfix.org/hls/cctv13.m3u8
+cctv14,http://iptv.tvfix.org/hls/cctv14.m3u8
+cctv15,http://iptv.tvfix.org/hls/cctv15.m3u8
+cctv17,http://iptv.tvfix.org/hls/cctv17.m3u8
 CCTV1,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 CCTV2,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
 CCTV3,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
