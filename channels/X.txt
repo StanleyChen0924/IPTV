@@ -3330,6 +3330,14 @@ VOHFM87.7,https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 VOHAM610,https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
 🇺🇸海外頻道,#genre#
+
+SONYMAX,http://183.178.58.115:8027/0.ts
+HBOHITS,http://183.178.58.115:8028/0.ts
+&PICTURES,http://183.178.58.115:8030/0.ts
+CINEMAX,http://183.178.58.115:8029/0.ts
+HBOIGNATURE,http://183.178.58.115:8031/0.ts
+HBO,http://183.178.58.115:8032/0.ts
+老友记,http://183.178.58.115:8033/0.ts
 HGTV居家樂活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 ChannelV[1280*720],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 Outdoor,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
