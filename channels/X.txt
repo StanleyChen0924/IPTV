@@ -69,8 +69,8 @@
 原住民電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 原住民電視台,p5p://fccs.123178.top:9906/60449577000d314201fabeb4cb9a2626.ts
 原住民電視台,mitv://ns2.hellotvvod.com:9906/aa08defb0c824c2286623855624a0e07
-客家電視台,p5p://fccs.123178.top:9906/604494f1000344c901f8b0b9b9276851.ts
 客家電視台,mitv://ns2.hellotvvod.com:9906/bcf16a66476d4c88a5ea6b7d40a56e7c
+客家電視台,p5p://fccs.123178.top:9906/604494f1000344c901f8b0b9b9276851.ts
 國家地理頻道,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
 國家地理頻道,http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8
 國家地理頻道,http://125.227.210.37:16408/VideoInput/play.ts
