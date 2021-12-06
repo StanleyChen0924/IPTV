@@ -1819,6 +1819,54 @@ http://api.phoves.com.cn/iptv/huya.php?id=16859944
 #EXTINF:-1 group-title="虎牙直播",這劇很火
 http://api.phoves.com.cn/iptv/huya.php?id=19811530
 
+#EXTINF:-1 group-title="20211206Test",中视
+http://anan.jxin122.top/cj.php?id=18&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",中视
+http://anan.jxin122.top/cj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",华视
+http://anan.jxin122.top/cj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",民视
+http://anan.jxin122.top/cj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",公视
+http://anan.jxin122.top/cj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",三立台湾台
+http://anan.jxin122.top/cj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",三立都会台
+http://anan.jxin122.top/cj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",三立综合台
+http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",三立综合台
+http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",民视新闻
+http://anan.jxin122.top/cj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",非凡新闻
+http://anan.jxin122.top/cj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",年代新闻
+http://anan.jxin122.top/cj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",纬来体育
+http://anan.jxin122.top/cj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",龙祥年代
+http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",東森洋片
+http://anan.jxin122.top/cj.php?id=28&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",東森电影
+http://anan.jxin122.top/cj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",中天娱乐
+http://anan.jxin122.top/cj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",中天综合
+http://anan.jxin122.top/cj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",中天新闻
+http://anan.jxin122.top/cj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",中天亚洲台
+http://anan.jxin122.top/cj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",東森综合
+http://anan.jxin122.top/cj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",東森新闻
+http://anan.jxin122.top/cj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",TVBS欢乐
+http://anan.jxin122.top/cj.php?id=36&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="20211206Test",TVBS
+http://anan.jxin122.top/cj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 group-title="20211206Test",民視
 http://66.90.88.132:8080/hls/ph00302/index.m3u8
 #EXTINF:-1 group-title="20211206Test",中視
@@ -1831,7 +1879,7 @@ http://66.90.88.132:8080/hls/ph00305/index.m3u8
 http://66.90.88.132:8080/hls/ph00306/index.m3u8
 #EXTINF:-1 group-title="20211206Test",迪士尼
 http://66.90.88.132:8080/hls/ph00308/index.m3u8
-#EXTINF:-1 group-title="20211206Test",ANIMAX
+#EXTINF:-1 group-title="20211206Test",Animax
 http://66.90.88.132:8080/hls/ph00309/index.m3u8
 #EXTINF:-1 group-title="20211206Test",babytv
 http://66.90.88.132:8080/hls/ph00310/index.m3u8
@@ -1867,3 +1915,145 @@ http://66.90.88.132:8080/hls/ph00323/index.m3u8
 http://66.90.88.132:8080/hls/ph00324/index.m3u8
 #EXTINF:-1 group-title="20211206Test",華視新聞資訊
 http://66.90.88.132:8080/hls/ph00325/index.m3u8
+#EXTINF:-1 group-title="20211206Test",TVBS
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF:-1 group-title="20211206Test",TVBS
+http://iptv.tvfix.org/hls/tvbs_v.m3u8
+#EXTINF:-1 group-title="20211206Test",TVBS新聞台
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 group-title="20211206Test",TVBS新聞台
+http://iptv.tvfix.org/hls/tvbsnews_v.m3u8
+#EXTINF:-1 group-title="20211206Test",Discovery
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1 group-title="20211206Test",Discovery
+http://iptv.tvfix.org/hls/discovery_v.m3u8
+#EXTINF:-1 group-title="20211206Test",動物星球
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 group-title="20211206Test",動物星球
+http://iptv.tvfix.org/hls/animal_v.m3u8
+#EXTINF:-1 group-title="20211206Test",國家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 group-title="20211206Test",國家地理
+http://iptv.tvfix.org/hls/natlgeo_v.m3u8
+#EXTINF:-1 group-title="20211206Test",channelv
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 group-title="20211206Test",channelv
+http://iptv.tvfix.org/hls/channelv_v.m3u8
+#EXTINF:-1 group-title="20211206Test",thrill
+http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1 group-title="20211206Test",thrill
+http://iptv.tvfix.org/hls/thrill_v.m3u8
+#EXTINF:-1 group-title="20211206Test",Animax
+http://iptv.tvfix.org/hls/animax.m3u8
+#EXTINF:-1 group-title="20211206Test",Animax
+http://iptv.tvfix.org/hls/animax_v.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv1
+http://iptv.tvfix.org/hls/cctv1.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv2
+http://iptv.tvfix.org/hls/cctv2.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv3
+http://iptv.tvfix.org/hls/cctv3.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv4
+http://iptv.tvfix.org/hls/cctv4.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv5
+http://iptv.tvfix.org/hls/cctv5.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv6
+http://iptv.tvfix.org/hls/cctv6.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv7
+http://iptv.tvfix.org/hls/cctv7.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv8
+http://iptv.tvfix.org/hls/cctv8.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv9
+http://iptv.tvfix.org/hls/cctv9.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv10
+http://iptv.tvfix.org/hls/cctv10.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv11
+http://iptv.tvfix.org/hls/cctv11.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv12
+http://iptv.tvfix.org/hls/cctv12.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv13
+http://iptv.tvfix.org/hls/cctv13.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv14
+http://iptv.tvfix.org/hls/cctv14.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv15
+http://iptv.tvfix.org/hls/cctv15.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv17
+http://iptv.tvfix.org/hls/cctv17.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv1
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv2
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv3
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv4
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv5
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv5+
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv6
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv7
+http://iptv.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv8
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv9
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv10
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv11
+http://iptv.tvfix.org/hls/cctv11hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv12
+http://iptv.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv13
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv14
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv15
+http://iptv.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1 group-title="20211206Test",cctv17
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CHC高清電影
+http://iptv.tvfix.org/hls/chchd.m3u8
+#EXTINF:-1 group-title="20211206Test",CHC動作電影
+http://iptv.tvfix.org/hls/chcatv.m3u8
+#EXTINF:-1 group-title="20211206Test",CHC家庭電影
+http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-1綜合
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-2財經
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-3綜藝
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-4中文國際
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-5體育
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-5+體育賽事
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-6電影
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-7國防軍事
+http://iptv.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-8電視劇
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-9紀錄
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-10科教
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-11戲曲
+http://iptv.tvfix.org/hls/cctv11.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-12社會與法
+http://iptv.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-13新聞
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-14少兒
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-15音樂
+http://iptv.tvfix.org/hls/cctv15.m3u8
+#EXTINF:-1 group-title="20211206Test",CCTV-17農村農業
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 group-title="20211206Test",CGTN
+http://iptv.tvfix.org/hls/cctv16.m3u8
+#EXTINF:-1 group-title="20211206Test",CGTN-紀錄
+http://iptv.tvfix.org/hls/cgtnhd.m3u8
