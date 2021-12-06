@@ -9,6 +9,7 @@
 民視綜藝台,https://4gtvfreemobile-mozai.4gtv.tv/NgfVD30MBxjs1kU9m3lMtxjPqnu2_Me6anz6aPf7PYc%3d/stream2.m3u8?token=m-OTQK_06hRbFrhAJwCjTA&expires=1632730935&token1=8kPUOFYapn4YUVKcqEpDxA&expires1=1632759735&refer=YWQ5MDU3YjYtNGViYy00MGJkLWJiMjMtZjg1NmMyMTYyODU1&y=0&vt=
 民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
 民視,rtmp://59.124.75.138/sat/tv051
+民視,http://66.90.88.132:8080/hls/ph00302/index.m3u8
 民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 民視,https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
@@ -24,6 +25,7 @@
 民視台灣台,https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 台視,rtmp://59.124.75.138/sat/tv071
+台視,http://66.90.88.132:8080/hls/ph00304/index.m3u8
 台視,rtmp://9wv7.mine.nu/sat/tv071
 台視,http://50.7.61.148:30080/Entry/ttv
 台視,rtmp://161.202.204.248/sat/tv071
@@ -32,6 +34,7 @@
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 中視,rtmp://59.124.75.138/sat/tv091
+中視,http://66.90.88.132:8080/hls/ph00303/index.m3u8
 中視,rtmp://9wv7.mine.nu/sat/tv091
 中視,mitv://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
 中視,http://50.7.61.148:30080/Entry/ctv
@@ -40,6 +43,7 @@
 大愛一台,mitv://ns2.hellotvvod.com:9906/47e0000522814c6aac7d54c8bec91445
 華視,rtmp://59.124.75.157/sat/tv111
 華視,rtmp://59.124.75.138/sat/tv111
+華視,http://66.90.88.132:8080/hls/ph00305/index.m3u8
 華視,rtmp://9wv7.mine.nu/sat/tv111
 華視,http://50.7.61.147:30080/Entry/cts
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
@@ -50,6 +54,7 @@
 人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
 人間衛視,mitv://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
 人間衛視,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
+公視,http://66.90.88.132:8080/hls/ph00306/index.m3u8
 公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 公視,https://git.io/JVFGN
 公視,https://git.io/JVFBr
@@ -94,6 +99,8 @@ TLC旅遊生活頻道,mitv://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b6
 動物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 動物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
 動物星球,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
+CN卡通頻道,http://66.90.88.132:8080/hls/ph00307/index.m3u8
+CN卡通頻道,http://66.90.88.132:8080/hls/ph00313/index.m3u8
 CN卡通頻道,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通頻道,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通頻道,http://125.227.210.37:16671/VideoInput/play.ts
@@ -101,6 +108,7 @@ CN卡通頻道,http://125.227.210.55:16671/VideoInput/play.ts
 CN卡通頻道,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通頻道,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 CN卡通頻道,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
+迪士尼卡通,http://66.90.88.132:8080/hls/ph00308/index.m3u8
 迪士尼卡通,http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
 迪士尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
 迪士尼卡通,http://125.227.210.37:14250/VideoInput/play.ts
@@ -186,6 +194,7 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
 TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
+TVBS歡樂台,http://66.90.88.132:8080/hls/ph00317/index.m3u8
 TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
 TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/b4b85eca20d7462fae595d8033c6a9ce
 TVBS歡樂台,http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
@@ -212,6 +221,7 @@ JET綜合台,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
 年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
+東森新聞台,http://66.90.88.132:8080/hls/ph00319/index.m3u8
 東森新聞台,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
 東森新聞台,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞台,http://live96.kglink.xyz:8080/live/tw_dsxw/dsxw.m3u8
@@ -222,21 +232,26 @@ JET綜合台,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
 中天新聞台,https://git.io/Jgkpy
 中天新聞台,https://cn9.9cxz.com/1/qq/hls/index.m3u8
 中天新聞台,http://seb.sason.top/sc/ztxw_fhd.m3u8
+民視新聞台,http://66.90.88.132:8080/hls/ph00322/index.m3u8
 民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
 民視新聞台,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
 民視新聞台,https://git.io/JgkAb
 民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
 民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
+三立新聞台,http://66.90.88.132:8080/hls/ph00320/index.m3u8
 三立新聞台,http://125.227.210.37:15589/VideoInput/play.ts
 三立新聞台,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞台,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
 三立新聞台,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 TVBS新聞台,rtmp://59.124.75.138/sat/tv551
+TVBS新聞台,rtmp://59.124.75.157/sat/tv551
+TVBS新聞台,http://66.90.88.132:8080/hls/ph00318/index.m3u8
 TVBS新聞台,rtmp://9wv7.mine.nu/sat/tv551
 TVBS新聞台,https://git.io/Jgkp1
 TVBS新聞台,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
 TVBS,http://50.7.61.148:30080/Entry/tvbs
+TVBS,http://66.90.88.132:8080/hls/ph00316/index.m3u8
 TVBS,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
 TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda
@@ -245,6 +260,7 @@ TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda
 東森財經新聞台,rtmp://59.124.75.138/sat/tv571
 東森財經新聞台,rtmp://9wv7.mine.nu/sat/tv571
 東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+非凡新聞台,http://66.90.88.132:8080/hls/ph00321/index.m3u8
 非凡新聞台,mitv://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
 非凡新聞台,http://125.227.210.37:15078/VideoInput/play.ts
 非凡新聞台,http://125.227.210.55:15078/VideoInput/play.ts
@@ -255,17 +271,21 @@ Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 衛視電影台,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
+東森電影台,http://66.90.88.132:8080/hls/ph00311/index.m3u8
 東森電影台,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
+緯來電影台,http://66.90.88.132:8080/hls/ph00315/index.m3u8
 緯來電影台,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
 緯來電影台,http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-龍祥電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
-龍祥電影,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台,http://66.90.88.132:8080/hls/ph00314/index.m3u8
+龍祥時代電影台,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
+龍祥時代電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 HBO,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
 HBO,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 HBO,http://50.7.61.148:30080/Entry/hbo
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
+東森洋片台,http://66.90.88.132:8080/hls/ph00312/index.m3u8
 東森洋片台,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
 東森洋片台,http://125.227.210.37:18685/VideoInput/play.ts
 東森洋片台,http://125.227.210.55:18685/VideoInput/play.ts
@@ -334,6 +354,7 @@ FOX頻道,mitv://ns2.hellotvvod.com:9906/f769b6fdc80742349bd8214c8839d9d3
 Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017
+Animax,http://66.90.88.132:8080/hls/ph00309/index.m3u8
 Animax,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 Animax,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
 霹靂台灣台,mitv://ns2.hellotvvod.com:9906/85d6caf44ce4449e8600dc86d1c7be21
@@ -356,6 +377,7 @@ MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛二台,mitv://ns2.hellotvvod.com:9906/4523b0956bb34141bfb61460ea9494ed
 ELTV生活英語台,mitv://ns2.hellotvvod.com:9906/fd64478e967b43f79c151425ad75030f
+babytv,http://66.90.88.132:8080/hls/ph00310/index.m3u8
 靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/f356d20c5a374fef82a196fadfe38a77
 靖洋卡通Nice Bingo,p5p://fccs.123178.top:9906/60bd169300057f1b0955c9653d8db6ac
 靖天卡通台,mitv://ns2.hellotvvod.com:9906/bb214f3596dd4b1c8bae816edff835be
@@ -454,15 +476,16 @@ CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 台視,rtmp://161.202.204.248/sat/tv071
 台視,rtmp://161.202.204.248:1935/sat/tv071
 台視新聞,https://git.io/JgkxY
+台視新聞,http://66.90.88.132:8080/hls/ph00324/index.m3u8
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
 中視,rtmp://59.124.75.138/sat/tv091
 中視,rtmp://9wv7.mine.nu/sat/tv091
 中視,http://50.7.61.148:30080/Entry/ctv
-中視新聞,https://git.io/Jgkxz
-中視新聞,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
-中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
-中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+中視新聞台,https://git.io/Jgkxz
+中視新聞台台,http://66.90.88.132:8080/hls/ph00323/index.m3u8
+中視新聞台,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中視新聞台,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 華視,rtmp://9wv7.mine.nu/sat/tv111
 華視,rtmp://59.124.75.157/sat/tv111
 華視,rtmp://59.124.75.138/sat/tv111
@@ -472,6 +495,7 @@ CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 華視,rtmp://161.202.204.248:1935/sat/tv111
 華視新聞資訊,https://git.io/J1zPH
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
+華視新聞資訊,http://66.90.88.132:8080/hls/ph00325/index.m3u8
 公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 公視,https://git.io/JVFGN
 公視,https://git.io/JVFBr
@@ -860,7 +884,7 @@ tvN 電影高清,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
 衛視電影,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
 東森電影,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
 緯來電影,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
-龍祥電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
+龍祥時代電影台,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
 東森洋片,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
 AXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
 好萊塢電影,mitv://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
@@ -925,6 +949,93 @@ Travel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
 1202測試,#genre#
 
 1206B,
+台湾中视-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=47&pathid=0
+台湾中视-手机请下载APP观看,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=47&pathid=1
+台湾华视-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=46&pathid=0
+台湾华视-手机请下载APP观看,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=46&pathid=1
+台湾台视-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=45&pathid=0
+台湾台视-手机请下载APP观看,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=45&pathid=1
+台湾台视-线路3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=45&pathid=2
+台湾民视-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=44&pathid=0
+台湾民视-手机请下载APP观看,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=44&pathid=1
+台湾民视-线路3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=44&pathid=2
+台湾公视-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=43&pathid=0
+中天新闻台-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=42&pathid=0
+中天综合台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=41&pathid=0
+中天娱乐台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=40&pathid=0
+中天亚洲台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=39&pathid=0
+中天亚洲台-线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=39&pathid=1
+TVBS新闻台-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=38&pathid=0
+TVBS新闻台-手机请下载APP观看,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=38&pathid=1
+TVBS综合台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=37&pathid=0
+TVBS欢乐台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=36&pathid=0
+壹电视综合台-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=35&pathid=0
+壹电视新闻台-线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=34&pathid=0
+东森新闻台-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=33&pathid=0
+东森新闻台-手机请下载APP观看,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=33&pathid=1
+东森综合台-线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=32&pathid=0
+东森幼幼台-线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=31&pathid=0
+东森亚洲台-线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=30&pathid=0
+东森电影台-线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=29&pathid=0
+东森电影台-手机请下载APP观看,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=29&pathid=1
+东森洋片台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=28&pathid=0
+东森洋片台-线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=28&pathid=1
+东森财经新闻台-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=27&pathid=0
+三立新闻台-线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=26&pathid=0
+三立都会台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=25&pathid=0
+三立台湾台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=24&pathid=0
+三立国际台-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=23&pathid=0
+八大综合台-线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=22&pathid=0
+八大综合台-线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=22&pathid=1
+八大第一台-线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=21&pathid=0
+八大娱乐K台-线路1（仅支持电脑）,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=20&pathid=0
+八大娱乐K台-线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=20&pathid=1
+中视新闻台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=19&pathid=0
+中视综合台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=18&pathid=0
+中视综艺台-1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=17&pathid=0
+卫视电影台-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=16&pathid=0
+卫视电影台-手机请下载APP观看,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=16&pathid=1
+天映电影台-高清线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=15&pathid=0
+天映电影台-线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=15&pathid=1
+龙祥电影台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=14&pathid=0
+龙祥电影台-线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=14&pathid=1
+龙祥时代电影台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=13&pathid=0
+龙祥时代电影台-线路2,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=13&pathid=1
+龙祥时代电影台-线路3,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=13&pathid=2
+纬来综合台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=12&pathid=0
+纬来体育台-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=11&pathid=0
+纬来日本台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=10&pathid=0
+纬来电影台-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=9&pathid=0
+纬来电影台-手机请下载APP观看,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=9&pathid=1
+年代新闻台-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=7&pathid=0
+非凡新闻台-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=6&pathid=0
+民视新闻台-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=5&pathid=0
+卫视中文台-线路1,https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=4&pathid=0
+星空国际台-线路1(仅支持电脑),https://www.chaojidianshi.net/e/DownSys/play/?classid=3&id=3&pathid=0
+港|中视,http://anan.jxin122.top/cj.php?id=18&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|中视,http://anan.jxin122.top/cj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|华视,http://anan.jxin122.top/cj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|民视,http://anan.jxin122.top/cj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|公视,http://anan.jxin122.top/cj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|三立台湾台,http://anan.jxin122.top/cj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|三立都会台,http://anan.jxin122.top/cj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52台
+港|三立综合台,http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|三立综合台,http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|民视新闻,http://anan.jxin122.top/cj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|非凡新闻,http://anan.jxin122.top/cj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|年代新闻,http://anan.jxin122.top/cj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|纬来体育,http://anan.jxin122.top/cj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|龙祥年代,http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|東森洋片,http://anan.jxin122.top/cj.php?id=28&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|東森电影,http://anan.jxin122.top/cj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|中天娱乐,http://anan.jxin122.top/cj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|中天综合,http://anan.jxin122.top/cj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|中天新闻,http://anan.jxin122.top/cj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|中天亚洲台,http://anan.jxin122.top/cj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|東森综合,http://anan.jxin122.top/cj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|東森新闻,http://anan.jxin122.top/cj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|TVBS欢乐,http://anan.jxin122.top/cj.php?id=36&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+港|TVBS,http://anan.jxin122.top/cj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 1206E,
 1205BT,
@@ -938,7 +1049,7 @@ tvN 電影高清,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
 衛視電影,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
 東森電影,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
 緯來電影,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
-龍祥電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
+龍祥時代電影台,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
 東森洋片,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
 AXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
 好萊塢電影,mitv://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
@@ -1291,9 +1402,9 @@ TVBS,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
 台視新聞,https://git.io/JgkxY
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
-中視新聞,https://git.io/Jgkxz
-中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
-中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+中視新聞台,https://git.io/Jgkxz
+中視新聞台,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中視新聞台,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 華視新聞資訊,https://git.io/J1zPH
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 華視新聞資訊,https://git.io/Jgkxa
@@ -1407,7 +1518,7 @@ TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
 非凡商業台,mitv://ns2.hellotvvod.com:9906/ab4d36f3d889496a92747157c7e4c732
 國會頻道1,mitv://ns2.hellotvvod.com:9906/3b86853022324c3da4928922ba545877
 國會頻道2,mitv://ns2.hellotvvod.com:9906/7350ee5ff93341a08945bc1c8d95cd1c
-中視新聞台,mitv://ns2.hellotvvod.com:9906/7575a0153b074f2d91c69eafe28ba22d
+中視新聞台台,mitv://ns2.hellotvvod.com:9906/7575a0153b074f2d91c69eafe28ba22d
 寰宇新聞台,mitv://ns2.hellotvvod.com:9906/7a095cbbff944242bd359bb0f32ac5f2
 寰宇新聞台灣台,mitv://ns2.hellotvvod.com:9906/b6a355771a7e4b469684732040c522f7
 台視新聞台,mitv://ns2.hellotvvod.com:9906/ec46ca942a3a4c9292c0dee902f579bf
@@ -4165,7 +4276,7 @@ ONe,p5p://0198.02686.cc:16871/5f6ac2ff000df70f6abcbcb9c0ae25c3.ts
 台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
 台視綜合,p5p://fccs.123178.top:9906/6044936700021fe101f2ad5ea50e836e.ts
 中視 HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
-中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
+中視新聞台,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
 中視精彩,p5p://fccs.123178.top:9906/6044887d000496a501c80bf0a54afd29
 中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
 華視 HD,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
@@ -4262,7 +4373,7 @@ AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 AXN,p5p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
 Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts
 Cinemax,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
 天映電影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
 星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
@@ -5292,7 +5403,7 @@ BBCworldHD,http://125.227.210.55:10246/VideoInput/play.ts
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 東風衛視,http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
-中視新聞HD,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中視新聞台HD,http://seb.sason.top/sc/zsxw_fhd.m3u8
 華視新聞資訊HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
 台視新聞HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視HD,http://seb.sason.top/ptv/ftv.php?id=ms
@@ -5357,7 +5468,7 @@ EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 好萊塢電影,p5p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts	
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 緯來電影台,p5p://fccs.123178.top:9906/.6045bc330008915e067a0be52c863eff.ts
 
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
@@ -5436,9 +5547,9 @@ VIU SIX,p5p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
 中視 HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
 中視 HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
 中視 HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
-中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
-中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
-中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
+中視新聞台,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
+中視新聞台,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
+中視新聞台,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
 中視精彩,p5p://fccs.123178.top:9906/6044887d000496a501c80bf0a54afd29
 中視精彩,p5p://fccs.123178.top:9906/6044887d000496a501c80bf0a54afd29
 中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
@@ -5639,8 +5750,8 @@ AXN,p5p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
 Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts
 Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts
 Cinemax,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
@@ -5906,9 +6017,9 @@ Z 頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 中視 HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
 中視 HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
 中視 HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
-中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
-中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
-中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
+中視新聞台,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
+中視新聞台,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
+中視新聞台,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
 中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
 中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
 中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
@@ -5979,8 +6090,8 @@ TVBS精彩台,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 好萊塢電影,p5p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
 好萊塢電影,p5p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
 好萊塢電影,p5p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
@@ -6131,7 +6242,7 @@ thrill電影台,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
 KIX電影台,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts	
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰中文台,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
@@ -6207,8 +6318,8 @@ CN卡通頻道,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 AXN,p5p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
@@ -6289,7 +6400,7 @@ EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 好萊塢電影,p5p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts	
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥時代電影台台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 緯來電影台,p5p://fccs.123178.top:9906/.6045bc330008915e067a0be52c863eff.ts
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
