@@ -1915,6 +1915,10 @@ http://66.90.88.132:8080/hls/ph00323/index.m3u8
 http://66.90.88.132:8080/hls/ph00324/index.m3u8
 #EXTINF:-1 group-title="20211206Test",華視新聞資訊
 http://66.90.88.132:8080/hls/ph00325/index.m3u8
+#EXTINF:-1 group-title="20211206Test",tvn
+tvN,http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF:-1 group-title="20211206Test",tvN
+tvN,http://iptv.tvfix.org/hls/tvN.m3u8
 #EXTINF:-1 group-title="20211206Test",TVBS
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF:-1 group-title="20211206Test",TVBS
