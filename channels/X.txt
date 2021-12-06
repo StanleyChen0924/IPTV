@@ -1119,24 +1119,28 @@ Travel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
 1205ET,
 
 2021201BT,
-高清频道,
-cctv1,http://iptv.tvfix.org/hls/cctv1.m3u8
-cctv2,http://iptv.tvfix.org/hls/cctv2.m3u8
-cctv3,http://iptv.tvfix.org/hls/cctv3.m3u8
-cctv4,http://iptv.tvfix.org/hls/cctv4.m3u8
-cctv5,http://iptv.tvfix.org/hls/cctv5.m3u8
-cctv6,http://iptv.tvfix.org/hls/cctv6.m3u8
-cctv7,http://iptv.tvfix.org/hls/cctv7.m3u8
-cctv8,http://iptv.tvfix.org/hls/cctv8.m3u8
-cctv9,http://iptv.tvfix.org/hls/cctv9.m3u8
-cctv10,http://iptv.tvfix.org/hls/cctv10.m3u8
-cctv11,http://iptv.tvfix.org/hls/cctv11.m3u8
-cctv12,http://iptv.tvfix.org/hls/cctv12.m3u8
-cctv13,http://iptv.tvfix.org/hls/cctv13.m3u8
-cctv14,http://iptv.tvfix.org/hls/cctv14.m3u8
-cctv15,http://iptv.tvfix.org/hls/cctv15.m3u8
-cctv17,http://iptv.tvfix.org/hls/cctv17.m3u8
-channelv,http://iptv.tvfix.org/hls/channelv.m3u8
+CHC高清電影,http://iptv.tvfix.org/hls/chchd.m3u8
+CHC動作電影,http://iptv.tvfix.org/hls/chcatv.m3u8
+CHC家庭電影,http://iptv.tvfix.org/hls/chctv.m3u8
+CCTV-1綜合,http://iptv.tvfix.org/hls/cctv1hd.m3u8
+CCTV-2財經,http://iptv.tvfix.org/hls/cctv2hd.m3u8
+CCTV-3綜藝,http://iptv.tvfix.org/hls/cctv3hd.m3u8
+CCTV-4中文國際,http://iptv.tvfix.org/hls/cctv4hd.m3u8
+CCTV-5體育,http://iptv.tvfix.org/hls/cctv5hd.m3u8
+CCTV-5+體育賽事,http://iptv.tvfix.org/hls/cctv5phd.m3u8
+CCTV-6電影,http://iptv.tvfix.org/hls/cctv6hd.m3u8
+CCTV-7國防軍事,http://iptv.tvfix.org/hls/cctv7hd.m3u8
+CCTV-8電視劇,http://iptv.tvfix.org/hls/cctv8hd.m3u8
+CCTV-9紀錄,http://iptv.tvfix.org/hls/cctv9hd.m3u8
+CCTV-10科教,http://iptv.tvfix.org/hls/cctv10hd.m3u8
+CCTV-11戲曲,http://iptv.tvfix.org/hls/cctv11.m3u8
+CCTV-12社會與法,http://iptv.tvfix.org/hls/cctv12hd.m3u8
+CCTV-13新聞,http://iptv.tvfix.org/hls/cctv13hd.m3u8
+CCTV-14少兒,http://iptv.tvfix.org/hls/cctv14hd.m3u8
+CCTV-15音樂,http://iptv.tvfix.org/hls/cctv15.m3u8
+CCTV-17農村農業,http://iptv.tvfix.org/hls/cctv17hd.m3u8
+CGTN,http://iptv.tvfix.org/hls/cctv16.m3u8
+CGTN-紀錄,http://iptv.tvfix.org/hls/cgtnhd.m3u8
 20211126BT,
 台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
 中视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
@@ -1623,6 +1627,24 @@ SPOTV 2,mitv://ns2.hellotvvod.com:9906/246d695ded73471592067991cec67aa7
 JTBC GOLF,mitv://ns2.hellotvvod.com:9906/a16d5e5357444665ae91388cfab7eaf9
 
 🇨🇳央視頻道,#genre#
+
+cctv1,http://iptv.tvfix.org/hls/cctv1hd.m3u8
+cctv2,http://iptv.tvfix.org/hls/cctv2hd.m3u8
+cctv3,http://iptv.tvfix.org/hls/cctv3hd.m3u8
+cctv4,http://iptv.tvfix.org/hls/cctv4hd.m3u8
+cctv5,http://iptv.tvfix.org/hls/cctv5hd.m3u8
+cctv5+,http://iptv.tvfix.org/hls/cctv5phd.m3u8
+cctv6,http://iptv.tvfix.org/hls/cctv6hd.m3u8
+cctv7,http://iptv.tvfix.org/hls/cctv7hd.m3u8
+cctv8,http://iptv.tvfix.org/hls/cctv8hd.m3u8
+cctv9,http://iptv.tvfix.org/hls/cctv9hd.m3u8
+cctv10,http://iptv.tvfix.org/hls/cctv10hd.m3u8
+cctv11,http://iptv.tvfix.org/hls/cctv11hd.m3u8
+cctv12,http://iptv.tvfix.org/hls/cctv12hd.m3u8
+cctv13,http://iptv.tvfix.org/hls/cctv13hd.m3u8
+cctv14,http://iptv.tvfix.org/hls/cctv14hd.m3u8
+cctv15,http://iptv.tvfix.org/hls/cctv15hd.m3u8
+cctv17,http://iptv.tvfix.org/hls/cctv17hd.m3u8
 
 cctv1,http://iptv.tvfix.org/hls/cctv1.m3u8
 cctv2,http://iptv.tvfix.org/hls/cctv2.m3u8
@@ -8527,3 +8549,4 @@ VIP-KOREA-2-4,http://hotstream.asia/2018/1/30/kbj18011913.mp4
 VIP-KOREA-2-40,http://hotstream.asia/2018/2/12/kbj18020305.mp4
 VIP-KOREA-2-41,http://hotstream.asia/2018/2/12/kbj18013004-03.mp4
 VIP-KOREA-2-42,http://hotstream.asia/2018/2/12/kbj18020909-01.mp4
+
