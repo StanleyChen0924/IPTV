@@ -69,6 +69,7 @@
 公視,mitv://ns2.hellotvvod.com:9906/a1c2ecbcd3b64f3eb72ac9191b337cda
 公視2,p2p://fccs.123178.top:9806/60448f540003197f01e2c366b8927af8.ts
 公視2,mitv://ns2.hellotvvod.com:9906/cc76c2a0dc1f4fe0b4ca8f0c0f6e31d9
+好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息,http://211.23.114.106:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8
 好消息,p5p://fccs.123178.top:9906/60b575c30003189a05772bc6fbb8fc4f
 好消息,mitv://ns2.hellotvvod.com:9906/7df332eeb26546bf94a972d4c2d1ad4e
@@ -215,6 +216,7 @@ JET綜合台,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+寰宇新聞全球台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 寰宇新聞全球台,http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 寰宇新聞全球台,https://git.io/JgkpO
 寰宇新聞全球台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
