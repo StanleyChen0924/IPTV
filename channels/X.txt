@@ -601,6 +601,7 @@ TLC旅遊生活頻道,http://50.7.61.147:30080/Entry/tlc
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 亞洲旅遊台,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
+美亞高清電影台,http://anan.jxin122.top/cj.php?id=75&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 美亞高清電影台,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
 美亞高清電影台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
 Cinemax,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
