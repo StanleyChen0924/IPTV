@@ -119,6 +119,7 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&a
 #https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="6239" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/100px-SET_incorporated_logo.svg.png",三立綜合
+http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" tvg-id="7221" tvg-name="三立戏剧" group-title="一般",三立戲劇
@@ -1835,8 +1836,6 @@ http://anan.jxin122.top/cj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc5
 http://anan.jxin122.top/cj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 group-title="20211206Test",三立都会台
 http://anan.jxin122.top/cj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",三立综合台
-http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 group-title="20211206Test",三立综合台
 http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 group-title="20211206Test",民视新闻
