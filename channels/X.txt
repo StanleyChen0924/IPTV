@@ -617,6 +617,9 @@ CHC家庭電影,http://iptv.tvfix.org/hls/chctv.m3u8
 CHC家庭電影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC動作電影,http://iptv.tvfix.org/hls/chcatv.m3u8
 CHC動作電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC高清電影,http://mail.lacool.tk:8086/rtp/239.93.42.5:5140
+CHC家庭電影,http://mail.lacool.tk:8086/rtp/239.93.42.6:5140
+CHC動作電影,http://mail.lacool.tk:8086/rtp/239.93.42.7:5140
 龍華電影台,http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龍華電影台,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
 龍華洋片台,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
