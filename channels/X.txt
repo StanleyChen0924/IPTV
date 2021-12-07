@@ -141,6 +141,7 @@ MOMO親子台,mitv://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
+三立台灣台,http://anan.jxin122.top/cj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
 三立台灣台,http://125.227.210.37:15714/VideoInput/play.ts
 三立台灣台,http://50.7.61.148:30080/Entry/settw-
@@ -151,6 +152,7 @@ MOMO親子台,mitv://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
+三立都會台,http://anan.jxin122.top/cj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 三立都會台,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
@@ -160,6 +162,7 @@ MOMO親子台,mitv://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
 衛視中文台,http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
 衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
 衛視中文台,p5p：//fccs.123178.top：9906/6045bbb2000922ef0678142229e89274.ts
+東森綜合,http://anan.jxin122.top/cj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 東森綜合,mitv://ns2.hellotvvod.com:9906/8c962bcce29840f4a4f0109bfd7fe5c0
 東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
@@ -173,6 +176,7 @@ MOMO親子台,mitv://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
 CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+中天綜合台,http://anan.jxin122.top/cj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 中天綜合台,mitv://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
 中天綜合台,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天綜合台,http://125.227.210.37:14583/VideoInput/play.ts
@@ -182,6 +186,7 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 年代MUCH,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+中天娛樂台,http://anan.jxin122.top/cj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 中天娛樂台,mitv://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
 中天娛樂台,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
@@ -269,18 +274,20 @@ TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda
 非凡新聞台,http://125.227.210.37:15078/VideoInput/play.ts
 非凡新聞台,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞台,http://50.7.61.147:30080/Entry/ubnbus
-美亞高清電影台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+三立綜合台,http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 衛視電影台,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
 衛視電影台,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
+東森電影台,http://anan.jxin122.top/cj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 東森電影台,http://66.90.88.132:8080/hls/ph00311/index.m3u8
 東森電影台,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
 東森電影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
 緯來電影台,http://66.90.88.132:8080/hls/ph00315/index.m3u8
 緯來電影台,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
 緯來電影台,http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
+龍祥時代電影台,http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 龍祥時代電影台,http://66.90.88.132:8080/hls/ph00314/index.m3u8
 龍祥時代電影台,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
 龍祥時代電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
@@ -289,6 +296,7 @@ HBO,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 HBO,http://50.7.61.148:30080/Entry/hbo
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
+東森洋片台,http://anan.jxin122.top/cj.php?id=28&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 東森洋片台,http://66.90.88.132:8080/hls/ph00312/index.m3u8
 東森洋片台,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
 東森洋片台,http://125.227.210.37:18685/VideoInput/play.ts
@@ -601,12 +609,12 @@ CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594.t
 CatchPlay電影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
 靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
 靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
-CHC高清電影,http://live.scuec.edu.cn:8080/hls/chchd.m3u8
+CHC高清電影,http://iptv.tvfix.org/hls/chchd.m3u8
 CHC高清電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC高清電影,http://ye23.win/iptv/saxyd.php?id=G_CHCGQDY
-CHC家庭電影,http://live.scuec.edu.cn:8080/hls/chctv.m3u8
+CHC家庭電影,http://iptv.tvfix.org/hls/chctv.m3u8
 CHC家庭電影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC動作電影,http://live.scuec.edu.cn:8080/hls/chcatv.m3u8
+CHC動作電影,http://iptv.tvfix.org/hls/chcatv.m3u8
 CHC動作電影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 龍華電影台,http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龍華電影台,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
