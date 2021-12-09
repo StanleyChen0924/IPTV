@@ -292,7 +292,7 @@ Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 緯來電影台,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
 緯來電影台,http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 龍祥時代電影台,http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-龍祥時代電影台,http://66.90.88.132:8080/hls/ph00314/index.m3u8
+龍祥時代電影台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=lxsd&upt=7e4f8041b306488a
 龍祥時代電影台,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
 龍祥時代電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 HBO,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
