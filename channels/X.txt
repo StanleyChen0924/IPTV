@@ -982,6 +982,8 @@ ETtoday综合台,P2p://ns2.hellotvvod.com:9906/b9f9c80102d54af7b3bc3aedc124afa9
 東森新闻,http://anan.jxin122.top/cj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVBS歡樂,http://anan.jxin122.top/cj.php?id=36&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVBS,http://anan.jxin122.top/cj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+星衛娛樂台,mitv://ns2.hellotvvod.com:9906/866cb328f02348c9aa3a2cf6858ca8c6
+
 1208p5p,
 民视 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 台视综合,p5p://fccs.123178.top:9906/6044936700021fe101f2ad5ea50e836e.ts
@@ -8972,7 +8974,7 @@ VIP-KOREA-2-40,http://hotstream.asia/2018/2/12/kbj18020305.mp4
 VIP-KOREA-2-41,http://hotstream.asia/2018/2/12/kbj18013004-03.mp4
 VIP-KOREA-2-42,http://hotstream.asia/2018/2/12/kbj18020909-01.mp4
 
-$c_startAV(1)源_1111$c_end
+startAV_1111,#genre#
 HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 潘多拉完美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
 極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
@@ -9030,7 +9032,7 @@ AV女王,p8p://fccs.123178.top:9906/6163d1210000438c0d46ea35645dfedb
 水多多,p8p://fccs.123178.top:9906/6163d262000030a30d4bd018f5ef2d93
 櫻桃,p8p://fccs.123178.top:9906/6163db960004ec200d6fc46e629bcf58
 
-$c_start福利源_1111$c_end
+start福利源_1111,#genre#
 潘朵拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
 松视1,p9p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
 松视2,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
