@@ -301,7 +301,7 @@ HBO,http://50.7.61.148:30080/Entry/hbo
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 東森洋片台,http://anan.jxin122.top/cj.php?id=28&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-東森洋片台,http://66.90.88.132:8080/hls/ph00312/index.m3u8
+東森洋片台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsyp&upt=7e4f8041b306488a
 東森洋片台,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
 東森洋片台,http://125.227.210.37:18685/VideoInput/play.ts
 東森洋片台,http://125.227.210.55:18685/VideoInput/play.ts
