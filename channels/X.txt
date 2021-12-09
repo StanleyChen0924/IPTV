@@ -782,7 +782,7 @@ KPOP,https://git.io/JgYAE
 KPOP,https://git.io/JgYAE
 SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
+Tvn,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 tvN,p5p://0198.02686.cc:16871/5f37e249000e578642c51e20bbf21abb
 tvN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
