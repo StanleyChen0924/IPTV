@@ -880,6 +880,20 @@ Travel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
 
 1208測試,#genre#
 
+1209sop,
+HBO亚洲s,sop://p2p.cibn.cc:80/12041$P2P高清
+HBO高清亚洲s,sop://p2p.cibn.cc:80/100010$P2P高清
+HBO原创巨献s,sop://p2p.cibn.cc:80/100007$P2P高清
+HBO强档巨献s,sop://p2p.cibn.cc:80/100008$P2P高清
+HBO温馨家庭s,sop://p2p.cibn.cc:80/100009$P2P高清
+卫视电影s,sop://p2p.cibn.cc:80/754$P2P高清
+卫视音乐s,sop://p2p.cibn.cc:80/12046$P2P高清
+星空卫视s,sop://p2p.cibn.cc:80/791$P2P高清
+莲花卫视s,sop://p2p.cibn.cc:80/100000$P2P高清
+龙翔电影s,sop://p2p.cibn.cc:80/100003$P2P高清
+星空电影s,sop://p2p.cibn.cc:80/100004$P2P高清
+东森电影s,sop://p2p.cibn.cc:80/100005$P2P高清
+东森洋片s,sop://p2p.cibn.cc:80/100006$P2P高清
 1208anan,
 中視,http://anan.jxin122.top/cj.php?id=18&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 中視,http://anan.jxin122.top/cj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
