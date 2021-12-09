@@ -878,7 +878,64 @@ EYE TV旅遊,mitv://ns2.hellotvvod.com:9906/5512ec54a1254879b4e39f92b63565ab
 Travel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
 時尚頻道,mitv://ns2.hellotvvod.com:9906/a6cb54e5bd294cc98064df05ad1b3fc1
 
+P8P,#genre#
+
+年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
+民視新聞,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+東森財經新聞,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
+
+最佳电视,#genre#
+Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
+探索亚洲,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
+国家地理,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
+探索频道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
+探索頻道,rtmp://58.200.131.2:1935/livetv/discovery#mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
+國家地理頻道,rtmp://58.200.131.2:1935/livetv/natlgeo#mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
+WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+地理野生,http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
+地理悠人,http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+國家地理頻道悠人,mitv://147.135.39.171:9906/5ea1441e000473decb87144e4b600a26.ts
+國家地理頻道野生,mitv://147.135.39.171:9906/5ea13fdf000c8069cb7680495d882a82.ts
+探索動力頻道,mitv://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts
+Discovery 動力頻道 HD,mitv://198.255.74.57:11196/5f4fc8400002f8e0ec63ee68e69ef308
+Discovery 科學頻道 HD,mitv://198.255.74.57:11196/5f4fc84000022230ec63ee3144b65816
+國家地理People HD,mitv://198.255.74.57:11196/5f4fc83f000ed824ec63ed8a824d0417
+國家地理野生頻道 HD,mitv://198.255.74.57:11196/5f4fc83f000dfb04ec63ed518c070f49
+Discovery EVE HD,mitv://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
+探索頻道亞洲,mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
+
+探索科學頻道,mitv://147.135.39.171:9906/5ea13fe1000b88c3cb7687db43d01a4a.ts
+動物星球,mitv://147.135.39.171:9906/5ea13bb00003dd3ccb66267f33fc00d1.ts
+Discovery动力频道,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33abb.ts
+Ci罪案侦缉 HD,p2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.ts
+Discovery EVE,p2p://lino.homeunix.com:6007/59fd286b000e1cdb02b260d1385f3d28.ts
+History HD,p2p://lino.homeunix.com:6007/59fd16f900060059026e396d395f3348.ts
+History2 HD,p2p://lino.homeunix.com:6007/59fd2b7900012c9002be4c3577197bb9.ts
+BBC earth 地球频道 HD,p2p://lino.homeunix.com:6007/59fd3223000ee20302d857cf1a981663.ts
+BBC生活频道,p2p://lino.homeunix.com:6007/59fd320000071ba102d7cd137e585878.ts
+E! Entertainment,p2p://lino.homeunix.com:6007/59fd29f4000d9cec02b85fd97aba3e4f.ts
+EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
+OUTDOOR HD,p2p://lino.homeunix.com:6007/59fd15a600029d6902690c5b552d077d.ts
+国家地理野生,vjms://58.215.133.189:8500:3502/live/cid=263#p2p://lino.homeunix.com:6007/59fd082b000c6ca7023466633fed4c93.ts#P2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=396
+动物星球,vjms://58.215.133.185:8500:3502/live/cid=3#http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+TLC旅游生活,vjms://58.215.133.185:8500:3502/live/cid=103#vjms://23.237.33.155:8500:3502/live/cid=103
+SMART,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
+亚洲旅游台,P2p://190.2.146.92:18912/5c724854000188081d520e6e279b2446.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
+StarWorld,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
+BBC Earth,http://fang.fhzyy.com/live/260087c6636049bbbc187027547c905d.flv
+求索科学 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
+求索记录 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
+亚洲旅游台 HD,p2p://lino.homeunix.com:6007/59fd0809000909e90233e0b820d34ea5.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
+FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
+BBC Cbeebies,mitv://147.135.39.171:9906/5dea93910008156c5a02c21b24cc6be4.ts
+
+
 P2P,#genre#
+
 无线新闻台,P2p://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
 无线财经·资讯台,P2p://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
 ViuTVsix,P2p://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
