@@ -904,68 +904,6 @@ EYE TV旅遊,mitv://ns2.hellotvvod.com:9906/5512ec54a1254879b4e39f92b63565ab
 Travel Channel,mitv://147.135.39.171:9906/60563719000925f79e2d93e67ebc5a59
 時尚頻道,mitv://ns2.hellotvvod.com:9906/a6cb54e5bd294cc98064df05ad1b3fc1
 
-原生解碼,#genre#
-Aljazeera,http://66.90.88.132:8080/hls/ph00204/index.m3u8
-DW,http://66.90.88.132:8080/hls/ph00206/index.m3u8
-NHK,http://66.90.88.132:8080/hls/ph00203/index.m3u8
-BBCWORLDNEWS,http://66.90.88.132:8080/hls/ph00202/index.m3u8
-TV5MONDE,http://66.90.88.132:8080/hls/ph00207/index.m3u8
-TRTWORLD,http://66.90.88.132:8080/hls/ph00205/index.m3u8
-KBSWORLD,http://66.90.88.132:8080/hls/ph00208/index.m3u8
-CNA,http://66.90.88.132:8080/hls/ph00211/index.m3u8
-FRANCE24,http://66.90.88.132:8080/hls/ph00209/index.m3u8
-RT,http://66.90.88.132:8080/hls/ph00210/index.m3u8
-CNN,http://66.90.88.132:8080/hls/ph00201/index.m3u8
-SKYnews,http://66.90.88.132:8080/hls/ph00212/index.m3u8
-KIX,http://66.90.88.132:8080/hls/ph00237/index.m3u8
-HBOHITS,http://66.90.88.132:8080/hls/ph00232/index.m3u8
-WBTV,http://66.90.88.132:8080/hls/ph00235/index.m3u8
-HBO,http://66.90.88.132:8080/hls/ph00231/index.m3u8
-HBOSignature,http://66.90.88.132:8080/hls/ph00234/index.m3u8
-HBOFAMILY,http://66.90.88.132:8080/hls/ph00233/index.m3u8
-CINEMAX,http://66.90.88.132:8080/hls/ph00238/index.m3u8
-国家地理,http://66.90.88.132:8080/hls/ph00242/index.m3u8
-DISCOVER ASIA,http://66.90.88.132:8080/hls/ph00240/index.m3u8
-国家地理野生,http://66.90.88.132:8080/hls/ph00243/index.m3u8
-AXN,http://66.90.88.132:8080/hls/ph00236/index.m3u8
-DMAX,http://66.90.88.132:8080/hls/ph00241/index.m3u8
-TLC,http://66.90.88.132:8080/hls/ph00244/index.m3u8
-BLOOMBERG,http://66.90.88.132:8080/hls/ph00247/index.m3u8
-ANIMAL,http://66.90.88.132:8080/hls/ph00245/index.m3u8
-AFN,http://66.90.88.132:8080/hls/ph00246/index.m3u8
-CNBC,http://66.90.88.132:8080/hls/ph00248/index.m3u8
-DISCOVER,http://66.90.88.132:8080/hls/ph00239/index.m3u8
-BBCEARTH,http://66.90.88.132:8080/hls/ph00249/index.m3u8
-HISTORY2,http://66.90.88.132:8080/hls/ph00251/index.m3u8
-HISTORY,http://66.90.88.132:8080/hls/ph00250/index.m3u8
-BEINSPRTS,http://66.90.88.132:8080/hls/ph00281/index.m3u8
-CN卡通,http://66.90.88.132:8080/hls/ph00307/index.m3u8
-华视,http://66.90.88.132:8080/hls/ph00305/index.m3u8
-台视,http://66.90.88.132:8080/hls/ph00304/index.m3u8
-民视,http://66.90.88.132:8080/hls/ph00302/index.m3u8
-中视,http://66.90.88.132:8080/hls/ph00303/index.m3u8
-公视,http://66.90.88.132:8080/hls/ph00306/index.m3u8
-DISNEP,http://66.90.88.132:8080/hls/ph00308/index.m3u8
-东森电影,http://66.90.88.132:8080/hls/ph00311/index.m3u8
-BABY,http://66.90.88.132:8080/hls/ph00310/index.m3u8
-东森洋片,http://66.90.88.132:8080/hls/ph00312/index.m3u8
-龙翔时代,http://66.90.88.132:8080/hls/ph00314/index.m3u8
-CN卡通,http://66.90.88.132:8080/hls/ph00313/index.m3u8
-纬来电影,http://66.90.88.132:8080/hls/ph00315/index.m3u8
-ANIMAX,http://66.90.88.132:8080/hls/ph00309/index.m3u8
-TVBS欢乐台,http://66.90.88.132:8080/hls/ph00317/index.m3u8
-TVBS新闻台,http://66.90.88.132:8080/hls/ph00318/index.m3u8
-东森新闻,http://66.90.88.132:8080/hls/ph00319/index.m3u8
-非凡新闻,http://66.90.88.132:8080/hls/ph00321/index.m3u8
-民视新闻,http://66.90.88.132:8080/hls/ph00322/index.m3u8
-中视新闻,http://66.90.88.132:8080/hls/ph00323/index.m3u8
-华视新闻资讯,http://66.90.88.132:8080/hls/ph00325/index.m3u8
-台视新闻,http://66.90.88.132:8080/hls/ph00324/index.m3u8
-三立新闻,http://66.90.88.132:8080/hls/ph00320/index.m3u8
-TVBS,http://66.90.88.132:8080/hls/ph00316/index.m3u8
-凤凰资讯,http://66.90.88.132:8080/hls/ph00452/index.m3u8
-凤凰香港,http://66.90.88.132:8080/hls/ph00453/index.m3u8
-
 1213,#genre#
 TVBS新聞台,mitv://51.81.90.178:9906/4c700aa999594ea5893d7eab1519f187
 三立iNews,mitv://51.81.90.178:9906/49035f1ad8b84fa7822c0ff660d89f09
@@ -6734,6 +6672,13 @@ Happy
 惹火台
 冰火頻道
 成人極品台
+
+松視1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
+松視2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+松視3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+松視4台,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
+潘朵啦高畫質玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+
 松视1台402,http://sxgs88.picp.vip:9090/hstv.php?id=402&type=.m3u8
 松视2台403,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 松视3台404,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
@@ -6885,11 +6830,6 @@ Happy,p5p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
 JStar極限台電影頻道,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e
 松視1台,p5p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04
 松視2台,p5p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a
-松視1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
-松視2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
-松視3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-松視4台,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
-潘朵啦高畫質玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
 彩虹e台,mitv://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
 彩虹電影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
 Look TV,mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
@@ -6904,15 +6844,15 @@ Hot,mitv://ns2.hellotvvod.com:9906/c89f06c3593342ff9c3cb59d2542a192
 JStar極限台電影頻道,mitv://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a
 Happy,mitv://ns2.hellotvvod.com:9906/9895c01831c643ea816f126483f1242d
 PLAYBOY,mitv://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69
-红松,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/360.m3u8 
-红松2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/361.m3u8 
+红松,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/360.m3u8
+红松2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/361.m3u8
 HOT,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/362.m3u8
-素人,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/363.m3u8 
-NYX MEDIA,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/364.m3u8 
+素人,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/363.m3u8
+NYX MEDIA,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/364.m3u8
 NYX MEDIA2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/365.m3u8
 iBiza Media,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/366.m3u8
 iBiza Media2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/367.m3u8
-NYX MEDIA3,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/368.m3u8 
+NYX MEDIA3,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/368.m3u8
 彩虹e台,p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8
 彩虹电影台,p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3
 LOOK TV,p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771
