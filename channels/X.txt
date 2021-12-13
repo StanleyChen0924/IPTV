@@ -6911,6 +6911,33 @@ Happy
 二本道415,http://sxgs88.picp.vip:9090/hstv.php?id=415&type=.m3u8
 彩虹E416,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
 
+松視1,http://45.11.92.170/play/smart/xziptv.php?id=402
+松視2,http://45.11.92.170/play/smart/xziptv.php?id=403
+松視3,http://45.11.92.170/play/smart/xziptv.php?id=404
+香蕉台,http://45.11.92.170/play/smart/xziptv.php?id=408
+潘朵拉完美,http://45.11.92.170/play/smart/xziptv.php?id=410
+潘朵拉粉紅,http://45.11.92.170/play/smart/xziptv.php?id=411
+彩虹電影,http://45.11.92.170/play/smart/xziptv.php?id=413
+彩虹K,http://45.11.92.170/play/smart/xziptv.php?id=406
+彩虹E,http://45.11.92.170/play/smart/xziptv.php?id=405
+一本道,http://45.11.92.170/play/smart/xziptv.php?id=414
+二本道,http://45.11.92.170/play/smart/xziptv.php?id=415
+東京熱,http://45.11.92.170/play/smart/xziptv.php?id=416
+HOT,http://45.11.92.170/play/smart/xziptv.php?id=407
+happy,http://45.11.92.170/play/smart/xziptv.php?id=412
+驚豔台,http://45.11.92.170/play/smart/xziptv.php?id=409
+Erox,http://45.11.92.170/play/smart/xziptv.php?id=456
+Dorcel,http://45.11.92.170/play/smart/xziptv.php?id=454
+Babes TV,http://45.11.92.170/play/smart/xziptv.php?id=458
+Hustler,http://45.11.92.170/play/smart/xziptv.php?id=451
+SCT Classic,http://45.11.92.170/play/smart/xziptv.php?id=462
+Redlight,http://45.11.92.170/play/smart/xziptv.php?id=452
+SEX ATION,http://45.11.92.170/play/smart/xziptv.php?id=459
+Super One,http://45.11.92.170/play/smart/xziptv.php?id=457
+Prıvate TV,http://45.11.92.170/play/smart/xziptv.php?id=453
+Passie,http://45.11.92.170/play/smart/xziptv.php?id=461
+Vivid Red,http://45.11.92.170/play/smart/xziptv.php?id=455
+
 潘多拉玩美,p5p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23
 潘多拉粉红,p5p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31
 彩虹电影,p5p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf
