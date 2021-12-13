@@ -1178,6 +1178,31 @@ CCTV14少儿,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878440
 亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 
+1213-1,#genre#
+中视,http://ai7499003.va1.aihost10.top/live/iptv_82.m3u8
+华视,http://ai7499003.va1.aihost10.top/live/iptv_86.m3u8
+民视,http://ai7499003.va1.aihost10.top/live/iptv_84.m3u8
+公视,http://ai7499003.va1.aihost10.top/live/iptv_85.m3u8
+台视,http://ai7499003.va1.aihost10.top/live/iptv_83.m3u8
+壹新闻,http://ai7499003.va1.aihost10.top/live/iptv_58.m3u8
+TVBS-HD,http://ai7499003.va1.aihost10.top/live/iptv_95.m3u8
+TVBS新闻,http://ai7499003.va1.aihost10.top/live/iptv_54.m3u8
+TVBS精采,http://ai7499003.va1.aihost10.top/live/iptv_96.m3u8
+TVBS欢乐,http://ai7499003.va1.aihost10.top/live/iptv_97.m3u8
+寰宇新闻,http://ai7499003.va1.aihost10.top/live/iptv_63.m3u8
+寰宇台湾台,http://ai7499003.va1.aihost10.top/live/iptv_64.m3u8
+年代新闻,http://ai7499003.va1.aihost10.top/live/iptv_61.m3u8
+非凡新闻,http://ai7499003.va1.aihost10.top/live/iptv_62.m3u8
+中天新闻,http://ai7499003.va1.aihost10.top/live/iptv_53.m3u8
+东森新闻,http://ai7499003.va1.aihost10.top/live/iptv_55.m3u8
+三立新闻,http://ai7499003.va1.aihost10.top/live/iptv_57.m3u8
+三立都会,http://ai7499003.va1.aihost10.top/live/iptv_49.m3u8
+三立台湾,http://ai7499003.va1.aihost10.top/live/iptv_51.m3u8
+东森超视,http://ai7499003.va1.aihost10.top/live/iptv_69.m3u8
+中视新闻,http://ai7499003.va1.aihost10.top/live/iptv_60.m3u8
+民视新闻,http://ai7499003.va1.aihost10.top/live/iptv_99.m3u8
+民视台湾,http://ai7499003.va1.aihost10.top/live/iptv_99.m3u8
+民视第一,http://ai7499003.va1.aihost10.top/live/iptv_100.m3u8
 
 1208測試,#genre#
 
