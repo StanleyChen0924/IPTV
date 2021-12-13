@@ -804,6 +804,7 @@ ONE,http://210.210.155.35/uq2663/h/h143/01.m3u8
 ONE,http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 KPOP,https://git.io/JgYAE
 KPOP,https://git.io/JgYAE
+SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
@@ -1117,30 +1118,74 @@ CCTV14少儿,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878440
 EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 
 1213-1,#genre#
-中视,http://ai7499003.va1.aihost10.top/live/iptv_82.m3u8
-华视,http://ai7499003.va1.aihost10.top/live/iptv_86.m3u8
-民视,http://ai7499003.va1.aihost10.top/live/iptv_84.m3u8
-公视,http://ai7499003.va1.aihost10.top/live/iptv_85.m3u8
-台视,http://ai7499003.va1.aihost10.top/live/iptv_83.m3u8
-壹新闻,http://ai7499003.va1.aihost10.top/live/iptv_58.m3u8
-TVBS-HD,http://ai7499003.va1.aihost10.top/live/iptv_95.m3u8
-TVBS新闻,http://ai7499003.va1.aihost10.top/live/iptv_54.m3u8
-TVBS精采,http://ai7499003.va1.aihost10.top/live/iptv_96.m3u8
-TVBS欢乐,http://ai7499003.va1.aihost10.top/live/iptv_97.m3u8
-寰宇新闻,http://ai7499003.va1.aihost10.top/live/iptv_63.m3u8
-寰宇台湾台,http://ai7499003.va1.aihost10.top/live/iptv_64.m3u8
-年代新闻,http://ai7499003.va1.aihost10.top/live/iptv_61.m3u8
-非凡新闻,http://ai7499003.va1.aihost10.top/live/iptv_62.m3u8
-中天新闻,http://ai7499003.va1.aihost10.top/live/iptv_53.m3u8
-东森新闻,http://ai7499003.va1.aihost10.top/live/iptv_55.m3u8
-三立新闻,http://ai7499003.va1.aihost10.top/live/iptv_57.m3u8
-三立都会,http://ai7499003.va1.aihost10.top/live/iptv_49.m3u8
-三立台湾,http://ai7499003.va1.aihost10.top/live/iptv_51.m3u8
-东森超视,http://ai7499003.va1.aihost10.top/live/iptv_69.m3u8
-中视新闻,http://ai7499003.va1.aihost10.top/live/iptv_60.m3u8
-民视新闻,http://ai7499003.va1.aihost10.top/live/iptv_99.m3u8
-民视台湾,http://ai7499003.va1.aihost10.top/live/iptv_99.m3u8
-民视第一,http://ai7499003.va1.aihost10.top/live/iptv_100.m3u8
+SEX KOP,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+DJT,https://srv1.adriatelekom.com/DJTelevision/index.m3u8
+AdriaMusic,https://srv1.adriatelekom.com/AdriaMusicTV/mono.m3u8
+DISCOVERY CHANNEL HD,http://189.91.128.146:4444/udp/227.10.20.80:1234
+ESPN BR HD,http://189.91.128.146:4444/udp/227.10.20.81:1234
+Disc. turbo,http://189.91.128.146:4444/udp/227.10.20.82:1234
+Disc. Kids,http://189.91.128.146:4444/udp/227.10.20.83:1234
+TLC,http://189.91.128.146:4444/udp/227.10.20.84:1234
+Discovery Home,http://189.91.128.146:4444/udp/227.10.20.85:1234
+ESPN Int.,http://189.91.128.146:4444/udp/227.10.20.86:1234
+TC Pipoca HD,http://189.91.128.146:4444/udp/227.10.20.87:1234
+Studio Universal,http://189.91.128.146:4444/udp/227.10.20.88:1234
+Megapix,http://189.91.128.146:4444/udp/227.10.20.89:1234
+Disney Channel,http://189.91.128.146:4444/udp/227.10.20.90:1234
+Gloob,http://189.91.128.146:4444/udp/227.10.20.91:1234
+Disc. Science,http://189.91.128.146:4444/udp/227.10.20.92:1234
+ID,http://189.91.128.146:4444/udp/227.10.20.93:1234
+HBO,http://189.91.128.146:4444/udp/227.10.20.94:1234
+HBO2,http://189.91.128.146:4444/udp/227.10.20.95:1234
+HBO PLUS,http://189.91.128.146:4444/udp/227.10.20.96:1234
+HBO FAMILY,http://189.91.128.146:4444/udp/227.10.20.97:1234
+HBO SIGNATURE,http://189.91.128.146:4444/udp/227.10.20.98:1234
+MAX UP,http://189.91.128.146:4444/udp/227.10.20.99:1234
+MAX PRIME,http://189.91.128.146:4444/udp/227.10.20.100:1234
+CINEMAX,http://189.91.128.146:4444/udp/227.10.20.101:1234
+PREMIERE CLUBES HD,http://189.91.128.146:4444/udp/227.10.20.102:1234
+UNIVALE TV,http://189.91.128.146:4444/udp/227.10.20.103:1234
+PFC 2 HD,http://189.91.128.146:4444/udp/227.10.20.104:1234
+PFC 3 HD,http://189.91.128.146:4444/udp/227.10.20.105:1234
+PFC 4 HD,http://189.91.128.146:4444/udp/227.10.20.106:1234
+PFC 5 HD,http://189.91.128.146:4444/udp/227.10.20.107:1234
+AgroMinas TV,http://189.91.128.146:4444/udp/227.10.20.108:1234
+TV Globo,http://189.91.128.146:4444/udp/227.10.20.109:1234
+DISNEY HD,http://189.91.128.146:4444/udp/227.10.20.110:1234
+CNT ISDB TV HD,http://189.91.128.146:4444/udp/227.10.20.111:1234
+WooHoo,http://189.91.128.146:4444/udp/227.10.20.112:1234
+Fashion HD,http://189.91.128.146:4444/udp/227.10.20.113:1234
+Prime SD,http://189.91.128.146:4444/udp/227.10.20.114:1234
+Travel HD,http://189.91.128.146:4444/udp/227.10.20.115:1234
+FOX SPORT HD,http://189.91.128.146:4444/udp/227.10.20.116:1234
+FISHTV-SD,http://189.91.128.146:4444/udp/227.10.20.117:1234
+ANIMAL PLANET HD,http://189.91.128.146:4444/udp/227.10.20.118:1234
+Band Sports HD,http://189.91.128.146:4444/udp/227.10.20.119:1234
+SBT HD,http://189.91.128.146:4444/udp/227.10.20.120:1234
+Ei HD,http://189.91.128.146:4444/udp/227.10.20.121:1234
+Rede TV,http://189.91.128.146:4444/udp/227.10.20.122:1234
+PFC 6 HD,http://189.91.128.146:4444/udp/227.10.20.123:1234
+TCM,http://189.91.128.146:4444/udp/227.10.20.124:1234
+Canal Rural,http://189.91.128.146:4444/udp/227.10.20.125:1234
+WARNER HD,http://189.91.128.146:4444/udp/227.10.20.126:1234
+SONY HD,http://189.91.128.146:4444/udp/227.10.20.127:1234
+ESPN HD,http://189.91.128.146:4444/udp/227.10.20.128:1234
+AE HD&,http://189.91.128.146:4444/udp/227.10.20.129:1234
+HISTORY HD,http://189.91.128.146:4444/udp/227.10.20.130:1234
+Band News,http://189.91.128.146:4444/udp/227.10.20.131:1234
+FOX Sports 2,http://189.91.128.146:4444/udp/227.10.20.132:1234
+New HD,http://189.91.128.146:4444/udp/227.10.20.133:1234
+TC Premium HD,http://189.91.128.146:4444/udp/227.10.20.134:1234
+TC Action HD,http://189.91.128.146:4444/udp/227.10.20.135:1234
+TC Touch HD,http://189.91.128.146:4444/udp/227.10.20.136:1234
+TC Fun HD,http://189.91.128.146:4444/udp/227.10.20.137:1234
+FOX HD,http://189.91.128.146:4444/udp/227.10.20.139:1234
+PARAMOUNT HD,http://189.91.128.146:4444/udp/227.10.20.140:1234
+FX HD,http://189.91.128.146:4444/udp/227.10.20.138:1234
+RADIO SERTANEJA,http://189.91.128.146:4444/udp/227.10.20.141:1234
+Terra Viva,http://189.91.128.146:4444/udp/227.10.20.142:1234
+IDEAL TV HD,http://189.91.128.146:4444/udp/227.10.20.143:1234
+CCTV,http://189.91.128.146:4444/udp/227.10.20.144:1234
 
 1208測試,#genre#
 
