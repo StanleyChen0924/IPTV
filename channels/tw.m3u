@@ -842,15 +842,18 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 #EXTINF:-1 tvg-id="" group-title="音樂",FM 107.7 Radio
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/FM107.m3u8
 
+#EXTINF:-1 group-title="20211207測試mitv",民视
+#https://github.com/shadowzencn/m3u8/blob/35737ee467793fd4f58c8cfe444c8229ea6d04f6/uPic/yw.m3u
+mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 
+#EXTINF:-1 group-title="20211207測試",民视
+http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 #EXTINF:-1 group-title="20211207測試",台视
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
 #EXTINF:-1 group-title="20211207測試",中视
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 #EXTINF:-1 group-title="20211207測試",华视
 http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-#EXTINF:-1 group-title="20211207測試",民视
-http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 #EXTINF:-1 group-title="20211207測試",公视
 http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 #EXTINF:-1 group-title="20211207測試",人间卫视
@@ -1826,102 +1829,6 @@ http://api.phoves.com.cn/iptv/huya.php?id=16859944
 #EXTINF:-1 group-title="虎牙直播",這劇很火
 http://api.phoves.com.cn/iptv/huya.php?id=19811530
 
-#EXTINF:-1 group-title="20211206Test",中视
-http://anan.jxin122.top/cj.php?id=18&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",中视
-http://anan.jxin122.top/cj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",华视
-http://anan.jxin122.top/cj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",民视
-http://anan.jxin122.top/cj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",公视
-http://anan.jxin122.top/cj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",三立台湾台
-http://anan.jxin122.top/cj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",三立都会台
-http://anan.jxin122.top/cj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",三立综合台
-http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",民视新闻
-http://anan.jxin122.top/cj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",非凡新闻
-http://anan.jxin122.top/cj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",年代新闻
-http://anan.jxin122.top/cj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",纬来体育
-http://anan.jxin122.top/cj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",龙祥年代
-http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",東森洋片
-http://anan.jxin122.top/cj.php?id=28&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",東森电影
-http://anan.jxin122.top/cj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",美亞高清電影台
-http://anan.jxin122.top/cj.php?id=75&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",中天娱乐
-http://anan.jxin122.top/cj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",中天综合
-http://anan.jxin122.top/cj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",中天新闻
-http://anan.jxin122.top/cj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",中天亚洲台
-http://anan.jxin122.top/cj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",東森综合
-http://anan.jxin122.top/cj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",東森新闻
-http://anan.jxin122.top/cj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",TVBS欢乐
-http://anan.jxin122.top/cj.php?id=36&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",TVBS
-http://anan.jxin122.top/cj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="20211206Test",民視
-http://66.90.88.132:8080/hls/ph00302/index.m3u8
-#EXTINF:-1 group-title="20211206Test",中視
-http://66.90.88.132:8080/hls/ph00303/index.m3u8
-#EXTINF:-1 group-title="20211206Test",台視
-http://66.90.88.132:8080/hls/ph00304/index.m3u8
-#EXTINF:-1 group-title="20211206Test",華視
-http://66.90.88.132:8080/hls/ph00305/index.m3u8
-#EXTINF:-1 group-title="20211206Test",公視
-http://66.90.88.132:8080/hls/ph00306/index.m3u8
-#EXTINF:-1 group-title="20211206Test",迪士尼
-http://66.90.88.132:8080/hls/ph00308/index.m3u8
-#EXTINF:-1 group-title="20211206Test",Animax
-http://66.90.88.132:8080/hls/ph00309/index.m3u8
-#EXTINF:-1 group-title="20211206Test",babytv
-http://66.90.88.132:8080/hls/ph00310/index.m3u8
-#EXTINF:-1 group-title="20211206Test",東森電影台
-http://66.90.88.132:8080/hls/ph00311/index.m3u8
-#EXTINF:-1 group-title="20211206Test",東森洋片台
-http://66.90.88.132:8080/hls/ph00312/index.m3u8
-#EXTINF:-1 group-title="20211206Test",CN卡通
-http://66.90.88.132:8080/hls/ph00307/index.m3u8
-#EXTINF:-1 group-title="20211206Test",CN卡通
-http://66.90.88.132:8080/hls/ph00313/index.m3u8
-#EXTINF:-1 group-title="20211206Test",龍祥時代電影台
-http://66.90.88.132:8080/hls/ph00314/index.m3u8
-#EXTINF:-1 group-title="20211206Test",緯來電影台
-http://66.90.88.132:8080/hls/ph00315/index.m3u8
-#EXTINF:-1 group-title="20211206Test",TVBS
-http://66.90.88.132:8080/hls/ph00316/index.m3u8
-#EXTINF:-1 group-title="20211206Test",TVBS歡樂台
-http://66.90.88.132:8080/hls/ph00317/index.m3u8
-#EXTINF:-1 group-title="20211206Test",TVBS新聞台
-http://66.90.88.132:8080/hls/ph00318/index.m3u8
-#EXTINF:-1 group-title="20211206Test",東森新聞台
-http://66.90.88.132:8080/hls/ph00319/index.m3u8
-#EXTINF:-1 group-title="20211206Test",三立新聞台
-http://66.90.88.132:8080/hls/ph00320/index.m3u8
-#EXTINF:-1 group-title="20211206Test",非凡新聞台
-http://66.90.88.132:8080/hls/ph00321/index.m3u8
-#EXTINF:-1 group-title="20211206Test",民視新聞台
-http://66.90.88.132:8080/hls/ph00322/index.m3u8
-#EXTINF:-1 group-title="20211206Test",中視新聞台
-http://66.90.88.132:8080/hls/ph00323/index.m3u8
-#EXTINF:-1 group-title="20211206Test",台視新聞台
-http://66.90.88.132:8080/hls/ph00324/index.m3u8
-#EXTINF:-1 group-title="20211206Test",華視新聞資訊
-http://66.90.88.132:8080/hls/ph00325/index.m3u8
 #EXTINF:-1 group-title="20211206Test",TVBS
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF:-1 group-title="20211206Test",TVBS
