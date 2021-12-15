@@ -3156,7 +3156,7 @@ CGTV,http://39.135.34.142:8080/000000001000/8428799834696888424/1.m3u8?
 
 🇭🇰港澳頻道,#genre#
 
-设置原生解码，
+翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=1
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
