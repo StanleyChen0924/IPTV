@@ -232,8 +232,6 @@ JET綜合台,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
 年代新聞台,http://anan.jxin122.top/cj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 年代新聞台,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
-年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
 東森新聞台,https://cn9.9cxz.com/1/dsxw/hls/index.m3u8
 東森新聞台,http://66.90.88.132:8080/hls/ph00319/index.m3u8
 東森新聞台,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
@@ -621,8 +619,6 @@ TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
 年代新聞台,http://anan.jxin122.top/cj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 年代新聞台,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
-年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
 非凡新聞台,http://125.227.210.37:15078/VideoInput/play.ts
 非凡新聞台,http://125.227.210.55:15078/VideoInput/play.ts
 非凡新聞台,http://50.7.61.147:30080/Entry/ubnbus
@@ -972,7 +968,7 @@ JET綜合台,http://50.7.61.147:30080/Entry/jet
 MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 壹電視新聞台,http://stream.nexttv.com.tw/n001/playlist.m3u8,mitv://ns2.hellotvvod.com:9906/c111818e11e8420aaad164543387473c
-年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
+年代新聞台,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
 東森新聞台,http://seb.sason.top/sc/dsxw_fhd.m3u8,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
 中天新聞台,http://seb.sason.top/sc/ztxw_fhd.m3u8,mitv://ns2.hellotvvod.com:9906/7575a0153b074f2d91c69eafe28ba22d,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
 民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9,http://50.7.61.148:30080/Entry/ftvnews
@@ -1663,8 +1659,6 @@ TVBS,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
 年代新聞台,http://anan.jxin122.top/cj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 年代新聞台,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
 年代新聞台,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
-年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 寰宇新聞全球台,http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 寰宇新聞全球台,https://git.io/JgkpO
